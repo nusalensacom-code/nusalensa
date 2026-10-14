@@ -19,7 +19,7 @@ interface PhonesPageProps {
   };
 }
 
-export const dynamic = 'force-dynamic';
+export const dynamic = 'force-static';
 
 export async function generateMetadata({ searchParams }: PhonesPageProps): Promise<Metadata> {
   const brandSlug = searchParams?.brand;

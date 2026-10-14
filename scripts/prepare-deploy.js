@@ -144,10 +144,28 @@ const sitemapFiles = [
 for (const sf of sitemapFiles) {
   const pFile = path.join(PUBLIC_DIR, sf);
   const dFile = path.join(DIST_DIR, sf);
+  const rFile = path.join(ROOT, sf);
   if (fs.existsSync(pFile)) {
     fs.copyFileSync(pFile, dFile);
+    fs.copyFileSync(pFile, rFile);
   }
 }
 
-console.log('>>> [PREPARE DEPLOY] Bundle ready in "dist" directory with all XML Sitemaps and robots.txt!');
+// 9. Sync root fallbacks for Cloudflare root serving
+if (fs.existsSync(path.join(DIST_DIR, 'index.html'))) {
+  fs.copyFileSync(path.join(DIST_DIR, 'index.html'), path.join(ROOT, 'index.html'));
+}
+if (fs.existsSync(path.join(DIST_DIR, '_redirects'))) {
+  fs.copyFileSync(path.join(DIST_DIR, '_redirects'), path.join(ROOT, '_redirects'));
+}
+if (fs.existsSync(path.join(DIST_DIR, '_headers'))) {
+  fs.copyFileSync(path.join(DIST_DIR, '_headers'), path.join(ROOT, '_headers'));
+}
+if (fs.existsSync(path.join(DIST_DIR, '404.html'))) {
+  fs.copyFileSync(path.join(DIST_DIR, '404.html'), path.join(ROOT, '404.html'));
+}
+copyRecursiveSync(path.join(DIST_DIR, '_next'), path.join(ROOT, '_next'));
+
+console.log('>>> [PREPARE DEPLOY] Bundle ready in "dist" and synced to root with XML Sitemaps and robots.txt!');
+
 

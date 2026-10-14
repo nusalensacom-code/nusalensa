@@ -1,1 +1,0 @@
-self.__SSG_MANIFEST=new Set(["\u002F[category]\u002F[slug]","\u002Fadmin\u002Farticles\u002F[id]\u002Fedit","\u002Fauthor\u002F[slug]","\u002Ftag\u002F[slug]","\u002Ftopic\u002F[slug]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

@@ -29,7 +29,18 @@ interface CompareDetailPageProps {
   };
 }
 
-export const dynamic = 'force-dynamic';
+export const revalidate = 3600;
+
+export async function generateStaticParams() {
+  const devices = await prisma.device.findMany({ select: { slug: true } });
+  const slugs: { slug: string }[] = [];
+  for (let i = 0; i < devices.length; i++) {
+    for (let j = i + 1; j < devices.length; j++) {
+      slugs.push({ slug: `${devices[i].slug}-vs-${devices[j].slug}` });
+    }
+  }
+  return slugs;
+}
 
 export async function generateMetadata({ params }: CompareDetailPageProps): Promise<Metadata> {
   const parts = params.slug.split('-vs-');

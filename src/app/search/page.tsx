@@ -15,6 +15,8 @@ interface SearchPageProps {
   };
 }
 
+export const dynamic = 'force-static';
+
 export async function generateMetadata({ searchParams }: SearchPageProps): Promise<Metadata> {
   const query = searchParams.q ? searchParams.q.trim() : '';
   const title = query

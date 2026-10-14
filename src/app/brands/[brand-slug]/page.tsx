@@ -16,7 +16,14 @@ interface BrandPageProps {
   };
 }
 
-export const dynamic = 'force-dynamic';
+export const revalidate = 3600;
+
+export async function generateStaticParams() {
+  const brands = await prisma.brand.findMany();
+  return brands.map((b) => ({
+    'brand-slug': b.slug,
+  }));
+}
 
 export async function generateMetadata({ params }: BrandPageProps): Promise<Metadata> {
   const brandSlug = params['brand-slug'];

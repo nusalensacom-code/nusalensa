@@ -1,22 +1,9 @@
-# Cloudflare Pages Rewrites for NusaLensa Global
-/_next/*  /dist/_next/:splat  200
-/static/*  /dist/static/:splat  200
-/images/*  /dist/images/:splat  200
-/api/*  /api/:splat  200
-
 # Canonical tag-to-topic redirects
 /tag/:slug  /topic/:slug  301
 
-# Core Pages and Sitemaps
-/sitemap.xml  /dist/sitemap.xml  200
-/sitemap-*.xml  /dist/:splat  200
-/robots.txt  /dist/robots.txt  200
-/rss.xml  /dist/rss.xml  200
-
 # Admin SPA routing fallback
-/admin/*  /dist/admin/index.html  200
-/admin  /dist/admin/index.html  200
+/admin/*  /admin/index.html  200
+/admin  /admin/index.html  200
 
-# Homepage and Public Routes Rewrite to dist
-/  /dist/index.html  200
-/*  /dist/:splat  200
+# Cloudflare Pages fallback for public routes
+/*  /index.html  200

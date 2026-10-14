@@ -40,7 +40,17 @@ interface DevicePageProps {
   };
 }
 
-export const dynamic = 'force-dynamic';
+export const revalidate = 3600;
+
+export async function generateStaticParams() {
+  const devices = await prisma.device.findMany({
+    include: { brand: true },
+  });
+  return devices.map((d) => ({
+    brand: d.brand.slug,
+    'device-slug': d.slug,
+  }));
+}
 
 export async function generateMetadata({ params }: DevicePageProps): Promise<Metadata> {
   const deviceSlug = params['device-slug'];
