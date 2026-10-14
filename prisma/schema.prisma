@@ -1,0 +1,387 @@
+// Prisma schema for NusaLensa - Global Technology Platform
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./dev.db"
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model User {
+  id        Int      @id @default(autoincrement())
+  email     String   @unique
+  password  String
+  name      String
+  role      String   @default("ADMIN") // SUPER_ADMIN, ADMIN, EDITOR, AUTHOR
+  aiJobs    AiGenerationJob[]
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Author {
+  id              Int       @id @default(autoincrement())
+  name            String
+  slug            String    @unique
+  email           String?
+  bio             String?
+  avatar          String?
+  role            String    @default("Redaksi")
+  twitter         String?
+  linkedin        String?
+  createdAt       DateTime  @default(now())
+  updatedAt       DateTime  @updatedAt
+  articlesWritten Article[] @relation("ArticleAuthor")
+  articlesEdited  Article[] @relation("ArticleEditor")
+}
+
+model Category {
+  id                    Int        @id @default(autoincrement())
+  name                  String
+  slug                  String     @unique
+  description           String?
+  seoTitle              String?
+  seoDescription        String?
+  order                 Int        @default(0)
+  parentId              Int?
+  parent                Category?  @relation("CategoryHierarchy", fields: [parentId], references: [id], onDelete: Cascade)
+  children              Category[] @relation("CategoryHierarchy")
+  createdAt             DateTime   @default(now())
+  updatedAt             DateTime   @updatedAt
+  articles              Article[]  @relation("ArticlePrimaryCategory")
+  articlesAsSubcategory Article[]  @relation("ArticleSubcategory")
+
+  @@index([slug])
+  @@index([parentId])
+}
+
+model Tag {
+  id             Int       @id @default(autoincrement())
+  name           String
+  slug           String    @unique
+  description    String?
+  isTopic        Boolean   @default(false)
+  createdAt      DateTime  @default(now())
+  articles       Article[] @relation("ArticleTags")
+  primaryArticles Article[] @relation("ArticlePrimaryTopic")
+
+  @@index([slug])
+}
+
+model Article {
+  id               Int       @id @default(autoincrement())
+  title            String
+  slug             String    @unique
+  excerpt          String
+  content          String
+  featuredImage    String
+  imageAltText     String?   // Image SEO alt text
+  imageCaption     String?
+  imageSource      String?   // Source attribution for featured image
+  authorId         Int
+  author           Author    @relation("ArticleAuthor", fields: [authorId], references: [id], onDelete: Restrict)
+  editorId         Int?
+  editor           Author?   @relation("ArticleEditor", fields: [editorId], references: [id], onDelete: SetNull)
+  categoryId       Int
+  category         Category  @relation("ArticlePrimaryCategory", fields: [categoryId], references: [id], onDelete: Restrict)
+  subcategoryId    Int?
+  subcategory      Category? @relation("ArticleSubcategory", fields: [subcategoryId], references: [id], onDelete: SetNull)
+  primaryTopicId   Int?
+  primaryTopic     Tag?      @relation("ArticlePrimaryTopic", fields: [primaryTopicId], references: [id], onDelete: SetNull)
+  articleType      String    @default("NEWS") // NEWS, EVERGREEN, GUIDE, TUTORIAL, OPINION, LISTICLE, EXPLAINER
+  status           String    @default("PUBLISHED") // DRAFT, PUBLISHED, SCHEDULED
+  isFeatured       Boolean   @default(false)
+  isTrending       Boolean   @default(false)
+  isNews           Boolean   @default(true) // Helper boolean for NewsArticle schema
+  views            Int       @default(0)
+  recentViews      Int       @default(0)
+  readingTime      Int       @default(3)
+  seoTitle         String?
+  seoDescription   String?
+  canonicalUrl     String?
+  sources          String?   // JSON array of [{ name, url, accessDate, notes }]
+  faqs             String?   // JSON array of [{ question, answer }]
+  manualRelatedIds String?   // JSON array of [articleId1, articleId2, ...]
+  publishedAt      DateTime  @default(now())
+  createdAt        DateTime  @default(now())
+  updatedAt        DateTime  @updatedAt
+  tags             Tag[]     @relation("ArticleTags")
+  comments         Comment[]
+  aiJobs           AiGenerationJob[]
+
+  @@index([slug])
+  @@index([categoryId])
+  @@index([subcategoryId])
+  @@index([primaryTopicId])
+  @@index([articleType])
+  @@index([status, publishedAt])
+  @@index([isFeatured])
+  @@index([isTrending])
+}
+
+model Media {
+  id        Int      @id @default(autoincrement())
+  filename  String?
+  title     String
+  url       String
+  altText   String?
+  caption   String?
+  source    String?
+  mimeType  String?
+  fileSize  Int?
+  width     Int?
+  height    Int?
+  createdAt DateTime @default(now())
+}
+
+model Comment {
+  id         Int      @id @default(autoincrement())
+  articleId  Int
+  article    Article  @relation(fields: [articleId], references: [id], onDelete: Cascade)
+  name       String
+  email      String
+  content    String
+  isApproved Boolean  @default(true)
+  createdAt  DateTime @default(now())
+}
+
+model Setting {
+  id        Int      @id @default(autoincrement())
+  key       String   @unique
+  value     String
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model NewsletterSubscriber {
+  id               Int      @id @default(autoincrement())
+  name             String?
+  email            String   @unique
+  status           String   @default("ACTIVE") // ACTIVE, UNSUBSCRIBED
+  unsubscribeToken String?  @unique
+  createdAt        DateTime @default(now())
+}
+
+model NavigationItem {
+  id        Int      @id @default(autoincrement())
+  location  String   @default("HEADER") // HEADER, FOOTER
+  label     String
+  url       String
+  order     Int      @default(0)
+  isActive  Boolean  @default(true)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([location])
+}
+
+model ArticleView {
+  id        Int      @id @default(autoincrement())
+  articleId Int
+  ipHash    String?
+  createdAt DateTime @default(now())
+
+  @@index([articleId])
+  @@index([createdAt])
+}
+
+model NewsSource {
+  id            Int                @id @default(autoincrement())
+  name          String
+  url           String             @unique
+  categoryHint  String?            @default("nasional")
+  isActive      Boolean            @default(true)
+  lastFetchedAt DateTime?
+  fetchCount    Int                @default(0)
+  createdAt     DateTime           @default(now())
+  updatedAt     DateTime           @updatedAt
+  queueItems    CuratedNewsQueue[]
+}
+
+model CuratedNewsQueue {
+  id                Int         @id @default(autoincrement())
+  sourceId          Int?
+  source            NewsSource? @relation(fields: [sourceId], references: [id], onDelete: SetNull)
+  sourceName        String
+  sourceUrl         String      @unique
+  sourceTitle       String
+  sourceSummary     String?
+  sourceImage       String?
+  sourcePublishedAt DateTime?
+  urlHash           String      @unique
+
+  // AI & SEO Generated Content
+  generatedTitle       String
+  generatedSlug        String
+  generatedExcerpt     String
+  generatedContent     String
+  generatedCategory    String      @default("technology")
+  generatedTags        String?     // Comma-separated tags
+  seoTitle             String?
+  seoDescription       String?
+  seoScore             Int         @default(85)
+  faqJson              String?     // JSON array of [{question, answer}]
+  sourcesJson          String?     // JSON array of [{name, url, accessDate}]
+  headlineSuggestions  String?     // JSON array of suggested headlines
+  outlineJson          String?     // JSON array of article outline sections
+  factCheckChecklist   String?     // JSON array of fact checking checklist items
+  missingCitations     String?     // JSON array of missing citations or facts to verify
+
+  // Review & Workflow Status (Draft, In Review, Scheduled, Published, Archived)
+  status            String      @default("PENDING_REVIEW") // PENDING_REVIEW, APPROVED, REJECTED
+  articleId         Int?        // Linked Article ID if approved
+  createdAt         DateTime    @default(now())
+  updatedAt         DateTime    @updatedAt
+
+  @@index([status])
+  @@index([createdAt])
+  @@index([urlHash])
+}
+
+model Brand {
+  id          Int      @id @default(autoincrement())
+  name        String   // e.g., "Apple", "Samsung", "Google", "Xiaomi", "OnePlus", "Sony"
+  slug        String   @unique
+  logo        String?
+  country     String?
+  website     String?
+  description String?
+  devices     Device[]
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@index([slug])
+}
+
+model Device {
+  id                  Int      @id @default(autoincrement())
+  name                String   // e.g. "iPhone 16 Pro Max", "Galaxy S25 Ultra"
+  slug                String   @unique
+  brandId             Int
+  brand               Brand    @relation(fields: [brandId], references: [id], onDelete: Cascade)
+  deviceType          String   @default("SMARTPHONE") // SMARTPHONE, TABLET, WEARABLE
+  featuredImage       String
+  imageAltText        String?
+  gallery             String?  // JSON array of image URLs
+  
+  // Announcement & Release
+  announcedDate       String?  // e.g. "September 9, 2024"
+  releasedDate        String?  // e.g. "September 20, 2024"
+  status              String   @default("AVAILABLE") // ANNOUNCED, AVAILABLE, DISCONTINUED, RUMORED
+  
+  // Hardware & Network Specifications
+  networkBands        String?  // e.g. "5G (Sub-6, mmWave), 4G LTE, 3G, 2G"
+  regionalVariants    String?  // JSON or text of regional variants (e.g. US: A3084, Global: A3294)
+  dimensions          String?  // e.g. "163 x 77.6 x 8.25 mm (6.42 x 3.06 x 0.32 in)"
+  weight              String?  // e.g. "227 g (8.01 oz)"
+  buildMaterials      String?  // e.g. "Grade 5 Titanium frame, Ceramic Shield glass front/back, IP68"
+  sim                 String?  // e.g. "Dual eSIM (US) / Nano-SIM and eSIM (Global)"
+  
+  displayType         String?  // e.g. "LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 2000 nits"
+  displaySize         String?  // e.g. "6.9 inches (~91.4% screen-to-body ratio)"
+  displayResolution   String?  // e.g. "1320 x 2868 pixels (~460 ppi)"
+  displayProtection   String?  // e.g. "Latest-generation Ceramic Shield"
+  
+  os                  String?  // e.g. "iOS 18, upgradable"
+  chipset             String?  // e.g. "Apple A18 Pro (3 nm)"
+  cpu                 String?  // e.g. "Hexa-core (2x4.04 GHz + 4x2.20 GHz)"
+  gpu                 String?  // e.g. "Apple GPU (6-core graphics)"
+  
+  ramStorage          String?  // JSON array e.g. [{"ram": "8GB", "storage": "256GB"}, ...]
+  cardSlot            Boolean  @default(false)
+  
+  mainCamera          String?  // e.g. "48 MP wide + 12 MP 5x telephoto + 48 MP ultrawide, LiDAR"
+  selfieCamera        String?  // e.g. "12 MP wide, SL 3D, 4K@60fps"
+  cameraFeatures      String?  // e.g. "Sensor-shift OIS, 4K 120fps Dolby Vision HDR, ProRes LOG"
+  
+  batteryCapacity     String?  // e.g. "4685 mAh Li-Ion"
+  charging            String?  // e.g. "25W MagSafe, 50% in 30 min wired, Qi2 15W"
+  
+  audioJack           Boolean  @default(false)
+  speakers            String?  // e.g. "Stereo speakers, spatial audio"
+  connectivity        String?  // e.g. "Wi-Fi 7, Bluetooth 5.3, Ultra Wideband (gen 2), USB-C 3.2 Gen 2"
+  sensors             String?  // e.g. "Face ID, accelerometer, gyro, proximity, compass, barometer"
+  
+  // International Pricing (Distinguish official launch prices from current retail prices)
+  launchPrices        String?  // JSON: { "USD": 1199, "GBP": 1199, "EUR": 1449, "AUD": 2149, "CAD": 1749 }
+  retailPrices        String?  // JSON: { "USD": 1149, "GBP": 1149, "EUR": 1399, "AUD": 2099, "CAD": 1699 }
+  availabilityRegions String?  // e.g. "United States, United Kingdom, European Union, Canada, Australia, Global"
+  
+  summary             String?  // Editorial executive summary
+  pros                String?  // JSON array of pros
+  cons                String?  // JSON array of cons
+  verdict             String?  // In-depth editorial verdict
+  rating              Float?   // e.g. 9.2
+  
+  sources             String?  // JSON array: [{ name: "Official Manufacturer Specs", url: "https://apple.com" }]
+  lastVerified        DateTime @default(now())
+  
+  isFeatured          Boolean  @default(false)
+  views               Int      @default(0)
+  createdAt           DateTime @default(now())
+  updatedAt           DateTime @updatedAt
+
+  @@index([slug])
+  @@index([brandId])
+  @@index([deviceType])
+  @@index([status])
+}
+
+model AiGenerationJob {
+  id                  Int       @id @default(autoincrement())
+  primaryKeyword      String
+  secondaryKeywords   String?   // Comma-separated or JSON array
+  articleType         String    // BUYING_GUIDE, REVIEW, COMPARISON, HOW_TO, NEWS, EXPLAINER, LISTICLE, EVERGREEN
+  targetAudience      String    // CONSUMERS, ENTHUSIASTS, BEGINNERS, PROFESSIONALS
+  targetMarket        String    // US, UK, CA, AU, GLOBAL
+  targetWordCount     Int       @default(1500)
+  actualWordCount     Int       @default(0)
+  writingTone         String    @default("Professional")
+  researchMode        String    @default("AI_KNOWLEDGE") // AI_KNOWLEDGE, WEB_RESEARCH, OFFICIAL_SOURCES
+  referenceUrls       String?   // JSON array of reference URLs
+
+  // Job Lifecycle & Progress
+  status              String    @default("QUEUED") // QUEUED, RESEARCHING, DRAFTING, VALIDATING, COMPLETED, FAILED
+  currentStep         String?
+  progressPercent     Int       @default(0)
+  errorMessage        String?
+  errorLog            String?
+
+  // Analysis & Synthesis Data
+  searchIntent        String?
+  outlineJson         String?   // JSON outline
+  researchSourcesJson String?   // JSON array of sources
+  factCheckListJson   String?   // JSON array of claims
+  internalLinksJson   String?   // JSON array of existing NusaLensa internal links
+  faqJson             String?   // JSON array of FAQs
+  seoMetadataJson     String?   // JSON SEO package
+  headlineOptionsJson String?   // JSON array of headline ideas
+  imagePromptJson     String?   // JSON image concept & generation prompt
+
+  // Generated Content
+  generatedTitle      String?
+  generatedSlug       String?
+  generatedExcerpt    String?
+  generatedContent    String?   // Full markdown body
+
+  // Editorial Verification Checklist
+  editorialChecklistJson String? // JSON checklist before publish
+
+  // Link to resulting Article
+  articleId           Int?
+  article             Article?  @relation(fields: [articleId], references: [id], onDelete: SetNull)
+
+  // Audit / Initiator
+  userId              Int?
+  user                User?     @relation(fields: [userId], references: [id], onDelete: SetNull)
+
+  createdAt           DateTime  @default(now())
+  updatedAt           DateTime  @updatedAt
+
+  @@index([status])
+  @@index([createdAt])
+  @@index([primaryKeyword])
+}
+
+

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" width="1200" height="675">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f172a;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#1e293b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#334155;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#grad)"/>
+  <circle cx="600" cy="300" r="70" fill="#3b82f6" opacity="0.15"/>
+  <path d="M570 270 h60 v60 h-60 z" fill="none" stroke="#60a5fa" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="585" cy="285" r="5" fill="#60a5fa"/>
+  <path d="M570 320 l20 -20 l20 20 l10 -10 l10 10" fill="none" stroke="#60a5fa" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="600" y="380" font-family="system-ui, -apple-system, sans-serif" font-size="28" font-weight="800" fill="#f8fafc" text-anchor="middle" letter-spacing="3">UPDATEYUK</text>
+  <text x="600" y="415" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="500" fill="#94a3b8" text-anchor="middle">Portal Berita &amp; Informasi Indonesia</text>
+</svg>
+

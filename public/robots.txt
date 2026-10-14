@@ -1,0 +1,47 @@
+# ========================================================
+# NUSALENSA Robots Configuration
+# https://nusalensa.com
+# Verified compliant with Google, Bing & Major Search Engines
+# ========================================================
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+Disallow: /search
+Disallow: /*?*preview=true
+
+# Allow Static Assets for Google Mobile & Desktop Rendering
+Allow: /_next/static/
+Allow: /static/
+Allow: /images/
+Allow: /placeholder.svg
+
+User-agent: Googlebot
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+
+User-agent: Googlebot-News
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+
+User-agent: Googlebot-Image
+Allow: /
+Disallow: /admin/
+
+User-agent: Bingbot
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+
+# Sitemaps
+Sitemap: https://nusalensa.com/sitemap.xml
+Sitemap: https://nusalensa.com/sitemap-news.xml
+Sitemap: https://nusalensa.com/sitemap-articles.xml
+Sitemap: https://nusalensa.com/sitemap-devices.xml
+Sitemap: https://nusalensa.com/sitemap-brands.xml
+Sitemap: https://nusalensa.com/sitemap-categories.xml
+Sitemap: https://nusalensa.com/sitemap-topics.xml
+Sitemap: https://nusalensa.com/sitemap-pages.xml

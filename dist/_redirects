@@ -1,0 +1,9 @@
+# Canonical tag-to-topic redirects
+/tag/:slug  /topic/:slug  301
+
+# Admin SPA routing fallback
+/admin/*  /admin/index.html  200
+/admin  /admin/index.html  200
+
+# Cloudflare Pages fallback for public routes
+/*  /index.html  200

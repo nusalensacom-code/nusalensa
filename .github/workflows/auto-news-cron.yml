@@ -1,0 +1,19 @@
+name: Automated GSMArena & Tech News Intake Cron
+
+on:
+  schedule:
+    # Runs every 30 minutes automatically
+    - cron: '*/30 * * * *'
+  workflow_dispatch: # Allows manual run button in GitHub Actions tab
+
+jobs:
+  auto-publish-news:
+    name: Ingest GSMArena & Tech Feeds
+    runs-on: ubuntu-latest
+    steps:
+      - name: Call Automated News Intake Endpoint
+        run: |
+          curl -s -f -X GET "https://nusalensa.com/api/cron/fetch-news?autoPublish=true&token=${{ secrets.CRON_SECRET || 'nusalensa-cron-secret-2026' }}" \
+            -H "User-Agent: GitHub-Actions-Cron/1.0" \
+            -H "Accept: application/json" || echo "Cron triggered"
+
