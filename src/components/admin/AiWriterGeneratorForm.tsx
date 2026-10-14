@@ -101,7 +101,13 @@ export function AiWriterGeneratorForm({ onJobStarted, providerStatus }: Generato
         }),
       });
 
-      const data = await res.json();
+      if (res.status === 405) {
+        throw new Error(
+          'Cloudflare Pages runs in Static Hosting mode. To generate new articles with AI and save to database, please use the local admin dashboard at http://localhost:3000/admin/ai-writer'
+        );
+      }
+
+      const data = await res.json().catch(() => ({}));
       if (!res.ok) {
         throw new Error(data.error || 'Failed to start generation job');
       }
