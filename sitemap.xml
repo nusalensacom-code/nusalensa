@@ -468,6 +468,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/amazon-launches-bee-frontier-ai-wearable-and-bee-eclipse-phone-attachment</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
+      <image:title>Amazon launches Bee Frontier AI wearable and Bee Eclipse phone attachment</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/steam-can-now-show-game-achievements-in-separate-sets</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK138_Stream_Kradtke_01.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Steam can now show game achievements in separate ‘sets’</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/withings-wants-new-users-to-pay-100-a-year-to-sync-with-apple-health</loc>
     <lastmod>2026-10-15</lastmod>
     <changefreq>daily</changefreq>

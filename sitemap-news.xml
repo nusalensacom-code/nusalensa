@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/amazon-launches-bee-frontier-ai-wearable-and-bee-eclipse-phone-attachment</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T23:33:02Z</news:publication_date>
+      <news:title>Amazon launches Bee Frontier AI wearable and Bee Eclipse phone attachment</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
+      <image:title>Amazon launches Bee Frontier AI wearable and Bee Eclipse phone attachment</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/steam-can-now-show-game-achievements-in-separate-sets</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T23:18:28Z</news:publication_date>
+      <news:title>Steam can now show game achievements in separate ‘sets’</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK138_Stream_Kradtke_01.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Steam can now show game achievements in separate ‘sets’</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/withings-wants-new-users-to-pay-100-a-year-to-sync-with-apple-health</loc>
     <news:news>
       <news:publication>
