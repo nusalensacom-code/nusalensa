@@ -1,20 +1,27 @@
 'use client';
 
-import React, { useState, Suspense } from 'react';
-import { useRouter, useSearchParams } from 'next/navigation';
+import React, { useState, useEffect } from 'react';
+import { useRouter } from 'next/navigation';
 import { Lock, Mail, AlertCircle, ArrowRight, ShieldCheck, Eye, EyeOff, Loader2 } from 'lucide-react';
 import { siteConfig } from '@/lib/siteConfig';
 
-function LoginForm() {
+export default function AdminLoginPage() {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
   const [showPassword, setShowPassword] = useState(false);
   const [remember, setRemember] = useState(true);
   const [error, setError] = useState('');
   const [loading, setLoading] = useState(false);
+  const [redirectTo, setRedirectTo] = useState('/admin');
   const router = useRouter();
-  const searchParams = useSearchParams();
-  const redirectTo = searchParams?.get('from') || '/admin';
+
+  useEffect(() => {
+    if (typeof window !== 'undefined') {
+      const params = new URLSearchParams(window.location.search);
+      const from = params.get('from');
+      if (from) setRedirectTo(from);
+    }
+  }, []);
 
   const handleLogin = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -117,8 +124,9 @@ function LoginForm() {
   };
 
   return (
-    <div className="w-full max-w-md bg-white border border-slate-200 rounded-3xl p-8 sm:p-10 shadow-2xl">
-      <div className="text-center mb-8">
+    <div className="min-h-screen flex items-center justify-center px-4 py-12 bg-slate-900">
+      <div className="w-full max-w-md bg-white border border-slate-200 rounded-3xl p-8 sm:p-10 shadow-2xl">
+        <div className="text-center mb-8">
         <div className="inline-flex items-center space-x-1 text-slate-900 font-black text-2xl tracking-tight mb-2">
           <span>{siteConfig.name}</span>
           <span className="w-2.5 h-2.5 rounded-full bg-primary-600 inline-block animate-pulse" />
@@ -233,23 +241,7 @@ function LoginForm() {
           <span>Default Credentials: admin@nusalensa.com (or nusalensa) / admin123</span>
         </div>
       </div>
-    </div>
-  );
-}
-
-export default function AdminLoginPage() {
-  return (
-    <div className="min-h-screen flex items-center justify-center px-4 py-12 bg-slate-900">
-      <Suspense
-        fallback={
-          <div className="w-full max-w-md bg-white rounded-3xl p-8 text-center text-slate-500 shadow-2xl flex flex-col items-center justify-center space-y-3">
-            <Loader2 className="w-8 h-8 animate-spin text-primary-600" />
-            <p className="text-sm font-semibold">Loading editorial portal...</p>
-          </div>
-        }
-      >
-        <LoginForm />
-      </Suspense>
+      </div>
     </div>
   );
 }

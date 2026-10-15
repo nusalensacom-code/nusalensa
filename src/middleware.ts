@@ -17,8 +17,8 @@ export function middleware(request: NextRequest) {
     return NextResponse.redirect(new URL('/corrections-policy', request.url), 301);
   }
 
-  // 3. Protect all /admin routes except /admin/login
-  if (pathname.startsWith('/admin') && pathname !== '/admin/login') {
+  // 3. Protect all /admin routes except /admin/login (with or without trailing slash)
+  if (pathname.startsWith('/admin') && !pathname.startsWith('/admin/login')) {
     const sessionCookie =
       request.cookies.get('nusalensa_session')?.value ||
       request.cookies.get('updateyuk_session')?.value;
@@ -31,7 +31,7 @@ export function middleware(request: NextRequest) {
   }
 
   // If already logged in and visiting /admin/login, redirect to /admin
-  if (pathname === '/admin/login') {
+  if (pathname.startsWith('/admin/login')) {
     const sessionCookie =
       request.cookies.get('nusalensa_session')?.value ||
       request.cookies.get('updateyuk_session')?.value;

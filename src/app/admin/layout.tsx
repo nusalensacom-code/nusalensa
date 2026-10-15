@@ -40,7 +40,7 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [currentUser, setCurrentUser] = useState<CurrentUser | null>(null);
 
-  const isLoginPage = pathname === '/admin/login';
+  const isLoginPage = pathname ? pathname.startsWith('/admin/login') : false;
 
   useEffect(() => {
     if (!isLoginPage) {
