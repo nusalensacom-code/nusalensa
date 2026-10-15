@@ -94,7 +94,11 @@ if (fs.existsSync(adminHtmlSrc) && !fs.existsSync(adminIndexDest)) {
 }
 
 // 6. Create Cloudflare Pages _redirects file
-const redirectsContent = `# Canonical tag-to-topic redirects
+const redirectsContent = `# Direct admin login routing
+/admin/login  /admin/login/index.html  200
+/admin/login/  /admin/login/index.html  200
+
+# Canonical tag-to-topic redirects
 /tag/:slug  /topic/:slug  301
 
 # Admin SPA routing fallback
@@ -151,20 +155,34 @@ for (const sf of sitemapFiles) {
   }
 }
 
-// 9. Sync root fallbacks for Cloudflare root serving
-if (fs.existsSync(path.join(DIST_DIR, 'index.html'))) {
-  fs.copyFileSync(path.join(DIST_DIR, 'index.html'), path.join(ROOT, 'index.html'));
+// 9. Sync full distribution bundle to root for Cloudflare Pages root serving
+const distItems = fs.readdirSync(DIST_DIR);
+const protectedRootItems = new Set([
+  'node_modules',
+  'src',
+  'prisma',
+  'scripts',
+  '.git',
+  '.github',
+  'package.json',
+  'package-lock.json',
+  'tsconfig.json',
+  'tailwind.config.js',
+  'next.config.mjs',
+  'README.md',
+  '.env',
+  '.env.example',
+  '.gitignore',
+  '.next',
+]);
+
+for (const item of distItems) {
+  if (!protectedRootItems.has(item)) {
+    const srcPath = path.join(DIST_DIR, item);
+    const destPath = path.join(ROOT, item);
+    copyRecursiveSync(srcPath, destPath);
+  }
 }
-if (fs.existsSync(path.join(DIST_DIR, '_redirects'))) {
-  fs.copyFileSync(path.join(DIST_DIR, '_redirects'), path.join(ROOT, '_redirects'));
-}
-if (fs.existsSync(path.join(DIST_DIR, '_headers'))) {
-  fs.copyFileSync(path.join(DIST_DIR, '_headers'), path.join(ROOT, '_headers'));
-}
-if (fs.existsSync(path.join(DIST_DIR, '404.html'))) {
-  fs.copyFileSync(path.join(DIST_DIR, '404.html'), path.join(ROOT, '404.html'));
-}
-copyRecursiveSync(path.join(DIST_DIR, '_next'), path.join(ROOT, '_next'));
 
 console.log('>>> [PREPARE DEPLOY] Bundle ready in "dist" and synced to root with XML Sitemaps and robots.txt!');
 

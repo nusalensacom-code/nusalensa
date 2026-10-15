@@ -1,3 +1,7 @@
+# Direct admin login routing
+/admin/login  /admin/login/index.html  200
+/admin/login/  /admin/login/index.html  200
+
 # Canonical tag-to-topic redirects
 /tag/:slug  /topic/:slug  301
 

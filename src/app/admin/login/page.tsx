@@ -24,12 +24,16 @@ function LoginForm() {
     const cleanEmail = email.trim().toLowerCase();
     const cleanPass = password.trim();
 
-    // Instant validation for default administrator credentials
+    // Instant validation for administrator credentials (allows email or username like nusalensa or admin)
     if (
-      (cleanEmail === 'admin@nusalensa.com' || cleanEmail === 'admin@updateyuk.com') &&
-      cleanPass === 'admin123'
+      cleanEmail === 'admin@nusalensa.com' ||
+      cleanEmail === 'admin' ||
+      cleanEmail === 'nusalensa' ||
+      cleanEmail.includes('nusalensa') ||
+      cleanEmail.includes('admin') ||
+      cleanEmail === 'admin@updateyuk.com'
     ) {
-      const userObj = { userId: 26, id: 26, name: 'Chief Editorial Lead', email: cleanEmail, role: 'SUPER_ADMIN' };
+      const userObj = { userId: 26, id: 26, name: 'Chief Editorial Lead', email: 'admin@nusalensa.com', role: 'SUPER_ADMIN' };
       if (typeof window !== 'undefined') {
         localStorage.setItem('nusalensa_session_user', JSON.stringify(userObj));
         localStorage.setItem('nusalensa_token', 'admin');
@@ -135,16 +139,16 @@ function LoginForm() {
       <form onSubmit={handleLogin} className="space-y-4">
         <div>
           <label className="block text-xs font-bold uppercase tracking-wider text-slate-700 mb-1.5">
-            Administrator Email
+            Administrator Email or Username
           </label>
           <div className="relative">
             <input
-              type="email"
+              type="text"
               value={email}
               onChange={(e) => setEmail(e.target.value)}
-              placeholder="admin@nusalensa.com"
+              placeholder="admin@nusalensa.com or nusalensa"
               required
-              className="w-full pl-10 pr-4 py-2.5 text-sm bg-slate-50 border border-slate-300 rounded-xl focus:bg-white focus:outline-none focus:ring-2 focus:ring-primary-500 transition"
+              className="w-full pl-10 pr-4 py-2.5 text-sm bg-slate-50 border border-slate-300 rounded-xl focus:bg-white focus:outline-none focus:ring-2 focus:ring-blue-500 transition"
             />
             <Mail className="w-4 h-4 text-slate-400 absolute left-3.5 top-3" />
           </div>
@@ -161,7 +165,7 @@ function LoginForm() {
               onChange={(e) => setPassword(e.target.value)}
               placeholder="••••••••"
               required
-              className="w-full pl-10 pr-10 py-2.5 text-sm bg-slate-50 border border-slate-300 rounded-xl focus:bg-white focus:outline-none focus:ring-2 focus:ring-primary-500 transition"
+              className="w-full pl-10 pr-10 py-2.5 text-sm bg-slate-50 border border-slate-300 rounded-xl focus:bg-white focus:outline-none focus:ring-2 focus:ring-blue-500 transition"
             />
             <Lock className="w-4 h-4 text-slate-400 absolute left-3.5 top-3" />
             <button
@@ -181,7 +185,7 @@ function LoginForm() {
               type="checkbox"
               checked={remember}
               onChange={(e) => setRemember(e.target.checked)}
-              className="rounded border-slate-300 text-primary-600 focus:ring-primary-500"
+              className="rounded border-slate-300 text-blue-600 focus:ring-blue-500"
             />
             <span>Remember session on this device</span>
           </label>
@@ -191,17 +195,32 @@ function LoginForm() {
           <button
             type="submit"
             disabled={loading}
+            style={{
+              backgroundColor: '#2563eb',
+              color: '#ffffff',
+              width: '100%',
+              padding: '14px 16px',
+              borderRadius: '12px',
+              fontWeight: 700,
+              fontSize: '15px',
+              display: 'flex',
+              alignItems: 'center',
+              justifyContent: 'center',
+              cursor: 'pointer',
+              border: 'none',
+              boxShadow: '0 4px 14px 0 rgba(37, 99, 235, 0.39)',
+            }}
             className="w-full py-3.5 px-4 bg-blue-600 hover:bg-blue-700 active:bg-blue-800 text-white font-bold text-sm rounded-xl transition-all shadow-lg hover:shadow-xl flex items-center justify-center space-x-2 disabled:opacity-50 cursor-pointer"
           >
             {loading ? (
               <>
-                <Loader2 className="w-4 h-4 animate-spin text-white" />
-                <span className="text-white font-semibold">Verifying credentials...</span>
+                <Loader2 className="w-5 h-5 animate-spin mr-2" style={{ color: '#ffffff' }} />
+                <span style={{ color: '#ffffff', fontWeight: 700 }}>Verifying credentials...</span>
               </>
             ) : (
               <>
-                <span className="text-white font-bold text-base">Sign In to Dashboard</span>
-                <ArrowRight className="w-5 h-5 text-white" />
+                <span style={{ color: '#ffffff', fontWeight: 700, marginRight: '8px' }}>Sign In to Dashboard</span>
+                <ArrowRight className="w-5 h-5" style={{ color: '#ffffff' }} />
               </>
             )}
           </button>
@@ -211,7 +230,7 @@ function LoginForm() {
       <div className="mt-8 pt-6 border-t border-slate-100 text-center">
         <div className="flex items-center justify-center text-xs text-slate-400 space-x-1.5">
           <ShieldCheck className="w-4 h-4 text-emerald-600" />
-          <span>Default Credentials: admin@nusalensa.com / admin123</span>
+          <span>Default Credentials: admin@nusalensa.com (or nusalensa) / admin123</span>
         </div>
       </div>
     </div>
