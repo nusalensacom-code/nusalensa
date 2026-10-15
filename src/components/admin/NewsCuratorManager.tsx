@@ -29,7 +29,11 @@ import {
   ListChecks,
   HelpCircle,
   Hash,
+  Info,
+  Laptop,
+  Terminal,
 } from 'lucide-react';
+import { adminClientFetch } from '@/lib/clientAuthFetch';
 
 interface CuratedItem {
   id: number;
@@ -77,6 +81,7 @@ export default function NewsCuratorManager() {
   const [search, setSearch] = useState('');
   const [statusFilter, setStatusFilter] = useState<'PENDING_REVIEW' | 'APPROVED' | 'REJECTED' | 'ALL'>('PENDING_REVIEW');
   const [categoryFilter, setCategoryFilter] = useState('ALL');
+  const [isLocalHost, setIsLocalHost] = useState(true);
 
   // Messages
   const [successMsg, setSuccessMsg] = useState('');
@@ -94,6 +99,23 @@ export default function NewsCuratorManager() {
   const [newSourceUrl, setNewSourceUrl] = useState('');
   const [newSourceCategory, setNewSourceCategory] = useState('news');
 
+  useEffect(() => {
+    if (typeof window !== 'undefined') {
+      const host = window.location.hostname;
+      setIsLocalHost(host === 'localhost' || host === '127.0.0.1');
+    }
+  }, []);
+
+  // Safe JSON extraction helper
+  const safeExtractJson = async (res: Response) => {
+    try {
+      const text = await res.text();
+      return text ? JSON.parse(text) : {};
+    } catch {
+      return {};
+    }
+  };
+
   // Load Queue
   const loadQueue = async () => {
     try {
@@ -103,16 +125,16 @@ export default function NewsCuratorManager() {
       if (categoryFilter !== 'ALL') params.append('category', categoryFilter);
       if (search) params.append('q', search);
 
-      const res = await fetch(`/api/admin/curator/queue?${params.toString()}`);
+      const res = await adminClientFetch(`/api/admin/curator/queue?${params.toString()}`);
       if (res.ok) {
-        const data = await res.json();
+        const data = await safeExtractJson(res);
         if (data?.items) {
           setItems(data.items || []);
           if (data.stats) setStats(data.stats);
         }
       }
     } catch (err: any) {
-      setErrorMsg(err.message || 'System error loading queue');
+      console.warn('Notice loading queue:', err.message);
     } finally {
       setIsLoading(false);
     }
@@ -120,13 +142,13 @@ export default function NewsCuratorManager() {
 
   const loadSources = async () => {
     try {
-      const res = await fetch('/api/admin/curator/sources');
+      const res = await adminClientFetch('/api/admin/curator/sources');
       if (res.ok) {
-        const data = await res.json();
-        setSources(data.sources || []);
+        const data = await safeExtractJson(res);
+        setSources(data?.sources || []);
       }
     } catch (e) {
-      console.warn('Error loading sources:', e);
+      console.warn('Notice loading sources:', e);
     }
   };
 
@@ -141,23 +163,30 @@ export default function NewsCuratorManager() {
     setSuccessMsg('');
 
     try {
-      const res = await fetch('/api/admin/curator/fetch', {
+      const res = await adminClientFetch('/api/admin/curator/fetch', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ autoPublish }),
       });
-      const data = await res.json();
 
-      if (!res.ok) {
-        throw new Error(data.error || 'Failed to fetch news');
+      if (res.status === 405 || res.status === 404) {
+        throw new Error(
+          'Cloudflare Pages (Hosting Statis CDN): Perayapan berita internasional & penulisan database SQLite berjalan di server lokal Anda (http://localhost:3000/admin/news-curator) atau via GitHub Actions / perintah "npm run news:auto". Silakan gunakan server lokal Anda untuk auto-publish instan.'
+        );
       }
 
-      setSuccessMsg(data.message || (autoPublish ? 'Successfully fetched, synthesized, and published latest articles live!' : 'Successfully scanned international feeds and added items to review queue!'));
+      const data = await safeExtractJson(res);
+
+      if (!res.ok) {
+        throw new Error(data?.error || `Gagal memproses feed berita (HTTP ${res.status})`);
+      }
+
+      setSuccessMsg(data?.message || (autoPublish ? 'Berita teknologi global terbaru berhasil diambil, disintesis, dan dipublikasikan langsung ke web live!' : 'Berhasil memindai feed berita internasional dan menambahkannya ke antrean review!'));
       await loadQueue();
       await loadSources();
       setTimeout(() => setSuccessMsg(''), 6000);
     } catch (err: any) {
-      setErrorMsg(err.message || 'Error occurred while processing feeds');
+      setErrorMsg(err.message || 'Terjadi kesalahan saat memproses feed berita');
     } finally {
       setIsFetchingPipeline(false);
     }
@@ -183,23 +212,29 @@ export default function NewsCuratorManager() {
     setErrorMsg('');
 
     try {
-      const res = await fetch(`/api/admin/curator/${id}/approve`, {
+      const res = await adminClientFetch(`/api/admin/curator/${id}/approve`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ publishNow, ...editForm }),
       });
 
-      const data = await res.json();
-      if (!res.ok) {
-        throw new Error(data.error || 'Failed to approve item');
+      if (res.status === 405 || res.status === 404) {
+        throw new Error(
+          'Hosting Statis CDN (Cloudflare Pages): Fitur persetujuan artikel memerlukan database lokal di http://localhost:3000/admin/news-curator.'
+        );
       }
 
-      setSuccessMsg(data.message || (publishNow ? 'Article approved and published live!' : 'Article saved as draft in editorial catalog.'));
+      const data = await safeExtractJson(res);
+      if (!res.ok) {
+        throw new Error(data?.error || `Gagal menyetujui artikel (HTTP ${res.status})`);
+      }
+
+      setSuccessMsg(data?.message || (publishNow ? 'Artikel berhasil disetujui dan dipublikasikan live!' : 'Artikel disimpan sebagai draf editorial.'));
       setReviewItem(null);
       await loadQueue();
       setTimeout(() => setSuccessMsg(''), 5000);
     } catch (err: any) {
-      setErrorMsg(err.message || 'Error approving article');
+      setErrorMsg(err.message || 'Error saat menyetujui artikel');
     } finally {
       setIsSubmitting(false);
     }
@@ -208,18 +243,22 @@ export default function NewsCuratorManager() {
   // Reject item
   const handleReject = async (id: number) => {
     try {
-      const res = await fetch(`/api/admin/curator/${id}/reject`, { method: 'POST' });
-      if (!res.ok) {
-        const data = await res.json();
-        throw new Error(data.error || 'Failed to reject item');
+      const res = await adminClientFetch(`/api/admin/curator/${id}/reject`, { method: 'POST' });
+      if (res.status === 405 || res.status === 404) {
+        throw new Error('Fitur ini memerlukan server lokal di http://localhost:3000/admin/news-curator.');
       }
 
-      setSuccessMsg('Item rejected and dismissed from intake queue.');
+      const data = await safeExtractJson(res);
+      if (!res.ok) {
+        throw new Error(data?.error || `Gagal menolak item (HTTP ${res.status})`);
+      }
+
+      setSuccessMsg('Item berhasil ditolak dan dihapus dari antrean intake.');
       if (reviewItem?.id === id) setReviewItem(null);
       await loadQueue();
       setTimeout(() => setSuccessMsg(''), 3000);
     } catch (e: any) {
-      setErrorMsg(e.message || 'An error occurred');
+      setErrorMsg(e.message || 'Terjadi kesalahan saat menolak item');
     }
   };
 
@@ -227,7 +266,7 @@ export default function NewsCuratorManager() {
   const handleAddSource = async (e: React.FormEvent) => {
     e.preventDefault();
     try {
-      const res = await fetch('/api/admin/curator/sources', {
+      const res = await adminClientFetch('/api/admin/curator/sources', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
@@ -236,22 +275,27 @@ export default function NewsCuratorManager() {
           categoryHint: newSourceCategory,
         }),
       });
-      const data = await res.json();
-      if (!res.ok) throw new Error(data.error || 'Failed to add source');
+
+      if (res.status === 405 || res.status === 404) {
+        throw new Error('Fitur ini memerlukan server lokal di http://localhost:3000/admin/news-curator.');
+      }
+
+      const data = await safeExtractJson(res);
+      if (!res.ok) throw new Error(data?.error || 'Gagal menambahkan sumber');
 
       setNewSourceName('');
       setNewSourceUrl('');
       await loadSources();
-      setSuccessMsg('New news source registered successfully!');
+      setSuccessMsg('Sumber berita baru berhasil didaftarkan!');
       setTimeout(() => setSuccessMsg(''), 3000);
     } catch (e: any) {
-      setErrorMsg(e.message || 'Error adding source');
+      setErrorMsg(e.message || 'Error saat menambahkan sumber');
     }
   };
 
   const handleToggleSource = async (src: NewsSourceItem) => {
     try {
-      await fetch(`/api/admin/curator/sources/${src.id}`, {
+      await adminClientFetch(`/api/admin/curator/sources/${src.id}`, {
         method: 'PUT',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ isActive: !src.isActive }),
@@ -273,6 +317,48 @@ export default function NewsCuratorManager() {
 
   return (
     <div className="space-y-6">
+      {/* Cloudflare Pages Static Notice on Live Domain */}
+      {!isLocalHost && (
+        <div className="p-4 rounded-2xl bg-blue-50/80 border border-blue-200 text-slate-800 shadow-xs">
+          <div className="flex items-start gap-3">
+            <div className="p-2.5 rounded-xl bg-blue-600 text-white flex-shrink-0 mt-0.5 shadow-sm">
+              <Globe className="w-5 h-5" />
+            </div>
+            <div className="flex-1 space-y-1.5">
+              <div className="flex flex-wrap items-center gap-2">
+                <span className="text-xs font-bold uppercase tracking-wider text-blue-700 bg-blue-100 px-2 py-0.5 rounded-md border border-blue-200">
+                  Cloudflare Pages (Static CDN Mode)
+                </span>
+                <span className="text-xs text-slate-500 font-medium">Domain Publik: nusalensa.com</span>
+              </div>
+              <p className="text-xs text-slate-700 leading-relaxed font-medium">
+                Domain live di-host sebagai Static CDN berkecepatan tinggi. Pipeline perayapan RSS GSMArena &amp; penulisan database otomatis bekerja melalui 2 opsi:
+              </p>
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-2.5 pt-1 text-xs">
+                <div className="p-3 rounded-xl bg-white border border-blue-100 shadow-2xs">
+                  <div className="font-bold text-slate-900 flex items-center gap-1.5 mb-1">
+                    <Laptop className="w-4 h-4 text-blue-600" />
+                    1. Admin Lokal (Instan &amp; Interaktif)
+                  </div>
+                  <p className="text-slate-600 text-[11px] leading-relaxed">
+                    Buka <a href="http://localhost:3000/admin/news-curator" target="_blank" rel="noreferrer" className="text-blue-600 font-bold underline">http://localhost:3000/admin/news-curator</a> di komputer Anda untuk klik tombol <strong>Auto-Publish Live</strong> secara langsung.
+                  </p>
+                </div>
+                <div className="p-3 rounded-xl bg-white border border-blue-100 shadow-2xs">
+                  <div className="font-bold text-slate-900 flex items-center gap-1.5 mb-1">
+                    <Terminal className="w-4 h-4 text-emerald-600" />
+                    2. CLI Terminal / Otomasi GitHub
+                  </div>
+                  <p className="text-slate-600 text-[11px] leading-relaxed">
+                    Jalankan <code className="px-1.5 py-0.5 bg-slate-100 text-slate-800 rounded font-mono font-semibold">npm run news:auto</code> di terminal, atau biarkan <strong>GitHub Actions Cron</strong> otomatis mengambil berita setiap 30 menit.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
+
       {/* Header */}
       <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 pb-4 border-b border-slate-200">
         <div>

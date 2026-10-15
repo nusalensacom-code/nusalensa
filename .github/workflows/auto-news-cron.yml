@@ -6,14 +6,39 @@ on:
     - cron: '*/30 * * * *'
   workflow_dispatch: # Allows manual run button in GitHub Actions tab
 
+permissions:
+  contents: write
+
 jobs:
   auto-publish-news:
     name: Ingest GSMArena & Tech Feeds
     runs-on: ubuntu-latest
     steps:
-      - name: Call Automated News Intake Endpoint
-        run: |
-          curl -s -f -X GET "https://nusalensa.com/api/cron/fetch-news?autoPublish=true&token=${{ secrets.CRON_SECRET || 'nusalensa-cron-secret-2026' }}" \
-            -H "User-Agent: GitHub-Actions-Cron/1.0" \
-            -H "Accept: application/json" || echo "Cron triggered"
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch Latest Tech News & Rebuild Static Site
+        run: npm run build
+
+      - name: Commit and Push Updates
+        run: |
+          git config --global user.name "NusaLensa NewsBot"
+          git config --global user.email "bot@nusalensa.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "No new articles found this cycle."
+          else
+            git commit -m "Auto-publish: Ingest latest tech news [skip ci]"
+            git push origin main
+          fi
