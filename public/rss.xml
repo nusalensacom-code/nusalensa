@@ -5,8 +5,17 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 15 Oct 2026 22:52:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 23:15:38 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Withings wants new users to pay $100 a year to sync with Apple Health</title>
+      <link>https://nusalensa.com/technology/withings-wants-new-users-to-pay-100-a-year-to-sync-with-apple-health</link>
+      <guid isPermaLink="true">https://nusalensa.com/technology/withings-wants-new-users-to-pay-100-a-year-to-sync-with-apple-health</guid>
+      <description>The smart health company is gating third-party app syncing to its own subscription plan for new users.</description>
+      <category>Technology</category>
+      <pubDate>Thu, 15 Oct 2026 23:02:04 GMT</pubDate>
+      <enclosure url="https://www.engadget.com/img/gallery/withings-wants-new-users-to-pay-100-a-year-to-sync-with-apple-health/l-intro-1792105014.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>ChatGPT can peek at your Chrome tabs now</title>
       <link>https://nusalensa.com/phones/chatgpt-can-peek-at-your-chrome-tabs-now</link>
@@ -267,15 +276,6 @@
       <category>Technology</category>
       <pubDate>Thu, 15 Oct 2026 18:48:11 GMT</pubDate>
       <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Black-Sea-sailors-rescued-by-Bulgaria-1152x648.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>E Ink&apos;s new Kaleido 4 could inch us closer to the perfect color e-reader</title>
-      <link>https://nusalensa.com/technology/e-inks-new-kaleido-4-could-inch-us-closer-to-the-perfect-color-e-reader</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/e-inks-new-kaleido-4-could-inch-us-closer-to-the-perfect-color-e-reader</guid>
-      <description>E Ink&apos;s new display tech offers improved color reproduction and refresh rates.</description>
-      <category>Technology</category>
-      <pubDate>Thu, 15 Oct 2026 18:41:58 GMT</pubDate>
-      <enclosure url="https://www.engadget.com/img/gallery/e-inks-new-kaleido-4-could-inch-us-closer-to-the-perfect-color-e-reader/l-intro-1792089646.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>

@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/withings-wants-new-users-to-pay-100-a-year-to-sync-with-apple-health</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/withings-wants-new-users-to-pay-100-a-year-to-sync-with-apple-health/l-intro-1792105014.jpg</image:loc>
+      <image:title>Withings wants new users to pay $100 a year to sync with Apple Health</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/chatgpt-can-peek-at-your-chrome-tabs-now</loc>
     <lastmod>2026-10-15</lastmod>
     <changefreq>daily</changefreq>
