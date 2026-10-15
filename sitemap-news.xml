@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/apple-pledged-3625-million-to-trump039s-white-house-ballroom</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T20:48:39Z</news:publication_date>
+      <news:title>Apple Pledged &amp;#36;25 Million to Trump&amp;#039;s White House Ballroom</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2020/10/apple-logo-cash-feature.jpg</image:loc>
+      <image:title>Apple Pledged &amp;#36;25 Million to Trump&amp;#039;s White House Ballroom</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T20:38:13Z</news:publication_date>
+      <news:title>Amazon devices chief Panos Panay on the importance of failure and bouncing back from it</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
+      <image:title>Amazon devices chief Panos Panay on the importance of failure and bouncing back from it</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/anbernic-is-quietly-removing-a-controversial-extra-from-its-android-handhelds</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T20:33:50Z</news:publication_date>
+      <news:title>ANBERNIC is quietly removing a controversial extra from its Android handhelds</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/Anbernic-RG-Rotate-in-hand-1-scaled.jpg</image:loc>
+      <image:title>ANBERNIC is quietly removing a controversial extra from its Android handhelds</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/ny-congressman-to-introduce-bill-protecting-video-game-ownership</loc>
     <news:news>
       <news:publication>
