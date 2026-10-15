@@ -4,8 +4,7 @@ import Script from 'next/script';
 import './globals.css';
 import { siteConfig } from '@/lib/siteConfig';
 import { prisma } from '@/lib/prisma';
-import { Header } from '@/components/layout/Header';
-import { Footer } from '@/components/layout/Footer';
+import { PublicLayoutWrapper } from '@/components/layout/PublicLayoutWrapper';
 import { JsonLd } from '@/components/seo/JsonLd';
 import { generateOrganizationSchema, generateWebSiteSchema } from '@/lib/seo';
 
@@ -142,9 +141,9 @@ export default async function RootLayout({
             />
           </>
         )}
-        <Header categories={categories} brands={brands} />
-        <main className="flex-1 w-full">{children}</main>
-        <Footer categories={categories} />
+        <PublicLayoutWrapper categories={categories} brands={brands}>
+          {children}
+        </PublicLayoutWrapper>
       </body>
     </html>
   );

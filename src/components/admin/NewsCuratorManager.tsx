@@ -82,6 +82,7 @@ export default function NewsCuratorManager() {
   const [statusFilter, setStatusFilter] = useState<'PENDING_REVIEW' | 'APPROVED' | 'REJECTED' | 'ALL'>('PENDING_REVIEW');
   const [categoryFilter, setCategoryFilter] = useState('ALL');
   const [isLocalHost, setIsLocalHost] = useState(true);
+  const [showCloudPublishModal, setShowCloudPublishModal] = useState(false);
 
   // Messages
   const [successMsg, setSuccessMsg] = useState('');
@@ -158,6 +159,11 @@ export default function NewsCuratorManager() {
 
   // Run pipeline fetch
   const handleTriggerPipeline = async (autoPublish: boolean = false) => {
+    if (!isLocalHost) {
+      setShowCloudPublishModal(true);
+      return;
+    }
+
     setIsFetchingPipeline(true);
     setErrorMsg('');
     setSuccessMsg('');
@@ -170,9 +176,8 @@ export default function NewsCuratorManager() {
       });
 
       if (res.status === 405 || res.status === 404) {
-        throw new Error(
-          'Cloudflare Pages (Hosting Statis CDN): Perayapan berita internasional & penulisan database SQLite berjalan di server lokal Anda (http://localhost:3000/admin/news-curator) atau via GitHub Actions / perintah "npm run news:auto". Silakan gunakan server lokal Anda untuk auto-publish instan.'
-        );
+        setShowCloudPublishModal(true);
+        return;
       }
 
       const data = await safeExtractJson(res);
@@ -219,9 +224,8 @@ export default function NewsCuratorManager() {
       });
 
       if (res.status === 405 || res.status === 404) {
-        throw new Error(
-          'Hosting Statis CDN (Cloudflare Pages): Fitur persetujuan artikel memerlukan database lokal di http://localhost:3000/admin/news-curator.'
-        );
+        setShowCloudPublishModal(true);
+        return;
       }
 
       const data = await safeExtractJson(res);
@@ -245,7 +249,8 @@ export default function NewsCuratorManager() {
     try {
       const res = await adminClientFetch(`/api/admin/curator/${id}/reject`, { method: 'POST' });
       if (res.status === 405 || res.status === 404) {
-        throw new Error('Fitur ini memerlukan server lokal di http://localhost:3000/admin/news-curator.');
+        setShowCloudPublishModal(true);
+        return;
       }
 
       const data = await safeExtractJson(res);
@@ -277,7 +282,8 @@ export default function NewsCuratorManager() {
       });
 
       if (res.status === 405 || res.status === 404) {
-        throw new Error('Fitur ini memerlukan server lokal di http://localhost:3000/admin/news-curator.');
+        setShowCloudPublishModal(true);
+        return;
       }
 
       const data = await safeExtractJson(res);
@@ -1078,6 +1084,120 @@ export default function NewsCuratorManager() {
                   ))}
                 </div>
               </div>
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* Cloud & Local Auto-Publishing Modal */}
+      {showCloudPublishModal && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/70 backdrop-blur-xs animate-in fade-in">
+          <div className="relative w-full max-w-xl bg-white rounded-3xl shadow-2xl border border-slate-200 overflow-hidden animate-in zoom-in-95">
+            {/* Modal Header */}
+            <div className="p-6 bg-gradient-to-r from-slate-900 via-indigo-950 to-slate-900 text-white flex items-center justify-between">
+              <div className="flex items-center gap-3">
+                <div className="p-2.5 rounded-xl bg-primary-600 text-white shadow-sm">
+                  <Zap className="w-5 h-5 text-amber-300 fill-amber-300" />
+                </div>
+                <div>
+                  <h3 className="text-lg font-black tracking-tight">Otomasi Publikasi Berita NusaLensa</h3>
+                  <p className="text-xs text-slate-300">Pengambilan & Penerbitan Berita GSMArena & Tech Feeds</p>
+                </div>
+              </div>
+              <button
+                onClick={() => setShowCloudPublishModal(false)}
+                className="p-1.5 rounded-xl text-slate-400 hover:text-white hover:bg-white/10 transition"
+              >
+                <X className="w-5 h-5" />
+              </button>
+            </div>
+
+            {/* Modal Body */}
+            <div className="p-6 space-y-4 max-h-[75vh] overflow-y-auto">
+              <div className="p-3.5 rounded-2xl bg-blue-50/70 border border-blue-200/80 text-xs text-blue-900 leading-relaxed">
+                Domain <strong>nusalensa.com</strong> beroperasi menggunakan hosting statis CDN berkecepatan tinggi (Cloudflare Pages). Pengambilan feed berita dan penulisan ke database berjalan melalui opsi berikut:
+              </div>
+
+              {/* Option 1: GitHub Actions Cloud Cron */}
+              <div className="p-4 rounded-2xl border border-emerald-200 bg-emerald-50/40 space-y-2.5">
+                <div className="flex items-start justify-between gap-2">
+                  <div className="flex items-center gap-2">
+                    <span className="p-1.5 rounded-lg bg-emerald-600 text-white">
+                      <RefreshCw className="w-4 h-4" />
+                    </span>
+                    <div>
+                      <h4 className="font-bold text-sm text-slate-900">1. Otomasi di Cloud (GitHub Actions)</h4>
+                      <p className="text-xs text-slate-600">Berjalan otomatis setiap 30 menit di server GitHub</p>
+                    </div>
+                  </div>
+                  <span className="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-100 text-emerald-800 border border-emerald-300">
+                    Aktif Otomatis
+                  </span>
+                </div>
+                <p className="text-xs text-slate-600 leading-relaxed">
+                  Anda tidak perlu klik apa pun secara manual. Sistem di server GitHub secara rutin merayap feed internasional, membuat artikel baru, dan mempublikasikannya ke live site. Jika ingin menjalankannya detik ini juga di cloud:
+                </p>
+                <a
+                  href="https://github.com/nusalensacom-code/nusalensa/actions/workflows/auto-news-cron.yml"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-xs shadow-xs transition active:scale-95"
+                >
+                  <span>🚀 Jalankan Sekarang di GitHub (1-Klik)</span>
+                  <ExternalLink className="w-3.5 h-3.5" />
+                </a>
+              </div>
+
+              {/* Option 2: Local Admin Panel */}
+              <div className="p-4 rounded-2xl border border-primary-200 bg-primary-50/30 space-y-2.5">
+                <div className="flex items-start justify-between gap-2">
+                  <div className="flex items-center gap-2">
+                    <span className="p-1.5 rounded-lg bg-primary-600 text-white">
+                      <Laptop className="w-4 h-4" />
+                    </span>
+                    <div>
+                      <h4 className="font-bold text-sm text-slate-900">2. Admin Komputer Lokal (Port 3000)</h4>
+                      <p className="text-xs text-slate-600">Terhubung langsung ke database SQLite &amp; Node.js</p>
+                    </div>
+                  </div>
+                  <span className="px-2 py-0.5 rounded-full text-[10px] font-bold bg-primary-100 text-primary-800 border border-primary-300">
+                    Instan
+                  </span>
+                </div>
+                <p className="text-xs text-slate-600 leading-relaxed">
+                  Di komputer lokal Anda, server Next.js aktif dan terhubung ke database. Buka admin lokal untuk auto-publish secara instan:
+                </p>
+                <a
+                  href="http://localhost:3000/admin/news-curator"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-primary-600 hover:bg-primary-700 text-white font-bold text-xs shadow-xs transition active:scale-95"
+                >
+                  <span>💻 Buka Admin Lokal (localhost:3000)</span>
+                  <ExternalLink className="w-3.5 h-3.5" />
+                </a>
+              </div>
+
+              {/* Option 3: Terminal CLI */}
+              <div className="p-3 rounded-2xl border border-slate-200 bg-slate-50 flex items-center justify-between text-xs">
+                <div className="flex items-center gap-2">
+                  <Terminal className="w-4 h-4 text-slate-600" />
+                  <span className="text-slate-600 font-medium">Perintah Terminal:</span>
+                  <code className="font-mono font-bold bg-white px-2 py-1 rounded-lg border border-slate-200 text-slate-800">
+                    npm run news:auto
+                  </code>
+                </div>
+              </div>
+            </div>
+
+            {/* Modal Footer */}
+            <div className="p-4 bg-slate-50 border-t border-slate-100 flex justify-end">
+              <button
+                onClick={() => setShowCloudPublishModal(false)}
+                className="px-4 py-2 rounded-xl bg-slate-200 hover:bg-slate-300 font-bold text-xs text-slate-700 transition"
+              >
+                Tutup
+              </button>
             </div>
           </div>
         </div>
