@@ -4,8 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "npx prisma generate && npx prisma db push --accept-data-loss && node prisma/seed.js && node scripts/auto-fetch-news.js && node scripts/generate-sitemap.js && npx next build && node scripts/prepare-deploy.js",
-    "news:auto": "node scripts/auto-fetch-news.js",
+    "build": "npx prisma generate && npx prisma db push --accept-data-loss && node prisma/seed.js && node scripts/auto-fetch-news.js --auto-publish && node scripts/generate-sitemap.js && npx next build && node scripts/prepare-deploy.js",
+    "news:auto": "node scripts/auto-fetch-news.js --auto-publish",
     "news:status": "node scripts/inspect-all-articles.js",
     "sitemap:generate": "node scripts/generate-sitemap.js",
     "start": "next start",

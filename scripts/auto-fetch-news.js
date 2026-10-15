@@ -357,10 +357,28 @@ async function main() {
     console.warn('[DB NOTICE] Existing items query note:', dbErr.message);
   }
 
-  // 3. Process candidates into PENDING_REVIEW Queue
+  // 3. Process candidates into Queue and Auto-Publish if requested
+  const shouldAutoPublish = process.argv.includes('--auto-publish') || process.env.AUTO_PUBLISH === 'true';
   let queuedCount = 0;
+  let publishedCount = 0;
   let skippedDuplicates = 0;
-  const maxToQueue = 15; // Queue up to 15 fresh items per intake cycle
+  const maxToQueue = 15; // Process up to 15 fresh items per intake cycle
+
+  // Pre-resolve default author and categories for auto-publish
+  let defaultAuthor = null;
+  if (shouldAutoPublish) {
+    defaultAuthor = await prisma.author.findFirst({ orderBy: { id: 'asc' } });
+    if (!defaultAuthor) {
+      defaultAuthor = await prisma.author.create({
+        data: {
+          name: 'NusaLensa Newsroom',
+          slug: 'nusalensa-newsroom',
+          role: 'Technology Editorial Desk',
+          email: 'newsroom@nusalensa.com',
+        },
+      });
+    }
+  }
 
   for (const item of allCandidates) {
     if (queuedCount >= maxToQueue) break;
@@ -380,6 +398,57 @@ async function main() {
     const ai = generateAiAssistance(item, topic);
     const featuredImage = item.imageUrl || FALLBACK_IMAGES[topic] || FALLBACK_IMAGES.default;
 
+    let publishedArticleId = null;
+
+    if (shouldAutoPublish) {
+      try {
+        let targetCategory = await prisma.category.findUnique({ where: { slug: topic } });
+        if (!targetCategory) {
+          targetCategory = await prisma.category.findFirst({ where: { parentId: null } });
+        }
+
+        let finalSlug = baseSlug;
+        let slugCounter = 1;
+        while (await prisma.article.findUnique({ where: { slug: finalSlug } })) {
+          finalSlug = `${baseSlug}-${slugCounter}`;
+          slugCounter++;
+        }
+
+        const article = await prisma.article.create({
+          data: {
+            title: item.title,
+            slug: finalSlug,
+            excerpt: item.summary.slice(0, 160) || `Editorial analysis of ${item.title.slice(0, 80)}.`,
+            content: ai.draftContent,
+            featuredImage: featuredImage,
+            imageAltText: `Documentation coverage for ${item.title}`,
+            imageCaption: `Hardware reporting and technical analysis for ${item.title.slice(0, 70)} by NusaLensa Newsroom.`,
+            imageSource: `Source: ${item.sourceName}`,
+            authorId: defaultAuthor.id,
+            categoryId: targetCategory ? targetCategory.id : 1,
+            articleType: 'NEWS',
+            status: 'PUBLISHED',
+            isNews: true,
+            isFeatured: false,
+            isTrending: true,
+            canonicalUrl: item.sourceUrl,
+            seoTitle: `${item.title.slice(0, 60)} | NusaLensa`,
+            seoDescription: item.summary.slice(0, 155),
+            faqs: JSON.stringify(ai.faqs),
+            sources: JSON.stringify(ai.sources),
+            readingTime: Math.max(Math.ceil(ai.draftContent.split(/\s+/).length / 200), 4),
+            publishedAt: item.pubDate ? new Date(item.pubDate) : new Date(),
+          },
+        });
+
+        publishedArticleId = article.id;
+        publishedCount++;
+        console.log(`[AUTO-PUBLISHED LIVE] "${item.title}" -> /${targetCategory ? targetCategory.slug : 'news'}/${finalSlug}`);
+      } catch (pubErr) {
+        console.warn(`[WARN] Failed to auto-publish live article:`, pubErr.message);
+      }
+    }
+
     try {
       await prisma.curatedNewsQueue.upsert({
         where: { urlHash },
@@ -388,6 +457,8 @@ async function main() {
           sourceSummary: item.summary,
           sourceImage: featuredImage,
           sourcePublishedAt: item.pubDate,
+          status: shouldAutoPublish && publishedArticleId ? 'APPROVED' : 'PENDING_REVIEW',
+          articleId: publishedArticleId,
         },
         create: {
           sourceName: item.sourceName,
@@ -412,7 +483,8 @@ async function main() {
           outlineJson: JSON.stringify(ai.outline),
           factCheckChecklist: JSON.stringify(ai.factCheckChecklist),
           missingCitations: JSON.stringify(ai.missingCitations),
-          status: 'PENDING_REVIEW', // Strict requirement: Must enter review queue, never published directly!
+          status: shouldAutoPublish && publishedArticleId ? 'APPROVED' : 'PENDING_REVIEW',
+          articleId: publishedArticleId,
         },
       });
 
@@ -420,8 +492,7 @@ async function main() {
       existingUrls.add(item.sourceUrl);
       queuedCount++;
 
-      console.log(`[QUEUED FOR REVIEW] "${item.title}"`);
-      console.log(`                   Source: ${item.sourceName} | Topic: ${topic} | Status: PENDING_REVIEW`);
+      console.log(`[INTAKE PROCESSED] "${item.title}" (${item.sourceName} | Topic: ${topic})`);
     } catch (saveErr) {
       console.warn(`[WARN] Failed to insert queue item:`, saveErr.message);
     }
@@ -429,10 +500,19 @@ async function main() {
 
   console.log('\n====================================================');
   console.log(`>>> INTAKE COMPLETE`);
-  console.log(`    - Newly Queued for Review: ${queuedCount}`);
+  console.log(`    - Articles Auto-Published Live: ${publishedCount}`);
+  console.log(`    - Items Queued in Admin: ${queuedCount}`);
   console.log(`    - Skipped Duplicates: ${skippedDuplicates}`);
-  console.log(`    - Review Queue: Accessible via /admin/news-curator`);
   console.log('====================================================');
+
+  // Automatically update XML Sitemaps with all published articles
+  try {
+    const { generateAllSitemaps } = require('./generate-sitemap');
+    console.log('\n>>> Automatically updating XML Sitemaps with all published articles...');
+    await generateAllSitemaps();
+  } catch (sitemapErr) {
+    console.warn('[WARN] Automatic sitemap update notice:', sitemapErr.message);
+  }
 }
 
 main()

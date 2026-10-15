@@ -103,9 +103,17 @@ async function generateAllSitemaps() {
   console.log(`>>> Processing ${devices.length} devices and ${brands.length} brands...`);
 
   // ==========================================
-  // A. GENERATE sitemap-news.xml (Google News)
+  // A. GENERATE sitemap-news.xml (Google News Compliance - 48h window)
   // ==========================================
-  const recentNews = articles.slice(0, 100);
+  const now = new Date();
+  const twoDaysAgo = new Date(now.getTime() - 48 * 60 * 60 * 1000);
+  let recentNews = articles.filter((a) => {
+    if (!a.publishedAt) return false;
+    return new Date(a.publishedAt) >= twoDaysAgo;
+  });
+  if (recentNews.length < 15) {
+    recentNews = articles.slice(0, 30);
+  }
   const newsEntries = recentNews
     .map((a) => {
       const artUrl = `${BASE_URL}/${a.category.slug}/${a.slug}`;
@@ -383,6 +391,8 @@ Disallow: /api/
 
 # Sitemaps
 Sitemap: ${BASE_URL}/sitemap.xml
+Sitemap: ${BASE_URL}/sitemap-index.xml
+Sitemap: ${BASE_URL}/sitemap_index.xml
 Sitemap: ${BASE_URL}/sitemap-news.xml
 Sitemap: ${BASE_URL}/sitemap-articles.xml
 Sitemap: ${BASE_URL}/sitemap-devices.xml
@@ -422,8 +432,8 @@ ${rssItems}
   </channel>
 </rss>`;
 
-  // Target directories to write: public and dist (if exists)
-  const targets = [PUBLIC_DIR];
+  // Target directories to write: public, root, and dist (if exists)
+  const targets = [PUBLIC_DIR, ROOT];
   if (fs.existsSync(DIST_DIR)) {
     targets.push(DIST_DIR);
   }
@@ -431,6 +441,7 @@ ${rssItems}
   for (const dir of targets) {
     fs.writeFileSync(path.join(dir, 'sitemap.xml'), masterDirectSitemapXml.trim() + '\n', 'utf8');
     fs.writeFileSync(path.join(dir, 'sitemap-index.xml'), sitemapIndexXml.trim() + '\n', 'utf8');
+    fs.writeFileSync(path.join(dir, 'sitemap_index.xml'), sitemapIndexXml.trim() + '\n', 'utf8');
     fs.writeFileSync(path.join(dir, 'sitemap-news.xml'), sitemapNewsXml.trim() + '\n', 'utf8');
     fs.writeFileSync(path.join(dir, 'sitemap-articles.xml'), sitemapArticlesXml.trim() + '\n', 'utf8');
     fs.writeFileSync(path.join(dir, 'sitemap-devices.xml'), sitemapDevicesXml.trim() + '\n', 'utf8');

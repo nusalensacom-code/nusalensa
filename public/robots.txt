@@ -38,6 +38,8 @@ Disallow: /api/
 
 # Sitemaps
 Sitemap: https://nusalensa.com/sitemap.xml
+Sitemap: https://nusalensa.com/sitemap-index.xml
+Sitemap: https://nusalensa.com/sitemap_index.xml
 Sitemap: https://nusalensa.com/sitemap-news.xml
 Sitemap: https://nusalensa.com/sitemap-articles.xml
 Sitemap: https://nusalensa.com/sitemap-devices.xml

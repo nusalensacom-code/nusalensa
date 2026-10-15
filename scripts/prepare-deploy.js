@@ -136,8 +136,11 @@ fs.writeFileSync(path.join(DIST_DIR, '_headers'), headersContent.trim() + '\n');
 const sitemapFiles = [
   'sitemap.xml',
   'sitemap-index.xml',
+  'sitemap_index.xml',
   'sitemap-news.xml',
   'sitemap-articles.xml',
+  'sitemap-devices.xml',
+  'sitemap-brands.xml',
   'sitemap-categories.xml',
   'sitemap-topics.xml',
   'sitemap-pages.xml',
