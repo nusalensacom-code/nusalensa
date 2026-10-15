@@ -468,6 +468,46 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://nusalensa.com/technology/the-tech-backlash-is-now-in-theaters</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-5.28.21-PM.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>The tech backlash is now in theaters</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-uk-may-expand-the-bbc-license-fee-charging-residents-to-watch-streaming-services</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/the-uk-may-expand-the-bbc-license-fee-charging-residents-to-watch-streaming-services/l-intro-1792100024.jpg</image:loc>
+      <image:title>The UK may expand the BBC license fee, charging residents to watch streaming services</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/youtube-is-planning-to-add-audiobooks-to-its-premium-subscription-the-wsj-reports</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
+      <image:title>YouTube is planning to add audiobooks to its Premium subscription, the WSJ reports</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/plex-now-helps-sell-movie-theater-tickets</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2218632851-1152x648.jpg</image:loc>
+      <image:title>Plex now helps sell movie theater tickets</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/google-reminds-android-users-of-an-overlooked-scam-detection-tool</loc>
     <lastmod>2026-10-15</lastmod>
     <changefreq>daily</changefreq>
@@ -475,6 +515,16 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/02/Pixel-8-Pro-Circle-To-Search-scaled.jpg</image:loc>
       <image:title>Google reminds Android users of an overlooked scam detection tool</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/hegseths-dubious-low-t-screening-may-flag-up-to-25-percent-of-the-army</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2293221834-1152x648.jpg</image:loc>
+      <image:title>Hegseth’s dubious low-T screening may flag up to 25 percent of the Army</image:title>
     </image:image>
   </url>
   <url>
@@ -525,6 +575,26 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/Anbernic-RG-Rotate-in-hand-1-scaled.jpg</image:loc>
       <image:title>ANBERNIC is quietly removing a controversial extra from its Android handhelds</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-1.jpg</image:loc>
+      <image:title>Targeted ads delivered 0-click exploits to install mercenary malware</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/above-the-911-porsche-previews-a-new-mid-engined-supercar</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/CC27X05IX0009_sRGB_072dpi-1152x648.jpg</image:loc>
+      <image:title>Above the 911? Porsche previews a new mid-engined supercar.</image:title>
     </image:image>
   </url>
   <url>
