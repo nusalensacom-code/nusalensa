@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/google-reminds-android-users-of-an-overlooked-scam-detection-tool</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T21:16:40Z</news:publication_date>
+      <news:title>Google reminds Android users of an overlooked scam detection tool</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/02/Pixel-8-Pro-Circle-To-Search-scaled.jpg</image:loc>
+      <image:title>Google reminds Android users of an overlooked scam detection tool</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/trump-posts-ai-edited-photo-to-brag-about-white-house-restoration-work</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T21:09:33Z</news:publication_date>
+      <news:title>Trump posts AI-edited photo to brag about White House restoration work</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/27a4ed6e86bbf2cf-1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Trump posts AI-edited photo to brag about White House restoration work</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/snapseed-looks-like-it8217s-working-on-its-own-magic-eraser-upgrade</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T21:05:31Z</news:publication_date>
+      <news:title>Snapseed looks like it&amp;#8217;s working on its own Magic Eraser upgrade</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/04/using-the-selective-editor-in-snapseed-scaled.jpg</image:loc>
+      <image:title>Snapseed looks like it&amp;#8217;s working on its own Magic Eraser upgrade</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/apple-pledged-3625-million-to-trump039s-white-house-ballroom</loc>
     <news:news>
       <news:publication>
