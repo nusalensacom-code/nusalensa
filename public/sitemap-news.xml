@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/teslas-redesigned-roadster-has-a-cold-gas-thruster-option-but-youll-need-250000-just-to-reserve-it</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T01:48:05Z</news:publication_date>
+      <news:title>Tesla&apos;s redesigned Roadster has a cold-gas thruster option, but you&apos;ll need $250,000 just to reserve it</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/teslas-redesigned-roadster-cold-gas-thruster-option-reservation/l-intro-1792115458.jpg</image:loc>
+      <image:title>Tesla&apos;s redesigned Roadster has a cold-gas thruster option, but you&apos;ll need $250,000 just to reserve it</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/heres-when-apple-will-show-off-its-touchscreen-macbooks-and-the-oled-ipad-mini</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T01:31:02Z</news:publication_date>
+      <news:title>Here&apos;s when Apple will show off its touchscreen MacBooks and the OLED iPad mini</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
+      <image:title>Here&apos;s when Apple will show off its touchscreen MacBooks and the OLED iPad mini</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-tesla-roadster-flew-drove-upside-down-and-hit-60mph-in-under-a-second</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T01:28:27Z</news:publication_date>
+      <news:title>The Tesla Roadster flew, drove upside down, and hit 60mph in under a second</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/HUtthGyaMAEkD-g.jpeg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>The Tesla Roadster flew, drove upside down, and hit 60mph in under a second</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/gemini-4-argon-is-now-rolling-out-to-google8217s-antigravity-for-ai-pro-subscribers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T01:10:00Z</news:publication_date>
+      <news:title>Gemini 4 Argon is now rolling out to Google&amp;#8217;s Antigravity for AI Pro subscribers</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/09/Googlebook-Antigravity-Macro.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Gemini 4 Argon is now rolling out to Google&amp;#8217;s Antigravity for AI Pro subscribers</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/tipster-says-galaxy-s27-ultra-will-have-slightly-thicker-bezels-than-s26-ultra</loc>
     <news:news>
       <news:publication>
