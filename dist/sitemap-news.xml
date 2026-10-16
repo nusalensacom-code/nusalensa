@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/buying-an-iphone-duo-verizon-has-a-few-ways-to-make-it-cheaper</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T18:05:41Z</news:publication_date>
+      <news:title>Buying an iPhone Duo? Verizon has a few ways to make it cheaper</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-iPhone-Duo-Hands-On-Inner-display.jpg</image:loc>
+      <image:title>Buying an iPhone Duo? Verizon has a few ways to make it cheaper</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/hate-the-idea-of-paying-for-youtube-premium-imagine-paying-240-a-year-for-regular-youtube</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T17:59:04Z</news:publication_date>
+      <news:title>Hate the idea of paying for YouTube Premium? Imagine paying $240 a year for regular YouTube</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2022/04/YouTube-on-smartphone-stock-photo-18.jpg</image:loc>
+      <image:title>Hate the idea of paying for YouTube Premium? Imagine paying $240 a year for regular YouTube</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/chatgpt-gets-deeper-google-chrome-integration-including-control-over-tabs</loc>
     <news:news>
       <news:publication>
