@@ -27,11 +27,12 @@ export default function AiWriterPage() {
 
   const [recentJobs, setRecentJobs] = useState<any[]>([]);
   const [isLoadingJobs, setIsLoadingJobs] = useState(true);
+  const [isLocalHost, setIsLocalHost] = useState(true);
 
   const [providerStatus, setProviderStatus] = useState({
     configured: false,
-    provider: 'none',
-    model: 'built-in-synthesizer',
+    provider: 'Built-in Synthesizer',
+    model: '1,200+ Word Technical Engine',
     message: 'Checking AI provider status...',
   });
 
@@ -41,8 +42,22 @@ export default function AiWriterPage() {
       if (res.ok) {
         const data = await res.json();
         if (data?.status) setProviderStatus(data.status);
+      } else {
+        setProviderStatus({
+          configured: false,
+          provider: 'Built-in Synthesizer',
+          model: '1,200+ Word Technical Engine',
+          message: 'Synthesizer teknis bawaan siap digunakan (Gratis tanpa kuota API key). Masukkan GEMINI_API_KEY atau OPENAI_API_KEY di .env jika ingin menggunakan LLM eksternal.',
+        });
       }
-    } catch (e) {}
+    } catch (e) {
+      setProviderStatus({
+        configured: false,
+        provider: 'Built-in Synthesizer',
+        model: '1,200+ Word Technical Engine',
+        message: 'Synthesizer teknis bawaan siap digunakan di server studio lokal komputer Anda (port 3000).',
+      });
+    }
   };
 
   const loadRecentJobs = async () => {
@@ -59,6 +74,10 @@ export default function AiWriterPage() {
   };
 
   useEffect(() => {
+    if (typeof window !== 'undefined') {
+      const host = window.location.hostname;
+      setIsLocalHost(host === 'localhost' || host === '127.0.0.1');
+    }
     loadProviderStatus();
     loadRecentJobs();
   }, []);
@@ -139,6 +158,7 @@ export default function AiWriterPage() {
           <AiWriterGeneratorForm
             onJobStarted={handleJobStarted}
             providerStatus={providerStatus}
+            isLocalHost={isLocalHost}
           />
 
           {/* Recent Generation Jobs History */}
@@ -165,8 +185,25 @@ export default function AiWriterPage() {
                 Loading generation history...
               </div>
             ) : recentJobs.length === 0 ? (
-              <div className="text-center py-8 text-xs text-slate-400 bg-slate-50 rounded-xl border border-dashed border-slate-200">
-                No articles generated yet. Fill out the form above to generate your first 1,200+ word tech article!
+              <div className="text-center py-8 px-4 text-xs text-slate-500 bg-slate-50 rounded-xl border border-dashed border-slate-200 space-y-2.5">
+                <p className="font-medium text-slate-600">
+                  {isLocalHost
+                    ? 'Belum ada artikel yang di-generate. Isi formulir di atas untuk generate artikel teknologi 1.200+ kata pertama Anda!'
+                    : 'Riwayat artikel & draf tersimpan di database lokal komputer Anda.'}
+                </p>
+                {!isLocalHost && (
+                  <div>
+                    <a
+                      href="http://localhost:3000/admin/ai-writer"
+                      target="_blank"
+                      rel="noreferrer"
+                      className="inline-flex items-center gap-1.5 px-3.5 py-1.5 bg-blue-600 hover:bg-blue-700 text-white font-bold rounded-lg transition shadow-xs text-xs"
+                    >
+                      <span>Buka Riwayat di Server Lokal (http://localhost:3000)</span>
+                      <ExternalLink className="w-3.5 h-3.5 ml-0.5" />
+                    </a>
+                  </div>
+                )}
               </div>
             ) : (
               <div className="overflow-x-auto">

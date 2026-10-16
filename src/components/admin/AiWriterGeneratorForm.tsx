@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import {
   Sparkles,
   Layers,
@@ -16,6 +16,8 @@ import {
   CheckCircle2,
   Info,
   Zap,
+  Laptop,
+  ExternalLink,
 } from 'lucide-react';
 import { ArticleType, TargetAudience, TargetMarket, WritingTone, ResearchMode } from '@/lib/aiWriter/types';
 import { adminClientFetch } from '@/lib/clientAuthFetch';
@@ -28,9 +30,10 @@ interface GeneratorFormProps {
     model: string;
     message: string;
   };
+  isLocalHost?: boolean;
 }
 
-export function AiWriterGeneratorForm({ onJobStarted, providerStatus }: GeneratorFormProps) {
+export function AiWriterGeneratorForm({ onJobStarted, providerStatus, isLocalHost = true }: GeneratorFormProps) {
   const [primaryKeyword, setPrimaryKeyword] = useState('');
   const [articleType, setArticleType] = useState<ArticleType>('BUYING_GUIDE');
   const [targetAudience, setTargetAudience] = useState<TargetAudience>('General Consumers');
@@ -43,6 +46,40 @@ export function AiWriterGeneratorForm({ onJobStarted, providerStatus }: Generato
 
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [errorMsg, setErrorMsg] = useState('');
+  const [redirectNotice, setRedirectNotice] = useState<{ active: boolean; url: string; keyword: string }>({
+    active: false,
+    url: '',
+    keyword: '',
+  });
+
+  // Prefill from URL query params (e.g. redirected from live domain nusalensa.com)
+  useEffect(() => {
+    if (typeof window !== 'undefined') {
+      const params = new URLSearchParams(window.location.search);
+      const kw = params.get('keyword');
+      const at = params.get('type') as ArticleType;
+      const tm = params.get('market') as TargetMarket;
+      const wc = params.get('words');
+      const auto = params.get('autoStart');
+
+      if (kw) setPrimaryKeyword(kw);
+      if (at) setArticleType(at);
+      if (tm) setTargetMarket(tm);
+      if (wc && !isNaN(parseInt(wc, 10))) setTargetWordCount(parseInt(wc, 10));
+
+      if (auto === '1' && kw && isLocalHost) {
+        const timer = setTimeout(() => {
+          submitGenerationJob({
+            overrideKeyword: kw,
+            overrideType: at || 'BUYING_GUIDE',
+            overrideMarket: tm || 'Global',
+            overrideWords: wc ? parseInt(wc, 10) : 1500,
+          });
+        }, 400);
+        return () => clearTimeout(timer);
+      }
+    }
+  }, [isLocalHost]);
 
   const handleAddUrl = () => {
     if (referenceUrls.length < 5) {
@@ -61,21 +98,19 @@ export function AiWriterGeneratorForm({ onJobStarted, providerStatus }: Generato
     setReferenceUrls(updated.length > 0 ? updated : ['']);
   };
 
-  const handleSubmit = async (e: React.FormEvent) => {
-    e.preventDefault();
+  const submitGenerationJob = async (overrides?: {
+    overrideKeyword?: string;
+    overrideType?: ArticleType;
+    overrideMarket?: TargetMarket;
+    overrideWords?: number;
+  }) => {
     setErrorMsg('');
-
-    if (!primaryKeyword.trim()) {
-      setErrorMsg('Please enter a Primary Keyword.');
-      return;
-    }
-
-    if (targetWordCount < 1200) {
-      setErrorMsg('Minimum target word count must be at least 1,200 words.');
-      return;
-    }
-
     setIsSubmitting(true);
+
+    const kw = (overrides?.overrideKeyword || primaryKeyword).trim();
+    const at = overrides?.overrideType || articleType;
+    const tm = overrides?.overrideMarket || targetMarket;
+    const words = overrides?.overrideWords || targetWordCount;
 
     try {
       const secondaryKeywords = secondaryKeywordsInput
@@ -89,12 +124,12 @@ export function AiWriterGeneratorForm({ onJobStarted, providerStatus }: Generato
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
-          primaryKeyword: primaryKeyword.trim(),
-          articleType,
+          primaryKeyword: kw,
+          articleType: at,
           targetAudience,
-          targetMarket,
+          targetMarket: tm,
           secondaryKeywords,
-          targetWordCount,
+          targetWordCount: words,
           writingTone,
           researchMode,
           referenceUrls: validUrls,
@@ -103,7 +138,7 @@ export function AiWriterGeneratorForm({ onJobStarted, providerStatus }: Generato
 
       if (res.status === 405) {
         throw new Error(
-          'Cloudflare Pages runs in Static Hosting mode. To generate new articles with AI and save to database, please use the local admin dashboard at http://localhost:3000/admin/ai-writer'
+          'Cloudflare Pages berjalan dalam Mode CDN Statis. Silakan buka studio AI di http://localhost:3000/admin/ai-writer'
         );
       }
 
@@ -119,25 +154,116 @@ export function AiWriterGeneratorForm({ onJobStarted, providerStatus }: Generato
     }
   };
 
+  const handleSubmit = async (e: React.FormEvent) => {
+    e.preventDefault();
+    setErrorMsg('');
+
+    if (!primaryKeyword.trim()) {
+      setErrorMsg('Please enter a Primary Keyword.');
+      return;
+    }
+
+    if (targetWordCount < 1200) {
+      setErrorMsg('Minimum target word count must be at least 1,200 words.');
+      return;
+    }
+
+    // If running on live public domain (Cloudflare Pages static CDN), smoothly open local studio
+    if (!isLocalHost) {
+      const localUrl = `http://localhost:3000/admin/ai-writer?keyword=${encodeURIComponent(primaryKeyword.trim())}&type=${articleType}&market=${encodeURIComponent(targetMarket)}&words=${targetWordCount}&autoStart=1`;
+      window.open(localUrl, '_blank');
+      setRedirectNotice({
+        active: true,
+        url: localUrl,
+        keyword: primaryKeyword.trim(),
+      });
+      return;
+    }
+
+    await submitGenerationJob();
+  };
+
   return (
     <form onSubmit={handleSubmit} className="space-y-6">
+      {/* Cloudflare Pages Static Notice on Live Domain */}
+      {!isLocalHost && (
+        <div className="p-5 rounded-2xl bg-gradient-to-r from-blue-50 via-indigo-50 to-sky-50 border border-blue-200 text-slate-800 shadow-xs">
+          <div className="flex items-start gap-3.5">
+            <div className="p-2.5 rounded-xl bg-blue-600 text-white flex-shrink-0 mt-0.5 shadow-sm">
+              <Laptop className="w-5 h-5 text-amber-300" />
+            </div>
+            <div className="flex-1 space-y-2">
+              <div className="flex flex-wrap items-center gap-2">
+                <span className="text-[11px] font-bold uppercase tracking-wider text-blue-700 bg-blue-100 px-2.5 py-0.5 rounded-md border border-blue-200">
+                  Cloudflare Pages (Mode CDN Statis)
+                </span>
+                <span className="text-xs text-slate-500 font-medium">Domain Publik: nusalensa.com</span>
+              </div>
+              <p className="text-xs text-slate-700 leading-relaxed font-medium">
+                Website live <strong>nusalensa.com</strong> di-deploy sebagai Static CDN berkecepatan tinggi tanpa komputasi backend di cloud.
+                Mesin AI generator artikel (1.200+ kata) dan database SQLite aktif langsung di <strong>server lokal komputer Anda</strong>.
+              </p>
+              <div className="pt-1 flex flex-wrap items-center gap-3">
+                <a
+                  href={`http://localhost:3000/admin/ai-writer${primaryKeyword.trim() ? `?keyword=${encodeURIComponent(primaryKeyword.trim())}&type=${articleType}&market=${encodeURIComponent(targetMarket)}&words=${targetWordCount}` : ''}`}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="inline-flex items-center gap-2 px-4 py-2.5 bg-blue-600 hover:bg-blue-700 text-white font-bold text-xs rounded-xl shadow-sm transition active:scale-95"
+                >
+                  <Sparkles className="w-4 h-4 text-amber-300" />
+                  <span>Buka AI Writer di Server Lokal (Port 3000)</span>
+                  <ExternalLink className="w-3.5 h-3.5" />
+                </a>
+                <span className="text-[11px] text-slate-500 font-medium">
+                  (Port 3000 sedang aktif di PC Anda — klik tombol di bawah juga akan otomatis membuka generator)
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* Redirect Notification when user submitted on live domain */}
+      {redirectNotice.active && (
+        <div className="p-4 rounded-xl bg-blue-50 border border-blue-200 text-blue-900 text-xs flex flex-col sm:flex-row sm:items-center justify-between gap-3 animate-in fade-in">
+          <div className="flex items-center gap-2.5">
+            <CheckCircle2 className="w-4 h-4 text-blue-600 flex-shrink-0" />
+            <div>
+              <span className="font-bold">Membuka AI Writer Lokal di tab baru</span> untuk topik: <em>"{redirectNotice.keyword}"</em>.
+            </div>
+          </div>
+          <a
+            href={redirectNotice.url}
+            target="_blank"
+            rel="noreferrer"
+            className="inline-flex items-center gap-1.5 px-3 py-1.5 bg-blue-600 hover:bg-blue-700 text-white font-bold rounded-lg transition self-start sm:self-auto"
+          >
+            <span>Klik di Sini Jika Tab Belum Muncul</span>
+            <ExternalLink className="w-3.5 h-3.5" />
+          </a>
+        </div>
+      )}
+
       {/* Provider Connectivity Status Banner */}
       <div className={`p-4 rounded-2xl border text-xs flex items-start justify-between gap-3 ${
         providerStatus.configured
           ? 'bg-emerald-50 border-emerald-200 text-emerald-800'
-          : 'bg-amber-50 border-amber-200 text-amber-800'
+          : 'bg-blue-50/80 border-blue-200 text-blue-900'
       }`}>
         <div className="flex items-start gap-2.5">
           {providerStatus.configured ? (
             <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
           ) : (
-            <Info className="w-4 h-4 text-amber-600 flex-shrink-0 mt-0.5" />
+            <Zap className="w-4 h-4 text-blue-600 flex-shrink-0 mt-0.5" />
           )}
           <div>
-            <div className="font-bold flex items-center gap-1.5">
+            <div className="font-bold flex items-center gap-1.5 flex-wrap">
               <span>AI Provider Status:</span>
-              <span className="uppercase font-black px-1.5 py-0.5 bg-white/70 rounded border text-[10px]">
+              <span className="uppercase font-black px-1.5 py-0.5 bg-white/80 rounded border text-[10px] text-slate-800">
                 {providerStatus.provider} ({providerStatus.model})
+              </span>
+              <span className="text-[10px] font-bold text-emerald-700 bg-emerald-100 px-2 py-0.5 rounded-full border border-emerald-200">
+                Ready to Generate
               </span>
             </div>
             <p className="mt-0.5 text-slate-600 leading-relaxed">
@@ -416,10 +542,24 @@ export function AiWriterGeneratorForm({ onJobStarted, providerStatus }: Generato
           <button
             type="submit"
             disabled={isSubmitting}
-            className="w-full sm:w-auto px-8 py-3.5 bg-brand-600 hover:bg-brand-700 disabled:opacity-50 text-white font-extrabold text-sm rounded-xl shadow-md transition-all active:scale-98 flex items-center justify-center gap-2"
+            className={`w-full sm:w-auto px-8 py-3.5 text-white font-extrabold text-sm rounded-xl shadow-md transition-all active:scale-98 flex items-center justify-center gap-2 ${
+              isLocalHost
+                ? 'bg-brand-600 hover:bg-brand-700 disabled:opacity-50'
+                : 'bg-blue-600 hover:bg-blue-700'
+            }`}
           >
-            <Sparkles className={`w-4 h-4 ${isSubmitting ? 'animate-spin' : ''}`} />
-            <span>{isSubmitting ? 'Initiating Generation...' : 'Generate Article'}</span>
+            {isLocalHost ? (
+              <>
+                <Sparkles className={`w-4 h-4 ${isSubmitting ? 'animate-spin' : ''}`} />
+                <span>{isSubmitting ? 'Initiating Generation...' : 'Generate Article (1,200+ Words)'}</span>
+              </>
+            ) : (
+              <>
+                <Laptop className="w-4 h-4" />
+                <span>Buka &amp; Generate di Server Lokal (Port 3000)</span>
+                <ExternalLink className="w-3.5 h-3.5 ml-1" />
+              </>
+            )}
           </button>
         </div>
       </div>
