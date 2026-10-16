@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/redmagic-12-pro-launches-with-rgb-liquid-cooling-and-a-185hz-screen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T02:31:02Z</news:publication_date>
+      <news:title>RedMagic 12 Pro+ launches with RGB liquid cooling and a 185Hz screen</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
+      <image:title>RedMagic 12 Pro+ launches with RGB liquid cooling and a 185Hz screen</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/relive-teslas-ridiculously-fun-roadster-stunt-show</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T02:24:52Z</news:publication_date>
+      <news:title>Relive Tesla&apos;s ridiculous(ly fun) Roadster stunt show</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/relive-teslas-ridiculously-fun-roadster-stunt-show/l-intro-1792117283.jpg</image:loc>
+      <image:title>Relive Tesla&apos;s ridiculous(ly fun) Roadster stunt show</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/teslas-redesigned-roadster-has-a-cold-gas-thruster-option-but-youll-need-250000-just-to-reserve-it</loc>
     <news:news>
       <news:publication>
