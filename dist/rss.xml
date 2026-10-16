@@ -5,8 +5,17 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 16 Oct 2026 03:28:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 04:03:13 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Samsung Galaxy A38&apos;s camera details surface</title>
+      <link>https://nusalensa.com/phones/samsung-galaxy-a38s-camera-details-surface</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/samsung-galaxy-a38s-camera-details-surface</guid>
+      <description>&lt;img src=&quot;https://fdn.gsmarena.com/imgroot/news/26/10/samsung-galaxy-a38-camera-specs-surface/-184x111/gsmarena_001.jpg&quot; width=&quot;184&quot; height=&quot;111&quot; hspace=&quot;3&quot; alt</description>
+      <category>Smartphones</category>
+      <pubDate>Fri, 16 Oct 2026 03:41:02 GMT</pubDate>
+      <enclosure url="https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&amp;fit=crop&amp;w=1200&amp;q=80" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>RedMagic 12 Pro+ launches with RGB liquid cooling and a 185Hz screen</title>
       <link>https://nusalensa.com/phones/redmagic-12-pro-launches-with-rgb-liquid-cooling-and-a-185hz-screen</link>
@@ -267,15 +276,6 @@
       <category>Reviews</category>
       <pubDate>Thu, 15 Oct 2026 20:30:02 GMT</pubDate>
       <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/CC27X05IX0009_sRGB_072dpi-1152x648.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>NY congressman to introduce bill protecting video game ownership</title>
-      <link>https://nusalensa.com/technology/ny-congressman-to-introduce-bill-protecting-video-game-ownership</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/ny-congressman-to-introduce-bill-protecting-video-game-ownership</guid>
-      <description>Representative Ritchie Torres wants the FTC to establish regulations ensuring you can play the games you&apos;ve purchased.</description>
-      <category>Technology</category>
-      <pubDate>Thu, 15 Oct 2026 20:15:05 GMT</pubDate>
-      <enclosure url="https://www.engadget.com/img/gallery/ny-congressman-to-introduce-bill-protecting-video-game-ownership/l-intro-1792095244.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
