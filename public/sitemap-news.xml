@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/tecno-spark-50s-and-50c-unveiled-with-120hz-displays</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T11:33:02Z</news:publication_date>
+      <news:title>Tecno Spark 50s and 50C unveiled with 120Hz displays</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
+      <image:title>Tecno Spark 50s and 50C unveiled with 120Hz displays</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-first-major-oneplus-17-leak-hints-at-even-higher-refresh-rate</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T11:29:38Z</news:publication_date>
+      <news:title>The first major OnePlus 17 leak hints at even higher refresh rate</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/oneplus-15-blue-home-screen-scaled.jpg</image:loc>
+      <image:title>The first major OnePlus 17 leak hints at even higher refresh rate</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/android-auto8217s-missing-signal-bars-are-finally-making-a-proper-comeback</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T11:28:26Z</news:publication_date>
+      <news:title>Android Auto&amp;#8217;s missing signal bars are finally making a proper comeback</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Ask-Gemini-feature-on-Waze-on-Android-Auto-dashboard.jpg</image:loc>
+      <image:title>Android Auto&amp;#8217;s missing signal bars are finally making a proper comeback</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-galaxy-s27-plus-could-break-nearly-six-years-of-tradition-with-this-downgrade</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T11:28:01Z</news:publication_date>
+      <news:title>The Galaxy S27 Plus could break nearly six years of tradition with this downgrade</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/02/Samsung-Galaxy-S26-Plus-Home-Screen.jpg</image:loc>
+      <image:title>The Galaxy S27 Plus could break nearly six years of tradition with this downgrade</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/after-chrome-we-now-have-a-whatsapp-dupe-on-the-play-store-with-500000-downloads</loc>
     <news:news>
       <news:publication>
@@ -45,6 +105,21 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/sony-walkman-wm1zm3-flagship-hero-image.jpg</image:loc>
       <image:title>Sony&amp;#8217;s new $5,900 gold-plated Walkman music player doesn&amp;#8217;t come with the latest version of Android</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/rocket-report-faa-eyes-more-starbase-traffic-indias-skyroot-snares-us-customer</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T11:00:53Z</news:publication_date>
+      <news:title>Rocket Report: FAA eyes more Starbase traffic; India&apos;s Skyroot snares US customer</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/stoke1-1152x648.jpg</image:loc>
+      <image:title>Rocket Report: FAA eyes more Starbase traffic; India&apos;s Skyroot snares US customer</image:title>
     </image:image>
   </url>
   <url>
@@ -2640,21 +2715,6 @@
     <image:image>
       <image:loc>https://images.unsplash.com/photo-1585060544812-6b45742d762f?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
       <image:title>Rumor claims the Oppo Reno17 series won&apos;t include a Pro model</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/i-phone-18-1</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T11:56:36Z</news:publication_date>
-      <news:title>i phone 18 In-Depth Technical Review: Hardware, Silicon &amp; Real-World Verdict</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
-      <image:title>i phone 18 In-Depth Technical Review: Hardware, Silicon &amp; Real-World Verdict</image:title>
     </image:image>
   </url>
 </urlset>
