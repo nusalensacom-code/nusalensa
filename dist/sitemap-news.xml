@@ -3,6 +3,81 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/amazon-drops-the-rugged-ultimate-ears-wonderboom-4-speaker-to-6499</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T15:18:22Z</news:publication_date>
+      <news:title>Amazon drops the rugged Ultimate Ears Wonderboom 4 speaker to $64.99</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/Ultimate-Ears-WONDERBOOM-4-Portable-Waterproof-Speaker-Press-Image.jpg</image:loc>
+      <image:title>Amazon drops the rugged Ultimate Ears Wonderboom 4 speaker to $64.99</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/analogue-is-re-releasing-its-snes-and-genesis-consoles-with-some-nice-upgrades</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T15:08:38Z</news:publication_date>
+      <news:title>Analogue is re-releasing its SNES and Genesis consoles with some nice upgrades</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/analogue1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Analogue is re-releasing its SNES and Genesis consoles with some nice upgrades</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/a-fake-whatsapp-clone-is-showing-up-before-the-real-version-on-the-play-store</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T15:02:23Z</news:publication_date>
+      <news:title>A fake WhatsApp clone is showing up before the real version on the Play Store</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/acastro_STK460_googlePlay_04.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>A fake WhatsApp clone is showing up before the real version on the Play Store</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-says-fix-for-android-auto8217s-missing-signal-icon-is-rolling-out-and-it-actually-is-u</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T15:01:50Z</news:publication_date>
+      <news:title>Google says fix for Android Auto&amp;#8217;s missing signal icon is rolling out, and it actually is [U]</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/05/Close-up-battery-and-signal-on-Android-Auto.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Google says fix for Android Auto&amp;#8217;s missing signal icon is rolling out, and it actually is [U]</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/a-week-with-rtx-spark-everything-weve-learned-using-nvidias-new-laptops</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T15:00:00Z</news:publication_date>
+      <news:title>A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_laptops_Asus_HP_Lenovo_ADiBenedetto_0001.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/oneplus-ace-7-and-ace-7-pro-could-both-get-200mp-main-cameras</loc>
     <news:news>
       <news:publication>
