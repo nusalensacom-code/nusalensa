@@ -468,6 +468,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/tipster-says-galaxy-s27-ultra-will-have-slightly-thicker-bezels-than-s26-ultra</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
+      <image:title>Tipster says Galaxy S27 Ultra will have slightly thicker bezels than S26 Ultra</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/oops-apple039s-website-just-hinted-at-ipad-mini-8</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/07/iPad-mini-7-Review-Thumb-1-sans-text.jpg</image:loc>
+      <image:title>Oops, Apple&amp;#039;s Website Just Hinted at iPad Mini 8</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/amazon-launches-bee-frontier-ai-wearable-and-bee-eclipse-phone-attachment</loc>
     <lastmod>2026-10-15</lastmod>
     <changefreq>daily</changefreq>
@@ -525,6 +545,16 @@
     <image:image>
       <image:loc>https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
       <image:title>Boost Mobile teams up with Mike Tyson for its new ad campaign</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/kde-turns-30-with-plasma-68-remote-upgrades-and-an-x11-farewell</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/KDE_Birthday_30th_Laptop-1070x648.png</image:loc>
+      <image:title>KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell</image:title>
     </image:image>
   </url>
   <url>
