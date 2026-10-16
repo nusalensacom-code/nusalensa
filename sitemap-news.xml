@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/chatgpt-can-now-look-at-your-chrome-tabs-to-do-tasks-for-you</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T10:06:15Z</news:publication_date>
+      <news:title>ChatGPT can now look at your Chrome tabs to do tasks for you</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/chatgpt-can-now-look-at-your-chrome-tabs-to-do-tasks-for-you/l-intro-1792145069.jpg</image:loc>
+      <image:title>ChatGPT can now look at your Chrome tabs to do tasks for you</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/i-ignored-this-google-maps-feature-for-10-years-and-now-i-cant-live-without-it</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T10:00:58Z</news:publication_date>
+      <news:title>I ignored this Google Maps feature for 10 years, and now I can’t live without it</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/cape-town-in-google-maps-scaled.jpg</image:loc>
+      <image:title>I ignored this Google Maps feature for 10 years, and now I can’t live without it</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/blue-origin-is-going-all-in-on-the-new-glenn-rocket</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T10:00:54Z</news:publication_date>
+      <news:title>Blue Origin is going all in on the New Glenn rocket</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/Blue-Origin-Upper-Stage-Facility-Still-Render-1152x648.png</image:loc>
+      <image:title>Blue Origin is going all in on the New Glenn rocket</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/googlebook-review-android-on-a-laptop-is-still-android</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T10:00:32Z</news:publication_date>
+      <news:title>Googlebook review: Android on a laptop is still Android</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/Googlebooks-1-1152x648.jpg</image:loc>
+      <image:title>Googlebook review: Android on a laptop is still Android</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/iphone-18-pro-vs-iphone-duo-buyer039s-guide-which-should-you-choose</loc>
     <news:news>
       <news:publication>
