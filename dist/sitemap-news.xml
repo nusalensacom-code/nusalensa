@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/qualcomm-denies-rumors-about-snapdragon-8-elite-extreme-gen-6-overheating</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T20:01:02Z</news:publication_date>
+      <news:title>Qualcomm denies rumors about Snapdragon 8 Elite Extreme Gen 6 overheating</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/09/qualcomm-directx-12-rumor/gsmarena_000.jpg</image:loc>
+      <image:title>Qualcomm denies rumors about Snapdragon 8 Elite Extreme Gen 6 overheating</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/tiktok-bans-musk-documentary-account</loc>
     <news:news>
       <news:publication>
@@ -3105,66 +3120,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/ny-congressman-to-introduce-bill-protecting-video-game-ownership/l-intro-1792095244.jpg</image:loc>
       <image:title>NY congressman to introduce bill protecting video game ownership</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/sony-just-canceled-a-promised-android-17-update-for-one-of-its-xperia-phones</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T20:05:00Z</news:publication_date>
-      <news:title>Sony just canceled a promised Android 17 update for one of its Xperia phones</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/sony-xperia-10-vi.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Sony just canceled a promised Android 17 update for one of its Xperia phones</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/openai-sues-apple-claims-an-apple-employee-stole-proprietary-info-on-an-unreleased-product</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T20:01:02Z</news:publication_date>
-      <news:title>OpenAI sues Apple, claims an Apple employee stole proprietary info on an unreleased product</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
-      <image:title>OpenAI sues Apple, claims an Apple employee stole proprietary info on an unreleased product</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/bluesky8217s-ai-tool-now-lets-you-make-games-and-apps-to-share-on-social</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T19:57:16Z</news:publication_date>
-      <news:title>Bluesky&amp;#8217;s AI tool now lets you make games and apps to share on social</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-12.53.19-PM.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Bluesky&amp;#8217;s AI tool now lets you make games and apps to share on social</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/withings-now-charges-100-per-year-to-sync-your-data-to-other-apps</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T19:52:13Z</news:publication_date>
-      <news:title>Withings now charges $100 per year to sync your data to other apps</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268601_withings_bodyfit_AKrales_0099.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Withings now charges $100 per year to sync your data to other apps</image:title>
     </image:image>
   </url>
 </urlset>

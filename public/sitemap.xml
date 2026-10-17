@@ -468,6 +468,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/qualcomm-denies-rumors-about-snapdragon-8-elite-extreme-gen-6-overheating</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/09/qualcomm-directx-12-rumor/gsmarena_000.jpg</image:loc>
+      <image:title>Qualcomm denies rumors about Snapdragon 8 Elite Extreme Gen 6 overheating</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/tiktok-bans-musk-documentary-account</loc>
     <lastmod>2026-10-17</lastmod>
     <changefreq>daily</changefreq>
