@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/mercedes-amgs-first-ground-up-suv-is-a-1150hp-electric-beast</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T17:00:00Z</news:publication_date>
+      <news:title>Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/26C0332_071.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/elon-musk-settles-lawsuits-over-1-million-voter-giveaway</loc>
     <news:news>
       <news:publication>
@@ -60,6 +75,21 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/this-samsung-galaxy-feature-can-protect-you-from-untrustworthy-apps/l-intro-1791578177.jpg</image:loc>
       <image:title>This Samsung Galaxy feature can protect you from untrustworthy apps</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T15:30:00Z</news:publication_date>
+      <news:title>Ember’s new temperature-controlled mug makes my nightly tea ritual even better</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
+      <image:title>Ember’s new temperature-controlled mug makes my nightly tea ritual even better</image:title>
     </image:image>
   </url>
   <url>
@@ -153,6 +183,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/technology/should-you-have-both-ethernet-and-wi-fi-for-your-home</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T14:30:00Z</news:publication_date>
+      <news:title>Should you have both Ethernet and Wi-Fi for your home?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/should-you-have-both-ethernet-and-wi-fi-for-your-home/l-intro-1791494132.jpg</image:loc>
+      <image:title>Should you have both Ethernet and Wi-Fi for your home?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/jad-abumrad-loves-a-butterfly-knife-and-a-good-springy-pillow</loc>
     <news:news>
       <news:publication>
@@ -183,6 +228,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/technology/how-many-watts-should-your-bluetooth-speaker-have</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T14:00:00Z</news:publication_date>
+      <news:title>How many watts should your Bluetooth speaker have?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/how-many-watts-should-your-bluetooth-speaker-have/l-intro-1791534759.jpg</image:loc>
+      <image:title>How many watts should your Bluetooth speaker have?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/spacexs-ambitious-expensive-gamble-to-replace-at038t-t-mobile-and-verizon</loc>
     <news:news>
       <news:publication>
@@ -195,6 +255,21 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_SpaceX_Telecom.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>SpaceX’s ambitious, expensive gamble to replace AT&amp;#038;T, T-Mobile, and Verizon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/verizon-will-charge-you-10-a-month-for-iphone-handoff</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T13:45:16Z</news:publication_date>
+      <news:title>Verizon will charge you $10 a month for iPhone Handoff</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/verizon-will-charge-you-10-a-month-for-iphone-handoff/l-intro-1792244603.jpg</image:loc>
+      <image:title>Verizon will charge you $10 a month for iPhone Handoff</image:title>
     </image:image>
   </url>
   <url>
@@ -3375,96 +3450,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Arlo-Video-Doorbell-2K-2nd-Gen-Press-Image.jpg</image:loc>
       <image:title>Arlo Video Doorbell 2K deal offers a 180-degree view, night vision, and two-way talk for $49.99</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/sonys-wh-1000xm6-headphones-are-130-off-today-only</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T17:10:58Z</news:publication_date>
-      <news:title>Sony’s WH-1000XM6 headphones are $130 off today only</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/257746_Sony_WH-1000XM6_AKrales_0047.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Sony’s WH-1000XM6 headphones are $130 off today only</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/amazon-launches-two-bee-ai-recorders-to-remember-everything-you-say</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T17:08:21Z</news:publication_date>
-      <news:title>Amazon launches two Bee AI recorders to remember everything you say</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Bee-AI-wearables.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1400</image:loc>
-      <image:title>Amazon launches two Bee AI recorders to remember everything you say</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/meta-built-a-huge-open-weight-ai-model-for-macs-but-youll-need-1tb-of-ram-to-run-it</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T17:02:48Z</news:publication_date>
-      <news:title>Meta built a huge open-weight AI model for Macs, but you&apos;ll need 1TB of RAM to run it</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/meta-built-a-huge-open-weight-ai-model-for-macs-but-youll-need-1tb-of-ram-to-run-it/l-intro-1792083589.jpg</image:loc>
-      <image:title>Meta built a huge open-weight AI model for Macs, but you&apos;ll need 1TB of RAM to run it</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/youtube-music-will-now-tell-you-if-a-song-was-made-using-ai</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T17:01:02Z</news:publication_date>
-      <news:title>YouTube Music will now tell you if a song was made using AI</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
-      <image:title>YouTube Music will now tell you if a song was made using AI</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/rocket-lab-announces-another-delay-for-its-medium-lift-neutron-rocket</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T16:57:24Z</news:publication_date>
-      <news:title>Rocket Lab announces another delay for its medium-lift Neutron rocket</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/53194639182_2982a6d6de_h-1152x648.jpg</image:loc>
-      <image:title>Rocket Lab announces another delay for its medium-lift Neutron rocket</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/save-25-on-amazons-premium-echo-dot-max-smart-speaker</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T16:54:22Z</news:publication_date>
-      <news:title>Save 25% on Amazon’s premium Echo Dot Max smart speaker</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/12/Amazon-Echo-Dot-Max.jpg</image:loc>
-      <image:title>Save 25% on Amazon’s premium Echo Dot Max smart speaker</image:title>
     </image:image>
   </url>
 </urlset>
