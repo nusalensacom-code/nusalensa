@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/tiktok-bans-musk-documentary-account</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T19:32:23Z</news:publication_date>
+      <news:title>TikTok bans Musk documentary account</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194418432.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>TikTok bans Musk documentary account</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/leaked-gameplay-purports-to-show-a-canceled-assassins-creed-game-set-in-ancient-china</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T19:22:17Z</news:publication_date>
+      <news:title>Leaked gameplay purports to show a canceled Assassin&apos;s Creed game set in ancient China</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/leaked-gameplay-purports-to-show-a-canceled-assassins-creed-game-set-in-ancient-china/l-intro-1792264605.jpg</image:loc>
+      <image:title>Leaked gameplay purports to show a canceled Assassin&apos;s Creed game set in ancient China</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/android-auto-can-be-used-outside-of-your-car-heres-how</loc>
     <news:news>
       <news:publication>
@@ -3135,36 +3165,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268601_withings_bodyfit_AKrales_0099.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Withings now charges $100 per year to sync your data to other apps</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-updates-android-earthquake-alerts-with-more-info-expands-to-200-regions</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T19:45:00Z</news:publication_date>
-      <news:title>Google updates Android earthquake alerts with more info, expands to 200+ regions</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/android-earthquake-alerts-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Google updates Android earthquake alerts with more info, expands to 200+ regions</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/ftc-subpoenas-openai-and-anthropic-following-safety-failures</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T19:28:53Z</news:publication_date>
-      <news:title>FTC subpoenas OpenAI and Anthropic following safety failures</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/ftc-subpoenas-openai-and-anthropic-following-safety-failures/l-intro-1792092416.jpg</image:loc>
-      <image:title>FTC subpoenas OpenAI and Anthropic following safety failures</image:title>
     </image:image>
   </url>
 </urlset>
