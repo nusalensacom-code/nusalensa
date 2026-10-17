@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/openai-is-building-a-humanoid-robot-but-the-body-isnt-the-real-challenge</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T23:45:00Z</news:publication_date>
+      <news:title>OpenAI is building a humanoid robot, but the body isn&apos;t the real challenge</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/openai-is-building-a-humanoid-robot-but-the-body-isnt-the-real-challenge/l-intro-1791892991.jpg</image:loc>
+      <image:title>OpenAI is building a humanoid robot, but the body isn&apos;t the real challenge</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/these-samsung-galaxy-tablets-are-in-their-last-year-of-software-support</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T23:30:00Z</news:publication_date>
+      <news:title>These Samsung Galaxy tablets are in their last year of software support</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/these-samsung-galaxy-tablets-are-in-their-last-year-of-software-support/l-intro-1791837850.jpg</image:loc>
+      <image:title>These Samsung Galaxy tablets are in their last year of software support</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/deals-latest-galaxy-foldables-and-galaxy-s26-series-are-on-sale</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T23:24:02Z</news:publication_date>
+      <news:title>Deals: latest Galaxy foldables and Galaxy S26 series are on sale</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/weekly-deals-16/gsmarena_us.jpg</image:loc>
+      <image:title>Deals: latest Galaxy foldables and Galaxy S26 series are on sale</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/why-your-wi-fi-speeds-can-drop-in-the-evening-and-what-to-do-about-it</loc>
     <news:news>
       <news:publication>
@@ -2895,36 +2940,6 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/07/iPad-mini-7-Review-Thumb-1-sans-text.jpg</image:loc>
       <image:title>Oops, Apple&amp;#039;s Website Just Hinted at iPad Mini 8</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/amazon-launches-bee-frontier-ai-wearable-and-bee-eclipse-phone-attachment</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T23:33:02Z</news:publication_date>
-      <news:title>Amazon launches Bee Frontier AI wearable and Bee Eclipse phone attachment</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
-      <image:title>Amazon launches Bee Frontier AI wearable and Bee Eclipse phone attachment</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/steam-can-now-show-game-achievements-in-separate-sets</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T23:18:28Z</news:publication_date>
-      <news:title>Steam can now show game achievements in separate ‘sets’</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK138_Stream_Kradtke_01.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Steam can now show game achievements in separate ‘sets’</image:title>
     </image:image>
   </url>
 </urlset>
