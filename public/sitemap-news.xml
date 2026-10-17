@@ -3,6 +3,111 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/top-stories-apple-homeview-new-apple-tv-and-homepod-mini-and-sold-out-iphone-duo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T13:00:11Z</news:publication_date>
+      <news:title>Top Stories: Apple HomeView, New Apple TV and HomePod mini, and Sold-Out iPhone Duo</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/top-stories-2026-10-17.jpg</image:loc>
+      <image:title>Top Stories: Apple HomeView, New Apple TV and HomePod mini, and Sold-Out iPhone Duo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/these-common-charging-habits-could-be-degrading-your-ev-battery</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T12:45:00Z</news:publication_date>
+      <news:title>These common charging habits could be degrading your EV battery</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/these-common-charging-habits-could-be-degrading-your-ev-battery/l-intro-1791801948.jpg</image:loc>
+      <image:title>These common charging habits could be degrading your EV battery</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/insider-reveals-samsungs-plans-to-completely-overhaul-one-ui-10</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T12:43:02Z</news:publication_date>
+      <news:title>Insider reveals Samsung&apos;s plans to completely overhaul One UI 10</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
+      <image:title>Insider reveals Samsung&apos;s plans to completely overhaul One UI 10</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/apple-updates-app-store-rules-to-ensure-it-doesnt-offer-ai-nudify-apps</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T12:35:56Z</news:publication_date>
+      <news:title>Apple updates App Store rules to ensure it doesn&apos;t offer AI nudify apps</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/apple-updates-app-store-rules-to-ensure-it-doesnt-offer-ai-nudify-apps/l-intro-1792240353.jpg</image:loc>
+      <image:title>Apple updates App Store rules to ensure it doesn&apos;t offer AI nudify apps</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/is-the-google-fitbit-air-waterproof</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T12:30:00Z</news:publication_date>
+      <news:title>Is the Google Fitbit Air waterproof?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/is-the-google-fitbit-air-waterproof/l-intro-1791818373.jpg</image:loc>
+      <image:title>Is the Google Fitbit Air waterproof?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/more-than-just-storage-8-ways-to-repurpose-your-old-usb-flash-drive</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T12:15:00Z</news:publication_date>
+      <news:title>More than Just Storage: 8 Ways To Repurpose Your Old USB Flash Drive</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/more-than-just-storage-8-ways-to-repurpose-your-old-usb-flash-drive/l-intro-1791907601.jpg</image:loc>
+      <image:title>More than Just Storage: 8 Ways To Repurpose Your Old USB Flash Drive</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/how-to-check-your-ethernet-cables-speed</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T12:15:00Z</news:publication_date>
+      <news:title>How to check your Ethernet cable&apos;s speed</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/how-to-check-your-ethernet-cables-speed-and-not-your-home-networks/l-intro-1791820333.jpg</image:loc>
+      <image:title>How to check your Ethernet cable&apos;s speed</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/honor-win2-runs-antutu-too-its-cooling-fan-helps-it-achieve-a-top-score</loc>
     <news:news>
       <news:publication>
@@ -33,6 +138,36 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/technology/its-a-dream-week-for-tech-docs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T12:00:00Z</news:publication_date>
+      <news:title>It’s a dream week for tech docs</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Installer-148.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>It’s a dream week for tech docs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/apples-homeview-is-just-the-latest-threat-to-online-recipe-writers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T12:00:00Z</news:publication_date>
+      <news:title>Apple’s HomeView is just the latest threat to online recipe writers</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-Cooking_73277b.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Apple’s HomeView is just the latest threat to online recipe writers</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/double-fines-first-post-xbox-title-first-person-soulslikes-and-other-new-indie-games-worth-checking-out</loc>
     <news:news>
       <news:publication>
@@ -45,6 +180,21 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/double-fines-first-post-xbox-title-first-person-soulslikes-and-other-new-indie-games-worth-checking-out/l-intro-1792182846.jpg</image:loc>
       <image:title>Double Fine&apos;s first post-Xbox title, first-person Soulslikes and other new indie games worth checking out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/science-says-your-boss-should-talk-less-in-meetings</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T11:15:11Z</news:publication_date>
+      <news:title>Science says your boss should talk less in meetings</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/meetingboredom-1152x648.jpg</image:loc>
+      <image:title>Science says your boss should talk less in meetings</image:title>
     </image:image>
   </url>
   <url>
@@ -75,6 +225,21 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/fitbit-edge-header-1.jpg</image:loc>
       <image:title>The one missing feature that stopped me from buying a Fitbit Edge</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/why-biowares-neverwinter-nights-still-has-thousands-of-active-players</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T11:00:21Z</news:publication_date>
+      <news:title>Why BioWare&apos;s Neverwinter Nights still has thousands of active players</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/NWN-header-1152x648.jpg</image:loc>
+      <image:title>Why BioWare&apos;s Neverwinter Nights still has thousands of active players</image:title>
     </image:image>
   </url>
   <url>
@@ -3930,186 +4095,6 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/10/HomeView-Music.jpeg</image:loc>
       <image:title>MKBHD is &amp;#039;Not Convinced&amp;#039; About Apple&amp;#039;s New HomeView, Here&amp;#039;s Why</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/xreal8217s-latest-flagship-ar-glasses-are-better-more-comfortable-and-not-more-expensive</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T13:00:01Z</news:publication_date>
-      <news:title>XREAL&amp;#8217;s latest flagship AR glasses are better, more comfortable, and not more expensive</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/xreal-1-pro-plus-ar-glasses-2.jpg</image:loc>
-      <image:title>XREAL&amp;#8217;s latest flagship AR glasses are better, more comfortable, and not more expensive</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/xreals-new-flagship-one-pro-ar-glasses-offer-better-brightness-and-increased-comfort</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T13:00:00Z</news:publication_date>
-      <news:title>Xreal&apos;s new flagship One Pro+ AR glasses offer better brightness and increased comfort</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/xreals-new-flagship-one-pro-ar-glasses-offer-better-brightness-and-increased-comfort/l-intro-1791991823.jpg</image:loc>
-      <image:title>Xreal&apos;s new flagship One Pro+ AR glasses offer better brightness and increased comfort</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/nvidias-rtx-spark-is-good-for-windows-even-if-you-dont-need-local-ai</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T13:00:00Z</news:publication_date>
-      <news:title>NVIDIA&apos;s RTX Spark is good for Windows, even if you don&apos;t need local AI</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/nvidias-rtx-spark-is-good-for-windows-even-if-you-dont-need-local-ai/l-intro-1792037724.jpg</image:loc>
-      <image:title>NVIDIA&apos;s RTX Spark is good for Windows, even if you don&apos;t need local AI</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/xreal-1-pro-has-exactly-the-right-hardware-upgrades-at-the-same-599-price</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T13:00:00Z</news:publication_date>
-      <news:title>XREAL 1 Pro+ has exactly the right hardware upgrades at the same $599 price</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/xreal-1-pro-plus-3.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>XREAL 1 Pro+ has exactly the right hardware upgrades at the same $599 price</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-launches-its-8216universal8217-online-shopping-cart-ahead-of-the-holidays</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T13:00:00Z</news:publication_date>
-      <news:title>Google launches its &amp;#8216;universal&amp;#8217; online shopping cart ahead of the holidays</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Google-Universal-Cart-hero.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Google launches its &amp;#8216;universal&amp;#8217; online shopping cart ahead of the holidays</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/quick-question-who-exactly-is-iphone-handoff-for</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T13:00:00Z</news:publication_date>
-      <news:title>Quick question: Who exactly is iPhone Handoff for?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04341_processed.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Quick question: Who exactly is iPhone Handoff for?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-could-have-two-more-foldable-surprises-in-2027-for-a-total-of-six-new-foldables</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T12:53:39Z</news:publication_date>
-      <news:title>Samsung could have two more foldable surprises in 2027, for a total of six new foldables</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/samsung-galaxy-z-fold-8-ultra-review-11-scaled.jpg</image:loc>
-      <image:title>Samsung could have two more foldable surprises in 2027, for a total of six new foldables</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/citizenlab-details-new-spyware-triggered-by-online-advertising</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T12:50:29Z</news:publication_date>
-      <news:title>CitizenLab details new spyware triggered by online advertising</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/citizenlab-details-new-spyware-triggered-by-online-advertising/l-intro-1792068524.jpg</image:loc>
-      <image:title>CitizenLab details new spyware triggered by online advertising</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/here8217s-when-android8217s-heads-up-safety-tool-will-join-google8217s-graveyard</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T12:41:09Z</news:publication_date>
-      <news:title>Here&amp;#8217;s when Android&amp;#8217;s Heads Up safety tool will join Google&amp;#8217;s graveyard</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/Digital-Wellbeing-Heads-Up-Pixel-10-Pro-XL.jpg</image:loc>
-      <image:title>Here&amp;#8217;s when Android&amp;#8217;s Heads Up safety tool will join Google&amp;#8217;s graveyard</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/whatsapps-new-guest-calling-feature-lets-you-invite-anyone-to-a-call</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T12:36:02Z</news:publication_date>
-      <news:title>WhatsApp&apos;s new Guest Calling feature lets you invite anyone to a call</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
-      <image:title>WhatsApp&apos;s new Guest Calling feature lets you invite anyone to a call</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/youtube-premium-could-soon-get-another-perk-without-any-extra-cost</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T12:20:58Z</news:publication_date>
-      <news:title>YouTube Premium could soon get another perk without any extra cost</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/YouTube-feed-on-iPhone.jpg</image:loc>
-      <image:title>YouTube Premium could soon get another perk without any extra cost</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/apple039s-wall-mounted-homeview-ships-without-a-power-adapter</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T12:18:41Z</news:publication_date>
-      <news:title>Apple&amp;#039;s Wall-Mounted HomeView Ships Without a Power Adapter</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/homeview-wall-mount.jpg</image:loc>
-      <image:title>Apple&amp;#039;s Wall-Mounted HomeView Ships Without a Power Adapter</image:title>
     </image:image>
   </url>
 </urlset>
