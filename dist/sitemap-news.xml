@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/walmart8217s-60-google-tv-streamer-might-be-the-only-good-deal-left-in-streaming</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T14:05:00Z</news:publication_date>
+      <news:title>Walmart&amp;#8217;s $60 Google TV streamer might be the only good deal left in streaming</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/walmart-onn-4k-pro-google-tv-3.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Walmart&amp;#8217;s $60 Google TV streamer might be the only good deal left in streaming</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/how-many-watts-should-your-bluetooth-speaker-have</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T14:00:00Z</news:publication_date>
+      <news:title>How many watts should your Bluetooth speaker have?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/how-many-watts-should-your-bluetooth-speaker-have/l-intro-1791534759.jpg</image:loc>
+      <image:title>How many watts should your Bluetooth speaker have?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/spacexs-ambitious-expensive-gamble-to-replace-at038t-t-mobile-and-verizon</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T14:00:00Z</news:publication_date>
+      <news:title>SpaceX’s ambitious, expensive gamble to replace AT&amp;#038;T, T-Mobile, and Verizon</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_SpaceX_Telecom.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>SpaceX’s ambitious, expensive gamble to replace AT&amp;#038;T, T-Mobile, and Verizon</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/verizon-will-charge-you-10-a-month-for-iphone-handoff</loc>
     <news:news>
       <news:publication>
@@ -3930,156 +3975,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/operas-lightweight-air-browser-is-back-unbothered-moisturized-in-its-lane/l-intro-1792073768.jpg</image:loc>
       <image:title>Opera&apos;s lightweight Air browser is back, unbothered, moisturized, in its lane</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/amazon-offers-36120-discount-on-airpods-max-2-3650-off-airpods-pro-3</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T14:12:42Z</news:publication_date>
-      <news:title>Amazon Offers &amp;#36;120 Discount on AirPods Max 2, &amp;#36;50 Off AirPods Pro 3</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/airpods-orange-prime-day.jpeg</image:loc>
-      <image:title>Amazon Offers &amp;#36;120 Discount on AirPods Max 2, &amp;#36;50 Off AirPods Pro 3</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/an-israeli-firm-is-sending-spyware-through-online-ads-researchers-say</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T14:10:50Z</news:publication_date>
-      <news:title>An Israeli firm is sending spyware through online ads, researchers say</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318436/akrales_220309_4977_0258.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>An Israeli firm is sending spyware through online ads, researchers say</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/meta-says-it-has-fixed-an-issue-that-let-its-ray-ban-smart-glasses-record-on-their-own</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T14:10:00Z</news:publication_date>
-      <news:title>Meta says it has fixed an issue that let its Ray-Ban smart glasses record on their own</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2024/05/meta-ray-ban-camera-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1200</image:loc>
-      <image:title>Meta says it has fixed an issue that let its Ray-Ban smart glasses record on their own</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/prep-your-cart-before-iphone-duo-preorders-open-tomorrow</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T14:07:33Z</news:publication_date>
-      <news:title>Prep your cart before iPhone Duo preorders open tomorrow</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_2026_event_handson_ADiBenedetto_0003.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Prep your cart before iPhone Duo preorders open tomorrow</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/hilight-or-no-light-has-the-pixel-11-pro-changed-your-mind-about-face-down-phones</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T14:04:32Z</news:publication_date>
-      <news:title>HiLight or no light: Has the Pixel 11 Pro changed your mind about face-down phones?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/Pixel-11-HiLight-Studio-Rainbow-3-scaled.jpg</image:loc>
-      <image:title>HiLight or no light: Has the Pixel 11 Pro changed your mind about face-down phones?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/nobody-is-safe-from-celebrity-ai-deepfakes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T14:03:42Z</news:publication_date>
-      <news:title>Nobody is safe from celebrity AI deepfakes</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268810_Social_media_is_filled_with_celebrity_deepfakes._Do_platforms_care__CVirginia.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Nobody is safe from celebrity AI deepfakes</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/tesla-roadster-reveal-live-updates-from-the-launch-of-the-next-gen-sportscar</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T14:01:51Z</news:publication_date>
-      <news:title>Tesla Roadster reveal live: Updates from the launch of the next-gen sportscar</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/tesla-roadster-launch-live-blog/l-intro-1792072946.jpg</image:loc>
-      <image:title>Tesla Roadster reveal live: Updates from the launch of the next-gen sportscar</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/linkedin-is-adding-new-tools-to-help-people-with-their-side-hustles</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T14:00:00Z</news:publication_date>
-      <news:title>LinkedIn is adding new tools to help people with their side hustles</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/linkedin-is-adding-new-tools-to-help-people-with-their-side-hustles/l-intro-1792017742.jpg</image:loc>
-      <image:title>LinkedIn is adding new tools to help people with their side hustles</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/some-great-games-to-play-before-gta-vi-and-zelda-launch</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T14:00:00Z</news:publication_date>
-      <news:title>Some great games to play before GTA VI and Zelda launch</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/SP_Screenshots__09.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Some great games to play before GTA VI and Zelda launch</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/benn-jordan-on-flock-privacy-and-the-new-surveillance-backlash</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T14:00:00Z</news:publication_date>
-      <news:title>Benn Jordan on Flock, privacy, and the new surveillance backlash</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_20261015_Jordan.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Benn Jordan on Flock, privacy, and the new surveillance backlash</image:title>
     </image:image>
   </url>
 </urlset>
