@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/the-one-missing-feature-that-stopped-me-from-buying-a-fitbit-edge</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T11:00:46Z</news:publication_date>
+      <news:title>The one missing feature that stopped me from buying a Fitbit Edge</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/fitbit-edge-header-1.jpg</image:loc>
+      <image:title>The one missing feature that stopped me from buying a Fitbit Edge</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/don8217t-buy-a-budget-android-phone-in-2026-4-reasons-to-get-an-old-flagship-instead</loc>
     <news:news>
       <news:publication>
@@ -4200,66 +4215,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-iPhone-Duo-Hands-On-Rear-camera_1.jpg</image:loc>
       <image:title>Apple&amp;#8217;s iPhone Duo just gave Samsung the ultimate marketing gift</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/you-can-now-unofficially-play-super-mario-galaxy-on-android-no-emulator-needed</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T11:14:32Z</news:publication_date>
-      <news:title>You can now (unofficially) play Super Mario Galaxy on Android, no emulator needed</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Super-Mario-Galaxy-unofficial-port-on-Android-scaled-e1792062758423-500w-260h.jpg</image:loc>
-      <image:title>You can now (unofficially) play Super Mario Galaxy on Android, no emulator needed</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/apple-now-inviting-media-to-october-28-039launch-experience039</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T11:13:33Z</news:publication_date>
-      <news:title>Apple Now Inviting Media to October 28 &amp;#039;Launch Experience&amp;#039;</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/Black-Apple-Event-Logo.jpeg</image:loc>
-      <image:title>Apple Now Inviting Media to October 28 &amp;#039;Launch Experience&amp;#039;</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-smart-home-may-be-too-messy-even-for-google</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T11:00:00Z</news:publication_date>
-      <news:title>The smart home may be too messy even for Google</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/homeview-nest-hub-max.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1456</image:loc>
-      <image:title>The smart home may be too messy even for Google</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/your-secrets-arent-safe-with-this-cute-robot-toy-theyre-on-chinese-servers-ready-to-be-hacked</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T11:00:00Z</news:publication_date>
-      <news:title>Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-004.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked</image:title>
     </image:image>
   </url>
 </urlset>
