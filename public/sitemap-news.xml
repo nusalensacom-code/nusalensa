@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/5-reasons-why-i8217ll-always-buy-google-pixel-phones-instead-of-samsung-galaxy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T10:00:53Z</news:publication_date>
+      <news:title>5 reasons why I&amp;#8217;ll always buy Google Pixel phones instead of Samsung Galaxy</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/Pixel-11-vs-Galaxy-S26-2-scaled.jpg</image:loc>
+      <image:title>5 reasons why I&amp;#8217;ll always buy Google Pixel phones instead of Samsung Galaxy</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/i-never-thought-id-ditch-samsung-notes-but-this-google-keep-feature-changed-my-mind</loc>
     <news:news>
       <news:publication>
