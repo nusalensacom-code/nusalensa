@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/why-its-important-to-monitor-your-pcs-background-processes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T22:30:00Z</news:publication_date>
+      <news:title>Why it&apos;s important to monitor your PC&apos;s background processes</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/why-its-important-to-monitor-your-pcs-background-processes/l-intro-1791830732.jpg</image:loc>
+      <image:title>Why it&apos;s important to monitor your PC&apos;s background processes</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/dont-throw-away-your-old-playstation-do-this-instead</loc>
     <news:news>
       <news:publication>
@@ -2895,66 +2910,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/withings-wants-new-users-to-pay-100-a-year-to-sync-with-apple-health/l-intro-1792105014.jpg</image:loc>
       <image:title>Withings wants new users to pay $100 a year to sync with Apple Health</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/chatgpt-can-peek-at-your-chrome-tabs-now</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T22:43:23Z</news:publication_date>
-      <news:title>ChatGPT can peek at your Chrome tabs now</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-6.35.44-PM.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>ChatGPT can peek at your Chrome tabs now</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/sega-pulls-total-war-shogun-2-remaster-from-sale-following-disastrous-launch</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T22:35:55Z</news:publication_date>
-      <news:title>Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ca.com_news_thumbnailshogun2complete.png.webp?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/boost-mobile-teams-up-with-mike-tyson-for-its-new-ad-campaign</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T22:31:02Z</news:publication_date>
-      <news:title>Boost Mobile teams up with Mike Tyson for its new ad campaign</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
-      <image:title>Boost Mobile teams up with Mike Tyson for its new ad campaign</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/kde-turns-30-with-plasma-68-remote-upgrades-and-an-x11-farewell</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T22:21:06Z</news:publication_date>
-      <news:title>KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/KDE_Birthday_30th_Laptop-1070x648.png</image:loc>
-      <image:title>KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell</image:title>
     </image:image>
   </url>
 </urlset>
