@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T15:04:36Z</news:publication_date>
+      <news:title>Meta removes language that may have allowed it to scrape news sites</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Meta removes language that may have allowed it to scrape news sites</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-apple-homeview-already-lost-to-one-of-the-most-unloved-google-product-in-my-house</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T15:00:07Z</news:publication_date>
+      <news:title>The Apple HomeView already lost to one of the most unloved Google product in my house</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/google-pixel-tablet-podcast-front-scaled.jpg</image:loc>
+      <image:title>The Apple HomeView already lost to one of the most unloved Google product in my house</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/common-problems-with-amazon-alexa-and-how-to-fix-them</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T15:00:00Z</news:publication_date>
+      <news:title>Common problems with Amazon Alexa and how to fix them</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/common-problems-with-amazon-alexa-and-how-to-fix-them/l-intro-1791500328.jpg</image:loc>
+      <image:title>Common problems with Amazon Alexa and how to fix them</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/pikmin-4-is-20-off-ahead-of-its-10-nintendo-switch-2-update</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T15:00:00Z</news:publication_date>
+      <news:title>Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24018761/Nintendo_Direct_9.13.2022_60_17_screenshot.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/should-you-have-both-ethernet-and-wi-fi-for-your-home</loc>
     <news:news>
       <news:publication>
@@ -3780,96 +3840,6 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/10/John-Ternus-iPhone-Duo.jpg</image:loc>
       <image:title>Apple CEO John Ternus on Early Foldables: &amp;#039;Kind of Cheap and Crappy&amp;#039;</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/singer-or-clanker-youtube-music-will-tell-you-with-new-gen-ai-labeling</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T15:12:58Z</news:publication_date>
-      <news:title>Singer or clanker? YouTube Music will tell you with new gen AI labeling.</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/youtube-music-gen-ai-labels-fill2-1152x648.png</image:loc>
-      <image:title>Singer or clanker? YouTube Music will tell you with new gen AI labeling.</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/rewilding-could-help-vulnerable-islands-keep-pace-with-rising-seas</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T15:05:40Z</news:publication_date>
-      <news:title>Rewilding could help vulnerable islands keep pace with rising seas</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/researchersatoll-1152x648.jpg</image:loc>
-      <image:title>Rewilding could help vulnerable islands keep pace with rising seas</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/deal-slashes-the-razer-kishi-v3-to-6999-for-a-30-discount</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T15:04:49Z</news:publication_date>
-      <news:title>Deal slashes the Razer Kishi V3 to $69.99 for a 30% discount</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/06/Razer-Kishi-V3-connected-to-smartphone-with-Razer-Nexus-app.jpg</image:loc>
-      <image:title>Deal slashes the Razer Kishi V3 to $69.99 for a 30% discount</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/shellys-new-presence-sensor-simultaneously-detects-up-to-ten-people-without-a-camera</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T15:00:00Z</news:publication_date>
-      <news:title>Shelly’s new presence sensor simultaneously detects up to ten people without a camera</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/shelly1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Shelly’s new presence sensor simultaneously detects up to ten people without a camera</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/microsofts-new-photos-app-combines-your-pc-onedrive-and-icloud-galleries</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T14:53:38Z</news:publication_date>
-      <news:title>Microsoft’s new Photos app combines your PC, OneDrive, and iCloud galleries</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Windows-11-Photos-app-update-gallery.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Microsoft’s new Photos app combines your PC, OneDrive, and iCloud galleries</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/greg-joswiak-says-apple-isn039t-focused-on-making-ai-for-039lunatic-fringe039</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T14:52:55Z</news:publication_date>
-      <news:title>Greg Joswiak Says Apple Isn&amp;#039;t Focused on Making AI for &amp;#039;Lunatic Fringe&amp;#039;</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/Apple-Greg-Joswiak.jpg</image:loc>
-      <image:title>Greg Joswiak Says Apple Isn&amp;#039;t Focused on Making AI for &amp;#039;Lunatic Fringe&amp;#039;</image:title>
     </image:image>
   </url>
 </urlset>
