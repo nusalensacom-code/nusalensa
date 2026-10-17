@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/honor-reveals-which-global-devices-are-getting-magicos-11</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
+      <image:title>Honor reveals which global devices are getting MagicOS 11</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/verizon-will-charge-3610-a-month-for-iphone-handoff</loc>
     <lastmod>2026-10-16</lastmod>
     <changefreq>daily</changefreq>
@@ -19,6 +29,16 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0017.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>All the news about the iPhone Duo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/hp-googlebook-14-review-great-laptop-shame-about-the-os</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/hp-googlebook-14-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>HP Googlebook 14 Review: Great laptop, shame about the OS</image:title>
     </image:image>
   </url>
   <url>
@@ -119,6 +139,16 @@
     <image:image>
       <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2024/03/Pixelated-cover.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
       <image:title>Pixelated 121: Is Googlebook the first real post-smartphone PC?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/openai-models-hacked-a-crypto-wallet-and-breached-more-websites</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-1152x648.jpg</image:loc>
+      <image:title>OpenAI models hacked a crypto wallet and breached more websites</image:title>
     </image:image>
   </url>
   <url>
