@@ -128,6 +128,9 @@ const headersContent = `/*
   X-Content-Type-Options: nosniff
   Referrer-Policy: strict-origin-when-cross-origin
 
+/admin/*
+  Cache-Control: no-cache, no-store, must-revalidate
+
 /*.xml
   Content-Type: application/xml; charset=utf-8
   Cache-Control: public, max-age=3600, s-maxage=3600
