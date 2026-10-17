@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/why-your-wi-fi-speeds-can-drop-in-the-evening-and-what-to-do-about-it</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T23:00:00Z</news:publication_date>
+      <news:title>Why your Wi-Fi speeds can drop in the evening, and what to do about it</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/why-your-wi-fi-speeds-can-drop-in-the-evening-and-what-to-do-about-it/l-intro-1791834714.jpg</image:loc>
+      <image:title>Why your Wi-Fi speeds can drop in the evening, and what to do about it</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/how-to-keep-your-smart-home-running-even-if-the-internet-goes-down</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T22:45:00Z</news:publication_date>
+      <news:title>How to keep your smart home running even if the internet goes down</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/how-to-keep-your-smart-home-running-even-if-the-internet-goes-down/l-intro-1791831565.jpg</image:loc>
+      <image:title>How to keep your smart home running even if the internet goes down</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/why-its-important-to-monitor-your-pcs-background-processes</loc>
     <news:news>
       <news:publication>
@@ -2895,21 +2925,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK138_Stream_Kradtke_01.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Steam can now show game achievements in separate ‘sets’</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/withings-wants-new-users-to-pay-100-a-year-to-sync-with-apple-health</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T23:02:04Z</news:publication_date>
-      <news:title>Withings wants new users to pay $100 a year to sync with Apple Health</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/withings-wants-new-users-to-pay-100-a-year-to-sync-with-apple-health/l-intro-1792105014.jpg</image:loc>
-      <image:title>Withings wants new users to pay $100 a year to sync with Apple Health</image:title>
     </image:image>
   </url>
 </urlset>

@@ -468,6 +468,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://nusalensa.com/technology/why-your-wi-fi-speeds-can-drop-in-the-evening-and-what-to-do-about-it</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/why-your-wi-fi-speeds-can-drop-in-the-evening-and-what-to-do-about-it/l-intro-1791834714.jpg</image:loc>
+      <image:title>Why your Wi-Fi speeds can drop in the evening, and what to do about it</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/how-to-keep-your-smart-home-running-even-if-the-internet-goes-down</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/how-to-keep-your-smart-home-running-even-if-the-internet-goes-down/l-intro-1791831565.jpg</image:loc>
+      <image:title>How to keep your smart home running even if the internet goes down</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/why-its-important-to-monitor-your-pcs-background-processes</loc>
     <lastmod>2026-10-17</lastmod>
     <changefreq>daily</changefreq>

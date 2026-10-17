@@ -5,8 +5,26 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 17 Oct 2026 22:48:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 23:12:29 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why your Wi-Fi speeds can drop in the evening, and what to do about it</title>
+      <link>https://nusalensa.com/technology/why-your-wi-fi-speeds-can-drop-in-the-evening-and-what-to-do-about-it</link>
+      <guid isPermaLink="true">https://nusalensa.com/technology/why-your-wi-fi-speeds-can-drop-in-the-evening-and-what-to-do-about-it</guid>
+      <description>Everyone getting online at the same time can slam the network, but working around these slowdowns is possible with a few tricks.</description>
+      <category>Technology</category>
+      <pubDate>Sat, 17 Oct 2026 23:00:00 GMT</pubDate>
+      <enclosure url="https://www.engadget.com/img/gallery/why-your-wi-fi-speeds-can-drop-in-the-evening-and-what-to-do-about-it/l-intro-1791834714.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>How to keep your smart home running even if the internet goes down</title>
+      <link>https://nusalensa.com/technology/how-to-keep-your-smart-home-running-even-if-the-internet-goes-down</link>
+      <guid isPermaLink="true">https://nusalensa.com/technology/how-to-keep-your-smart-home-running-even-if-the-internet-goes-down</guid>
+      <description>Smart home products most often harness Wi-Fi to function. But what can you do if you lose internet frequently?</description>
+      <category>Technology</category>
+      <pubDate>Sat, 17 Oct 2026 22:45:00 GMT</pubDate>
+      <enclosure url="https://www.engadget.com/img/gallery/how-to-keep-your-smart-home-running-even-if-the-internet-goes-down/l-intro-1791831565.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Why it&apos;s important to monitor your PC&apos;s background processes</title>
       <link>https://nusalensa.com/technology/why-its-important-to-monitor-your-pcs-background-processes</link>
@@ -258,24 +276,6 @@
       <category>Smartphones</category>
       <pubDate>Sat, 17 Oct 2026 14:05:00 GMT</pubDate>
       <enclosure url="https://9to5google.com/wp-content/uploads/sites/4/2026/10/walmart-onn-4k-pro-google-tv-3.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>How many watts should your Bluetooth speaker have?</title>
-      <link>https://nusalensa.com/technology/how-many-watts-should-your-bluetooth-speaker-have</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/how-many-watts-should-your-bluetooth-speaker-have</guid>
-      <description>If you&apos;re confused by Bluetooth speaker wattage, here&apos;s what those numbers actually mean. Spoiler: more wattage doesn&apos;t necessarily mean a louder speaker.</description>
-      <category>Technology</category>
-      <pubDate>Sat, 17 Oct 2026 14:00:00 GMT</pubDate>
-      <enclosure url="https://www.engadget.com/img/gallery/how-many-watts-should-your-bluetooth-speaker-have/l-intro-1791534759.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>SpaceX’s ambitious, expensive gamble to replace AT&amp;#038;T, T-Mobile, and Verizon</title>
-      <link>https://nusalensa.com/technology/spacexs-ambitious-expensive-gamble-to-replace-at038t-t-mobile-and-verizon</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/spacexs-ambitious-expensive-gamble-to-replace-at038t-t-mobile-and-verizon</guid>
-      <description>Today, I’m talking with Walter Piecyk, a partner and analyst at LightShed Partners who covers tech, media, and telecom, about SpaceX’s recently announced plan t</description>
-      <category>Technology</category>
-      <pubDate>Sat, 17 Oct 2026 14:00:00 GMT</pubDate>
-      <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_SpaceX_Telecom.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
