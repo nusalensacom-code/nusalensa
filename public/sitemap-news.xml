@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/tablets/you-might-be-surprised-by-how-much-the-slate-truck-can-carry</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T18:00:00Z</news:publication_date>
+      <news:title>You might be surprised by how much the Slate truck can carry</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/you-might-be-surprised-by-how-much-the-slate-truck-can-carry/l-intro-1792256579.jpg</image:loc>
+      <image:title>You might be surprised by how much the Slate truck can carry</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/apples-official-silicone-case-for-the-iphone-duo-requires-adhesive</loc>
     <news:news>
       <news:publication>
@@ -3315,21 +3330,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268742_Mac_Studio_AKrales_0025.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Meta and Apple team up to make Muse AI models run better on Macs</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/android8217s-earthquake-alerts-system-is-getting-smarter-about-telling-you-to-take-action</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T18:05:04Z</news:publication_date>
-      <news:title>Android&amp;#8217;s Earthquake Alerts System is getting smarter about telling you to take action</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2020/08/android-earthquake-detection-header.jpg</image:loc>
-      <image:title>Android&amp;#8217;s Earthquake Alerts System is getting smarter about telling you to take action</image:title>
     </image:image>
   </url>
 </urlset>
