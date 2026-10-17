@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/double-fines-first-post-xbox-title-first-person-soulslikes-and-other-new-indie-games-worth-checking-out</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T11:30:00Z</news:publication_date>
+      <news:title>Double Fine&apos;s first post-Xbox title, first-person Soulslikes and other new indie games worth checking out</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/double-fines-first-post-xbox-title-first-person-soulslikes-and-other-new-indie-games-worth-checking-out/l-intro-1792182846.jpg</image:loc>
+      <image:title>Double Fine&apos;s first post-Xbox title, first-person Soulslikes and other new indie games worth checking out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/qualcomm-says-rumors-about-snapdragon-8-elite-extreme-gen-6-overheating-are-8216inaccurate8217</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T11:05:00Z</news:publication_date>
+      <news:title>Qualcomm says rumors about Snapdragon 8 Elite Extreme Gen 6 overheating are &amp;#8216;inaccurate&amp;#8217;</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/07/snapdragon-8-elite-gen-5-for-galaxy.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Qualcomm says rumors about Snapdragon 8 Elite Extreme Gen 6 overheating are &amp;#8216;inaccurate&amp;#8217;</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/the-one-missing-feature-that-stopped-me-from-buying-a-fitbit-edge</loc>
     <news:news>
       <news:publication>
@@ -4170,51 +4200,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/Samsung-Galaxy-S26-Ultra-showing-One-UI-lock-screen.jpg</image:loc>
       <image:title>Bye bye One UI, hello Galaxy OS? Wild rumor points to a big shakeup for Samsung phones</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/more-details-about-the-iqoo-neo12s-display-revealed</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T11:37:02Z</news:publication_date>
-      <news:title>More details about the iQOO Neo12&apos;s display revealed</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
-      <image:title>More details about the iQOO Neo12&apos;s display revealed</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/mexicos-president-signs-decree-ordering-tech-platforms-to-protect-minors-from-adult-content</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T11:36:22Z</news:publication_date>
-      <news:title>Mexico&apos;s president signs decree ordering tech platforms to protect minors from adult content</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/mexicos-president-signs-decree-ordering-tech-platforms-to-protect-minors-from-adult-content/l-intro-1792064073.jpg</image:loc>
-      <image:title>Mexico&apos;s president signs decree ordering tech platforms to protect minors from adult content</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple8217s-iphone-duo-just-gave-samsung-the-ultimate-marketing-gift</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T11:35:18Z</news:publication_date>
-      <news:title>Apple&amp;#8217;s iPhone Duo just gave Samsung the ultimate marketing gift</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-iPhone-Duo-Hands-On-Rear-camera_1.jpg</image:loc>
-      <image:title>Apple&amp;#8217;s iPhone Duo just gave Samsung the ultimate marketing gift</image:title>
     </image:image>
   </url>
 </urlset>
