@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/dont-throw-away-your-old-playstation-do-this-instead</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T22:00:00Z</news:publication_date>
+      <news:title>Don&apos;t throw away your old PlayStation — Do this instead</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/dont-throw-away-your-old-playstation-do-this-instead/l-intro-1791829152.jpg</image:loc>
+      <image:title>Don&apos;t throw away your old PlayStation — Do this instead</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/apple-retail-staff-told-to-warn-against-iphone-duo-walk-in-purchases</loc>
     <news:news>
       <news:publication>
@@ -2940,21 +2955,6 @@
     <image:image>
       <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/KDE_Birthday_30th_Laptop-1070x648.png</image:loc>
       <image:title>KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/oled-macbook-pro-won039t-get-m7-chips-until-late-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T22:10:46Z</news:publication_date>
-      <news:title>OLED MacBook Pro Won&amp;#039;t Get M7 Chips Until Late 2027</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/04/MacBook-Pro-Low-Angle-Wide-Lens.jpg</image:loc>
-      <image:title>OLED MacBook Pro Won&amp;#039;t Get M7 Chips Until Late 2027</image:title>
     </image:image>
   </url>
 </urlset>
