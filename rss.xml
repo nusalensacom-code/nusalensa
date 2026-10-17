@@ -5,8 +5,17 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 17 Oct 2026 17:16:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 17:49:34 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple&apos;s official silicone case for the iPhone Duo requires adhesive</title>
+      <link>https://nusalensa.com/phones/apples-official-silicone-case-for-the-iphone-duo-requires-adhesive</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/apples-official-silicone-case-for-the-iphone-duo-requires-adhesive</guid>
+      <description>If you are eyeing the iPhone Duo as your next, or even first, foldable, you might also be looking into Apple&apos;s official accessories like the $79 silicone case o</description>
+      <category>Smartphones</category>
+      <pubDate>Sat, 17 Oct 2026 17:44:02 GMT</pubDate>
+      <enclosure url="https://fdn.gsmarena.com/imgroot/news/26/10/iphone-duo-case-adhesive/gsmarena_000.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast</title>
       <link>https://nusalensa.com/technology/mercedes-amgs-first-ground-up-suv-is-a-1150hp-electric-beast</link>
@@ -267,15 +276,6 @@
       <category>Smartphones</category>
       <pubDate>Sat, 17 Oct 2026 11:00:46 GMT</pubDate>
       <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/10/fitbit-edge-header-1.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Why BioWare&apos;s Neverwinter Nights still has thousands of active players</title>
-      <link>https://nusalensa.com/technology/why-biowares-neverwinter-nights-still-has-thousands-of-active-players</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/why-biowares-neverwinter-nights-still-has-thousands-of-active-players</guid>
-      <description>The single-player is just OK, but according to the players, that doesn&apos;t matter.</description>
-      <category>Technology</category>
-      <pubDate>Sat, 17 Oct 2026 11:00:21 GMT</pubDate>
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/NWN-header-1152x648.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
