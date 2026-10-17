@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/don8217t-buy-a-budget-android-phone-in-2026-4-reasons-to-get-an-old-flagship-instead</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T10:30:16Z</news:publication_date>
+      <news:title>Don&amp;#8217;t buy a budget Android phone in 2026 — 4 reasons to get an old flagship instead</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/02/Google-Pixel-10a-Berry-on-Chess-Board.jpg</image:loc>
+      <image:title>Don&amp;#8217;t buy a budget Android phone in 2026 — 4 reasons to get an old flagship instead</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/5-reasons-why-i8217ll-always-buy-google-pixel-phones-instead-of-samsung-galaxy</loc>
     <news:news>
       <news:publication>
@@ -4245,21 +4260,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-004.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/rumor-claims-the-oppo-reno17-series-wont-include-a-pro-model</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T10:36:02Z</news:publication_date>
-      <news:title>Rumor claims the Oppo Reno17 series won&apos;t include a Pro model</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1585060544812-6b45742d762f?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
-      <image:title>Rumor claims the Oppo Reno17 series won&apos;t include a Pro model</image:title>
     </image:image>
   </url>
 </urlset>
