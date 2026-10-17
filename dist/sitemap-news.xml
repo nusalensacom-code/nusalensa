@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T15:30:00Z</news:publication_date>
+      <news:title>Ember’s new temperature-controlled mug makes my nightly tea ritual even better</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
+      <image:title>Ember’s new temperature-controlled mug makes my nightly tea ritual even better</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/why-are-some-locations-blurred-out-on-google-maps</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T15:30:00Z</news:publication_date>
+      <news:title>Why are some locations blurred out on Google Maps?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/why-are-some-locations-blurred-out-on-google-maps/l-intro-1791496081.jpg</image:loc>
+      <image:title>Why are some locations blurred out on Google Maps?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/honor-win2-teased-once-again-with-worlds-first-2k-185hz-display</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T15:12:02Z</news:publication_date>
+      <news:title>Honor Win2 teased once again with world&apos;s first 2K 185Hz display</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
+      <image:title>Honor Win2 teased once again with world&apos;s first 2K 185Hz display</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites</loc>
     <news:news>
       <news:publication>
@@ -3735,111 +3780,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/03/Woman-holding-Marshall-Major-V.jpg</image:loc>
       <image:title>Highly rated Marshall Major V Wireless headphones get a 44% Amazon price drop</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/report-samsung-is-expanding-its-display-driver-chip-supplier-pool</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T15:49:02Z</news:publication_date>
-      <news:title>Report: Samsung is expanding its display driver chip supplier pool</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
-      <image:title>Report: Samsung is expanding its display driver chip supplier pool</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/amazon8217s-new-ai-note-taking-hardware-debuts-with-a-wearable-option</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T15:48:26Z</news:publication_date>
-      <news:title>Amazon&amp;#8217;s new AI note-taking hardware debuts with a wearable option</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/bee-wrist-featured.jpg</image:loc>
-      <image:title>Amazon&amp;#8217;s new AI note-taking hardware debuts with a wearable option</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/nvidia-apple-google-microsoft-amazon-and-meta-gave-trump-a-combined-92-million-for-his-ballroom</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T15:46:00Z</news:publication_date>
-      <news:title>Nvidia, Apple, Google, Microsoft, Amazon, and Meta gave Trump a combined $92 million for his ballroom</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Nvidia, Apple, Google, Microsoft, Amazon, and Meta gave Trump a combined $92 million for his ballroom</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/deals-samsung-week-2026-now-live-galaxy-book-6-500-off-moto-tag-2-trackers-from-1750-each-oled-chromebook-more</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T15:44:02Z</news:publication_date>
-      <news:title>Deals: Samsung Week 2026 now live, Galaxy Book 6 $500 off, Moto Tag 2 trackers from $17.50 each, OLED Chromebook, more</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/9to5Google-Oct-15.webp?w=1600</image:loc>
-      <image:title>Deals: Samsung Week 2026 now live, Galaxy Book 6 $500 off, Moto Tag 2 trackers from $17.50 each, OLED Chromebook, more</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/report-ftc-probes-anthropic-openai-after-trump-dismissed-ai-fears-as-hoax</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T15:43:24Z</news:publication_date>
-      <news:title>Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2277824748-1024x648.jpg</image:loc>
-      <image:title>Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/youtube-reportedly-8216looking8217-into-adding-audiobooks-to-premium</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T15:33:59Z</news:publication_date>
-      <news:title>YouTube reportedly &amp;#8216;looking&amp;#8217; into adding audiobooks to Premium</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/09/YouTube-Music-on-Pixel-11-Pro.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>YouTube reportedly &amp;#8216;looking&amp;#8217; into adding audiobooks to Premium</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-ceo-john-ternus-on-early-foldables-039kind-of-cheap-and-crappy039</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T15:17:59Z</news:publication_date>
-      <news:title>Apple CEO John Ternus on Early Foldables: &amp;#039;Kind of Cheap and Crappy&amp;#039;</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/John-Ternus-iPhone-Duo.jpg</image:loc>
-      <image:title>Apple CEO John Ternus on Early Foldables: &amp;#039;Kind of Cheap and Crappy&amp;#039;</image:title>
     </image:image>
   </url>
 </urlset>
