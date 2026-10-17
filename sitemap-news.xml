@@ -3,6 +3,96 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/elon-musk-settles-lawsuits-over-1-million-voter-giveaway</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T16:39:44Z</news:publication_date>
+      <news:title>Elon Musk settles lawsuits over $1 million voter giveaway</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_A.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Elon Musk settles lawsuits over $1 million voter giveaway</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/what-does-the-yellow-light-on-your-alexa-device-mean-and-how-do-you-clear-it</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T16:30:00Z</news:publication_date>
+      <news:title>What does the yellow light on your Alexa device mean and how do you clear it?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/what-does-the-yellow-light-on-your-alexa-device-mean-and-how-do-you-clear-it/l-intro-1791547994.jpg</image:loc>
+      <image:title>What does the yellow light on your Alexa device mean and how do you clear it?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/anbernics-rg-dds-is-almost-double-the-price-of-the-original-nintendo-3ds</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T16:15:11Z</news:publication_date>
+      <news:title>Anbernic&apos;s RG DDS is almost double the price of the original Nintendo 3DS</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/anbernics-rg-dds-is-almost-double-the-price-of-the-original-nintendo-3ds/l-intro-1792253250.jpg</image:loc>
+      <image:title>Anbernic&apos;s RG DDS is almost double the price of the original Nintendo 3DS</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/this-samsung-galaxy-feature-can-protect-you-from-untrustworthy-apps</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T16:00:00Z</news:publication_date>
+      <news:title>This Samsung Galaxy feature can protect you from untrustworthy apps</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/this-samsung-galaxy-feature-can-protect-you-from-untrustworthy-apps/l-intro-1791578177.jpg</image:loc>
+      <image:title>This Samsung Galaxy feature can protect you from untrustworthy apps</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/why-are-some-locations-blurred-out-on-google-maps</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T15:30:00Z</news:publication_date>
+      <news:title>Why are some locations blurred out on Google Maps?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/why-are-some-locations-blurred-out-on-google-maps/l-intro-1791496081.jpg</image:loc>
+      <image:title>Why are some locations blurred out on Google Maps?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/honor-win2-teased-once-again-with-worlds-first-2k-185hz-display</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T15:12:02Z</news:publication_date>
+      <news:title>Honor Win2 teased once again with world&apos;s first 2K 185Hz display</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/honor-win2-display-teased/gsmarena_000.jpg</image:loc>
+      <image:title>Honor Win2 teased once again with world&apos;s first 2K 185Hz display</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites</loc>
     <news:news>
       <news:publication>
@@ -30,6 +120,21 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/google-pixel-tablet-podcast-front-scaled.jpg</image:loc>
       <image:title>The Apple HomeView already lost to one of the most unloved Google product in my house</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/common-problems-with-amazon-alexa-and-how-to-fix-them</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T15:00:00Z</news:publication_date>
+      <news:title>Common problems with Amazon Alexa and how to fix them</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/common-problems-with-amazon-alexa-and-how-to-fix-them/l-intro-1791500328.jpg</image:loc>
+      <image:title>Common problems with Amazon Alexa and how to fix them</image:title>
     </image:image>
   </url>
   <url>
@@ -93,6 +198,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/top-stories-apple-homeview-new-apple-tv-and-homepod-mini-and-sold-out-iphone-duo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T13:00:11Z</news:publication_date>
+      <news:title>Top Stories: Apple HomeView, New Apple TV and HomePod mini, and Sold-Out iPhone Duo</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/top-stories-2026-10-17.jpg</image:loc>
+      <image:title>Top Stories: Apple HomeView, New Apple TV and HomePod mini, and Sold-Out iPhone Duo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/boses-new-wired-earbuds-are-simple-in-the-best-way</loc>
     <news:news>
       <news:publication>
@@ -120,6 +240,36 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Websites are closing their doors to AI agents</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/insider-reveals-samsungs-plans-to-completely-overhaul-one-ui-10</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T12:43:02Z</news:publication_date>
+      <news:title>Insider reveals Samsung&apos;s plans to completely overhaul One UI 10</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/09/samsung-one-ui-9-reaches-us/gsmarena_000.jpg</image:loc>
+      <image:title>Insider reveals Samsung&apos;s plans to completely overhaul One UI 10</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/honor-win2-runs-antutu-too-its-cooling-fan-helps-it-achieve-a-top-score</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T12:02:02Z</news:publication_date>
+      <news:title>Honor Win2 runs AnTuTu too, its cooling fan helps it achieve a top score</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/honor-win2-antutu/gsmarena_000.jpg</image:loc>
+      <image:title>Honor Win2 runs AnTuTu too, its cooling fan helps it achieve a top score</image:title>
     </image:image>
   </url>
   <url>
@@ -225,6 +375,81 @@
     <image:image>
       <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/NWN-header-1152x648.jpg</image:loc>
       <image:title>Why BioWare&apos;s Neverwinter Nights still has thousands of active players</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/don8217t-buy-a-budget-android-phone-in-2026-4-reasons-to-get-an-old-flagship-instead</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T10:30:16Z</news:publication_date>
+      <news:title>Don&amp;#8217;t buy a budget Android phone in 2026 — 4 reasons to get an old flagship instead</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/02/Google-Pixel-10a-Berry-on-Chess-Board.jpg</image:loc>
+      <image:title>Don&amp;#8217;t buy a budget Android phone in 2026 — 4 reasons to get an old flagship instead</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/5-reasons-why-i8217ll-always-buy-google-pixel-phones-instead-of-samsung-galaxy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T10:00:53Z</news:publication_date>
+      <news:title>5 reasons why I&amp;#8217;ll always buy Google Pixel phones instead of Samsung Galaxy</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/Pixel-11-vs-Galaxy-S26-2-scaled.jpg</image:loc>
+      <image:title>5 reasons why I&amp;#8217;ll always buy Google Pixel phones instead of Samsung Galaxy</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/i-never-thought-id-ditch-samsung-notes-but-this-google-keep-feature-changed-my-mind</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T09:30:00Z</news:publication_date>
+      <news:title>I never thought I’d ditch Samsung Notes, but this Google Keep feature changed my mind</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Samsung-phone-in-hand-showing-Google-Keep-app-scaled.jpg</image:loc>
+      <image:title>I never thought I’d ditch Samsung Notes, but this Google Keep feature changed my mind</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/deals-iphone-duo-pre-orders-begin-as-galaxy-z-fold8-gets-a-price-cut</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T09:01:02Z</news:publication_date>
+      <news:title>Deals: iPhone Duo pre-orders begin as Galaxy Z Fold8 gets a price cut</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/weekly-deals-16/gsmarena_uk.jpg</image:loc>
+      <image:title>Deals: iPhone Duo pre-orders begin as Galaxy Z Fold8 gets a price cut</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/i8217ve-been-using-an-ai-agent-for-a-month-and-i8217m-both-impressed-and-terrified</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T09:00:53Z</news:publication_date>
+      <news:title>I&amp;#8217;ve been using an AI agent for a month, and I&amp;#8217;m both impressed and terrified</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/instinct-hands-on-1.jpg</image:loc>
+      <image:title>I&amp;#8217;ve been using an AI agent for a month, and I&amp;#8217;m both impressed and terrified</image:title>
     </image:image>
   </url>
   <url>
@@ -3240,51 +3465,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/12/Amazon-Echo-Dot-Max.jpg</image:loc>
       <image:title>Save 25% on Amazon’s premium Echo Dot Max smart speaker</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/sonys-2026-linkbuds-clip-earbuds-return-to-their-prime-day-price</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T16:33:50Z</news:publication_date>
-      <news:title>Sony’s 2026 LinkBuds Clip earbuds return to their Prime Day price</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/01/Sony-LinkBuds-Clip-Colors.jpg</image:loc>
-      <image:title>Sony’s 2026 LinkBuds Clip earbuds return to their Prime Day price</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/gulikit-tt-max-review-the-granddaddy-of-switch-2-controllers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T16:30:00Z</news:publication_date>
-      <news:title>GuliKit TT Max review: The granddaddy of Switch 2 controllers</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/gulikit-tt-max-review-the-granddaddy-of-switch-2-controllers/l-intro-1792080217.jpg</image:loc>
-      <image:title>GuliKit TT Max review: The granddaddy of Switch 2 controllers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/friends-don8217t-let-friends-feed-their-data-to-ai-agents</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T16:21:45Z</news:publication_date>
-      <news:title>Friends don&amp;#8217;t let friends feed their data to AI agents</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268808_None_of_Your_Friends_Consented_To_an_AI_Agent_CVirginia2.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Friends don&amp;#8217;t let friends feed their data to AI agents</image:title>
     </image:image>
   </url>
 </urlset>
