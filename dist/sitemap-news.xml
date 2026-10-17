@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/android-auto-can-be-used-outside-of-your-car-heres-how</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T18:45:00Z</news:publication_date>
+      <news:title>Android Auto can be used outside of your car: Here&apos;s how</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/android-auto-can-be-used-outside-of-your-car-heres-how/l-intro-1791824287.jpg</image:loc>
+      <image:title>Android Auto can be used outside of your car: Here&apos;s how</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/whats-actually-eating-all-the-storage-space-on-your-android-phone</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T18:30:00Z</news:publication_date>
+      <news:title>What&apos;s actually eating all the storage space on your Android Phone?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/whats-actually-eating-all-the-storage-space-on-your-android-phone/l-intro-1791468108.jpg</image:loc>
+      <image:title>What&apos;s actually eating all the storage space on your Android Phone?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/iphone-duo-shipping-estimates-have-already-been-pushed-back-to-2027</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T18:12:35Z</news:publication_date>
+      <news:title>iPhone Duo shipping estimates have already been pushed back to 2027</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/iphone-duo-shipping-estimates-have-already-been-pushed-back-to-2027/l-intro-1792260615.jpg</image:loc>
+      <image:title>iPhone Duo shipping estimates have already been pushed back to 2027</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/tablets/you-might-be-surprised-by-how-much-the-slate-truck-can-carry</loc>
     <news:news>
       <news:publication>
@@ -3180,156 +3225,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-iPhone-Duo-Hands-On-Netflix-on-inner-display.jpg</image:loc>
       <image:title>Apple might just be Samsung&amp;#8217;s best foldable salesperson yet</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/black-sea-drone-attacks-enter-nato-countrys-territorial-waters-for-first-time</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T18:48:11Z</news:publication_date>
-      <news:title>Black Sea drone attacks enter NATO country&apos;s territorial waters for first time</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/Black-Sea-sailors-rescued-by-Bulgaria-1152x648.jpg</image:loc>
-      <image:title>Black Sea drone attacks enter NATO country&apos;s territorial waters for first time</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/e-inks-new-kaleido-4-could-inch-us-closer-to-the-perfect-color-e-reader</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T18:41:58Z</news:publication_date>
-      <news:title>E Ink&apos;s new Kaleido 4 could inch us closer to the perfect color e-reader</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/e-inks-new-kaleido-4-could-inch-us-closer-to-the-perfect-color-e-reader/l-intro-1792089646.jpg</image:loc>
-      <image:title>E Ink&apos;s new Kaleido 4 could inch us closer to the perfect color e-reader</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/microplastics-in-water-arent-inert-and-make-damaging-chemicals-on-their-own</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T18:39:17Z</news:publication_date>
-      <news:title>Microplastics in water aren’t inert and make damaging chemicals on their own</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1922961716-1152x648.jpg</image:loc>
-      <image:title>Microplastics in water aren’t inert and make damaging chemicals on their own</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/fairphone-shares-when-fairbuds-2-us-sales-are-set-to-begin</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T18:34:27Z</news:publication_date>
-      <news:title>Fairphone shares when Fairbuds 2 US sales are set to begin</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/fairbuds-2-lifestyle.jpg</image:loc>
-      <image:title>Fairphone shares when Fairbuds 2 US sales are set to begin</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/verizon-emphasizes-its-free-safety-family-and-ai-perks</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T18:31:02Z</news:publication_date>
-      <news:title>Verizon emphasizes its free safety, family, and AI perks</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
-      <image:title>Verizon emphasizes its free safety, family, and AI perks</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/riot-will-sunset-league-of-legends-classic-in-january-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T18:30:08Z</news:publication_date>
-      <news:title>Riot will sunset League of Legends Classic in January 2027</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/riot-will-sunset-league-of-legends-classic-in-january-2027/l-intro-1792088892.jpg</image:loc>
-      <image:title>Riot will sunset League of Legends Classic in January 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/alexa-tablet-12-pro-review-amazons-premium-tablet-gets-almost-everything-right</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T18:30:00Z</news:publication_date>
-      <news:title>Alexa Tablet 12 Pro review: Amazon&apos;s premium tablet gets almost everything right</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/alexa-tablet-12-pro-review-amazons-premium-tablet-gets-almost-everything-right/l-intro-1792087746.jpg</image:loc>
-      <image:title>Alexa Tablet 12 Pro review: Amazon&apos;s premium tablet gets almost everything right</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/trump-cancels-pentagon-plans-to-livestream-firing-squad-execution</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T18:16:36Z</news:publication_date>
-      <news:title>Trump cancels Pentagon plans to livestream firing squad execution</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2294712564-1024x648.jpg</image:loc>
-      <image:title>Trump cancels Pentagon plans to livestream firing squad execution</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/this-gaming-phone-gives-qualcomm8217s-latest-powerhouse-the-liquid-cooling-treatment</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T18:16:33Z</news:publication_date>
-      <news:title>This gaming phone gives Qualcomm&amp;#8217;s latest powerhouse the liquid-cooling treatment</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/REDMAGIC-12-Pro-Plus-scaled.jpg</image:loc>
-      <image:title>This gaming phone gives Qualcomm&amp;#8217;s latest powerhouse the liquid-cooling treatment</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/meta-and-apple-team-up-to-make-muse-ai-models-run-better-on-macs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T18:15:36Z</news:publication_date>
-      <news:title>Meta and Apple team up to make Muse AI models run better on Macs</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268742_Mac_Studio_AKrales_0025.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Meta and Apple team up to make Muse AI models run better on Macs</image:title>
     </image:image>
   </url>
 </urlset>
