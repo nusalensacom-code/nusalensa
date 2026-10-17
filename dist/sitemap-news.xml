@@ -3,6 +3,231 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T15:04:36Z</news:publication_date>
+      <news:title>Meta removes language that may have allowed it to scrape news sites</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Meta removes language that may have allowed it to scrape news sites</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-apple-homeview-already-lost-to-one-of-the-most-unloved-google-product-in-my-house</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T15:00:07Z</news:publication_date>
+      <news:title>The Apple HomeView already lost to one of the most unloved Google product in my house</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/google-pixel-tablet-podcast-front-scaled.jpg</image:loc>
+      <image:title>The Apple HomeView already lost to one of the most unloved Google product in my house</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/pikmin-4-is-20-off-ahead-of-its-10-nintendo-switch-2-update</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T15:00:00Z</news:publication_date>
+      <news:title>Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24018761/Nintendo_Direct_9.13.2022_60_17_screenshot.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/jad-abumrad-loves-a-butterfly-knife-and-a-good-springy-pillow</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T14:30:00Z</news:publication_date>
+      <news:title>Jad Abumrad loves a butterfly knife and a good springy pillow</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Jad-WideEyedPortrait-14-Full.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Jad Abumrad loves a butterfly knife and a good springy pillow</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/walmart8217s-60-google-tv-streamer-might-be-the-only-good-deal-left-in-streaming</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T14:05:00Z</news:publication_date>
+      <news:title>Walmart&amp;#8217;s $60 Google TV streamer might be the only good deal left in streaming</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/walmart-onn-4k-pro-google-tv-3.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Walmart&amp;#8217;s $60 Google TV streamer might be the only good deal left in streaming</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/spacexs-ambitious-expensive-gamble-to-replace-at038t-t-mobile-and-verizon</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T14:00:00Z</news:publication_date>
+      <news:title>SpaceX’s ambitious, expensive gamble to replace AT&amp;#038;T, T-Mobile, and Verizon</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_SpaceX_Telecom.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>SpaceX’s ambitious, expensive gamble to replace AT&amp;#038;T, T-Mobile, and Verizon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/boses-new-wired-earbuds-are-simple-in-the-best-way</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T13:00:00Z</news:publication_date>
+      <news:title>Bose’s new wired earbuds are simple in the best way</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268806_Bose-Noise-Cancelling-Wired-Earbuds_1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Bose’s new wired earbuds are simple in the best way</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/websites-are-closing-their-doors-to-ai-agents</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T13:00:00Z</news:publication_date>
+      <news:title>Websites are closing their doors to AI agents</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Websites are closing their doors to AI agents</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/amazon-just-did-what-google-couldn8217t-do-in-15-years-make-a-great-everyday-android-tablet</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T12:00:28Z</news:publication_date>
+      <news:title>Amazon just did what Google couldn&amp;#8217;t do in 15 years: Make a great everyday Android tablet</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Amazon-Alexa-tablets-12-11-8.jpeg</image:loc>
+      <image:title>Amazon just did what Google couldn&amp;#8217;t do in 15 years: Make a great everyday Android tablet</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/its-a-dream-week-for-tech-docs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T12:00:00Z</news:publication_date>
+      <news:title>It’s a dream week for tech docs</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Installer-148.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>It’s a dream week for tech docs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/apples-homeview-is-just-the-latest-threat-to-online-recipe-writers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T12:00:00Z</news:publication_date>
+      <news:title>Apple’s HomeView is just the latest threat to online recipe writers</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-Cooking_73277b.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Apple’s HomeView is just the latest threat to online recipe writers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/science-says-your-boss-should-talk-less-in-meetings</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T11:15:11Z</news:publication_date>
+      <news:title>Science says your boss should talk less in meetings</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/meetingboredom-1152x648.jpg</image:loc>
+      <image:title>Science says your boss should talk less in meetings</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/qualcomm-says-rumors-about-snapdragon-8-elite-extreme-gen-6-overheating-are-8216inaccurate8217</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T11:05:00Z</news:publication_date>
+      <news:title>Qualcomm says rumors about Snapdragon 8 Elite Extreme Gen 6 overheating are &amp;#8216;inaccurate&amp;#8217;</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/07/snapdragon-8-elite-gen-5-for-galaxy.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Qualcomm says rumors about Snapdragon 8 Elite Extreme Gen 6 overheating are &amp;#8216;inaccurate&amp;#8217;</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-one-missing-feature-that-stopped-me-from-buying-a-fitbit-edge</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T11:00:46Z</news:publication_date>
+      <news:title>The one missing feature that stopped me from buying a Fitbit Edge</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/fitbit-edge-header-1.jpg</image:loc>
+      <image:title>The one missing feature that stopped me from buying a Fitbit Edge</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/why-biowares-neverwinter-nights-still-has-thousands-of-active-players</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T11:00:21Z</news:publication_date>
+      <news:title>Why BioWare&apos;s Neverwinter Nights still has thousands of active players</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/NWN-header-1152x648.jpg</image:loc>
+      <image:title>Why BioWare&apos;s Neverwinter Nights still has thousands of active players</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/vivo-v80-goes-global</loc>
     <news:news>
       <news:publication>
@@ -3060,141 +3285,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268808_None_of_Your_Friends_Consented_To_an_AI_Agent_CVirginia2.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Friends don&amp;#8217;t let friends feed their data to AI agents</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/is-your-pixel-recording-unusually-quiet-audio-you8217re-not-alone</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T16:08:34Z</news:publication_date>
-      <news:title>Is your Pixel recording unusually quiet audio? You&amp;#8217;re not alone</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/11/Android_Bot_looking_at_Pixel_Recorder_app.jpg</image:loc>
-      <image:title>Is your Pixel recording unusually quiet audio? You&amp;#8217;re not alone</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-tv-4k-2022-vs-2026-buyer039s-guide-all-differences-compared</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T16:07:52Z</news:publication_date>
-      <news:title>Apple TV 4K 2022 vs. 2026 Buyer&amp;#039;s Guide: All Differences Compared</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/Apple-TV-4K-4th-Generation-feature4.jpg</image:loc>
-      <image:title>Apple TV 4K 2022 vs. 2026 Buyer&amp;#039;s Guide: All Differences Compared</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/record-low-price-arlos-3rd-gen-2k-security-camera-falls-to-just-52</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T16:05:08Z</news:publication_date>
-      <news:title>Record-low price: Arlo’s 3rd Gen 2K security camera falls to just $52</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/11/Arlo-Essential-Security-Camera-2K-2025-Press-Image-scaled.jpg</image:loc>
-      <image:title>Record-low price: Arlo’s 3rd Gen 2K security camera falls to just $52</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/microsoft-says-it-made-windows-11-zippier-especially-on-pcs-with-less-ram</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T16:01:18Z</news:publication_date>
-      <news:title>Microsoft says it made Windows 11 zippier, especially on PCs with less RAM</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/microsoft-says-it-made-windows-11-zippier-especially-on-pcs-with-less-ram/l-intro-1792080015.jpg</image:loc>
-      <image:title>Microsoft says it made Windows 11 zippier, especially on PCs with less RAM</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-is-making-it-easier-for-you-to-find-the-websites-you8217re-actually-looking-for</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T16:00:58Z</news:publication_date>
-      <news:title>Google is making it easier for you to find the websites you&amp;#8217;re actually looking for</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/09/Apple-Visual-Intelligence-vs-Circle-to-Search-Google-music.jpg</image:loc>
-      <image:title>Google is making it easier for you to find the websites you&amp;#8217;re actually looking for</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-ai-mode-and-ai-overview-updates-work-to-elevate-links</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T16:00:00Z</news:publication_date>
-      <news:title>Google AI Mode and AI Overview updates work to elevate links</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/03/google-ai-mode-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Google AI Mode and AI Overview updates work to elevate links</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-best-reason-to-care-about-nvidias-rtx-spark-everything-will-run-on-arm</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T16:00:00Z</news:publication_date>
-      <news:title>The best reason to care about Nvidia’s RTX Spark: ‘everything’ will run on Arm</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/20261008_144946.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=12.666665649414,10.133333333333,77.466665649414,78.311116536458</image:loc>
-      <image:title>The best reason to care about Nvidia’s RTX Spark: ‘everything’ will run on Arm</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/e-ink-upgraded-the-screen-found-in-most-color-e-readers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T16:00:00Z</news:publication_date>
-      <news:title>E Ink upgraded the screen found in most color e-readers</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eink4.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>E Ink upgraded the screen found in most color e-readers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/highly-rated-marshall-major-v-wireless-headphones-get-a-44-amazon-price-drop</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T15:53:07Z</news:publication_date>
-      <news:title>Highly rated Marshall Major V Wireless headphones get a 44% Amazon price drop</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/03/Woman-holding-Marshall-Major-V.jpg</image:loc>
-      <image:title>Highly rated Marshall Major V Wireless headphones get a 44% Amazon price drop</image:title>
     </image:image>
   </url>
 </urlset>
