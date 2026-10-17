@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/should-you-have-both-ethernet-and-wi-fi-for-your-home</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T14:30:00Z</news:publication_date>
+      <news:title>Should you have both Ethernet and Wi-Fi for your home?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/should-you-have-both-ethernet-and-wi-fi-for-your-home/l-intro-1791494132.jpg</image:loc>
+      <image:title>Should you have both Ethernet and Wi-Fi for your home?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/jad-abumrad-loves-a-butterfly-knife-and-a-good-springy-pillow</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T14:30:00Z</news:publication_date>
+      <news:title>Jad Abumrad loves a butterfly knife and a good springy pillow</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Jad-WideEyedPortrait-14-Full.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Jad Abumrad loves a butterfly knife and a good springy pillow</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/walmart8217s-60-google-tv-streamer-might-be-the-only-good-deal-left-in-streaming</loc>
     <news:news>
       <news:publication>
@@ -3840,141 +3870,6 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/10/Apple-Greg-Joswiak.jpg</image:loc>
       <image:title>Greg Joswiak Says Apple Isn&amp;#039;t Focused on Making AI for &amp;#039;Lunatic Fringe&amp;#039;</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/solid-dreame-x40-ultra-deal-brings-12000pa-suction-and-hot-water-mop-washing-to-49999</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T14:50:14Z</news:publication_date>
-      <news:title>Solid Dreame X40 Ultra deal brings 12,000Pa suction and hot-water mop washing to $499.99</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/DREAME-X40-Ultra-Robotic-Vacuum-Press-Image.jpg</image:loc>
-      <image:title>Solid Dreame X40 Ultra deal brings 12,000Pa suction and hot-water mop washing to $499.99</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/buying-an-iphone-duo-these-are-t-mobile8217s-deals-to-save-big-on-apple8217s-first-foldable</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T14:45:35Z</news:publication_date>
-      <news:title>Buying an iPhone Duo? These are T-Mobile&amp;#8217;s deals to save big on Apple&amp;#8217;s first foldable</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-iPhone-Duo-Hands-On-Outer-Display-Cover-Display-in-hand.jpg</image:loc>
-      <image:title>Buying an iPhone Duo? These are T-Mobile&amp;#8217;s deals to save big on Apple&amp;#8217;s first foldable</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/trump-calls-off-livestream-of-execution</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T14:43:44Z</news:publication_date>
-      <news:title>Trump calls off livestream of execution</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-98350519.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Trump calls off livestream of execution</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/heres-when-iphone-18-production-is-rumored-to-start</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T14:41:02Z</news:publication_date>
-      <news:title>Here&apos;s when iPhone 18 production is rumored to start</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
-      <image:title>Here&apos;s when iPhone 18 production is rumored to start</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-rolling-out-universal-cart-that-lets-you-shop-the-web-and-find-deals-with-gemini-search</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T14:40:00Z</news:publication_date>
-      <news:title>Google rolling out Universal Cart that lets you shop the web and find deals with Gemini, Search</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/google-universal-cart-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Google rolling out Universal Cart that lets you shop the web and find deals with Gemini, Search</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-might-soon-borrow-a-sleeper-safari-feature-for-chrome</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T14:30:21Z</news:publication_date>
-      <news:title>Google might soon borrow a sleeper Safari feature for Chrome</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/01/google-chrome-vertical-tabs-hero-2-scaled.jpg</image:loc>
-      <image:title>Google might soon borrow a sleeper Safari feature for Chrome</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/how-windows-is-being-optimized-for-nvidias-rtx-spark-laptops</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T14:30:00Z</news:publication_date>
-      <news:title>How Windows is being optimized for Nvidia’s RTX Spark laptops</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>How Windows is being optimized for Nvidia’s RTX Spark laptops</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-says-the-galaxy-z-fold-8-is-more-popular-than-ever-thanks-to-iphone-duo</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T14:25:00Z</news:publication_date>
-      <news:title>Samsung says the Galaxy Z Fold 8 is more popular than ever thanks to iPhone Duo</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-review-25.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Samsung says the Galaxy Z Fold 8 is more popular than ever thanks to iPhone Duo</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/operas-lightweight-air-browser-is-back-unbothered-moisturized-in-its-lane</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T14:17:22Z</news:publication_date>
-      <news:title>Opera&apos;s lightweight Air browser is back, unbothered, moisturized, in its lane</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/operas-lightweight-air-browser-is-back-unbothered-moisturized-in-its-lane/l-intro-1792073768.jpg</image:loc>
-      <image:title>Opera&apos;s lightweight Air browser is back, unbothered, moisturized, in its lane</image:title>
     </image:image>
   </url>
 </urlset>
