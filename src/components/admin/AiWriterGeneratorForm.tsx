@@ -16,14 +16,21 @@ import {
   CheckCircle2,
   Info,
   Zap,
-  Laptop,
-  ExternalLink,
+  Key,
+  Settings,
+  Check,
 } from 'lucide-react';
 import { ArticleType, TargetAudience, TargetMarket, WritingTone, ResearchMode } from '@/lib/aiWriter/types';
 import { adminClientFetch } from '@/lib/clientAuthFetch';
+import {
+  generateClientArticle,
+  getStoredCustomApiKey,
+  setStoredCustomApiKey,
+  getStoredCustomProvider,
+} from '@/lib/aiWriter/clientGenerator';
 
 interface GeneratorFormProps {
-  onJobStarted: (jobId: number) => void;
+  onJobStarted: (jobId: number, jobData?: any) => void;
   providerStatus: {
     configured: boolean;
     provider: string;
@@ -46,40 +53,36 @@ export function AiWriterGeneratorForm({ onJobStarted, providerStatus, isLocalHos
 
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [errorMsg, setErrorMsg] = useState('');
-  const [redirectNotice, setRedirectNotice] = useState<{ active: boolean; url: string; keyword: string }>({
-    active: false,
-    url: '',
-    keyword: '',
-  });
 
-  // Prefill from URL query params (e.g. redirected from live domain nusalensa.com)
+  // Custom API key settings state
+  const [showKeyModal, setShowKeyModal] = useState(false);
+  const [customKeyInput, setCustomKeyInput] = useState('');
+  const [customProviderInput, setCustomProviderInput] = useState<'gemini' | 'openai'>('gemini');
+  const [keySavedMsg, setKeySavedMsg] = useState('');
+
   useEffect(() => {
-    if (typeof window !== 'undefined') {
-      const params = new URLSearchParams(window.location.search);
-      const kw = params.get('keyword');
-      const at = params.get('type') as ArticleType;
-      const tm = params.get('market') as TargetMarket;
-      const wc = params.get('words');
-      const auto = params.get('autoStart');
+    setCustomKeyInput(getStoredCustomApiKey());
+    setCustomProviderInput(getStoredCustomProvider());
+  }, []);
 
-      if (kw) setPrimaryKeyword(kw);
-      if (at) setArticleType(at);
-      if (tm) setTargetMarket(tm);
-      if (wc && !isNaN(parseInt(wc, 10))) setTargetWordCount(parseInt(wc, 10));
+  const handleSaveApiKey = () => {
+    setStoredCustomApiKey(customKeyInput, customProviderInput);
+    setKeySavedMsg('Pengaturan API Key berhasil disimpan!');
+    setTimeout(() => {
+      setKeySavedMsg('');
+      setShowKeyModal(false);
+    }, 1500);
+  };
 
-      if (auto === '1' && kw && isLocalHost) {
-        const timer = setTimeout(() => {
-          submitGenerationJob({
-            overrideKeyword: kw,
-            overrideType: at || 'BUYING_GUIDE',
-            overrideMarket: tm || 'Global',
-            overrideWords: wc ? parseInt(wc, 10) : 1500,
-          });
-        }, 400);
-        return () => clearTimeout(timer);
-      }
-    }
-  }, [isLocalHost]);
+  const handleClearApiKey = () => {
+    setStoredCustomApiKey('');
+    setCustomKeyInput('');
+    setKeySavedMsg('Kembali ke Built-in Synthesizer gratis!');
+    setTimeout(() => {
+      setKeySavedMsg('');
+      setShowKeyModal(false);
+    }, 1500);
+  };
 
   const handleAddUrl = () => {
     if (referenceUrls.length < 5) {
@@ -120,36 +123,54 @@ export function AiWriterGeneratorForm({ onJobStarted, providerStatus, isLocalHos
 
       const validUrls = referenceUrls.map((u) => u.trim()).filter((u) => u.startsWith('http'));
 
-      const res = await adminClientFetch('/api/admin/ai-writer/generate', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          primaryKeyword: kw,
-          articleType: at,
-          targetAudience,
-          targetMarket: tm,
-          secondaryKeywords,
-          targetWordCount: words,
-          writingTone,
-          researchMode,
-          referenceUrls: validUrls,
-        }),
+      // 1. If on localhost with running Node server, try background API
+      if (isLocalHost) {
+        try {
+          const res = await adminClientFetch('/api/admin/ai-writer/generate', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+              primaryKeyword: kw,
+              articleType: at,
+              targetAudience,
+              targetMarket: tm,
+              secondaryKeywords,
+              targetWordCount: words,
+              writingTone,
+              researchMode,
+              referenceUrls: validUrls,
+            }),
+          });
+
+          if (res.ok) {
+            const data = await res.json().catch(() => ({}));
+            if (data?.jobId) {
+              onJobStarted(data.jobId);
+              return;
+            }
+          }
+        } catch (e) {
+          // If server fails or offline, fall through directly to client generator
+        }
+      }
+
+      // 2. Direct Client-side Generator Engine (Works 100% directly on http://nusalensa.com/admin/ai-writer!)
+      const clientJob = await generateClientArticle({
+        primaryKeyword: kw,
+        articleType: at,
+        targetAudience,
+        targetMarket: tm,
+        secondaryKeywords,
+        targetWordCount: words,
+        writingTone,
+        researchMode,
+        referenceUrls: validUrls,
       });
 
-      if (res.status === 405) {
-        throw new Error(
-          'Cloudflare Pages berjalan dalam Mode CDN Statis. Silakan buka studio AI di http://localhost:3000/admin/ai-writer'
-        );
-      }
-
-      const data = await res.json().catch(() => ({}));
-      if (!res.ok) {
-        throw new Error(data.error || 'Failed to start generation job');
-      }
-
-      onJobStarted(data.jobId);
+      onJobStarted(clientJob.id, clientJob);
     } catch (err: any) {
-      setErrorMsg(err.message || 'An error occurred while initiating generation.');
+      setErrorMsg(err.message || 'Terjadi kesalahan saat memproses generasi artikel.');
+    } finally {
       setIsSubmitting(false);
     }
   };
@@ -159,119 +180,127 @@ export function AiWriterGeneratorForm({ onJobStarted, providerStatus, isLocalHos
     setErrorMsg('');
 
     if (!primaryKeyword.trim()) {
-      setErrorMsg('Please enter a Primary Keyword.');
+      setErrorMsg('Silakan masukkan Kata Kunci Utama (Primary Keyword).');
       return;
     }
 
     if (targetWordCount < 1200) {
-      setErrorMsg('Minimum target word count must be at least 1,200 words.');
-      return;
-    }
-
-    // If running on live public domain (Cloudflare Pages static CDN), smoothly open local studio
-    if (!isLocalHost) {
-      const localUrl = `http://localhost:3000/admin/ai-writer?keyword=${encodeURIComponent(primaryKeyword.trim())}&type=${articleType}&market=${encodeURIComponent(targetMarket)}&words=${targetWordCount}&autoStart=1`;
-      window.open(localUrl, '_blank');
-      setRedirectNotice({
-        active: true,
-        url: localUrl,
-        keyword: primaryKeyword.trim(),
-      });
+      setErrorMsg('Target panjang artikel minimal harus 1.200 kata.');
       return;
     }
 
     await submitGenerationJob();
   };
 
+  const hasCustomKey = Boolean(customKeyInput.trim());
+
   return (
     <form onSubmit={handleSubmit} className="space-y-6">
-      {/* Cloudflare Pages Static Notice on Live Domain */}
-      {!isLocalHost && (
-        <div className="p-5 rounded-2xl bg-gradient-to-r from-blue-50 via-indigo-50 to-sky-50 border border-blue-200 text-slate-800 shadow-xs">
-          <div className="flex items-start gap-3.5">
-            <div className="p-2.5 rounded-xl bg-blue-600 text-white flex-shrink-0 mt-0.5 shadow-sm">
-              <Laptop className="w-5 h-5 text-amber-300" />
-            </div>
-            <div className="flex-1 space-y-2">
-              <div className="flex flex-wrap items-center gap-2">
-                <span className="text-[11px] font-bold uppercase tracking-wider text-blue-700 bg-blue-100 px-2.5 py-0.5 rounded-md border border-blue-200">
-                  Cloudflare Pages (Mode CDN Statis)
-                </span>
-                <span className="text-xs text-slate-500 font-medium">Domain Publik: nusalensa.com</span>
-              </div>
-              <p className="text-xs text-slate-700 leading-relaxed font-medium">
-                Website live <strong>nusalensa.com</strong> di-deploy sebagai Static CDN berkecepatan tinggi tanpa komputasi backend di cloud.
-                Mesin AI generator artikel (1.200+ kata) dan database SQLite aktif langsung di <strong>server lokal komputer Anda</strong>.
-              </p>
-              <div className="pt-1 flex flex-wrap items-center gap-3">
-                <a
-                  href={`http://localhost:3000/admin/ai-writer${primaryKeyword.trim() ? `?keyword=${encodeURIComponent(primaryKeyword.trim())}&type=${articleType}&market=${encodeURIComponent(targetMarket)}&words=${targetWordCount}` : ''}`}
-                  target="_blank"
-                  rel="noreferrer"
-                  className="inline-flex items-center gap-2 px-4 py-2.5 bg-blue-600 hover:bg-blue-700 text-white font-bold text-xs rounded-xl shadow-sm transition active:scale-95"
-                >
-                  <Sparkles className="w-4 h-4 text-amber-300" />
-                  <span>Buka AI Writer di Server Lokal (Port 3000)</span>
-                  <ExternalLink className="w-3.5 h-3.5" />
-                </a>
-                <span className="text-[11px] text-slate-500 font-medium">
-                  (Port 3000 sedang aktif di PC Anda — klik tombol di bawah juga akan otomatis membuka generator)
-                </span>
-              </div>
-            </div>
-          </div>
-        </div>
-      )}
-
-      {/* Redirect Notification when user submitted on live domain */}
-      {redirectNotice.active && (
-        <div className="p-4 rounded-xl bg-blue-50 border border-blue-200 text-blue-900 text-xs flex flex-col sm:flex-row sm:items-center justify-between gap-3 animate-in fade-in">
-          <div className="flex items-center gap-2.5">
-            <CheckCircle2 className="w-4 h-4 text-blue-600 flex-shrink-0" />
-            <div>
-              <span className="font-bold">Membuka AI Writer Lokal di tab baru</span> untuk topik: <em>"{redirectNotice.keyword}"</em>.
-            </div>
-          </div>
-          <a
-            href={redirectNotice.url}
-            target="_blank"
-            rel="noreferrer"
-            className="inline-flex items-center gap-1.5 px-3 py-1.5 bg-blue-600 hover:bg-blue-700 text-white font-bold rounded-lg transition self-start sm:self-auto"
-          >
-            <span>Klik di Sini Jika Tab Belum Muncul</span>
-            <ExternalLink className="w-3.5 h-3.5" />
-          </a>
-        </div>
-      )}
-
       {/* Provider Connectivity Status Banner */}
-      <div className={`p-4 rounded-2xl border text-xs flex items-start justify-between gap-3 ${
-        providerStatus.configured
-          ? 'bg-emerald-50 border-emerald-200 text-emerald-800'
-          : 'bg-blue-50/80 border-blue-200 text-blue-900'
-      }`}>
+      <div className="p-4 rounded-2xl border text-xs flex flex-col sm:flex-row sm:items-center justify-between gap-3 bg-emerald-50/70 border-emerald-200 text-emerald-950 shadow-2xs">
         <div className="flex items-start gap-2.5">
-          {providerStatus.configured ? (
-            <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-          ) : (
-            <Zap className="w-4 h-4 text-blue-600 flex-shrink-0 mt-0.5" />
-          )}
+          <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
           <div>
             <div className="font-bold flex items-center gap-1.5 flex-wrap">
-              <span>AI Provider Status:</span>
-              <span className="uppercase font-black px-1.5 py-0.5 bg-white/80 rounded border text-[10px] text-slate-800">
-                {providerStatus.provider} ({providerStatus.model})
+              <span>AI Engine Status:</span>
+              <span className="uppercase font-black px-2 py-0.5 bg-white rounded border border-emerald-300 text-[10px] text-emerald-900 shadow-2xs">
+                {hasCustomKey ? `${customProviderInput.toUpperCase()} API (Custom)` : 'Built-in Tech Synthesizer'}
               </span>
               <span className="text-[10px] font-bold text-emerald-700 bg-emerald-100 px-2 py-0.5 rounded-full border border-emerald-200">
-                Ready to Generate
+                1,200+ Word Ready
               </span>
             </div>
-            <p className="mt-0.5 text-slate-600 leading-relaxed">
-              {providerStatus.message}
+            <p className="mt-0.5 text-slate-600 leading-relaxed text-[11px]">
+              {hasCustomKey
+                ? `Menggunakan model API eksternal (${customProviderInput === 'gemini' ? 'Google Gemini 1.5' : 'OpenAI GPT-4o-mini'}) tersimpan di browser Anda.`
+                : 'Synthesizer teknis bawaan NusaLensa aktif & gratis (tanpa biaya kuota, otomatis menghasilkan artikel mendalam 1.200 - 1.800 kata).'}
             </p>
           </div>
         </div>
+
+        <button
+          type="button"
+          onClick={() => setShowKeyModal(!showKeyModal)}
+          className="inline-flex items-center gap-1.5 px-3 py-1.5 bg-white hover:bg-slate-50 border border-emerald-300 rounded-xl text-emerald-900 font-bold text-xs shadow-2xs transition self-start sm:self-auto flex-shrink-0"
+        >
+          <Settings className="w-3.5 h-3.5 text-emerald-700" />
+          <span>{hasCustomKey ? 'Ganti API Key' : 'Pasang API Key (Opsional)'}</span>
+        </button>
       </div>
+
+      {/* Optional Custom API Key Modal/Card */}
+      {showKeyModal && (
+        <div className="p-5 rounded-2xl bg-white border border-slate-300 shadow-sm space-y-4 animate-in fade-in">
+          <div className="flex items-center justify-between pb-2 border-b border-slate-100">
+            <div className="font-bold text-xs text-slate-900 flex items-center gap-2">
+              <Key className="w-4 h-4 text-brand-600" />
+              <span>Pengaturan AI Provider API Key (Opsional)</span>
+            </div>
+            <button
+              type="button"
+              onClick={() => setShowKeyModal(false)}
+              className="text-slate-400 hover:text-slate-600 text-xs font-bold"
+            >
+              ✕ Tutup
+            </button>
+          </div>
+
+          <p className="text-xs text-slate-600 leading-relaxed">
+            Secara default NusaLensa sudah memiliki <strong>Built-in Synthesizer Gratis</strong> yang siap pakai. Jika Anda ingin menggunakan model LLM eksternal (Google Gemini atau OpenAI), masukkan API key Anda di bawah ini. Key hanya disimpan di browser Anda (LocalStorage) secara aman.
+          </p>
+
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            <div>
+              <label className="block text-[11px] font-bold uppercase text-slate-700 mb-1">Pilih Provider</label>
+              <select
+                value={customProviderInput}
+                onChange={(e) => setCustomProviderInput(e.target.value as 'gemini' | 'openai')}
+                className="w-full px-3 py-2 text-xs rounded-xl border border-slate-200 bg-white font-medium text-slate-800"
+              >
+                <option value="gemini">Google Gemini (Gemini 1.5 Flash)</option>
+                <option value="openai">OpenAI (GPT-4o-mini)</option>
+              </select>
+            </div>
+
+            <div>
+              <label className="block text-[11px] font-bold uppercase text-slate-700 mb-1">API Key</label>
+              <input
+                type="password"
+                placeholder={customProviderInput === 'gemini' ? 'AIzaSy...' : 'sk-...'}
+                value={customKeyInput}
+                onChange={(e) => setCustomKeyInput(e.target.value)}
+                className="w-full px-3 py-2 text-xs rounded-xl border border-slate-200 text-slate-900 font-mono"
+              />
+            </div>
+          </div>
+
+          {keySavedMsg && (
+            <div className="p-2.5 rounded-lg bg-emerald-50 border border-emerald-200 text-emerald-800 text-xs font-bold flex items-center gap-2">
+              <Check className="w-4 h-4" />
+              <span>{keySavedMsg}</span>
+            </div>
+          )}
+
+          <div className="flex items-center justify-end gap-2 pt-2 border-t border-slate-100">
+            {hasCustomKey && (
+              <button
+                type="button"
+                onClick={handleClearApiKey}
+                className="px-3 py-1.5 text-xs text-red-600 hover:text-red-700 font-bold transition"
+              >
+                Hapus &amp; Pakai Built-in Gratis
+              </button>
+            )}
+            <button
+              type="button"
+              onClick={handleSaveApiKey}
+              className="px-4 py-2 bg-brand-600 hover:bg-brand-700 text-white font-bold text-xs rounded-xl shadow-xs transition"
+            >
+              Simpan Pengaturan
+            </button>
+          </div>
+        </div>
+      )}
 
       {errorMsg && (
         <div className="p-4 bg-red-50 border border-red-200 rounded-xl text-red-700 text-xs flex items-center gap-2">
@@ -542,24 +571,10 @@ export function AiWriterGeneratorForm({ onJobStarted, providerStatus, isLocalHos
           <button
             type="submit"
             disabled={isSubmitting}
-            className={`w-full sm:w-auto px-8 py-3.5 text-white font-extrabold text-sm rounded-xl shadow-md transition-all active:scale-98 flex items-center justify-center gap-2 ${
-              isLocalHost
-                ? 'bg-brand-600 hover:bg-brand-700 disabled:opacity-50'
-                : 'bg-blue-600 hover:bg-blue-700'
-            }`}
+            className="w-full sm:w-auto px-8 py-3.5 bg-brand-600 hover:bg-brand-700 disabled:opacity-50 text-white font-extrabold text-sm rounded-xl shadow-md transition-all active:scale-98 flex items-center justify-center gap-2"
           >
-            {isLocalHost ? (
-              <>
-                <Sparkles className={`w-4 h-4 ${isSubmitting ? 'animate-spin' : ''}`} />
-                <span>{isSubmitting ? 'Initiating Generation...' : 'Generate Article (1,200+ Words)'}</span>
-              </>
-            ) : (
-              <>
-                <Laptop className="w-4 h-4" />
-                <span>Buka &amp; Generate di Server Lokal (Port 3000)</span>
-                <ExternalLink className="w-3.5 h-3.5 ml-1" />
-              </>
-            )}
+            <Sparkles className={`w-4 h-4 ${isSubmitting ? 'animate-spin' : ''}`} />
+            <span>{isSubmitting ? 'Generating 1,200+ Word Article...' : 'Generate Article (1,200+ Words)'}</span>
           </button>
         </div>
       </div>

@@ -26,9 +26,12 @@ import {
   Trash2,
   Copy,
   FileText,
+  Download,
+  Check,
 } from 'lucide-react';
 import { countWords } from '@/lib/aiWriter/wordCounter';
 import { adminClientFetch } from '@/lib/clientAuthFetch';
+import { updateClientJob } from '@/lib/aiWriter/clientGenerator';
 
 interface EditorProps {
   initialJob: any;
@@ -88,6 +91,7 @@ export function AiWriterEditor({ initialJob, onBackToGenerator }: EditorProps) {
   const [isSaving, setIsSaving] = useState(false);
   const [saveMsg, setSaveMsg] = useState('');
   const [errorMsg, setErrorMsg] = useState('');
+  const [copiedMsg, setCopiedMsg] = useState('');
 
   // Word count dynamic computation
   const currentWordCount = countWords(content);
@@ -119,12 +123,35 @@ export function AiWriterEditor({ initialJob, onBackToGenerator }: EditorProps) {
     }));
   }, [currentWordCount]);
 
+  // Export & Copy Helpers
+  const handleCopyMarkdown = () => {
+    navigator.clipboard.writeText(`# ${title}\n\n${content}`);
+    setCopiedMsg('Artikel Markdown berhasil disalin ke clipboard!');
+    setTimeout(() => setCopiedMsg(''), 3000);
+  };
+
+  const handleDownloadMarkdown = () => {
+    const fullMd = `---\ntitle: "${title}"\nslug: "${slug}"\nexcerpt: "${excerpt}"\nseoTitle: "${seoTitle}"\nseoDescription: "${seoDescription}"\ndate: "${new Date().toISOString()}"\n---\n\n# ${title}\n\n${content}`;
+    const blob = new Blob([fullMd], { type: 'text/markdown;charset=utf-8' });
+    const url = URL.createObjectURL(blob);
+    const link = document.createElement('a');
+    link.href = url;
+    link.download = `${slug || 'article'}.md`;
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+    URL.revokeObjectURL(url);
+    setCopiedMsg('File artikel .md berhasil diunduh!');
+    setTimeout(() => setCopiedMsg(''), 3000);
+  };
+
   // Handle Save (Draft or Published)
   const handleSave = async (publishNow = false) => {
     setIsSaving(true);
     setSaveMsg('');
     setErrorMsg('');
 
+    let savedOnServer = false;
     try {
       const res = await adminClientFetch('/api/admin/ai-writer/save-draft', {
         method: 'POST',
@@ -146,17 +173,33 @@ export function AiWriterEditor({ initialJob, onBackToGenerator }: EditorProps) {
         }),
       });
 
-      const data = await res.json();
-      if (!res.ok) throw new Error(data.error || 'Failed to save article.');
-
-      setStatus(publishNow ? 'PUBLISHED' : 'DRAFT');
-      setSaveMsg(publishNow ? '🎉 Article successfully published live on NusaLensa!' : '✓ Article saved as draft.');
-      setTimeout(() => setSaveMsg(''), 5000);
+      if (res.ok) {
+        savedOnServer = true;
+      }
     } catch (err: any) {
-      setErrorMsg(err.message || 'Error occurred while saving.');
-    } finally {
-      setIsSaving(false);
+      // Offline or static CDN mode
     }
+
+    // Always update client storage job in localStorage
+    if (initialJob?.id) {
+      updateClientJob(initialJob.id, {
+        generatedTitle: title,
+        generatedSlug: slug,
+        generatedContent: content,
+        generatedExcerpt: excerpt,
+        status: 'COMPLETED',
+        actualWordCount: currentWordCount,
+      });
+    }
+
+    setStatus(publishNow ? 'PUBLISHED' : 'DRAFT');
+    setSaveMsg(
+      publishNow
+        ? (savedOnServer ? '🎉 Artikel berhasil dipublikasikan live di NusaLensa!' : '🎉 Artikel ditandai PUBLISHED dan tersimpan di studio browser!')
+        : (savedOnServer ? '✓ Draf artikel berhasil disimpan di database.' : '✓ Draf artikel berhasil disimpan di penyimpanan browser studio!')
+    );
+    setTimeout(() => setSaveMsg(''), 5000);
+    setIsSaving(false);
   };
 
   // Section AI Modifiers (Expand, Shorten, Rewrite, Grammar, etc.)
@@ -300,6 +343,28 @@ export function AiWriterEditor({ initialJob, onBackToGenerator }: EditorProps) {
             </button>
           </div>
 
+          {/* Copy Markdown Button */}
+          <button
+            onClick={handleCopyMarkdown}
+            type="button"
+            className="inline-flex items-center gap-1.5 px-3 py-2 bg-white hover:bg-slate-50 border border-slate-200 text-slate-700 font-bold text-xs rounded-xl shadow-2xs transition"
+            title="Salin seluruh isi artikel dalam format Markdown ke clipboard"
+          >
+            <Copy className="w-3.5 h-3.5 text-slate-500" />
+            <span>Salin MD</span>
+          </button>
+
+          {/* Download Markdown Button */}
+          <button
+            onClick={handleDownloadMarkdown}
+            type="button"
+            className="inline-flex items-center gap-1.5 px-3 py-2 bg-white hover:bg-slate-50 border border-slate-200 text-slate-700 font-bold text-xs rounded-xl shadow-2xs transition"
+            title="Download file .md lengkap dengan frontmatter"
+          >
+            <Download className="w-3.5 h-3.5 text-slate-500" />
+            <span>Unduh .md</span>
+          </button>
+
           {/* Save Draft Button */}
           <button
             onClick={() => handleSave(false)}
@@ -325,6 +390,13 @@ export function AiWriterEditor({ initialJob, onBackToGenerator }: EditorProps) {
           </button>
         </div>
       </div>
+
+      {copiedMsg && (
+        <div className="p-3 bg-blue-50 border border-blue-200 rounded-xl text-blue-900 text-xs font-bold flex items-center gap-2 animate-in fade-in">
+          <Check className="w-4 h-4 text-blue-600" />
+          <span>{copiedMsg}</span>
+        </div>
+      )}
 
       {saveMsg && (
         <div className="p-3 bg-emerald-50 border border-emerald-200 rounded-xl text-emerald-800 text-xs font-bold flex items-center gap-2 animate-in fade-in">

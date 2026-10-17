@@ -14,25 +14,58 @@ import {
   ArrowRight,
 } from 'lucide-react';
 import { adminClientFetch } from '@/lib/clientAuthFetch';
+import { getClientJob } from '@/lib/aiWriter/clientGenerator';
 
 interface JobProgressProps {
   jobId: number;
+  initialJob?: any;
   onJobCompleted: (job: any) => void;
   onRetry: () => void;
 }
 
-export function AiWriterJobProgress({ jobId, onJobCompleted, onRetry }: JobProgressProps) {
-  const [job, setJob] = useState<any>(null);
+export function AiWriterJobProgress({ jobId, initialJob, onJobCompleted, onRetry }: JobProgressProps) {
+  const [job, setJob] = useState<any>(initialJob || null);
   const [error, setError] = useState('');
 
   useEffect(() => {
     let intervalId: any;
     let isMounted = true;
 
+    // Check if initialJob is already completed
+    if (initialJob && initialJob.status === 'COMPLETED') {
+      setJob(initialJob);
+      const timer = setTimeout(() => {
+        if (isMounted) onJobCompleted(initialJob);
+      }, 700);
+      return () => clearTimeout(timer);
+    }
+
     const fetchStatus = async () => {
+      // 1. Check client-side generated jobs in localStorage
+      const localJob = getClientJob(jobId);
+      if (localJob) {
+        if (!isMounted) return;
+        setJob(localJob);
+        if (localJob.status === 'COMPLETED') {
+          clearInterval(intervalId);
+          setTimeout(() => {
+            if (isMounted) onJobCompleted(localJob);
+          }, 600);
+          return;
+        } else if (localJob.status === 'FAILED') {
+          clearInterval(intervalId);
+          setError('Generation failed.');
+          return;
+        }
+      }
+
+      // 2. Poll server if available
       try {
         const res = await adminClientFetch(`/api/admin/ai-writer/jobs/${jobId}`);
-        if (!res.ok) throw new Error('Failed to retrieve job status');
+        if (!res.ok) {
+          if (localJob) return; // If localJob exists, do not error out
+          throw new Error('Failed to retrieve job status');
+        }
 
         const data = await res.json();
         if (!isMounted) return;
@@ -51,18 +84,20 @@ export function AiWriterJobProgress({ jobId, onJobCompleted, onRetry }: JobProgr
           }
         }
       } catch (err: any) {
-        if (isMounted) setError(err.message || 'Error communicating with generation engine');
+        if (!localJob && isMounted) {
+          setError(err.message || 'Error communicating with generation engine');
+        }
       }
     };
 
     fetchStatus();
-    intervalId = setInterval(fetchStatus, 2500);
+    intervalId = setInterval(fetchStatus, 1500);
 
     return () => {
       isMounted = false;
       clearInterval(intervalId);
     };
-  }, [jobId, onJobCompleted]);
+  }, [jobId, initialJob, onJobCompleted]);
 
   const steps = [
     { name: 'Intent Analysis', icon: Search, pct: 15 },

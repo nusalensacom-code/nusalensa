@@ -19,6 +19,7 @@ import { AiWriterGeneratorForm } from '@/components/admin/AiWriterGeneratorForm'
 import { AiWriterJobProgress } from '@/components/admin/AiWriterJobProgress';
 import { AiWriterEditor } from '@/components/admin/AiWriterEditor';
 import { adminClientFetch } from '@/lib/clientAuthFetch';
+import { getClientJobs, getClientJob, deleteClientJob } from '@/lib/aiWriter/clientGenerator';
 
 export default function AiWriterPage() {
   const [viewState, setViewState] = useState<'form' | 'progress' | 'editor'>('form');
@@ -33,7 +34,7 @@ export default function AiWriterPage() {
     configured: false,
     provider: 'Built-in Synthesizer',
     model: '1,200+ Word Technical Engine',
-    message: 'Checking AI provider status...',
+    message: 'Synthesizer teknis bawaan siap digunakan (Gratis tanpa kuota API key).',
   });
 
   const loadProviderStatus = async () => {
@@ -42,32 +43,31 @@ export default function AiWriterPage() {
       if (res.ok) {
         const data = await res.json();
         if (data?.status) setProviderStatus(data.status);
-      } else {
-        setProviderStatus({
-          configured: false,
-          provider: 'Built-in Synthesizer',
-          model: '1,200+ Word Technical Engine',
-          message: 'Synthesizer teknis bawaan siap digunakan (Gratis tanpa kuota API key). Masukkan GEMINI_API_KEY atau OPENAI_API_KEY di .env jika ingin menggunakan LLM eksternal.',
-        });
       }
-    } catch (e) {
-      setProviderStatus({
-        configured: false,
-        provider: 'Built-in Synthesizer',
-        model: '1,200+ Word Technical Engine',
-        message: 'Synthesizer teknis bawaan siap digunakan di server studio lokal komputer Anda (port 3000).',
-      });
-    }
+    } catch (e) {}
   };
 
   const loadRecentJobs = async () => {
     try {
       setIsLoadingJobs(true);
-      const res = await adminClientFetch('/api/admin/ai-writer/jobs');
-      if (res.ok) {
-        const data = await res.json();
-        if (data?.jobs) setRecentJobs(data.jobs);
-      }
+      const localJobs = getClientJobs();
+      let serverJobs: any[] = [];
+      try {
+        const res = await adminClientFetch('/api/admin/ai-writer/jobs');
+        if (res.ok) {
+          const data = await res.json();
+          if (data?.jobs) serverJobs = data.jobs;
+        }
+      } catch (e) {}
+
+      // Combine local jobs and server jobs, eliminating duplicates by ID
+      const map = new Map<number, any>();
+      localJobs.forEach((j) => map.set(j.id, j));
+      serverJobs.forEach((j) => map.set(j.id, j));
+      const combined = Array.from(map.values()).sort(
+        (a, b) => new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime()
+      );
+      setRecentJobs(combined);
     } catch (e) {} finally {
       setIsLoadingJobs(false);
     }
@@ -82,8 +82,11 @@ export default function AiWriterPage() {
     loadRecentJobs();
   }, []);
 
-  const handleJobStarted = (jobId: number) => {
+  const handleJobStarted = (jobId: number, jobData?: any) => {
     setActiveJobId(jobId);
+    if (jobData) {
+      setActiveJobData(jobData);
+    }
     setViewState('progress');
   };
 
@@ -94,6 +97,16 @@ export default function AiWriterPage() {
   };
 
   const handleOpenExistingJob = async (jobId: number) => {
+    // 1. Check local client jobs first
+    const clientJob = getClientJob(jobId);
+    if (clientJob) {
+      setActiveJobId(jobId);
+      setActiveJobData(clientJob);
+      setViewState('editor');
+      return;
+    }
+
+    // 2. Fallback to server job
     try {
       const res = await adminClientFetch(`/api/admin/ai-writer/jobs/${jobId}`);
       if (res.ok) {
@@ -102,19 +115,20 @@ export default function AiWriterPage() {
           setActiveJobId(jobId);
           setActiveJobData(data.job);
           setViewState('editor');
+          return;
         }
       }
-    } catch (e) {
-      alert('Failed to load job details');
-    }
+    } catch (e) {}
+    alert('Failed to load job details');
   };
 
   const handleDeleteJob = async (jobId: number) => {
-    if (!confirm('Are you sure you want to delete this generation job record?')) return;
+    if (!confirm('Apakah Anda yakin ingin menghapus catatan generasi artikel ini?')) return;
+    deleteClientJob(jobId);
     try {
       await adminClientFetch(`/api/admin/ai-writer/jobs/${jobId}`, { method: 'DELETE' });
-      await loadRecentJobs();
     } catch (e) {}
+    await loadRecentJobs();
   };
 
   return (
@@ -185,25 +199,13 @@ export default function AiWriterPage() {
                 Loading generation history...
               </div>
             ) : recentJobs.length === 0 ? (
-              <div className="text-center py-8 px-4 text-xs text-slate-500 bg-slate-50 rounded-xl border border-dashed border-slate-200 space-y-2.5">
-                <p className="font-medium text-slate-600">
-                  {isLocalHost
-                    ? 'Belum ada artikel yang di-generate. Isi formulir di atas untuk generate artikel teknologi 1.200+ kata pertama Anda!'
-                    : 'Riwayat artikel & draf tersimpan di database lokal komputer Anda.'}
+              <div className="text-center py-8 px-4 text-xs text-slate-500 bg-slate-50 rounded-xl border border-dashed border-slate-200 space-y-1">
+                <p className="font-semibold text-slate-700">
+                  Belum ada artikel yang di-generate.
                 </p>
-                {!isLocalHost && (
-                  <div>
-                    <a
-                      href="http://localhost:3000/admin/ai-writer"
-                      target="_blank"
-                      rel="noreferrer"
-                      className="inline-flex items-center gap-1.5 px-3.5 py-1.5 bg-blue-600 hover:bg-blue-700 text-white font-bold rounded-lg transition shadow-xs text-xs"
-                    >
-                      <span>Buka Riwayat di Server Lokal (http://localhost:3000)</span>
-                      <ExternalLink className="w-3.5 h-3.5 ml-0.5" />
-                    </a>
-                  </div>
-                )}
+                <p className="text-slate-500 text-[11px]">
+                  Ketik kata kunci di formulir di atas dan klik Generate untuk membuat artikel teknologi 1.200+ kata langsung di nusalensa.com!
+                </p>
               </div>
             ) : (
               <div className="overflow-x-auto">
@@ -277,6 +279,7 @@ export default function AiWriterPage() {
       {viewState === 'progress' && activeJobId && (
         <AiWriterJobProgress
           jobId={activeJobId}
+          initialJob={activeJobData}
           onJobCompleted={handleJobCompleted}
           onRetry={() => setViewState('form')}
         />
