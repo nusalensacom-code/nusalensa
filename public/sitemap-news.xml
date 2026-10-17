@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/apple-hires-former-meta-lawyer-to-oversee-global-litigation</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T20:21:20Z</news:publication_date>
+      <news:title>Apple Hires Former Meta Lawyer to Oversee Global Litigation</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2022/05/apple-park-at-night-1.jpg</image:loc>
+      <image:title>Apple Hires Former Meta Lawyer to Oversee Global Litigation</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/qualcomm-denies-rumors-about-snapdragon-8-elite-extreme-gen-6-overheating</loc>
     <news:news>
       <news:publication>
@@ -3030,96 +3045,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/04/using-the-selective-editor-in-snapseed-scaled.jpg</image:loc>
       <image:title>Snapseed looks like it&amp;#8217;s working on its own Magic Eraser upgrade</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-pledged-3625-million-to-trump039s-white-house-ballroom</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T20:48:39Z</news:publication_date>
-      <news:title>Apple Pledged &amp;#36;25 Million to Trump&amp;#039;s White House Ballroom</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2020/10/apple-logo-cash-feature.jpg</image:loc>
-      <image:title>Apple Pledged &amp;#36;25 Million to Trump&amp;#039;s White House Ballroom</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T20:38:13Z</news:publication_date>
-      <news:title>Amazon devices chief Panos Panay on the importance of failure and bouncing back from it</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
-      <image:title>Amazon devices chief Panos Panay on the importance of failure and bouncing back from it</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/anbernic-is-quietly-removing-a-controversial-extra-from-its-android-handhelds</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T20:33:50Z</news:publication_date>
-      <news:title>ANBERNIC is quietly removing a controversial extra from its Android handhelds</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/Anbernic-RG-Rotate-in-hand-1-scaled.jpg</image:loc>
-      <image:title>ANBERNIC is quietly removing a controversial extra from its Android handhelds</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T20:32:41Z</news:publication_date>
-      <news:title>Targeted ads delivered 0-click exploits to install mercenary malware</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-1.jpg</image:loc>
-      <image:title>Targeted ads delivered 0-click exploits to install mercenary malware</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/above-the-911-porsche-previews-a-new-mid-engined-supercar</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T20:30:02Z</news:publication_date>
-      <news:title>Above the 911? Porsche previews a new mid-engined supercar.</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/CC27X05IX0009_sRGB_072dpi-1152x648.jpg</image:loc>
-      <image:title>Above the 911? Porsche previews a new mid-engined supercar.</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/ny-congressman-to-introduce-bill-protecting-video-game-ownership</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T20:15:05Z</news:publication_date>
-      <news:title>NY congressman to introduce bill protecting video game ownership</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/ny-congressman-to-introduce-bill-protecting-video-game-ownership/l-intro-1792095244.jpg</image:loc>
-      <image:title>NY congressman to introduce bill protecting video game ownership</image:title>
     </image:image>
   </url>
 </urlset>
