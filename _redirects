@@ -1,6 +1,10 @@
-# Direct admin login routing
+# Direct admin routing
 /admin/login  /admin/login/index.html  200
 /admin/login/  /admin/login/index.html  200
+/admin/ai-writer  /admin/ai-writer/index.html  200
+/admin/ai-writer/  /admin/ai-writer/index.html  200
+/admin/news-curator  /admin/news-curator/index.html  200
+/admin/news-curator/  /admin/news-curator/index.html  200
 
 # Canonical tag-to-topic redirects
 /tag/:slug  /topic/:slug  301

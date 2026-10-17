@@ -93,10 +93,22 @@ if (fs.existsSync(adminHtmlSrc) && !fs.existsSync(adminIndexDest)) {
   fs.copyFileSync(adminHtmlSrc, adminIndexDest);
 }
 
+// 5c. Ensure /admin/ai-writer/index.html exists
+const aiWriterHtmlSrc = path.join(DIST_DIR, 'admin', 'ai-writer.html');
+const aiWriterIndexDest = path.join(DIST_DIR, 'admin', 'ai-writer', 'index.html');
+if (fs.existsSync(aiWriterHtmlSrc) && !fs.existsSync(aiWriterIndexDest)) {
+  fs.mkdirSync(path.join(DIST_DIR, 'admin', 'ai-writer'), { recursive: true });
+  fs.copyFileSync(aiWriterHtmlSrc, aiWriterIndexDest);
+}
+
 // 6. Create Cloudflare Pages _redirects file
-const redirectsContent = `# Direct admin login routing
+const redirectsContent = `# Direct admin routing
 /admin/login  /admin/login/index.html  200
 /admin/login/  /admin/login/index.html  200
+/admin/ai-writer  /admin/ai-writer/index.html  200
+/admin/ai-writer/  /admin/ai-writer/index.html  200
+/admin/news-curator  /admin/news-curator/index.html  200
+/admin/news-curator/  /admin/news-curator/index.html  200
 
 # Canonical tag-to-topic redirects
 /tag/:slug  /topic/:slug  301
