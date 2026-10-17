@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/i-never-thought-id-ditch-samsung-notes-but-this-google-keep-feature-changed-my-mind</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T09:30:00Z</news:publication_date>
+      <news:title>I never thought I’d ditch Samsung Notes, but this Google Keep feature changed my mind</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Samsung-phone-in-hand-showing-Google-Keep-app-scaled.jpg</image:loc>
+      <image:title>I never thought I’d ditch Samsung Notes, but this Google Keep feature changed my mind</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/deals-iphone-duo-pre-orders-begin-as-galaxy-z-fold8-gets-a-price-cut</loc>
     <news:news>
       <news:publication>
