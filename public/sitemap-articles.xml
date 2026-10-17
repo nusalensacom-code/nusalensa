@@ -2,6 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/apple-retail-staff-told-to-warn-against-iphone-duo-walk-in-purchases</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/09/iphone-duo-standby.jpg</image:loc>
+      <image:title>Apple Retail Staff Told to Warn Against iPhone Duo Walk-In Purchases</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-tesla-roadster-is-far-from-the-first-car-to-use-fans-for-downforce</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/the-tesla-roadster-is-far-from-the-first-car-to-use-fans-for-downforce/l-intro-1792267762.jpg</image:loc>
+      <image:title>The Tesla Roadster is far from the first car to use fans for downforce</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/apple-hires-former-meta-lawyer-to-oversee-global-litigation</loc>
     <lastmod>2026-10-17</lastmod>
     <changefreq>daily</changefreq>

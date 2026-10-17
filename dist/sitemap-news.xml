@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/apple-retail-staff-told-to-warn-against-iphone-duo-walk-in-purchases</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T21:30:45Z</news:publication_date>
+      <news:title>Apple Retail Staff Told to Warn Against iPhone Duo Walk-In Purchases</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/09/iphone-duo-standby.jpg</image:loc>
+      <image:title>Apple Retail Staff Told to Warn Against iPhone Duo Walk-In Purchases</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-tesla-roadster-is-far-from-the-first-car-to-use-fans-for-downforce</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T21:20:21Z</news:publication_date>
+      <news:title>The Tesla Roadster is far from the first car to use fans for downforce</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/the-tesla-roadster-is-far-from-the-first-car-to-use-fans-for-downforce/l-intro-1792267762.jpg</image:loc>
+      <image:title>The Tesla Roadster is far from the first car to use fans for downforce</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/apple-hires-former-meta-lawyer-to-oversee-global-litigation</loc>
     <news:news>
       <news:publication>
@@ -2925,66 +2955,6 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/04/MacBook-Pro-Low-Angle-Wide-Lens.jpg</image:loc>
       <image:title>OLED MacBook Pro Won&amp;#039;t Get M7 Chips Until Late 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-tech-backlash-is-now-in-theaters</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T21:39:52Z</news:publication_date>
-      <news:title>The tech backlash is now in theaters</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-5.28.21-PM.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>The tech backlash is now in theaters</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-uk-may-expand-the-bbc-license-fee-charging-residents-to-watch-streaming-services</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T21:35:08Z</news:publication_date>
-      <news:title>The UK may expand the BBC license fee, charging residents to watch streaming services</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/the-uk-may-expand-the-bbc-license-fee-charging-residents-to-watch-streaming-services/l-intro-1792100024.jpg</image:loc>
-      <image:title>The UK may expand the BBC license fee, charging residents to watch streaming services</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/youtube-is-planning-to-add-audiobooks-to-its-premium-subscription-the-wsj-reports</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T21:34:02Z</news:publication_date>
-      <news:title>YouTube is planning to add audiobooks to its Premium subscription, the WSJ reports</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
-      <image:title>YouTube is planning to add audiobooks to its Premium subscription, the WSJ reports</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/plex-now-helps-sell-movie-theater-tickets</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T21:22:15Z</news:publication_date>
-      <news:title>Plex now helps sell movie theater tickets</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2218632851-1152x648.jpg</image:loc>
-      <image:title>Plex now helps sell movie theater tickets</image:title>
     </image:image>
   </url>
 </urlset>
