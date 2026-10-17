@@ -230,3 +230,20 @@ function formatInlineMarkdown(text: string): string {
     .replace(/`(.*?)`/g, '<code class="bg-slate-100 text-brand-700 px-1.5 py-0.5 rounded text-sm font-mono">$1</code>')
     .replace(/\[(.*?)\]\((.*?)\)/g, '<a href="$2" class="text-brand-600 hover:text-brand-700 underline underline-offset-2">$1</a>');
 }
+
+export function cleanExcerpt(text: string | null | undefined): string {
+  if (!text) return '';
+  return text
+    .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/gi, '$1')
+    .replace(/&lt;/gi, '<')
+    .replace(/&gt;/gi, '>')
+    .replace(/&quot;/gi, '"')
+    .replace(/&#39;/gi, "'")
+    .replace(/&amp;/gi, '&')
+    .replace(/&nbsp;/gi, ' ')
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/<[a-z0-9_-]+[^>]*$/gi, ' ')
+    .replace(/<[^>]*$/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}

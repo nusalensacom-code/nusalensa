@@ -31,14 +31,19 @@ function slugify(text) {
 function cleanHtml(raw) {
   if (!raw) return '';
   return raw
-    .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')
+    .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/gi, '$1')
+    .replace(/&lt;/gi, '<')
+    .replace(/&gt;/gi, '>')
+    .replace(/&quot;/gi, '"')
+    .replace(/&#39;/gi, "'")
+    .replace(/&amp;/gi, '&')
+    .replace(/&nbsp;/gi, ' ')
+    .replace(/<script[\s\S]*?<\/script>/gi, ' ')
+    .replace(/<style[\s\S]*?<\/style>/gi, ' ')
     .replace(/<[^>]+>/g, ' ')
-    .replace(/&nbsp;/g, ' ')
-    .replace(/&amp;/g, '&')
-    .replace(/&lt;/g, '<')
-    .replace(/&gt;/g, '>')
-    .replace(/&quot;/g, '"')
-    .replace(/&#39;/g, "'")
+    .replace(/<[a-z0-9_-]+[^>]*$/gi, ' ')
+    .replace(/<[^>]*$/g, ' ')
+    .replace(/^[^<]*>/g, ' ')
     .replace(/\s+/g, ' ')
     .trim();
 }
@@ -182,8 +187,11 @@ async function fetchRssFeed(source) {
       if (enclosureMatch && enclosureMatch[1]) {
         imageUrl = enclosureMatch[1].trim();
       } else {
-        const imgMatch = block.match(/<img[^>]+src=["']([^"']+)["']/i);
-        if (imgMatch && imgMatch[1]) imageUrl = imgMatch[1].trim();
+        const decodedBlock = block.replace(/&lt;/gi, '<').replace(/&gt;/gi, '>').replace(/&quot;/gi, '"');
+        const imgMatch = decodedBlock.match(/<img[^>]+src=["']([^"']+)["']/i);
+        if (imgMatch && imgMatch[1]) {
+          imageUrl = imgMatch[1].trim().replace(/\/-184x111\//, '/');
+        }
       }
 
       // PubDate
@@ -418,7 +426,7 @@ async function main() {
           data: {
             title: item.title,
             slug: finalSlug,
-            excerpt: item.summary.slice(0, 160) || `Editorial analysis of ${item.title.slice(0, 80)}.`,
+            excerpt: cleanHtml(item.summary).slice(0, 160) || `Editorial analysis of ${item.title.slice(0, 80)}.`,
             content: ai.draftContent,
             featuredImage: featuredImage,
             imageAltText: `Documentation coverage for ${item.title}`,
@@ -433,7 +441,7 @@ async function main() {
             isTrending: true,
             canonicalUrl: item.sourceUrl,
             seoTitle: `${item.title.slice(0, 60)} | NusaLensa`,
-            seoDescription: item.summary.slice(0, 155),
+            seoDescription: cleanHtml(item.summary).slice(0, 155),
             faqs: JSON.stringify(ai.faqs),
             sources: JSON.stringify(ai.sources),
             readingTime: Math.max(Math.ceil(ai.draftContent.split(/\s+/).length / 200), 4),

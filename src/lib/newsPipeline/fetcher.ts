@@ -14,14 +14,19 @@ export interface RawNewsArticle {
 function cleanHtml(raw: string): string {
   if (!raw) return '';
   return raw
-    .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')
+    .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/gi, '$1')
+    .replace(/&lt;/gi, '<')
+    .replace(/&gt;/gi, '>')
+    .replace(/&quot;/gi, '"')
+    .replace(/&#39;/gi, "'")
+    .replace(/&amp;/gi, '&')
+    .replace(/&nbsp;/gi, ' ')
+    .replace(/<script[\s\S]*?<\/script>/gi, ' ')
+    .replace(/<style[\s\S]*?<\/style>/gi, ' ')
     .replace(/<[^>]+>/g, ' ')
-    .replace(/&nbsp;/g, ' ')
-    .replace(/&amp;/g, '&')
-    .replace(/&lt;/g, '<')
-    .replace(/&gt;/g, '>')
-    .replace(/&quot;/g, '"')
-    .replace(/&#39;/g, "'")
+    .replace(/<[a-z0-9_-]+[^>]*$/gi, ' ')
+    .replace(/<[^>]*$/g, ' ')
+    .replace(/^[^<]*>/g, ' ')
     .replace(/\s+/g, ' ')
     .trim();
 }
@@ -38,10 +43,16 @@ function extractImageUrl(snippet: string): string | undefined {
     return enclosureMatch[1].trim();
   }
 
+  // Also decode entities so &lt;img src="..."&gt; can be matched
+  const decoded = snippet
+    .replace(/&lt;/gi, '<')
+    .replace(/&gt;/gi, '>')
+    .replace(/&quot;/gi, '"');
+
   // Check <img src="..." />
-  const imgMatch = snippet.match(/<img[^>]+src=["']([^"']+)["']/i);
+  const imgMatch = decoded.match(/<img[^>]+src=["']([^"']+)["']/i);
   if (imgMatch && imgMatch[1]) {
-    return imgMatch[1].trim();
+    return imgMatch[1].trim().replace(/\/-184x111\//, '/');
   }
 
   return undefined;

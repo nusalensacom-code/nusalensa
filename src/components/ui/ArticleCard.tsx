@@ -4,7 +4,7 @@ import React from 'react';
 import Link from 'next/link';
 import { SafeImage as Image } from '@/components/ui/SafeImage';
 import { Clock, Eye, User } from 'lucide-react';
-import { timeAgo, formatDateEnglish } from '@/lib/utils';
+import { timeAgo, formatDateEnglish, cleanExcerpt } from '@/lib/utils';
 
 function safeIsoDate(d: Date | string | number | undefined | null): string {
   if (!d) return new Date().toISOString();
@@ -112,7 +112,7 @@ export function ArticleCard({
           </h2>
 
           <p className="text-slate-600 text-sm sm:text-base mt-3 leading-relaxed line-clamp-3">
-            {article.excerpt}
+            {cleanExcerpt(article.excerpt)}
           </p>
 
           <div className="mt-5 pt-4 border-t border-slate-100 flex flex-wrap items-center justify-between text-xs text-slate-500 gap-2">
@@ -324,7 +324,7 @@ export function ArticleCard({
               <Link href={articleUrl}>{article.title}</Link>
             </h2>
             <p className="text-slate-600 text-xs sm:text-sm mt-2 line-clamp-2 leading-relaxed">
-              {article.excerpt}
+              {cleanExcerpt(article.excerpt)}
             </p>
           </div>
 
@@ -377,7 +377,7 @@ export function ArticleCard({
             <Link href={articleUrl}>{article.title}</Link>
           </h3>
           <p className="text-slate-600 text-xs sm:text-sm mt-2 line-clamp-2 leading-relaxed">
-            {article.excerpt}
+            {cleanExcerpt(article.excerpt)}
           </p>
         </div>
 

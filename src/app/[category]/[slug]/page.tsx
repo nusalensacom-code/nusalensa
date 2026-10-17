@@ -22,6 +22,7 @@ import {
   formatDateTimeEnglish,
   renderArticleMarkdown,
   timeAgoEnglish,
+  cleanExcerpt,
 } from '@/lib/utils';
 import {
   Calendar,
@@ -83,7 +84,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
   }
 
   const title = article.seoTitle || `${article.title} | ${siteConfig.name}`;
-  const description = article.seoDescription || article.excerpt;
+  const description = cleanExcerpt(article.seoDescription || article.excerpt);
   const canonicalUrl = article.canonicalUrl || generateCanonicalUrl(`/${article.category.slug}/${article.slug}`);
 
   return {
@@ -293,7 +294,7 @@ export default async function ArticleDetailPage({ params }: ArticlePageProps) {
 
             {/* Dek / Excerpt Summary */}
             <p className="text-base sm:text-lg text-slate-600 font-normal mt-4 leading-relaxed border-l-4 border-slate-300 pl-4 py-1">
-              {article.excerpt}
+              {cleanExcerpt(article.excerpt)}
             </p>
 
             {/* Metadata Bar (Author, Editor, Dates, Reading Time, Views) */}
