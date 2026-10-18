@@ -468,6 +468,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://nusalensa.com/tablets/weekly-poll-results-the-galaxy-tab-s12-and-tab-s12-ultra-make-laptops-look-reasonably-priced</loc>
+    <lastmod>2026-10-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/weekly-poll-results-samsung-galaxy-tab-s12-ultra-tab-s12-plus/gsmarena_000.jpg</image:loc>
+      <image:title>Weekly poll results: the Galaxy Tab S12+ and Tab S12 Ultra make laptops look reasonably priced</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/vivo-v80-in-for-review</loc>
     <lastmod>2026-10-18</lastmod>
     <changefreq>daily</changefreq>
