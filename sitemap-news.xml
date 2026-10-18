@@ -3,6 +3,81 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/the-best-gadget-i-bought-this-year-is-a-milk-frother</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T13:00:00Z</news:publication_date>
+      <news:title>The best gadget I bought this year is a milk frother</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/96D2EEC6-09F7-402B-B1A3-F1030ADD0D90_1_105_c.jpeg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>The best gadget I bought this year is a milk frother</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/how-overhead-projectors-took-over-your-classroom</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T12:55:01Z</news:publication_date>
+      <news:title>How overhead projectors took over your classroom</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VRH_Overhead_Site.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>How overhead projectors took over your classroom</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/why-its-important-to-avoid-plugging-in-a-damaged-external-hard-drive</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T12:45:00Z</news:publication_date>
+      <news:title>Why it&apos;s important to avoid plugging in a damaged external hard drive</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/why-its-important-to-avoid-plugging-in-a-damaged-external-hard-drive/l-intro-1791900463.jpg</image:loc>
+      <image:title>Why it&apos;s important to avoid plugging in a damaged external hard drive</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/why-are-internet-upload-speeds-so-much-slower-than-download-speeds</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T12:30:00Z</news:publication_date>
+      <news:title>Why are internet upload speeds so much slower than download speeds?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/why-are-internet-upload-speeds-so-much-slower-than-download-speeds/l-intro-1791899938.jpg</image:loc>
+      <image:title>Why are internet upload speeds so much slower than download speeds?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/why-you-might-not-want-to-join-two-ethernet-cables-and-what-you-should-do-instead</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T12:15:00Z</news:publication_date>
+      <news:title>Why you might not want to join two Ethernet cables (and what you should do instead)</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/why-you-might-not-want-to-join-two-ethernet-cables-and-what-you-should-do-instead/l-intro-1791896475.jpg</image:loc>
+      <image:title>Why you might not want to join two Ethernet cables (and what you should do instead)</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/this-firefox-feature-made-me-ditch-sticky-notes-for-everyday-research</loc>
     <news:news>
       <news:publication>
@@ -2265,111 +2340,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-event-september-2026-452-10-57-30.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>iPhone Duo orders are already delayed into 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/technics-eah-a1000-review-superior-sound-and-excellent-anc-in-a-premium-package</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T13:00:00Z</news:publication_date>
-      <news:title>Technics EAH-A1000 review: Superior sound and excellent ANC in a premium package</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/technics-eah-a1000-review-superior-sound-and-excellent-anc-in-a-premium-package/l-intro-1792153889.jpg</image:loc>
-      <image:title>Technics EAH-A1000 review: Superior sound and excellent ANC in a premium package</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/an-openai-research-agent-stole-test-ethereum-to-finish-a-coding-task</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T12:50:24Z</news:publication_date>
-      <news:title>An OpenAI research agent &apos;stole&apos; test Ethereum to finish a coding task</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/an-openai-research-agent-stole-test-ethereum-to-finish-a-coding-task/l-intro-1792154835.jpg</image:loc>
-      <image:title>An OpenAI research agent &apos;stole&apos; test Ethereum to finish a coding task</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-sony-xperia-10-vi-wont-be-getting-a-promised-update-to-android-17</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T12:36:11Z</news:publication_date>
-      <news:title>The Sony Xperia 10 VI won’t be getting a promised update to Android 17</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/sonyxperia.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>The Sony Xperia 10 VI won’t be getting a promised update to Android 17</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/sony-bails-on-xperia-10-vis-android-17-update</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T12:36:03Z</news:publication_date>
-      <news:title>Sony bails on Xperia 10 VI’s Android 17 update</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
-      <image:title>Sony bails on Xperia 10 VI’s Android 17 update</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-first-vibe-coded-gun-is-here</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T12:30:00Z</news:publication_date>
-      <news:title>The first vibe-coded gun is here</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/vibe-coded-ai-made-3d-printed-gun.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>The first vibe-coded gun is here</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/didn039t-pre-order-an-iphone-duo-yet-wait-times-are-significant-now</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T12:27:22Z</news:publication_date>
-      <news:title>Didn&amp;#039;t Pre-Order an iPhone Duo Yet? Wait Times Are Significant Now</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/09/iphone-duo-hero.jpg</image:loc>
-      <image:title>Didn&amp;#039;t Pre-Order an iPhone Duo Yet? Wait Times Are Significant Now</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/more-gmail-users-can-now-use-gemini-to-skim-through-work-emails</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T12:26:58Z</news:publication_date>
-      <news:title>More Gmail users can now use Gemini to skim through work emails</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2021/12/Gmail-on-smartphone-stock-photo-2.jpg</image:loc>
-      <image:title>More Gmail users can now use Gemini to skim through work emails</image:title>
     </image:image>
   </url>
 </urlset>
