@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/ios-27s-new-carplay-features-are-great-but-only-these-iphones-can-actually-use-them</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T14:45:00Z</news:publication_date>
+      <news:title>iOS 27&apos;s new CarPlay features are great, but only these iPhones can actually use them</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/ios-27s-new-carplay-features-are-great-but-only-these-iphones-can-actually-use-them/l-intro-1791964323.jpg</image:loc>
+      <image:title>iOS 27&apos;s new CarPlay features are great, but only these iPhones can actually use them</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-iphone-18-pro-vs-iphone-17-pro</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T14:37:02Z</news:publication_date>
+      <news:title>Apple iPhone 18 Pro vs. iPhone 17 Pro</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/apple-iphone-18-pro-vs-iphone-17-pro/gsmarena_000.jpg</image:loc>
+      <image:title>Apple iPhone 18 Pro vs. iPhone 17 Pro</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/mark-gurman-apple-made-039major-mistake039-with-iphone-duo-pre-orders</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T14:33:47Z</news:publication_date>
+      <news:title>Mark Gurman: Apple Made &amp;#039;Major Mistake&amp;#039; With iPhone Duo Pre-Orders</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/iphone-duo-feature.jpg</image:loc>
+      <image:title>Mark Gurman: Apple Made &amp;#039;Major Mistake&amp;#039; With iPhone Duo Pre-Orders</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/the-reason-your-amazon-alexa-devices-are-always-listening</loc>
     <news:news>
       <news:publication>
@@ -2175,51 +2220,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_laptops_Asus_HP_Lenovo_ADiBenedetto_0001.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/oneplus-ace-7-and-ace-7-pro-could-both-get-200mp-main-cameras</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T14:46:02Z</news:publication_date>
-      <news:title>OnePlus Ace 7 and Ace 7 Pro could both get 200MP main cameras</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
-      <image:title>OnePlus Ace 7 and Ace 7 Pro could both get 200MP main cameras</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-restricts-every-free-ai-pro-trial-from-pixel-038-more-compared-to-paid-subscribers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T14:40:00Z</news:publication_date>
-      <news:title>Google restricts every free AI Pro trial from Pixel &amp;#038; more compared to paid subscribers</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/07/google-ai-pro.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Google restricts every free AI Pro trial from Pixel &amp;#038; more compared to paid subscribers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/polymarket-saw-600-million-in-election-trades-after-the-elections-were-over</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T14:19:22Z</news:publication_date>
-      <news:title>Polymarket saw $600 million in election trades after the elections were over</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/polymarket-1024x648.jpg</image:loc>
-      <image:title>Polymarket saw $600 million in election trades after the elections were over</image:title>
     </image:image>
   </url>
 </urlset>
