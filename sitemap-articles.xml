@@ -2,6 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/this-firefox-feature-made-me-ditch-sticky-notes-for-everyday-research</loc>
+    <lastmod>2026-10-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/i-replaced-sticky-notes-with-firefox-tab-notes-for-everyday-research-1.jpg</image:loc>
+      <image:title>This Firefox feature made me ditch sticky notes for everyday research</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/cities-want-to-put-the-boot-on-robotaxis</loc>
+    <lastmod>2026-10-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2270749481.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Cities want to put the boot on robotaxis</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/weekly-poll-would-you-get-a-oneplus-16-if-you-could</loc>
     <lastmod>2026-10-18</lastmod>
     <changefreq>daily</changefreq>

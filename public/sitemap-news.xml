@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/this-firefox-feature-made-me-ditch-sticky-notes-for-everyday-research</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T12:00:01Z</news:publication_date>
+      <news:title>This Firefox feature made me ditch sticky notes for everyday research</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/i-replaced-sticky-notes-with-firefox-tab-notes-for-everyday-research-1.jpg</image:loc>
+      <image:title>This Firefox feature made me ditch sticky notes for everyday research</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/cities-want-to-put-the-boot-on-robotaxis</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T12:00:00Z</news:publication_date>
+      <news:title>Cities want to put the boot on robotaxis</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2270749481.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Cities want to put the boot on robotaxis</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/weekly-poll-would-you-get-a-oneplus-16-if-you-could</loc>
     <news:news>
       <news:publication>
@@ -2340,111 +2370,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2021/12/Gmail-on-smartphone-stock-photo-2.jpg</image:loc>
       <image:title>More Gmail users can now use Gemini to skim through work emails</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/first-apple-tv-4k-pre-order-discount-arrives-at-amazon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T12:17:34Z</news:publication_date>
-      <news:title>First Apple TV 4K Pre-Order Discount Arrives at Amazon</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/Apple-TV-4K-4th-Generation-Top-View3.jpg</image:loc>
-      <image:title>First Apple TV 4K Pre-Order Discount Arrives at Amazon</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iphone-duo-pre-order-deals-the-best-carrier-offers-from-att-and-t-mobile</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T12:03:14Z</news:publication_date>
-      <news:title>iPhone Duo Pre-Order Deals: The Best Carrier Offers From AT&amp;T and T-Mobile</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/iphone-duo-blue.jpeg</image:loc>
-      <image:title>iPhone Duo Pre-Order Deals: The Best Carrier Offers From AT&amp;T and T-Mobile</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iphone-duo-now-available-to-pre-order-from-apple</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T12:00:46Z</news:publication_date>
-      <news:title>iPhone Duo Now Available to Pre-Order From Apple</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Pre-Orders-Thumb-3.jpg</image:loc>
-      <image:title>iPhone Duo Now Available to Pre-Order From Apple</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T12:00:05Z</news:publication_date>
-      <news:title>The Surface Laptop Ultra delivers on most of Microsoft&apos;s promises</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/MS_Surface_Laptop_Ultra_Feature-1152x648.jpg</image:loc>
-      <image:title>The Surface Laptop Ultra delivers on most of Microsoft&apos;s promises</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/surface-laptop-ultra-review-a-different-kind-of-macbook-pro</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T12:00:00Z</news:publication_date>
-      <news:title>Surface Laptop Ultra review: a different kind of MacBook Pro</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VERGE_10_04_2026_0149.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Surface Laptop Ultra review: a different kind of MacBook Pro</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-iphone-duo-is-now-available-to-preorder-at-1999</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T12:00:00Z</news:publication_date>
-      <news:title>The iPhone Duo is now available to preorder at $1,999</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0005.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>The iPhone Duo is now available to preorder at $1,999</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/steam-achievement-sets-will-stop-dlcs-from-ruining-your-100-percent-record</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T11:54:54Z</news:publication_date>
-      <news:title>Steam Achievement Sets will stop DLCs from ruining your 100 percent record</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/steam-achievement-sets-will-stop-dlcs-from-ruining-your-100-percent-record/l-intro-1792151622.jpg</image:loc>
-      <image:title>Steam Achievement Sets will stop DLCs from ruining your 100 percent record</image:title>
     </image:image>
   </url>
 </urlset>
