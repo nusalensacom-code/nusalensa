@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/i8217ve-been-a-smart-home-user-for-10-years-and-the-apple-homeview-looks-like-a-game-changer</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T10:30:59Z</news:publication_date>
+      <news:title>I&amp;#8217;ve been a smart home user for 10 years, and the Apple HomeView looks like a game-changer</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Apple-HomeView-screen-angles-261013-scaled.jpg</image:loc>
+      <image:title>I&amp;#8217;ve been a smart home user for 10 years, and the Apple HomeView looks like a game-changer</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/motorola8217s-forgotten-foldable-is-the-one-i8217d-actually-buy</loc>
     <news:news>
       <news:publication>
@@ -2520,51 +2535,6 @@
     <image:image>
       <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/stoke1-1152x648.jpg</image:loc>
       <image:title>Rocket Report: FAA eyes more Starbase traffic; India&apos;s Skyroot snares US customer</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/your-next-epaper-tablet-will-feel-a-lot-more-colorful-lot-less-like-a-faded-newspaper</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T10:38:28Z</news:publication_date>
-      <news:title>Your next ePaper tablet will feel a lot more colorful, lot less like a faded newspaper</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/E-Ink-Kaleido-4.jpg</image:loc>
-      <image:title>Your next ePaper tablet will feel a lot more colorful, lot less like a faded newspaper</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/redmi-k100-confirmed-to-launch-this-month-redmi-clip-neo-to-tag-along</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T10:34:02Z</news:publication_date>
-      <news:title>Redmi K100 confirmed to launch this month, Redmi Clip Neo to tag along</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
-      <image:title>Redmi K100 confirmed to launch this month, Redmi Clip Neo to tag along</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/i-wouldn8217t-buy-these-phones-and-neither-should-you</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T10:30:34Z</news:publication_date>
-      <news:title>I wouldn&amp;#8217;t buy these phones, and neither should you</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/03/google-pixel-10a-berry-hands-on-joe-9-scaled.jpg</image:loc>
-      <image:title>I wouldn&amp;#8217;t buy these phones, and neither should you</image:title>
     </image:image>
   </url>
 </urlset>

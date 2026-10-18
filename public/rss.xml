@@ -5,8 +5,17 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 18 Oct 2026 10:17:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 10:52:20 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I&amp;#8217;ve been a smart home user for 10 years, and the Apple HomeView looks like a game-changer</title>
+      <link>https://nusalensa.com/phones/i8217ve-been-a-smart-home-user-for-10-years-and-the-apple-homeview-looks-like-a-game-changer</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/i8217ve-been-a-smart-home-user-for-10-years-and-the-apple-homeview-looks-like-a-game-changer</guid>
+      <description>From intrusive ads to clunky software, the smart home landscape has a lot of room to improve. The HomeView could help.</description>
+      <category>Smartphones</category>
+      <pubDate>Sun, 18 Oct 2026 10:30:59 GMT</pubDate>
+      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/10/Apple-HomeView-screen-angles-261013-scaled.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Motorola&amp;#8217;s forgotten foldable is the one I&amp;#8217;d actually buy</title>
       <link>https://nusalensa.com/phones/motorola8217s-forgotten-foldable-is-the-one-i8217d-actually-buy</link>
@@ -267,15 +276,6 @@
       <category>Technology</category>
       <pubDate>Sat, 17 Oct 2026 16:30:00 GMT</pubDate>
       <enclosure url="https://www.engadget.com/img/gallery/what-does-the-yellow-light-on-your-alexa-device-mean-and-how-do-you-clear-it/l-intro-1791547994.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Anbernic&apos;s RG DDS is almost double the price of the original Nintendo 3DS</title>
-      <link>https://nusalensa.com/technology/anbernics-rg-dds-is-almost-double-the-price-of-the-original-nintendo-3ds</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/anbernics-rg-dds-is-almost-double-the-price-of-the-original-nintendo-3ds</guid>
-      <description>The premium handheld is expected to start shipping in December.</description>
-      <category>Technology</category>
-      <pubDate>Sat, 17 Oct 2026 16:15:11 GMT</pubDate>
-      <enclosure url="https://www.engadget.com/img/gallery/anbernics-rg-dds-is-almost-double-the-price-of-the-original-nintendo-3ds/l-intro-1792253250.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
