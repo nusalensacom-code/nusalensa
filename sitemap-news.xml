@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/the-pixel-11-pro8217s-120x-zoom-is-ridiculous-but-is-it-actually-useful</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T11:00:46Z</news:publication_date>
+      <news:title>The Pixel 11 Pro&amp;#8217;s 120x zoom is ridiculous, but is it actually useful?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/google-pixel-11-pro-review-hero-photo-2-scaled.jpg</image:loc>
+      <image:title>The Pixel 11 Pro&amp;#8217;s 120x zoom is ridiculous, but is it actually useful?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/i8217ve-been-a-smart-home-user-for-10-years-and-the-apple-homeview-looks-like-a-game-changer</loc>
     <news:news>
       <news:publication>
@@ -2490,51 +2505,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2023/05/Holding-smartphone-with-WhatsApp-logo-on-the-screen-Stock-photo.jpg</image:loc>
       <image:title>After Chrome, we now have a WhatsApp dupe on the Play Store with 500,000+ downloads</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/google-translate8217s-massive-redesign-is-rolling-out-now</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T11:14:56Z</news:publication_date>
-      <news:title>Google Translate&amp;#8217;s massive redesign is rolling out now</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2023/01/Google-Translate-on-smartphone-stock-photo-3.jpg</image:loc>
-      <image:title>Google Translate&amp;#8217;s massive redesign is rolling out now</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/sony8217s-new-5900-gold-plated-walkman-music-player-doesn8217t-come-with-the-latest-version-of-android</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T11:05:53Z</news:publication_date>
-      <news:title>Sony&amp;#8217;s new $5,900 gold-plated Walkman music player doesn&amp;#8217;t come with the latest version of Android</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/sony-walkman-wm1zm3-flagship-hero-image.jpg</image:loc>
-      <image:title>Sony&amp;#8217;s new $5,900 gold-plated Walkman music player doesn&amp;#8217;t come with the latest version of Android</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/rocket-report-faa-eyes-more-starbase-traffic-indias-skyroot-snares-us-customer</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T11:00:53Z</news:publication_date>
-      <news:title>Rocket Report: FAA eyes more Starbase traffic; India&apos;s Skyroot snares US customer</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/stoke1-1152x648.jpg</image:loc>
-      <image:title>Rocket Report: FAA eyes more Starbase traffic; India&apos;s Skyroot snares US customer</image:title>
     </image:image>
   </url>
 </urlset>
