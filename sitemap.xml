@@ -468,6 +468,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/vivo-v80-in-for-review</loc>
+    <lastmod>2026-10-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/vivo-v80-ifr/gsmarena_000.jpg</image:loc>
+      <image:title>vivo V80 in for review</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/you-dont-have-to-turn-off-your-phone-to-switch-sim-cards-but-you-probably-should</loc>
     <lastmod>2026-10-18</lastmod>
     <changefreq>daily</changefreq>
