@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/the-reason-your-amazon-alexa-devices-are-always-listening</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T14:15:00Z</news:publication_date>
+      <news:title>The reason your Amazon Alexa devices are always listening</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/the-reason-your-amazon-alexa-devices-are-always-listening/l-intro-1791919400.jpg</image:loc>
+      <image:title>The reason your Amazon Alexa devices are always listening</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/j-mascis-has-nothing-better-to-do</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T14:00:00Z</news:publication_date>
+      <news:title>J Mascis has nothing better to do</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/J-Mascis-Dinosaur-Jr-interview-Babys-All-Right.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>J Mascis has nothing better to do</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/these-6-retro-sites-let-you-relive-the-glory-days-of-2000s-flash-games</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T13:45:00Z</news:publication_date>
+      <news:title>These 6 retro sites let you relive the glory days of 2000s Flash games</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/these-6-retro-sites-let-you-re-live-the-glory-days-of-2000s-flash-games/l-intro-1791916199.jpg</image:loc>
+      <image:title>These 6 retro sites let you relive the glory days of 2000s Flash games</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/your-smart-tv-has-one-big-problem-its-tracking-what-you-watch</loc>
     <news:news>
       <news:publication>
@@ -2175,111 +2220,6 @@
     <image:image>
       <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/polymarket-1024x648.jpg</image:loc>
       <image:title>Polymarket saw $600 million in election trades after the elections were over</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-incredible-flying-tesla-roadster-is-just-for-show</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T14:15:29Z</news:publication_date>
-      <news:title>The incredible flying Tesla Roadster is just for show</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/HUuw-rwXoAAQf9r.jpeg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>The incredible flying Tesla Roadster is just for show</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-pre-orders-kick-off-with-first-discounts-on-homeview-and-apple-tv-4k</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T14:13:43Z</news:publication_date>
-      <news:title>Apple Pre-Orders Kick Off With First Discounts on HomeView and Apple TV 4K</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/new-best-apple-deals-dark-mode.jpeg</image:loc>
-      <image:title>Apple Pre-Orders Kick Off With First Discounts on HomeView and Apple TV 4K</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T14:12:29Z</news:publication_date>
-      <news:title>MapQuest will now show you where Flock cameras are in your neighborhood</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/l-intro-1792159874.jpg</image:loc>
-      <image:title>MapQuest will now show you where Flock cameras are in your neighborhood</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/tesla-turns-to-50-year-old-stunt-technology-as-it-tries-to-roadster-again</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T14:03:25Z</news:publication_date>
-      <news:title>Tesla turns to 50-year-old stunt technology as it tries to Roadster again</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/Roadster_87-1152x648.jpg</image:loc>
-      <image:title>Tesla turns to 50-year-old stunt technology as it tries to Roadster again</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/metas-new-terms-may-allow-it-to-train-ai-on-news-sites-for-free</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T14:02:40Z</news:publication_date>
-      <news:title>Meta’s new terms may allow it to train AI on news sites for free</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Meta’s new terms may allow it to train AI on news sites for free</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/super-scam-me-documentary-shows-what-it-takes-to-catch-a-romance-scammer</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T14:00:59Z</news:publication_date>
-      <news:title>Super Scam Me documentary shows what it takes to catch a romance scammer</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/SuperScamMe_UHD_42-1152x597.jpg</image:loc>
-      <image:title>Super Scam Me documentary shows what it takes to catch a romance scammer</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-ai-pro-trials-are-misleading-and-subscribers-are-finding-out-the-hard-way</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T13:55:35Z</news:publication_date>
-      <news:title>Google AI Pro trials are misleading, and subscribers are finding out the hard way</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/google-one-app-benefits-page-hero-scaled.jpg</image:loc>
-      <image:title>Google AI Pro trials are misleading, and subscribers are finding out the hard way</image:title>
     </image:image>
   </url>
 </urlset>
