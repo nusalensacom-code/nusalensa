@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/should-you-limit-your-fps-in-games-heres-when-it-makes-sense</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T16:45:00Z</news:publication_date>
+      <news:title>Should you limit your FPS in games? Here&apos;s when it makes sense</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/should-you-limit-your-fps-in-games-heres-when-it-makes-sense/l-intro-1791988078.jpg</image:loc>
+      <image:title>Should you limit your FPS in games? Here&apos;s when it makes sense</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/tiktok-reportedly-bans-ads-for-musk-documentary-before-its-wider-us-release</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T16:42:15Z</news:publication_date>
+      <news:title>TikTok reportedly bans ads for Musk documentary before its wider US release</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/tiktok-reportedly-bans-ads-for-musk-documentary-before-its-wider-us-release/l-intro-1792341551.jpg</image:loc>
+      <image:title>TikTok reportedly bans ads for Musk documentary before its wider US release</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/video-game-ownership-bill-introduced-in-congress</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T16:27:51Z</news:publication_date>
+      <news:title>Video game ownership bill introduced in Congress</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25544255/2162439650.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Video game ownership bill introduced in Congress</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/how-to-fix-scaling-and-app-size-issues-on-your-samsung-galaxy-z-fold-8</loc>
     <news:news>
       <news:publication>
@@ -2010,51 +2055,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Samsung-P9-Express-microSDXC-256GB-for-Nintendo-Switch-2-Press-Image.jpg</image:loc>
       <image:title>Samsung’s Switch 2-ready P9 Express microSD card just fell to $59.99</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/galaxy-s27-reportedly-skips-snapdragon-8-elite-extreme-gen-6-due-to-overheating</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T16:50:00Z</news:publication_date>
-      <news:title>Galaxy S27 reportedly skips Snapdragon 8 Elite Extreme Gen 6 due to overheating</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/09/Snapdragon-8-Elite-Extreme-Gen-6.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Galaxy S27 reportedly skips Snapdragon 8 Elite Extreme Gen 6 due to overheating</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/if-memory-shortages-last-tech-companies-should-offer-cheap-battery-replacements</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T16:32:00Z</news:publication_date>
-      <news:title>If memory shortages last, tech companies should offer cheap battery replacements</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/if-memory-shortages-last-tech-companies-should-offer-cheap-battery-replacements/l-intro-1792168203.jpg</image:loc>
-      <image:title>If memory shortages last, tech companies should offer cheap battery replacements</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/price-drop-reduces-the-nothing-ear-to-69-a-37-discount-off-rrp</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T16:31:02Z</news:publication_date>
-      <news:title>Price drop reduces the Nothing Ear to $69, a 37% discount off RRP</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/04/nothing-ear-black-5.jpg</image:loc>
-      <image:title>Price drop reduces the Nothing Ear to $69, a 37% discount off RRP</image:title>
     </image:image>
   </url>
 </urlset>
