@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/mister-organ-is-one-of-the-most-unsettling-documentaries-ive-ever-seen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T19:30:00Z</news:publication_date>
+      <news:title>Mister Organ is one of the most unsettling documentaries I’ve ever seen</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Mister-Organ-poster.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Mister Organ is one of the most unsettling documentaries I’ve ever seen</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/what-is-the-star-button-for-on-your-roku-remote</loc>
     <news:news>
       <news:publication>
@@ -1875,36 +1890,6 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/09/iphone-duo-case.jpg</image:loc>
       <image:title>Apple&amp;#039;s &amp;#36;79 iPhone Duo Case Sticks On With Adhesive</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/googles-universal-cart-puts-a-shopping-cart-everywhere-including-search-homepage-chrome</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T19:47:01Z</news:publication_date>
-      <news:title>Google’s Universal Cart puts a shopping cart everywhere, including Search homepage, Chrome</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Google-Universal-Cart-icon-2.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Google’s Universal Cart puts a shopping cart everywhere, including Search homepage, Chrome</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T19:41:18Z</news:publication_date>
-      <news:title>US Rep proposes bill to give video game buyers &quot;ownership,&quot; not &quot;a license&quot;</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/Torres-headshot-1152x648.jpg</image:loc>
-      <image:title>US Rep proposes bill to give video game buyers &quot;ownership,&quot; not &quot;a license&quot;</image:title>
     </image:image>
   </url>
 </urlset>
