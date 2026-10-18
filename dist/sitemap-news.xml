@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/pixel-11-pro-xl-vs-galaxy-s27-ultra-why-you-shouldn8217t-buy-google8217s-flagship-right-now</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T09:00:23Z</news:publication_date>
+      <news:title>Pixel 11 Pro XL vs. Galaxy S27 Ultra: Why you shouldn&amp;#8217;t buy Google&amp;#8217;s flagship right now</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/google-pixel-11-pro-xl-pink-flowers-scaled.jpg</image:loc>
+      <image:title>Pixel 11 Pro XL vs. Galaxy S27 Ultra: Why you shouldn&amp;#8217;t buy Google&amp;#8217;s flagship right now</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/deals-galaxy-z-fold8-is-on-sale-as-the-iphone-duo-launches-other-foldables-also-discounted</loc>
     <news:news>
       <news:publication>
@@ -2670,36 +2685,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Apple-HomeView-lineup-261013.jpg</image:loc>
       <image:title>5 things Google’s rumored Home Display should steal from the Apple HomeView</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/this-android-phone-has-the-most-ridiculous-speaker-and-i-mostly-love-it</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T09:00:27Z</news:publication_date>
-      <news:title>This Android phone has the most ridiculous speaker, and I (mostly) love it</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/poco-f9-ultra-speaker-scaled.jpg</image:loc>
-      <image:title>This Android phone has the most ridiculous speaker, and I (mostly) love it</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/whatsapp-is-working-on-a-better-way-to-ask-8220where-are-you8221</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T08:55:37Z</news:publication_date>
-      <news:title>WhatsApp is working on a better way to ask &amp;#8220;Where are you?&amp;#8221;</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/02/whatsapp-wedding-invite.jpg</image:loc>
-      <image:title>WhatsApp is working on a better way to ask &amp;#8220;Where are you?&amp;#8221;</image:title>
     </image:image>
   </url>
 </urlset>
