@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/what-is-the-star-button-for-on-your-roku-remote</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T18:45:00Z</news:publication_date>
+      <news:title>What is the star button for on your Roku remote?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/what-is-the-star-button-for-on-your-roku-remote/l-intro-1791990292.jpg</image:loc>
+      <image:title>What is the star button for on your Roku remote?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/heres-how-the-slate-truck-gets-software-updates-without-built-in-infotainment</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T18:30:00Z</news:publication_date>
+      <news:title>Here&apos;s how the Slate truck gets software updates without built-in infotainment</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/heres-how-the-slate-truck-gets-software-updates-without-built-in-infotainment/l-intro-1791571931.jpg</image:loc>
+      <image:title>Here&apos;s how the Slate truck gets software updates without built-in infotainment</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T18:28:10Z</news:publication_date>
+      <news:title>A woman was arrested in Philly for blocking a delivery robot</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/avride-uber-delivery.webp?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>A woman was arrested in Philly for blocking a delivery robot</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/oneplus-16-is-official-with-9000mah-battery-week-42-in-review</loc>
     <news:news>
       <news:publication>
@@ -1890,51 +1935,6 @@
     <image:image>
       <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Google-Play-collage-d25fd0.webp?w=1600</image:loc>
       <image:title>Friday’s Android app deals and freebies: Majesty, Boxville 2, Dungeon Defense, Mythic Trials 2, more</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google8217s-latest-anti-doomscrolling-tool-is-shedding-its-pixel-exclusivity</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T18:42:03Z</news:publication_date>
-      <news:title>Google&amp;#8217;s latest anti-doomscrolling tool is shedding its Pixel exclusivity</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2022/08/Google-Digital-Wellbeing-stock-photo-4.jpg</image:loc>
-      <image:title>Google&amp;#8217;s latest anti-doomscrolling tool is shedding its Pixel exclusivity</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-galaxy-s27-might-miss-out-on-uwb</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T18:31:02Z</news:publication_date>
-      <news:title>Samsung Galaxy S27+ might miss out on UWB</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
-      <image:title>Samsung Galaxy S27+ might miss out on UWB</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/why-apple-is-finally-making-its-own-smart-home-devices</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T18:30:27Z</news:publication_date>
-      <news:title>Why Apple is finally making its own smart home devices</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0432-1.jpeg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Why Apple is finally making its own smart home devices</image:title>
     </image:image>
   </url>
 </urlset>
