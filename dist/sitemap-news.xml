@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/weekly-poll-would-you-get-a-oneplus-16-if-you-could</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T11:21:02Z</news:publication_date>
+      <news:title>Weekly poll: would you get a OnePlus 16 if you could?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/weekly-poll-oneplus-16/gsmarena_0000.jpg</image:loc>
+      <image:title>Weekly poll: would you get a OnePlus 16 if you could?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/the-pixel-11-pro8217s-120x-zoom-is-ridiculous-but-is-it-actually-useful</loc>
     <news:news>
       <news:publication>
@@ -2430,81 +2445,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/steam-achievement-sets-will-stop-dlcs-from-ruining-your-100-percent-record/l-intro-1792151622.jpg</image:loc>
       <image:title>Steam Achievement Sets will stop DLCs from ruining your 100 percent record</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/tecno-spark-50s-and-50c-unveiled-with-120hz-displays</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T11:33:02Z</news:publication_date>
-      <news:title>Tecno Spark 50s and 50C unveiled with 120Hz displays</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
-      <image:title>Tecno Spark 50s and 50C unveiled with 120Hz displays</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-first-major-oneplus-17-leak-hints-at-even-higher-refresh-rate</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T11:29:38Z</news:publication_date>
-      <news:title>The first major OnePlus 17 leak hints at even higher refresh rate</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/oneplus-15-blue-home-screen-scaled.jpg</image:loc>
-      <image:title>The first major OnePlus 17 leak hints at even higher refresh rate</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/android-auto8217s-missing-signal-bars-are-finally-making-a-proper-comeback</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T11:28:26Z</news:publication_date>
-      <news:title>Android Auto&amp;#8217;s missing signal bars are finally making a proper comeback</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Ask-Gemini-feature-on-Waze-on-Android-Auto-dashboard.jpg</image:loc>
-      <image:title>Android Auto&amp;#8217;s missing signal bars are finally making a proper comeback</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-galaxy-s27-plus-could-break-nearly-six-years-of-tradition-with-this-downgrade</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T11:28:01Z</news:publication_date>
-      <news:title>The Galaxy S27 Plus could break nearly six years of tradition with this downgrade</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/02/Samsung-Galaxy-S26-Plus-Home-Screen.jpg</image:loc>
-      <image:title>The Galaxy S27 Plus could break nearly six years of tradition with this downgrade</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/after-chrome-we-now-have-a-whatsapp-dupe-on-the-play-store-with-500000-downloads</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T11:20:04Z</news:publication_date>
-      <news:title>After Chrome, we now have a WhatsApp dupe on the Play Store with 500,000+ downloads</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2023/05/Holding-smartphone-with-WhatsApp-logo-on-the-screen-Stock-photo.jpg</image:loc>
-      <image:title>After Chrome, we now have a WhatsApp dupe on the Play Store with 500,000+ downloads</image:title>
     </image:image>
   </url>
 </urlset>

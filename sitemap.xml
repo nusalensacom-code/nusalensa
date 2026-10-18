@@ -468,6 +468,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/weekly-poll-would-you-get-a-oneplus-16-if-you-could</loc>
+    <lastmod>2026-10-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/weekly-poll-oneplus-16/gsmarena_0000.jpg</image:loc>
+      <image:title>Weekly poll: would you get a OnePlus 16 if you could?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/the-pixel-11-pro8217s-120x-zoom-is-ridiculous-but-is-it-actually-useful</loc>
     <lastmod>2026-10-18</lastmod>
     <changefreq>daily</changefreq>
