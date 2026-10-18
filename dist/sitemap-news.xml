@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/after-five-years-inscryption-is-finally-coming-to-mobile</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T20:27:30Z</news:publication_date>
+      <news:title>After five years, Inscryption is finally coming to mobile</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/after-five-years-inscryption-is-finally-coming-to-mobile/l-intro-1792354834.jpg</image:loc>
+      <image:title>After five years, Inscryption is finally coming to mobile</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/amazon-discounts-new-mac-mini-by-up-to-36149-mac-studio-by-36200</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T20:15:14Z</news:publication_date>
+      <news:title>Amazon Discounts New Mac Mini by Up to &amp;#36;149, Mac Studio by &amp;#36;200</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/04/Mac-mini-vs-Studio-Feature-Sans-Text-1.jpg</image:loc>
+      <image:title>Amazon Discounts New Mac Mini by Up to &amp;#36;149, Mac Studio by &amp;#36;200</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/mister-organ-is-one-of-the-most-unsettling-documentaries-ive-ever-seen</loc>
     <news:news>
       <news:publication>
@@ -1755,96 +1785,6 @@
     <image:image>
       <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-1152x648.jpg</image:loc>
       <image:title>OpenAI models hacked a crypto wallet and breached more websites</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/a-flying-tesla-roadster-sounds-impossible-until-you-see-what-lockheed-martin-built-decades-ago</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T20:50:28Z</news:publication_date>
-      <news:title>A &apos;flying&apos; Tesla Roadster sounds impossible, until you see what Lockheed Martin built decades ago</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/a-flying-tesla-roadster-sounds-impossible-until-you-see-what-lockheed-martin-built-decades-ago/l-intro-1792183609.jpg</image:loc>
-      <image:title>A &apos;flying&apos; Tesla Roadster sounds impossible, until you see what Lockheed Martin built decades ago</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/we-can-finally-hear-some-of-wu-tang-clan8217s-once-upon-a-time-in-shaolin-album</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T20:50:27Z</news:publication_date>
-      <news:title>We can finally hear some of Wu-Tang Clan&amp;#8217;s Once Upon A Time in Shaolin album</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2298537487.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>We can finally hear some of Wu-Tang Clan&amp;#8217;s Once Upon A Time in Shaolin album</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/tesla-driver-says-he-was-asleep-and-using-fsd-when-he-crashed-into-highway-patrol-cars</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T20:49:04Z</news:publication_date>
-      <news:title>Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-16-at-4.42.00-PM.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/this-watchmaker-has-reportedly-exited-the-smartwatch-market</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T20:46:42Z</news:publication_date>
-      <news:title>This watchmaker has reportedly exited the smartwatch market</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/10/tag-heuer-connected-calibre-e5-copy.jpg</image:loc>
-      <image:title>This watchmaker has reportedly exited the smartwatch market</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/android-17-qpr2-beta-71-rolling-out-for-pixel</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T20:25:06Z</news:publication_date>
-      <news:title>Android 17 QPR2 Beta 7.1 rolling out for Pixel</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/03/Android-17-logo-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Android 17 QPR2 Beta 7.1 rolling out for Pixel</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T20:20:07Z</news:publication_date>
-      <news:title>“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2233803629-2-1152x648.jpg</image:loc>
-      <image:title>“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops</image:title>
     </image:image>
   </url>
 </urlset>
