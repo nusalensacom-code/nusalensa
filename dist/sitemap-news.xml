@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/an-xbox-series-x-can-now-run-playstation-5-games-but-theres-a-catch</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T23:00:00Z</news:publication_date>
+      <news:title>An Xbox Series X can now run PlayStation 5 games, but there&apos;s a catch</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/an-xbox-series-x-can-now-run-playstation-5-games-but-theres-a-catch/l-intro-1791888562.jpg</image:loc>
+      <image:title>An Xbox Series X can now run PlayStation 5 games, but there&apos;s a catch</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/starlink-has-two-55-plans-that-are-wildly-different-heres-how</loc>
     <news:news>
       <news:publication>
@@ -1695,36 +1710,6 @@
     <image:image>
       <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/hp-googlebook-14-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
       <image:title>HP Googlebook 14 Review: Great laptop, shame about the OS</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-calls-iphone-duo-demand-039extraordinary039-after-orders-slip-to-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T22:53:57Z</news:publication_date>
-      <news:title>Apple Calls iPhone Duo Demand &amp;#039;Extraordinary&amp;#039; After Orders Slip to 2027</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/iphone-duo-feature.jpg</image:loc>
-      <image:title>Apple Calls iPhone Duo Demand &amp;#039;Extraordinary&amp;#039; After Orders Slip to 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/apple8217s-updated-app-store-rules-go-after-8216nudify8217-ai-apps</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T22:51:22Z</news:publication_date>
-      <news:title>Apple&amp;#8217;s updated App Store rules go after &amp;#8216;nudify&amp;#8217; AI apps</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Apple&amp;#8217;s updated App Store rules go after &amp;#8216;nudify&amp;#8217; AI apps</image:title>
     </image:image>
   </url>
 </urlset>
