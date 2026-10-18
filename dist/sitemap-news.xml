@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/you-dont-have-to-turn-off-your-phone-to-switch-sim-cards-but-you-probably-should</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T00:30:00Z</news:publication_date>
+      <news:title>You don&apos;t have to turn off your phone to switch SIM cards (but you probably should)</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/you-dont-have-to-turn-off-your-phone-to-switch-sim-cards-but-you-probably-should/l-intro-1791896825.jpg</image:loc>
+      <image:title>You don&apos;t have to turn off your phone to switch SIM cards (but you probably should)</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/what-to-check-if-your-nintendo-switch-2-isnt-connecting-to-the-tv</loc>
     <news:news>
       <news:publication>
@@ -2925,36 +2940,6 @@
     <image:image>
       <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/09/Googlebook-Antigravity-Macro.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
       <image:title>Gemini 4 Argon is now rolling out to Google&amp;#8217;s Antigravity for AI Pro subscribers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/tipster-says-galaxy-s27-ultra-will-have-slightly-thicker-bezels-than-s26-ultra</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T00:31:02Z</news:publication_date>
-      <news:title>Tipster says Galaxy S27 Ultra will have slightly thicker bezels than S26 Ultra</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
-      <image:title>Tipster says Galaxy S27 Ultra will have slightly thicker bezels than S26 Ultra</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/oops-apple039s-website-just-hinted-at-ipad-mini-8</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T00:27:14Z</news:publication_date>
-      <news:title>Oops, Apple&amp;#039;s Website Just Hinted at iPad Mini 8</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/07/iPad-mini-7-Review-Thumb-1-sans-text.jpg</image:loc>
-      <image:title>Oops, Apple&amp;#039;s Website Just Hinted at iPad Mini 8</image:title>
     </image:image>
   </url>
 </urlset>
