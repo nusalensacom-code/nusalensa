@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/what-is-apples-image-playground-app-for-and-how-do-you-use-it</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T22:00:00Z</news:publication_date>
+      <news:title>What is Apple&apos;s Image Playground app for and how do you use it?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/what-is-apples-image-playground-app-for-and-how-do-you-use-it/l-intro-1791993182.jpg</image:loc>
+      <image:title>What is Apple&apos;s Image Playground app for and how do you use it?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/what-is-variable-aperture-and-why-should-you-care</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T21:55:01Z</news:publication_date>
+      <news:title>What is variable aperture and why should you care?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/iphone-variable-aperture-test/gsmarena_000.jpg</image:loc>
+      <image:title>What is variable aperture and why should you care?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/after-five-years-inscryption-is-finally-coming-to-mobile</loc>
     <news:news>
       <news:publication>
