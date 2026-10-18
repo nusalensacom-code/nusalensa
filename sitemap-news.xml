@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/oneplus-16-is-official-with-9000mah-battery-week-42-in-review</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T18:09:02Z</news:publication_date>
+      <news:title>OnePlus 16 is official with 9,000mAh battery, Week 42 in review</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/week-42-in-review/gsmarena_000.jpg</image:loc>
+      <image:title>OnePlus 16 is official with 9,000mAh battery, Week 42 in review</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-expected-to-release-new-products-on-next-four-fridays</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T18:01:53Z</news:publication_date>
+      <news:title>Apple Expected to Release New Products on Next Four Fridays</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/07/iPad-mini-7-Review-Thumb-1-sans-text.jpg</image:loc>
+      <image:title>Apple Expected to Release New Products on Next Four Fridays</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/from-the-royole-flexpai-to-the-iphone-duo-how-the-modern-foldable-phone-has-evolved</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T18:00:00Z</news:publication_date>
+      <news:title>From the Royole FlexPai to the iPhone Duo: How the modern foldable phone has evolved</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/from-the-royole-flexpai-to-the-iphone-duo-how-the-modern-foldable-phone-has-evolved/l-intro-1791988871.jpg</image:loc>
+      <image:title>From the Royole FlexPai to the iPhone Duo: How the modern foldable phone has evolved</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/should-you-limit-your-fps-in-games-heres-when-it-makes-sense</loc>
     <news:news>
       <news:publication>
@@ -1890,51 +1935,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0432-1.jpeg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Why Apple is finally making its own smart home devices</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/buying-an-iphone-duo-verizon-has-a-few-ways-to-make-it-cheaper</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T18:05:41Z</news:publication_date>
-      <news:title>Buying an iPhone Duo? Verizon has a few ways to make it cheaper</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-iPhone-Duo-Hands-On-Inner-display.jpg</image:loc>
-      <image:title>Buying an iPhone Duo? Verizon has a few ways to make it cheaper</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/hate-the-idea-of-paying-for-youtube-premium-imagine-paying-240-a-year-for-regular-youtube</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T17:59:04Z</news:publication_date>
-      <news:title>Hate the idea of paying for YouTube Premium? Imagine paying $240 a year for regular YouTube</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2022/04/YouTube-on-smartphone-stock-photo-18.jpg</image:loc>
-      <image:title>Hate the idea of paying for YouTube Premium? Imagine paying $240 a year for regular YouTube</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/chatgpt-gets-deeper-google-chrome-integration-including-control-over-tabs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T17:50:00Z</news:publication_date>
-      <news:title>ChatGPT gets deeper Google Chrome integration including control over tabs</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/chatgpt-google-chrome-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>ChatGPT gets deeper Google Chrome integration including control over tabs</image:title>
     </image:image>
   </url>
 </urlset>
