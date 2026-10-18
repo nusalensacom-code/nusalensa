@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/how-to-use-googles-synthid-ai-detection-website</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T23:30:00Z</news:publication_date>
+      <news:title>How to use Google&apos;s SynthID AI detection website</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/how-to-use-googles-synthid-ai-detection-website/l-intro-1791998472.jpg</image:loc>
+      <image:title>How to use Google&apos;s SynthID AI detection website</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/an-xbox-series-x-can-now-run-playstation-5-games-but-theres-a-catch</loc>
     <news:news>
       <news:publication>
@@ -1665,51 +1680,6 @@
     <image:image>
       <image:loc>https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
       <image:title>Honor reveals which global devices are getting MagicOS 11</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/verizon-will-charge-3610-a-month-for-iphone-handoff</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T23:37:48Z</news:publication_date>
-      <news:title>Verizon Will Charge &amp;#36;10 a Month for iPhone Handoff</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/09/iPhone-Handoff-Feature.jpeg</image:loc>
-      <image:title>Verizon Will Charge &amp;#36;10 a Month for iPhone Handoff</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/all-the-news-about-the-iphone-duo</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T23:36:26Z</news:publication_date>
-      <news:title>All the news about the iPhone Duo</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0017.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>All the news about the iPhone Duo</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/hp-googlebook-14-review-great-laptop-shame-about-the-os</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T23:30:00Z</news:publication_date>
-      <news:title>HP Googlebook 14 Review: Great laptop, shame about the OS</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/hp-googlebook-14-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>HP Googlebook 14 Review: Great laptop, shame about the OS</image:title>
     </image:image>
   </url>
 </urlset>
