@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/deals-galaxy-z-fold8-is-on-sale-as-the-iphone-duo-launches-other-foldables-also-discounted</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T08:22:01Z</news:publication_date>
+      <news:title>Deals: Galaxy Z Fold8 is on sale as the iPhone Duo launches, other foldables also discounted</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/weekly-deals-16/gsmarena_de.jpg</image:loc>
+      <image:title>Deals: Galaxy Z Fold8 is on sale as the iPhone Duo launches, other foldables also discounted</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/tablets/weekly-poll-results-the-galaxy-tab-s12-and-tab-s12-ultra-make-laptops-look-reasonably-priced</loc>
     <news:news>
       <news:publication>
@@ -2685,66 +2700,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/02/whatsapp-wedding-invite.jpg</image:loc>
       <image:title>WhatsApp is working on a better way to ask &amp;#8220;Where are you?&amp;#8221;</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/whatsapp-could-make-stickers-more-fun-with-an-audio-upgrade</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T08:42:38Z</news:publication_date>
-      <news:title>WhatsApp could make stickers more fun with an audio upgrade</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2023/05/Holding-smartphone-with-WhatsApp-logo-on-the-screen-Stock-photo.jpg</image:loc>
-      <image:title>WhatsApp could make stickers more fun with an audio upgrade</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/gmails-live-ai-search-feature-arrives-for-google-ai-subscribers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T08:31:48Z</news:publication_date>
-      <news:title>Gmail&apos;s Live AI search feature arrives for Google AI subscribers</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/gmails-live-ai-search-feature-arrives-for-google-ai-subscribers/l-intro-1792139377.jpg</image:loc>
-      <image:title>Gmail&apos;s Live AI search feature arrives for Google AI subscribers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/honor-win2-shows-up-on-geekbench-confirming-its-chipset</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T08:31:02Z</news:publication_date>
-      <news:title>Honor Win2 shows up on Geekbench confirming its chipset</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
-      <image:title>Honor Win2 shows up on Geekbench confirming its chipset</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/withings-is-paywalling-third-party-syncing-and-users-are-rightfully-mad-about-it</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T08:29:22Z</news:publication_date>
-      <news:title>Withings is paywalling third-party syncing, and users are rightfully mad about it</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2023/12/withings-scanwatch-light-pixel-8-pro-withings-app-steps-scaled.jpg</image:loc>
-      <image:title>Withings is paywalling third-party syncing, and users are rightfully mad about it</image:title>
     </image:image>
   </url>
 </urlset>

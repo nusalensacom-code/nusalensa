@@ -5,8 +5,17 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 18 Oct 2026 08:18:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 08:55:24 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deals: Galaxy Z Fold8 is on sale as the iPhone Duo launches, other foldables also discounted</title>
+      <link>https://nusalensa.com/phones/deals-galaxy-z-fold8-is-on-sale-as-the-iphone-duo-launches-other-foldables-also-discounted</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/deals-galaxy-z-fold8-is-on-sale-as-the-iphone-duo-launches-other-foldables-also-discounted</guid>
+      <description>Amazon’s Prime Big Deal Days soaked up almost all of the discounts last week, so there wasn’t much left over for the weekend. This week, however, we are seeing </description>
+      <category>Smartphones</category>
+      <pubDate>Sun, 18 Oct 2026 08:22:01 GMT</pubDate>
+      <enclosure url="https://fdn.gsmarena.com/imgroot/news/26/10/weekly-deals-16/gsmarena_de.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Weekly poll results: the Galaxy Tab S12+ and Tab S12 Ultra make laptops look reasonably priced</title>
       <link>https://nusalensa.com/tablets/weekly-poll-results-the-galaxy-tab-s12-and-tab-s12-ultra-make-laptops-look-reasonably-priced</link>
@@ -267,15 +276,6 @@
       <category>Technology</category>
       <pubDate>Sat, 17 Oct 2026 15:30:00 GMT</pubDate>
       <enclosure url="https://www.engadget.com/img/gallery/why-are-some-locations-blurred-out-on-google-maps/l-intro-1791496081.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Honor Win2 teased once again with world&apos;s first 2K 185Hz display</title>
-      <link>https://nusalensa.com/phones/honor-win2-teased-once-again-with-worlds-first-2k-185hz-display</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/honor-win2-teased-once-again-with-worlds-first-2k-185hz-display</guid>
-      <description>Honor is preparing to launch the Win2 series that consists of the Win2 itself, the Win2 RT and the Win2 Turbo. The Win2 series shapes up to be an interesting te</description>
-      <category>Smartphones</category>
-      <pubDate>Sat, 17 Oct 2026 15:12:02 GMT</pubDate>
-      <enclosure url="https://fdn.gsmarena.com/imgroot/news/26/10/honor-win2-display-teased/gsmarena_000.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
