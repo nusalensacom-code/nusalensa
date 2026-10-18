@@ -5,8 +5,17 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 18 Oct 2026 15:16:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 15:52:55 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flat Ethernet cables probably aren&apos;t the answer to your home networking problem</title>
+      <link>https://nusalensa.com/technology/flat-ethernet-cables-probably-arent-the-answer-to-your-home-networking-problem</link>
+      <guid isPermaLink="true">https://nusalensa.com/technology/flat-ethernet-cables-probably-arent-the-answer-to-your-home-networking-problem</guid>
+      <description>For the most reliable performance, round Ethernet cables are generally superior.</description>
+      <category>Technology</category>
+      <pubDate>Sun, 18 Oct 2026 15:45:00 GMT</pubDate>
+      <enclosure url="https://www.engadget.com/img/gallery/flat-ethernet-cables-probably-arent-the-answer-to-your-home-networking-problem/l-intro-1791980716.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>The reason why your drive shows less storage than you paid for</title>
       <link>https://nusalensa.com/technology/the-reason-why-your-drive-shows-less-storage-than-you-paid-for</link>
@@ -267,15 +276,6 @@
       <category>Smartphones</category>
       <pubDate>Sun, 18 Oct 2026 02:24:02 GMT</pubDate>
       <enclosure url="https://fdn.gsmarena.com/imgroot/news/26/10/vivo-v80-ifr/gsmarena_000.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>You don&apos;t have to turn off your phone to switch SIM cards (but you probably should)</title>
-      <link>https://nusalensa.com/technology/you-dont-have-to-turn-off-your-phone-to-switch-sim-cards-but-you-probably-should</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/you-dont-have-to-turn-off-your-phone-to-switch-sim-cards-but-you-probably-should</guid>
-      <description>Swapping SIM cards isn&apos;t something you&apos;ll do all the time, but when it does come up, you should do it carefully.</description>
-      <category>Technology</category>
-      <pubDate>Sun, 18 Oct 2026 00:30:00 GMT</pubDate>
-      <enclosure url="https://www.engadget.com/img/gallery/you-dont-have-to-turn-off-your-phone-to-switch-sim-cards-but-you-probably-should/l-intro-1791896825.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
