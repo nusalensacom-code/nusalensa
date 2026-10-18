@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/how-to-fix-scaling-and-app-size-issues-on-your-samsung-galaxy-z-fold-8</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T16:15:00Z</news:publication_date>
+      <news:title>How to fix scaling and app size issues on your Samsung Galaxy Z Fold 8</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/how-to-fix-scaling-and-app-size-issues-on-your-samsung-galaxy-z-fold-8/l-intro-1791985713.jpg</image:loc>
+      <image:title>How to fix scaling and app size issues on your Samsung Galaxy Z Fold 8</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/flat-ethernet-cables-probably-arent-the-answer-to-your-home-networking-problem</loc>
     <news:news>
       <news:publication>
@@ -33,6 +48,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/apple-reveals-iphone-duo039s-battery-capacity</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T15:07:06Z</news:publication_date>
+      <news:title>Apple Reveals iPhone Duo&amp;#039;s Battery Capacity</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/09/iphone-duo-closed-1.jpg</image:loc>
+      <image:title>Apple Reveals iPhone Duo&amp;#039;s Battery Capacity</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/lenovos-fast-comfy-steamos-handheld-is-hundreds-off</loc>
     <news:news>
       <news:publication>
@@ -45,6 +75,21 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/lenovo-legion-go-s-steamos-sean-hollister-331A1224.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Lenovo’s fast, comfy SteamOS handheld is hundreds off</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/apple-planning-039homeview-max039-with-9-inch-360-degree-screen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T14:54:31Z</news:publication_date>
+      <news:title>Apple Planning &amp;#039;HomeView Max&amp;#039; With 9-Inch, 360-Degree Screen</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/homeview_home_screen_feature-1.jpg</image:loc>
+      <image:title>Apple Planning &amp;#039;HomeView Max&amp;#039; With 9-Inch, 360-Degree Screen</image:title>
     </image:image>
   </url>
   <url>
@@ -2010,81 +2055,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/04/nothing-ear-black-5.jpg</image:loc>
       <image:title>Price drop reduces the Nothing Ear to $69, a 37% discount off RRP</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-macrumors-show-was-homeview-worth-the-wait</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T16:13:06Z</news:publication_date>
-      <news:title>The MacRumors Show: Was HomeView Worth the Wait?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
-      <image:title>The MacRumors Show: Was HomeView Worth the Wait?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iphone-duo-orders-are-delayed-into-2027-here-are-the-android-foldables-you-should-try-instead</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T16:10:00Z</news:publication_date>
-      <news:title>iPhone Duo orders are delayed into 2027; here are the Android foldables you should try instead</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/09/iphone-duo-10.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>iPhone Duo orders are delayed into 2027; here are the Android foldables you should try instead</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/nest8217s-halloween-doorbell-chimes-are-live-now-through-november-1</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T16:10:00Z</news:publication_date>
-      <news:title>Nest&amp;#8217;s Halloween doorbell chimes are live now through November 1</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2025/10/nest-doorbell-wired-2k-3.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Nest&amp;#8217;s Halloween doorbell chimes are live now through November 1</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-new-apple-tv-4k-just-got-its-first-very-small-discount</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T16:02:22Z</news:publication_date>
-      <news:title>The new Apple TV 4K just got its first (very small) discount</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VergeDealsAppleTV4K.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>The new Apple TV 4K just got its first (very small) discount</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/deal-the-top-spec-pixel-watch-3-is-now-50-off</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T16:00:12Z</news:publication_date>
-      <news:title>Deal: The top-spec Pixel Watch 3 is now 50% off</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/08/google-pixel-watch-3-face-renn-2.jpg</image:loc>
-      <image:title>Deal: The top-spec Pixel Watch 3 is now 50% off</image:title>
     </image:image>
   </url>
 </urlset>
