@@ -3,6 +3,81 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/your-smart-tv-has-one-big-problem-its-tracking-what-you-watch</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T13:30:00Z</news:publication_date>
+      <news:title>Your smart TV has one big problem: It&apos;s tracking what you watch</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/your-smart-tv-has-one-big-problem-its-tracking-what-you-watch/l-intro-1791909131.jpg</image:loc>
+      <image:title>Your smart TV has one big problem: It&apos;s tracking what you watch</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/trump-says-google-kisses-his-ass</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T13:25:01Z</news:publication_date>
+      <news:title>Trump says Google kisses his ass</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK175_DONALD_TRUMP_CVIRGINIA_C.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Trump says Google kisses his ass</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/how-to-use-your-windows-pc-to-make-and-receive-phone-calls</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T13:15:00Z</news:publication_date>
+      <news:title>How to use your Windows PC to make and receive phone calls</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/how-to-use-your-windows-pc-to-make-and-receive-phone-calls/l-intro-1791904099.jpg</image:loc>
+      <image:title>How to use your Windows PC to make and receive phone calls</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/whatever-you-do-don8217t-buy-a-fitbit-edge-on-day-one</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T13:00:29Z</news:publication_date>
+      <news:title>Whatever you do, don&amp;#8217;t buy a Fitbit Edge on day one</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/fitbit-edge-fabric-metal-bands-official.jpg</image:loc>
+      <image:title>Whatever you do, don&amp;#8217;t buy a Fitbit Edge on day one</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-biggest-reason-not-to-buy-a-googlebook-is-all-about-timing</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T13:00:00Z</news:publication_date>
+      <news:title>The biggest reason not to buy a Googlebook is all about timing</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/XPS-Googlebook-Homescreen-3.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>The biggest reason not to buy a Googlebook is all about timing</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/the-best-gadget-i-bought-this-year-is-a-milk-frother</loc>
     <news:news>
       <news:publication>
@@ -2205,141 +2280,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/google-one-app-benefits-page-hero-scaled.jpg</image:loc>
       <image:title>Google AI Pro trials are misleading, and subscribers are finding out the hard way</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iphone-duo-resold-for-365000-on-ebay-after-selling-out</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T13:50:12Z</news:publication_date>
-      <news:title>iPhone Duo Resold for &amp;#36;5,000 on eBay After Selling Out</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/iPhone-Duo-on-eBay.jpg</image:loc>
-      <image:title>iPhone Duo Resold for &amp;#36;5,000 on eBay After Selling Out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/vivo-x500-pro-and-x500-pro-max-european-prices-leak</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T13:43:02Z</news:publication_date>
-      <news:title>vivo X500 Pro and X500 Pro Max European prices leak</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
-      <image:title>vivo X500 Pro and X500 Pro Max European prices leak</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/developers-question-scope-of-potential-apple-antitrust-settlement</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T13:41:29Z</news:publication_date>
-      <news:title>Developers Question Scope of Potential Apple Antitrust Settlement</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2024/03/Apple-vs-DOJ-Feature.jpg</image:loc>
-      <image:title>Developers Question Scope of Potential Apple Antitrust Settlement</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/this-stretchy-magsafe-storage-pouch-gives-your-phone-a-sizable-trunk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T13:33:21Z</news:publication_date>
-      <news:title>This stretchy MagSafe storage pouch gives your phone a sizable trunk</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/pouch.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>This stretchy MagSafe storage pouch gives your phone a sizable trunk</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-original-halo-has-been-ported-to-everything-from-android-to-the-n64</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T13:33:11Z</news:publication_date>
-      <news:title>The original Halo has been ported to everything from Android to the N64 (?!)</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Halo-port-on-Android-handheld-scaled.jpg</image:loc>
-      <image:title>The original Halo has been ported to everything from Android to the N64 (?!)</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/massive-discounts-hit-2026-macbook-pro-with-up-to-36800-off</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T13:30:00Z</news:publication_date>
-      <news:title>Massive Discounts Hit 2026 MacBook Pro With Up to &amp;#36;800 Off</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/macbook-pro-black.jpeg</image:loc>
-      <image:title>Massive Discounts Hit 2026 MacBook Pro With Up to &amp;#36;800 Off</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iphone-duo-is-sold-out-for-christmas-as-shipping-estimates-slip-to-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T13:11:43Z</news:publication_date>
-      <news:title>iPhone Duo is Sold Out for Christmas as Shipping Estimates Slip to 2027</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/09/iphone-duo-closed-1.jpg</image:loc>
-      <image:title>iPhone Duo is Sold Out for Christmas as Shipping Estimates Slip to 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/youtube8217s-new-search-feature-takes-a-page-from-google-search-and-that8217s-bad-news-for-creators</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T13:11:41Z</news:publication_date>
-      <news:title>YouTube&amp;#8217;s new search feature takes a page from Google Search, and that&amp;#8217;s bad news for creators</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/03/youtube-logo-google-pixel-10a-3-scaled.jpg</image:loc>
-      <image:title>YouTube&amp;#8217;s new search feature takes a page from Google Search, and that&amp;#8217;s bad news for creators</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iphone-duo-orders-are-already-delayed-into-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T13:10:11Z</news:publication_date>
-      <news:title>iPhone Duo orders are already delayed into 2027</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-event-september-2026-452-10-57-30.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>iPhone Duo orders are already delayed into 2027</image:title>
     </image:image>
   </url>
 </urlset>
