@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/5-android-phones-you-should-buy-instead-of-the-samsung-galaxy-a16</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T09:30:37Z</news:publication_date>
+      <news:title>5 Android phones you should buy instead of the Samsung Galaxy A16</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/02/Samsung-Galaxy-A16-5G-lying-on-table.jpg</image:loc>
+      <image:title>5 Android phones you should buy instead of the Samsung Galaxy A16</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/pixel-11-pro-xl-vs-galaxy-s27-ultra-why-you-shouldn8217t-buy-google8217s-flagship-right-now</loc>
     <news:news>
       <news:publication>
@@ -2610,81 +2625,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS534_AI_DOOMSDAY_B.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Time is a-changin’: say goodbye to the leap second</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iphone-18-pro-vs-iphone-duo-buyer039s-guide-which-should-you-choose</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T09:48:00Z</news:publication_date>
-      <news:title>iPhone 18 Pro vs. iPhone Duo Buyer&amp;#039;s Guide: Which Should You Choose?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
-      <image:title>iPhone 18 Pro vs. iPhone Duo Buyer&amp;#039;s Guide: Which Should You Choose?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apples-2000-iphone-duo-goes-on-pre-order-today-at-8am-et</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T09:36:05Z</news:publication_date>
-      <news:title>Apple&apos;s $2,000 iPhone Duo goes on pre-order today at 8AM ET</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/apples-2000-iphone-duo-goes-on-pre-order-today-at-8am-et/l-intro-1792143306.jpg</image:loc>
-      <image:title>Apple&apos;s $2,000 iPhone Duo goes on pre-order today at 8AM ET</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-iphone-duo-pre-orders-begin-today</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T09:33:02Z</news:publication_date>
-      <news:title>Apple iPhone Duo pre-orders begin today</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
-      <image:title>Apple iPhone Duo pre-orders begin today</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-store-down-ahead-of-iphone-duo-pre-orders</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T09:30:57Z</news:publication_date>
-      <news:title>Apple Store Down Ahead of iPhone Duo Pre-Orders</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/iphone-duo-pre-orders-store-down.jpg</image:loc>
-      <image:title>Apple Store Down Ahead of iPhone Duo Pre-Orders</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/5-things-googles-rumored-home-display-should-steal-from-the-apple-homeview</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T09:30:02Z</news:publication_date>
-      <news:title>5 things Google’s rumored Home Display should steal from the Apple HomeView</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Apple-HomeView-lineup-261013.jpg</image:loc>
-      <image:title>5 things Google’s rumored Home Display should steal from the Apple HomeView</image:title>
     </image:image>
   </url>
 </urlset>
