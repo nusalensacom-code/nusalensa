@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/spotify-is-cracking-down-on-family-plan-sharing-but-you-can-still-bypass-the-checks</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T12:19:53Z</news:publication_date>
+      <news:title>Spotify is cracking down on Family plan sharing, but you can still bypass the checks</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/01/spotify-prompted-playlists-music-selection.jpg</image:loc>
+      <image:title>Spotify is cracking down on Family plan sharing, but you can still bypass the checks</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/whats-the-point-of-the-25g-ethernet-port-on-your-router</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T12:15:00Z</news:publication_date>
+      <news:title>What&apos;s the point of the 2.5G Ethernet port on your router?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/whats-the-point-of-the-2-5g-ethernet-port-on-your-router/l-intro-1792014156.jpg</image:loc>
+      <image:title>What&apos;s the point of the 2.5G Ethernet port on your router?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/ayn-odin-3-portal-specs-reveal-elite-horsepower-gigantic-battery-for-this-handheld</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T11:41:16Z</news:publication_date>
+      <news:title>AYN Odin 3 Portal specs reveal Elite horsepower, gigantic battery for this handheld</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/AYN-Odin-3-Portal-official-teaser-screenshot.jpg</image:loc>
+      <image:title>AYN Odin 3 Portal specs reveal Elite horsepower, gigantic battery for this handheld</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/even-realities-g2-review-smart-glasses-stupid-controls</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T11:30:00Z</news:publication_date>
+      <news:title>Even Realities G2 review: Smart glasses, stupid controls</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/l-intro-1792155926.jpg</image:loc>
+      <image:title>Even Realities G2 review: Smart glasses, stupid controls</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/samsung-may-launch-galaxy-s27-series-earlier-than-expected-but-memory-questions-still-linger</loc>
     <news:news>
       <news:publication>
@@ -30,6 +90,21 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/07/google-gboard-emoji-picker-new-july.jpg</image:loc>
       <image:title>Android&amp;#8217;s brand-new 3D emoji are rolling out more widely</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/stratospheric-airship-flew-from-us-to-japan-to-test-sky-cell-tower-concept</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T11:05:49Z</news:publication_date>
+      <news:title>Stratospheric airship flew from US to Japan to test sky cell tower concept</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/Sceye-ST1-Launch-from-outside-1152x648.jpg</image:loc>
+      <image:title>Stratospheric airship flew from US to Japan to test sky cell tower concept</image:title>
     </image:image>
   </url>
   <url>
@@ -1815,66 +1890,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/09/samsung-one-ui-9-reaches-us/gsmarena_000.jpg</image:loc>
       <image:title>Insider reveals Samsung&apos;s plans to completely overhaul One UI 10</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/honor-win2-runs-antutu-too-its-cooling-fan-helps-it-achieve-a-top-score</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T12:02:02Z</news:publication_date>
-      <news:title>Honor Win2 runs AnTuTu too, its cooling fan helps it achieve a top score</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/honor-win2-antutu/gsmarena_000.jpg</image:loc>
-      <image:title>Honor Win2 runs AnTuTu too, its cooling fan helps it achieve a top score</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/amazon-just-did-what-google-couldn8217t-do-in-15-years-make-a-great-everyday-android-tablet</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T12:00:28Z</news:publication_date>
-      <news:title>Amazon just did what Google couldn&amp;#8217;t do in 15 years: Make a great everyday Android tablet</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Amazon-Alexa-tablets-12-11-8.jpeg</image:loc>
-      <image:title>Amazon just did what Google couldn&amp;#8217;t do in 15 years: Make a great everyday Android tablet</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/its-a-dream-week-for-tech-docs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T12:00:00Z</news:publication_date>
-      <news:title>It’s a dream week for tech docs</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Installer-148.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>It’s a dream week for tech docs</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/apples-homeview-is-just-the-latest-threat-to-online-recipe-writers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T12:00:00Z</news:publication_date>
-      <news:title>Apple’s HomeView is just the latest threat to online recipe writers</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-Cooking_73277b.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Apple’s HomeView is just the latest threat to online recipe writers</image:title>
     </image:image>
   </url>
 </urlset>
