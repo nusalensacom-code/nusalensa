@@ -5,8 +5,26 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 18 Oct 2026 23:47:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 00:21:46 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What does the orange dot on your Samsung Galaxy Watch mean?</title>
+      <link>https://nusalensa.com/phones/what-does-the-orange-dot-on-your-samsung-galaxy-watch-mean</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/what-does-the-orange-dot-on-your-samsung-galaxy-watch-mean</guid>
+      <description>You might sometimes see an orange dot on the left side of your Galaxy Watch&apos;s screen. Here&apos;s what is tells you.</description>
+      <category>Smartphones</category>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://www.engadget.com/img/gallery/what-does-the-orange-dot-on-your-samsung-galaxy-watch-mean/l-intro-1792007262.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Why you should never point a laser pointer at a security camera</title>
+      <link>https://nusalensa.com/technology/why-you-should-never-point-a-laser-pointer-at-a-security-camera</link>
+      <guid isPermaLink="true">https://nusalensa.com/technology/why-you-should-never-point-a-laser-pointer-at-a-security-camera</guid>
+      <description>Laser pointers are known to damage security cameras, but do they really? Here&apos;s what damage can actually be done.</description>
+      <category>Technology</category>
+      <pubDate>Sun, 18 Oct 2026 23:45:00 GMT</pubDate>
+      <enclosure url="https://www.engadget.com/img/gallery/why-you-should-never-point-a-laser-pointer-at-a-security-camera/l-intro-1792005987.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>How to use Google&apos;s SynthID AI detection website</title>
       <link>https://nusalensa.com/technology/how-to-use-googles-synthid-ai-detection-website</link>
@@ -258,24 +276,6 @@
       <category>Smartphones</category>
       <pubDate>Sun, 18 Oct 2026 14:37:02 GMT</pubDate>
       <enclosure url="https://fdn.gsmarena.com/imgroot/news/26/10/apple-iphone-18-pro-vs-iphone-17-pro/gsmarena_000.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Mark Gurman: Apple Made &amp;#039;Major Mistake&amp;#039; With iPhone Duo Pre-Orders</title>
-      <link>https://nusalensa.com/phones/mark-gurman-apple-made-039major-mistake039-with-iphone-duo-pre-orders</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/mark-gurman-apple-made-039major-mistake039-with-iphone-duo-pre-orders</guid>
-      <description>Despite knowing that the iPhone Duo would face &quot;severe supply constraints&quot; due to manufacturing challenges, Apple chose to begin iPhone Duo pre-orders on Friday</description>
-      <category>Smartphones</category>
-      <pubDate>Sun, 18 Oct 2026 14:33:47 GMT</pubDate>
-      <enclosure url="https://images.macrumors.com/article-new/2026/10/iphone-duo-feature.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>The reason your Amazon Alexa devices are always listening</title>
-      <link>https://nusalensa.com/technology/the-reason-your-amazon-alexa-devices-are-always-listening</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/the-reason-your-amazon-alexa-devices-are-always-listening</guid>
-      <description>Alexa devices have microphones that are always listening, but what does Amazon do with that data? It&apos;s up to you.</description>
-      <category>Technology</category>
-      <pubDate>Sun, 18 Oct 2026 14:15:00 GMT</pubDate>
-      <enclosure url="https://www.engadget.com/img/gallery/the-reason-your-amazon-alexa-devices-are-always-listening/l-intro-1791919400.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
