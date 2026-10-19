@@ -3,6 +3,156 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/google-play-store-bug-is-causing-collections-confusion</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T15:55:29Z</news:publication_date>
+      <news:title>Google Play Store bug is causing Collections confusion</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/07/Google-Play-Collections-Widget.jpg</image:loc>
+      <image:title>Google Play Store bug is causing Collections confusion</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/why-your-usb-device-keeps-disconnecting-and-how-to-fix-it</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T15:45:00Z</news:publication_date>
+      <news:title>Why your USB device keeps disconnecting (and how to fix it)</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/why-your-usb-device-keeps-disconnecting-and-how-to-fix-it/l-intro-1792082689.jpg</image:loc>
+      <image:title>Why your USB device keeps disconnecting (and how to fix it)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/deals-galaxy-z-fold-8-up-to-570-off-galaxy-tab-s12-free-200-gift-card-sony-1000xm6-buds-more</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T15:41:53Z</news:publication_date>
+      <news:title>Deals: Galaxy Z Fold 8 up to $570 off, Galaxy Tab S12 + FREE $200 gift card, Sony 1000XM6 buds, more</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/9to5Google-Oct-19.webp?w=1600</image:loc>
+      <image:title>Deals: Galaxy Z Fold 8 up to $570 off, Galaxy Tab S12 + FREE $200 gift card, Sony 1000XM6 buds, more</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-acer-5-port-4k-hdmi-switch-is-back-at-its-lowest-price</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T15:39:58Z</news:publication_date>
+      <news:title>The Acer 5-port 4K HDMI switch is back at its lowest price</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Acer-5-in-1-Out-HDMI-Switch-Press-Image.jpg</image:loc>
+      <image:title>The Acer 5-port 4K HDMI switch is back at its lowest price</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/dizzying-lineup-of-galaxy-z-fold-9-devices-leaks-including-the-galaxy-z-8216slide8217</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T15:32:34Z</news:publication_date>
+      <news:title>Dizzying lineup of Galaxy Z Fold 9 devices leaks, including the Galaxy Z &amp;#8216;Slide&amp;#8217;</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-review-44.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Dizzying lineup of Galaxy Z Fold 9 devices leaks, including the Galaxy Z &amp;#8216;Slide&amp;#8217;</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/tp-link-moves-to-assemble-routers-in-the-us-following-an-import-ban</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T15:31:22Z</news:publication_date>
+      <news:title>TP-Link moves to assemble routers in the US following an import ban</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/tp-link-moves-to-assemble-routers-in-the-us-following-an-import-ban/l-intro-1792423831.jpg</image:loc>
+      <image:title>TP-Link moves to assemble routers in the US following an import ban</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/india-smartphone-shipments-drop-26-in-q3-to-the-lowest-level-since-2016</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T15:31:02Z</news:publication_date>
+      <news:title>India smartphone shipments drop 26% in Q3 to the lowest level since 2016</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/omdia-indian-smartphone-market-q3/gsmarena_000.jpg</image:loc>
+      <image:title>India smartphone shipments drop 26% in Q3 to the lowest level since 2016</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/samsung-has-good-and-bad-news-about-one-ui-98217s-disappearing-status-bar-icons</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T15:27:27Z</news:publication_date>
+      <news:title>Samsung has good and bad news about One UI 9&amp;#8217;s disappearing status bar icons</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Now-Brief-visible-on-Samsung-Galaxy-S26-Ultras-Home-Screen.jpg</image:loc>
+      <image:title>Samsung has good and bad news about One UI 9&amp;#8217;s disappearing status bar icons</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/boses-2026-lifestyle-ultra-soundbar-is-254-off-on-amazon</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T15:24:46Z</news:publication_date>
+      <news:title>Bose’s 2026 Lifestyle Ultra Soundbar is $254 off on Amazon</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Bose-New-Lifestyle-Ultra-Soundbar-Press-Image.jpg</image:loc>
+      <image:title>Bose’s 2026 Lifestyle Ultra Soundbar is $254 off on Amazon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/dont-throw-away-your-old-usb-charging-cables-repurpose-them-instead</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T15:15:00Z</news:publication_date>
+      <news:title>Don&apos;t throw away your old USB charging cables — Repurpose them instead</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/dont-throw-away-your-old-usb-charging-cables-repurpose-them-instead/l-intro-1792078796.jpg</image:loc>
+      <image:title>Don&apos;t throw away your old USB charging cables — Repurpose them instead</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/pixel-10-pro-xl-deal-knocks-350-off-googles-big-flagship</loc>
     <news:news>
       <news:publication>
@@ -75,6 +225,21 @@
     <image:image>
       <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2018/06/getty-disney-1152x648.jpg</image:loc>
       <image:title>Disney found a way to buy Character.AI without buying its lawsuits</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/one-of-the-rarest-gamecube-consoles-sells-for-thousands-of-dollars-today</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T14:45:00Z</news:publication_date>
+      <news:title>One of the rarest GameCube consoles sells for thousands of dollars today</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/one-of-the-rarest-gamecube-consoles-sells-for-thousands-of-dollars-today/l-intro-1792078701.jpg</image:loc>
+      <image:title>One of the rarest GameCube consoles sells for thousands of dollars today</image:title>
     </image:image>
   </url>
   <url>
@@ -2130,66 +2295,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/anbernics-rg-dds-is-almost-double-the-price-of-the-original-nintendo-3ds/l-intro-1792253250.jpg</image:loc>
       <image:title>Anbernic&apos;s RG DDS is almost double the price of the original Nintendo 3DS</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/this-samsung-galaxy-feature-can-protect-you-from-untrustworthy-apps</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T16:00:00Z</news:publication_date>
-      <news:title>This Samsung Galaxy feature can protect you from untrustworthy apps</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/this-samsung-galaxy-feature-can-protect-you-from-untrustworthy-apps/l-intro-1791578177.jpg</image:loc>
-      <image:title>This Samsung Galaxy feature can protect you from untrustworthy apps</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T15:30:00Z</news:publication_date>
-      <news:title>Ember’s new temperature-controlled mug makes my nightly tea ritual even better</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
-      <image:title>Ember’s new temperature-controlled mug makes my nightly tea ritual even better</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/why-are-some-locations-blurred-out-on-google-maps</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T15:30:00Z</news:publication_date>
-      <news:title>Why are some locations blurred out on Google Maps?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/why-are-some-locations-blurred-out-on-google-maps/l-intro-1791496081.jpg</image:loc>
-      <image:title>Why are some locations blurred out on Google Maps?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/honor-win2-teased-once-again-with-worlds-first-2k-185hz-display</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T15:12:02Z</news:publication_date>
-      <news:title>Honor Win2 teased once again with world&apos;s first 2K 185Hz display</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/honor-win2-display-teased/gsmarena_000.jpg</image:loc>
-      <image:title>Honor Win2 teased once again with world&apos;s first 2K 185Hz display</image:title>
     </image:image>
   </url>
 </urlset>
