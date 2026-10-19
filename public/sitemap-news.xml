@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/robot-vacuums-have-a-major-privacy-problem-you-should-be-aware-of</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T23:00:00Z</news:publication_date>
+      <news:title>Robot vacuums have a major privacy problem you should be aware of</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/robot-vacuums-have-a-major-privacy-problem-you-should-be-aware-of/l-intro-1792093298.jpg</image:loc>
+      <image:title>Robot vacuums have a major privacy problem you should be aware of</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/some-google-home-speakers-downloading-massive-amounts-of-data-in-the-background</loc>
     <news:news>
       <news:publication>
@@ -3015,21 +3030,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/weekly-deals-16/gsmarena_us.jpg</image:loc>
       <image:title>Deals: latest Galaxy foldables and Galaxy S26 series are on sale</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/why-your-wi-fi-speeds-can-drop-in-the-evening-and-what-to-do-about-it</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T23:00:00Z</news:publication_date>
-      <news:title>Why your Wi-Fi speeds can drop in the evening, and what to do about it</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/why-your-wi-fi-speeds-can-drop-in-the-evening-and-what-to-do-about-it/l-intro-1791834714.jpg</image:loc>
-      <image:title>Why your Wi-Fi speeds can drop in the evening, and what to do about it</image:title>
     </image:image>
   </url>
 </urlset>

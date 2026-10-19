@@ -5,8 +5,17 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 19 Oct 2026 22:56:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 23:22:07 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Robot vacuums have a major privacy problem you should be aware of</title>
+      <link>https://nusalensa.com/technology/robot-vacuums-have-a-major-privacy-problem-you-should-be-aware-of</link>
+      <guid isPermaLink="true">https://nusalensa.com/technology/robot-vacuums-have-a-major-privacy-problem-you-should-be-aware-of</guid>
+      <description>Your robot vacuum&apos;s microphone and camera are useful for more efficient cleaning, but it&apos;s vital to know how that information is stored and shared.</description>
+      <category>Technology</category>
+      <pubDate>Mon, 19 Oct 2026 23:00:00 GMT</pubDate>
+      <enclosure url="https://www.engadget.com/img/gallery/robot-vacuums-have-a-major-privacy-problem-you-should-be-aware-of/l-intro-1792093298.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Some Google Home Speakers downloading massive amounts of data in the background</title>
       <link>https://nusalensa.com/phones/some-google-home-speakers-downloading-massive-amounts-of-data-in-the-background</link>
@@ -267,15 +276,6 @@
       <category>Tablets</category>
       <pubDate>Mon, 19 Oct 2026 18:57:35 GMT</pubDate>
       <enclosure url="https://9to5google.com/wp-content/uploads/sites/4/2026/10/Google-Play-collage-cbf68c.webp?w=1600" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Bose Lifestyle Ultra Subwoofer gets a huge 33% price cut</title>
-      <link>https://nusalensa.com/phones/bose-lifestyle-ultra-subwoofer-gets-a-huge-33-price-cut</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/bose-lifestyle-ultra-subwoofer-gets-a-huge-33-price-cut</guid>
-      <description>Bose’s new Lifestyle Ultra Subwoofer hits an all-time low of $599 on Amazon, down from its $899 RRP.</description>
-      <category>Smartphones</category>
-      <pubDate>Mon, 19 Oct 2026 18:53:13 GMT</pubDate>
-      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/10/Bose-New-Lifestyle-Ultra-Subwoofer-Press-Image.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
