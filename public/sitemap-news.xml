@@ -3,6 +3,96 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/apple-starts-moving-up-iphone-duo-delivery-dates</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T19:31:47Z</news:publication_date>
+      <news:title>Apple Starts Moving Up iPhone Duo Delivery Dates</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/Apple-iPhone-Duo-Early-Feature-Rejected.jpg</image:loc>
+      <image:title>Apple Starts Moving Up iPhone Duo Delivery Dates</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T19:27:24Z</news:publication_date>
+      <news:title>Startup taps underwater volcano as energy source in &quot;proof point&quot; test</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/Endurance-Energy-rockhopper-drill-1152x648.jpeg</image:loc>
+      <image:title>Startup taps underwater volcano as energy source in &quot;proof point&quot; test</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/sony-is-offering-nfl-fans-a-chance-to-win-custom-team-edition-xm6-headphones</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T19:21:03Z</news:publication_date>
+      <news:title>Sony is offering NFL fans a chance to win custom team edition XM6 headphones</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Sony-NFL-Custom-Headphones_Family-Shot.jpg</image:loc>
+      <image:title>Sony is offering NFL fans a chance to win custom team edition XM6 headphones</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/motorolas-wide-razr-flex-hits-geekbench-with-a-surprising-chipset</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T19:21:02Z</news:publication_date>
+      <news:title>Motorola&apos;s wide Razr Flex hits Geekbench with a surprising chipset</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/motorola-razr-flex-geekbench/gsmarena_000.jpg</image:loc>
+      <image:title>Motorola&apos;s wide Razr Flex hits Geekbench with a surprising chipset</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/save-70-on-the-redtiger-vp40-dash-cam-with-4-channel-recording</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T19:20:14Z</news:publication_date>
+      <news:title>Save $70 on the REDTIGER VP40 dash cam with 4-channel recording</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/REDTIGER-VP40-Dash-Cam-Press-Image.jpg</image:loc>
+      <image:title>Save $70 on the REDTIGER VP40 dash cam with 4-channel recording</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/amazon-cuts-85-off-the-tcl-60-xe-nxtpaper-5g-but-not-for-long</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T19:10:48Z</news:publication_date>
+      <news:title>Amazon cuts $85 off the TCL 60 XE NXTPAPER 5G, but not for long</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/01/TCL-60-XE-NXTPAPER-5G-In-hand-with-full-color-scaled.jpg</image:loc>
+      <image:title>Amazon cuts $85 off the TCL 60 XE NXTPAPER 5G, but not for long</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/tvos-272-rc-lays-groundwork-for-homepod-surround-sound</loc>
     <news:news>
       <news:publication>
@@ -48,6 +138,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/technology/sonys-best-noise-canceling-earbuds-are-nearly-100-off-today-only</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T18:52:41Z</news:publication_date>
+      <news:title>Sony’s best noise-canceling earbuds are nearly $100 off today only</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Sony-WF-1000XM6.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Sony’s best noise-canceling earbuds are nearly $100 off today only</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/garmin8217s-new-feature-ruins-one-of-the-best-reasons-to-own-its-smartwatches</loc>
     <news:news>
       <news:publication>
@@ -60,6 +165,21 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/10/Garmin-Fenix-8-AMOLED-voice-controls.jpg</image:loc>
       <image:title>Garmin&amp;#8217;s new feature ruins one of the best reasons to own its smartwatches</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/reactos-reaches-major-milestone-with-ntfs-install-support</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T18:30:56Z</news:publication_date>
+      <news:title>ReactOS reaches major milestone with NTFS install support</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/ReactOS_NTFS_Drive_Properties.jpg</image:loc>
+      <image:title>ReactOS reaches major milestone with NTFS install support</image:title>
     </image:image>
   </url>
   <url>
@@ -345,6 +465,21 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/homeland-security-bans-deepseek-use-in-federal-civilian-agencies/l-intro-1792429083.jpg</image:loc>
       <image:title>Homeland Security bans DeepSeek use in federal civilian agencies</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T16:59:22Z</news:publication_date>
+      <news:title>AI game clones are making indie developers afraid to show their work</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/ss_c6067e139d8dd2cbf79c41a9c4e41e3bb088c95a.1920x1080-1152x648.jpg</image:loc>
+      <image:title>AI game clones are making indie developers afraid to show their work</image:title>
     </image:image>
   </url>
   <url>
@@ -2685,36 +2820,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/09/qualcomm-directx-12-rumor/gsmarena_000.jpg</image:loc>
       <image:title>Qualcomm denies rumors about Snapdragon 8 Elite Extreme Gen 6 overheating</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/tiktok-bans-musk-documentary-account</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T19:32:23Z</news:publication_date>
-      <news:title>TikTok bans Musk documentary account</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194418432.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>TikTok bans Musk documentary account</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/leaked-gameplay-purports-to-show-a-canceled-assassins-creed-game-set-in-ancient-china</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T19:22:17Z</news:publication_date>
-      <news:title>Leaked gameplay purports to show a canceled Assassin&apos;s Creed game set in ancient China</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/leaked-gameplay-purports-to-show-a-canceled-assassins-creed-game-set-in-ancient-china/l-intro-1792264605.jpg</image:loc>
-      <image:title>Leaked gameplay purports to show a canceled Assassin&apos;s Creed game set in ancient China</image:title>
     </image:image>
   </url>
 </urlset>
