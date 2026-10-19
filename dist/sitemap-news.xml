@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/this-is-the-upcoming-moto-g47-power</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T22:11:02Z</news:publication_date>
+      <news:title>This is the upcoming Moto G47 Power</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/moto-g47-power-renders/gsmarena_000.jpg</image:loc>
+      <image:title>This is the upcoming Moto G47 Power</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/what-does-mlo-mean-on-your-router-and-should-you-enable-it</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T22:00:00Z</news:publication_date>
+      <news:title>What does MLO mean on your router and should you enable it?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/what-does-mlo-mean-on-your-router-and-should-you-enable-it/l-intro-1792090274.jpg</image:loc>
+      <image:title>What does MLO mean on your router and should you enable it?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/the-fossil-fuel-comeback-is-here</loc>
     <news:news>
       <news:publication>
@@ -2940,21 +2970,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/why-its-important-to-monitor-your-pcs-background-processes/l-intro-1791830732.jpg</image:loc>
       <image:title>Why it&apos;s important to monitor your PC&apos;s background processes</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/dont-throw-away-your-old-playstation-do-this-instead</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T22:00:00Z</news:publication_date>
-      <news:title>Don&apos;t throw away your old PlayStation — Do this instead</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/dont-throw-away-your-old-playstation-do-this-instead/l-intro-1791829152.jpg</image:loc>
-      <image:title>Don&apos;t throw away your old PlayStation — Do this instead</image:title>
     </image:image>
   </url>
 </urlset>

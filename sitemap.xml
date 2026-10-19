@@ -468,6 +468,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/this-is-the-upcoming-moto-g47-power</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/moto-g47-power-renders/gsmarena_000.jpg</image:loc>
+      <image:title>This is the upcoming Moto G47 Power</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/what-does-mlo-mean-on-your-router-and-should-you-enable-it</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/what-does-mlo-mean-on-your-router-and-should-you-enable-it/l-intro-1792090274.jpg</image:loc>
+      <image:title>What does MLO mean on your router and should you enable it?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/the-fossil-fuel-comeback-is-here</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>daily</changefreq>
