@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/i-own-a-pixel-watch-but-these-5-features-make-me-want-the-fitbit-edge-instead</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T10:00:25Z</news:publication_date>
+      <news:title>I own a Pixel Watch, but these 5 features make me want the Fitbit Edge instead</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/fitbit-edge-fabric-metal-bands-official.jpg</image:loc>
+      <image:title>I own a Pixel Watch, but these 5 features make me want the Fitbit Edge instead</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/android-auto-could-soon-make-commute-part-of-your-workday-whether-you-like-it-or-not</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T09:42:30Z</news:publication_date>
+      <news:title>Android Auto could soon make commute part of your workday, whether you like it or not</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/MapQuest-on-Android-Auto_2.jpg</image:loc>
+      <image:title>Android Auto could soon make commute part of your workday, whether you like it or not</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/here8217s-how-you8217ll-enable-enhanced-protection-in-google-messages-when-it-rolls-out</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T09:35:48Z</news:publication_date>
+      <news:title>Here&amp;#8217;s how you&amp;#8217;ll enable Enhanced Protection in Google Messages when it rolls out</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/google-messages-logo-pixel-11-pro-close-scaled.jpg</image:loc>
+      <image:title>Here&amp;#8217;s how you&amp;#8217;ll enable Enhanced Protection in Google Messages when it rolls out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/6-things-i-wish-i-knew-before-buying-my-first-google-tv-projector</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T09:30:12Z</news:publication_date>
+      <news:title>6 things I wish I knew before buying my first Google TV projector</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/xgimi-horizon-20-max-8-1.jpg</image:loc>
+      <image:title>6 things I wish I knew before buying my first Google TV projector</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/google-gemini-4-agents-just-beat-minecraft-with-no-human-intervention</loc>
     <news:news>
       <news:publication>
@@ -1785,36 +1845,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/02/Google-Pixel-10a-Berry-on-Chess-Board.jpg</image:loc>
       <image:title>Don&amp;#8217;t buy a budget Android phone in 2026 — 4 reasons to get an old flagship instead</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/5-reasons-why-i8217ll-always-buy-google-pixel-phones-instead-of-samsung-galaxy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T10:00:53Z</news:publication_date>
-      <news:title>5 reasons why I&amp;#8217;ll always buy Google Pixel phones instead of Samsung Galaxy</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/Pixel-11-vs-Galaxy-S26-2-scaled.jpg</image:loc>
-      <image:title>5 reasons why I&amp;#8217;ll always buy Google Pixel phones instead of Samsung Galaxy</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/i-never-thought-id-ditch-samsung-notes-but-this-google-keep-feature-changed-my-mind</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T09:30:00Z</news:publication_date>
-      <news:title>I never thought I’d ditch Samsung Notes, but this Google Keep feature changed my mind</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Samsung-phone-in-hand-showing-Google-Keep-app-scaled.jpg</image:loc>
-      <image:title>I never thought I’d ditch Samsung Notes, but this Google Keep feature changed my mind</image:title>
     </image:image>
   </url>
 </urlset>
