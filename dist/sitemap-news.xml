@@ -3,6 +3,96 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/some-google-home-speakers-downloading-massive-amounts-of-data-in-the-background</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T22:54:46Z</news:publication_date>
+      <news:title>Some Google Home Speakers downloading massive amounts of data in the background</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/06/Google-Home-Speaker-6.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Some Google Home Speakers downloading massive amounts of data in the background</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/meta-tweaks-its-new-terms-of-service-after-backlash-against-scraping</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T22:47:00Z</news:publication_date>
+      <news:title>Meta tweaks its new terms of service after backlash against scraping</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/meta-tweaks-its-new-terms-of-service-after-backlash-against-scraping/l-intro-1792449693.jpg</image:loc>
+      <image:title>Meta tweaks its new terms of service after backlash against scraping</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/whats-new-in-android8217s-october-2026-google-system-updates-u</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T22:43:00Z</news:publication_date>
+      <news:title>What’s new in Android&amp;#8217;s October 2026 Google System Updates [U]</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2025/01/google-play-services-3.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>What’s new in Android&amp;#8217;s October 2026 Google System Updates [U]</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-buys-ai-audio-editing-app-samplab</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T22:35:24Z</news:publication_date>
+      <news:title>Apple Buys AI Audio Editing App Samplab</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/samplab.jpg</image:loc>
+      <image:title>Apple Buys AI Audio Editing App Samplab</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/elon-musks-proposed-spacex-stock-giveaway-would-go-into-8216trump-accounts8217</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T22:30:42Z</news:publication_date>
+      <news:title>Elon Musk’s proposed SpaceX stock giveaway would go into &amp;#8216;Trump Accounts&amp;#8217;</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_L.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Elon Musk’s proposed SpaceX stock giveaway would go into &amp;#8216;Trump Accounts&amp;#8217;</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/why-your-expensive-wi-fi-7-router-could-be-delivering-slower-speeds</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T22:30:00Z</news:publication_date>
+      <news:title>Why your expensive Wi-Fi 7 router could be delivering slower speeds</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/why-your-expensive-wi-fi-7-router-could-be-delivering-slower-speeds/l-intro-1792091857.jpg</image:loc>
+      <image:title>Why your expensive Wi-Fi 7 router could be delivering slower speeds</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/this-is-the-upcoming-moto-g47-power</loc>
     <news:news>
       <news:publication>
@@ -2940,36 +3030,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/why-your-wi-fi-speeds-can-drop-in-the-evening-and-what-to-do-about-it/l-intro-1791834714.jpg</image:loc>
       <image:title>Why your Wi-Fi speeds can drop in the evening, and what to do about it</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/how-to-keep-your-smart-home-running-even-if-the-internet-goes-down</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T22:45:00Z</news:publication_date>
-      <news:title>How to keep your smart home running even if the internet goes down</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/how-to-keep-your-smart-home-running-even-if-the-internet-goes-down/l-intro-1791831565.jpg</image:loc>
-      <image:title>How to keep your smart home running even if the internet goes down</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/why-its-important-to-monitor-your-pcs-background-processes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T22:30:00Z</news:publication_date>
-      <news:title>Why it&apos;s important to monitor your PC&apos;s background processes</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/why-its-important-to-monitor-your-pcs-background-processes/l-intro-1791830732.jpg</image:loc>
-      <image:title>Why it&apos;s important to monitor your PC&apos;s background processes</image:title>
     </image:image>
   </url>
 </urlset>
