@@ -3,6 +3,81 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/apple-says-iphone-duo-not-available-on-walk-in-basis-in-two-countries</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T18:10:55Z</news:publication_date>
+      <news:title>Apple Says iPhone Duo Not Available on Walk-In Basis in Two Countries</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/iphone-duo-feature.jpg</image:loc>
+      <image:title>Apple Says iPhone Duo Not Available on Walk-In Basis in Two Countries</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/we-might-finally-know-whats-written-on-that-mysterious-plaque-in-super-mario-64</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T18:10:14Z</news:publication_date>
+      <news:title>We might finally know what&apos;s written on that mysterious plaque in Super Mario 64</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/we-might-finally-know-whats-written-on-that-mysterious-plaque-in-super-mario-64/l-intro-1792433283.jpg</image:loc>
+      <image:title>We might finally know what&apos;s written on that mysterious plaque in Super Mario 64</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/android8217s-fiercest-tablet-competition-heats-up-on-october-28</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T18:07:36Z</news:publication_date>
+      <news:title>Android&amp;#8217;s fiercest tablet competition heats up on October 28</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2021/10/iPad-Mini-6th-gen-angled.jpg</image:loc>
+      <image:title>Android&amp;#8217;s fiercest tablet competition heats up on October 28</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/razers-fastest-huntsman-keyboard-drops-back-to-all-time-low</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T18:01:09Z</news:publication_date>
+      <news:title>Razer’s fastest Huntsman keyboard drops back to all-time low</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Razer-Huntsman-V3-Pro-8KHz-Esports-Gaming-Keyboard-Press-Image.jpg</image:loc>
+      <image:title>Razer’s fastest Huntsman keyboard drops back to all-time low</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/is-paid-antivirus-actually-a-waste-of-money-for-your-pc-in-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T18:00:00Z</news:publication_date>
+      <news:title>Is paid antivirus actually a waste of money for your PC in 2026?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/is-paid-antivirus-actually-a-waste-of-money-for-your-pc-in-2026/l-intro-1792088590.jpg</image:loc>
+      <image:title>Is paid antivirus actually a waste of money for your PC in 2026?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/leaked-galaxy-s27-series-cases-reiterate-new-designs</loc>
     <news:news>
       <news:publication>
@@ -30,6 +105,21 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Godox_A2.jpg</image:loc>
       <image:title>This magnetic accessory brings true flash back to phones</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/you-should-pick-up-this-850-pixel-10-pro-xl-over-its-1300-sequel</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T17:35:00Z</news:publication_date>
+      <news:title>You should pick up this $850 Pixel 10 Pro XL over its $1,300 sequel</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/03/Google-Pixel-10-Pro-XL-moonstone.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>You should pick up this $850 Pixel 10 Pro XL over its $1,300 sequel</image:title>
     </image:image>
   </url>
   <url>
@@ -2550,36 +2640,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/whats-actually-eating-all-the-storage-space-on-your-android-phone/l-intro-1791468108.jpg</image:loc>
       <image:title>What&apos;s actually eating all the storage space on your Android Phone?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iphone-duo-shipping-estimates-have-already-been-pushed-back-to-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T18:12:35Z</news:publication_date>
-      <news:title>iPhone Duo shipping estimates have already been pushed back to 2027</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/iphone-duo-shipping-estimates-have-already-been-pushed-back-to-2027/l-intro-1792260615.jpg</image:loc>
-      <image:title>iPhone Duo shipping estimates have already been pushed back to 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/you-might-be-surprised-by-how-much-the-slate-truck-can-carry</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T18:00:00Z</news:publication_date>
-      <news:title>You might be surprised by how much the Slate truck can carry</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/you-might-be-surprised-by-how-much-the-slate-truck-can-carry/l-intro-1792256579.jpg</image:loc>
-      <image:title>You might be surprised by how much the Slate truck can carry</image:title>
     </image:image>
   </url>
 </urlset>
