@@ -3,6 +3,126 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/tablets/samsungs-galaxy-tab-s10-fe-plus-gets-a-solid-220-discount</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T16:26:48Z</news:publication_date>
+      <news:title>Samsung’s Galaxy Tab S10 FE Plus gets a solid $220 discount</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Samsung-Galaxy-Tab-S10-FE-Plus-Press-Image.jpg</image:loc>
+      <image:title>Samsung’s Galaxy Tab S10 FE Plus gets a solid $220 discount</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/garmin-venu-3s-drops-back-to-its-lowest-price-we8217ve-seen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T16:18:16Z</news:publication_date>
+      <news:title>Garmin Venu 3S drops back to its lowest price we&amp;#8217;ve seen</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2023/09/Garmin-Vivoactive-5-Venu-3S-Activies-Menu-scaled.jpg</image:loc>
+      <image:title>Garmin Venu 3S drops back to its lowest price we&amp;#8217;ve seen</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/fiber-vs-cable-internet-whats-the-difference-between-them</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T16:15:00Z</news:publication_date>
+      <news:title>Fiber vs. cable internet: What&apos;s the difference between them?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/fiber-vs-cable-internet-whats-the-difference-between-them/l-intro-1792085043.jpg</image:loc>
+      <image:title>Fiber vs. cable internet: What&apos;s the difference between them?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/apple-is-set-to-hold-another-product-event-on-october-28</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T16:09:26Z</news:publication_date>
+      <news:title>Apple is set to hold another product event on October 28</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/apple-pro-and-tell-event-october-28-announcement/l-intro-1792426206.jpg</image:loc>
+      <image:title>Apple is set to hold another product event on October 28</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/android-auto-8216work-account8217-support-would-allow-for-easy-switching-in-work-vehicles</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T16:07:32Z</news:publication_date>
+      <news:title>Android Auto &amp;#8216;Work Account&amp;#8217; support would allow for easy switching in work vehicles</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/07/android-auto-google-maps-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Android Auto &amp;#8216;Work Account&amp;#8217; support would allow for easy switching in work vehicles</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/apple-announcing-new-products-next-week-039pro-and-tell039</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T16:05:07Z</news:publication_date>
+      <news:title>Apple Announcing New Products Next Week: &amp;#039;Pro and Tell&amp;#039;</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/apple-pro-tell-logo.jpg</image:loc>
+      <image:title>Apple Announcing New Products Next Week: &amp;#039;Pro and Tell&amp;#039;</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-tv-shows-off-its-8216new8217-features-in-fullscreen-roundup-when-you-turn-on-your-tv-gallery</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T16:05:00Z</news:publication_date>
+      <news:title>Google TV shows off its &amp;#8216;new&amp;#8217; features in fullscreen roundup when you turn on your TV [Gallery]</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/google-tv-new-features-october-2026-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Google TV shows off its &amp;#8216;new&amp;#8217; features in fullscreen roundup when you turn on your TV [Gallery]</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/apple-teases-macbook-pro-event-next-week</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T16:04:29Z</news:publication_date>
+      <news:title>Apple teases MacBook Pro event next week</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/pro.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Apple teases MacBook Pro event next week</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/google-play-store-bug-is-causing-collections-confusion</loc>
     <news:news>
       <news:publication>
@@ -30,6 +150,21 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/why-your-usb-device-keeps-disconnecting-and-how-to-fix-it/l-intro-1792082689.jpg</image:loc>
       <image:title>Why your USB device keeps disconnecting (and how to fix it)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/amazon-is-funding-a-new-nuclear-plant-in-indiana</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T15:44:20Z</news:publication_date>
+      <news:title>Amazon is funding a new nuclear plant in Indiana</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Amazon-nuclear-power-plant-Indiana-.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Amazon is funding a new nuclear plant in Indiana</image:title>
     </image:image>
   </url>
   <url>
@@ -2265,36 +2400,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_A.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Elon Musk settles lawsuits over $1 million voter giveaway</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/what-does-the-yellow-light-on-your-alexa-device-mean-and-how-do-you-clear-it</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T16:30:00Z</news:publication_date>
-      <news:title>What does the yellow light on your Alexa device mean and how do you clear it?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/what-does-the-yellow-light-on-your-alexa-device-mean-and-how-do-you-clear-it/l-intro-1791547994.jpg</image:loc>
-      <image:title>What does the yellow light on your Alexa device mean and how do you clear it?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/anbernics-rg-dds-is-almost-double-the-price-of-the-original-nintendo-3ds</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T16:15:11Z</news:publication_date>
-      <news:title>Anbernic&apos;s RG DDS is almost double the price of the original Nintendo 3DS</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/anbernics-rg-dds-is-almost-double-the-price-of-the-original-nintendo-3ds/l-intro-1792253250.jpg</image:loc>
-      <image:title>Anbernic&apos;s RG DDS is almost double the price of the original Nintendo 3DS</image:title>
     </image:image>
   </url>
 </urlset>
