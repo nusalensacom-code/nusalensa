@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/iphone-duos-battery-capacity-officially-revealed</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T06:08:02Z</news:publication_date>
+      <news:title>iPhone Duo&apos;s battery capacity officially revealed</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/iphone-duo-battery-capacity/gsmarena_00.jpg</image:loc>
+      <image:title>iPhone Duo&apos;s battery capacity officially revealed</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/honor-watch-6-review</loc>
     <news:news>
       <news:publication>
@@ -1695,21 +1710,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/instinct-hands-on-1.jpg</image:loc>
       <image:title>I&amp;#8217;ve been using an AI agent for a month, and I&amp;#8217;m both impressed and terrified</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/vivo-v80-goes-global</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T06:01:02Z</news:publication_date>
-      <news:title>vivo V80 goes global</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
-      <image:title>vivo V80 goes global</image:title>
     </image:image>
   </url>
 </urlset>
