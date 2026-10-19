@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/reviews/apple039s-october-28-039pro-and-tell039-launch-what039s-coming</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T23:51:05Z</news:publication_date>
+      <news:title>Apple&amp;#039;s October 28 &amp;#039;Pro and Tell&amp;#039; Launch: What&amp;#039;s Coming</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/apple-pro-tell-logo.jpg</image:loc>
+      <image:title>Apple&amp;#039;s October 28 &amp;#039;Pro and Tell&amp;#039; Launch: What&amp;#039;s Coming</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-limiting-us-iphone-duo-orders-to-two-per-customer</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T23:42:24Z</news:publication_date>
+      <news:title>Apple Limiting U.S. iPhone Duo Orders to Two Per Customer</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/09/iphone-duo-standby.jpg</image:loc>
+      <image:title>Apple Limiting U.S. iPhone Duo Orders to Two Per Customer</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/what-can-you-use-the-hdmi-port-on-your-ugreen-nas-for</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T23:30:00Z</news:publication_date>
+      <news:title>What can you use the HDMI port on your Ugreen NAS for?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/what-can-you-use-the-hdmi-port-on-your-ugreen-nas-for/l-intro-1792093866.jpg</image:loc>
+      <image:title>What can you use the HDMI port on your Ugreen NAS for?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/robot-vacuums-have-a-major-privacy-problem-you-should-be-aware-of</loc>
     <news:news>
       <news:publication>
@@ -45,6 +90,21 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/meta-tweaks-its-new-terms-of-service-after-backlash-against-scraping/l-intro-1792449693.jpg</image:loc>
       <image:title>Meta tweaks its new terms of service after backlash against scraping</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/pennsylvania-issues-alert-on-congenital-measlessomething-us-hasnt-seen-for-decades</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T22:44:26Z</news:publication_date>
+      <news:title>Pennsylvania issues alert on congenital measles—something US hasn&apos;t seen for decades</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2024/10/GettyImages-509481102-scaled-1152x648-1729196833.jpg</image:loc>
+      <image:title>Pennsylvania issues alert on congenital measles—something US hasn&apos;t seen for decades</image:title>
     </image:image>
   </url>
   <url>
@@ -2985,51 +3045,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/what-to-check-if-your-nintendo-switch-2-isnt-connecting-to-the-tv/l-intro-1791896347.jpg</image:loc>
       <image:title>What to check if your Nintendo Switch 2 isn&apos;t connecting to the TV</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/openai-is-building-a-humanoid-robot-but-the-body-isnt-the-real-challenge</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T23:45:00Z</news:publication_date>
-      <news:title>OpenAI is building a humanoid robot, but the body isn&apos;t the real challenge</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/openai-is-building-a-humanoid-robot-but-the-body-isnt-the-real-challenge/l-intro-1791892991.jpg</image:loc>
-      <image:title>OpenAI is building a humanoid robot, but the body isn&apos;t the real challenge</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/these-samsung-galaxy-tablets-are-in-their-last-year-of-software-support</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T23:30:00Z</news:publication_date>
-      <news:title>These Samsung Galaxy tablets are in their last year of software support</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/these-samsung-galaxy-tablets-are-in-their-last-year-of-software-support/l-intro-1791837850.jpg</image:loc>
-      <image:title>These Samsung Galaxy tablets are in their last year of software support</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/deals-latest-galaxy-foldables-and-galaxy-s26-series-are-on-sale</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T23:24:02Z</news:publication_date>
-      <news:title>Deals: latest Galaxy foldables and Galaxy S26 series are on sale</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/weekly-deals-16/gsmarena_us.jpg</image:loc>
-      <image:title>Deals: latest Galaxy foldables and Galaxy S26 series are on sale</image:title>
     </image:image>
   </url>
 </urlset>
