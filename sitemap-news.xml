@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/the-galaxy-s27-may-launch-earlier-than-usual-samsung8217s-leaked-plans-reveal</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T07:57:42Z</news:publication_date>
+      <news:title>The Galaxy S27 may launch earlier than usual, Samsung&amp;#8217;s leaked plans reveal</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/S27-pro-2-1-scaled.png</image:loc>
+      <image:title>The Galaxy S27 may launch earlier than usual, Samsung&amp;#8217;s leaked plans reveal</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/qualcomm-exec-denies-snapdragon-8-elite-heating-issues-just-like-every-year</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T07:48:57Z</news:publication_date>
+      <news:title>Qualcomm exec denies Snapdragon 8 Elite heating issues, just like every year</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/03/Samsung-Galaxy-S26-Ultra-display.jpg</image:loc>
+      <image:title>Qualcomm exec denies Snapdragon 8 Elite heating issues, just like every year</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/chatgpt-can-now-do-more-in-google-chrome-including-taking-action-inside-open-tabs</loc>
     <news:news>
       <news:publication>

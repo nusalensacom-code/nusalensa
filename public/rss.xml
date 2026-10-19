@@ -5,8 +5,26 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 19 Oct 2026 07:42:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 08:32:18 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Galaxy S27 may launch earlier than usual, Samsung&amp;#8217;s leaked plans reveal</title>
+      <link>https://nusalensa.com/phones/the-galaxy-s27-may-launch-earlier-than-usual-samsung8217s-leaked-plans-reveal</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/the-galaxy-s27-may-launch-earlier-than-usual-samsung8217s-leaked-plans-reveal</guid>
+      <description>But last minute upgrades to RAM and storage could derail those plans.</description>
+      <category>Smartphones</category>
+      <pubDate>Mon, 19 Oct 2026 07:57:42 GMT</pubDate>
+      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/08/S27-pro-2-1-scaled.png" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Qualcomm exec denies Snapdragon 8 Elite heating issues, just like every year</title>
+      <link>https://nusalensa.com/phones/qualcomm-exec-denies-snapdragon-8-elite-heating-issues-just-like-every-year</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/qualcomm-exec-denies-snapdragon-8-elite-heating-issues-just-like-every-year</guid>
+      <description>The Qualcomm exec says there are no &quot;system thermal issues&quot; with the new chip.</description>
+      <category>Smartphones</category>
+      <pubDate>Mon, 19 Oct 2026 07:48:57 GMT</pubDate>
+      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/03/Samsung-Galaxy-S26-Ultra-display.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>ChatGPT can now do more in Google Chrome, including taking action inside open tabs</title>
       <link>https://nusalensa.com/phones/chatgpt-can-now-do-more-in-google-chrome-including-taking-action-inside-open-tabs</link>
@@ -258,24 +276,6 @@
       <category>Technology</category>
       <pubDate>Sun, 18 Oct 2026 16:27:51 GMT</pubDate>
       <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25544255/2162439650.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Anthropic gives outside AI watchdog “employee-like” access</title>
-      <link>https://nusalensa.com/technology/anthropic-gives-outside-ai-watchdog-employee-like-access</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/anthropic-gives-outside-ai-watchdog-employee-like-access</guid>
-      <description>The outside watchdog can publish its findings without Anthropic&apos;s approval.</description>
-      <category>Technology</category>
-      <pubDate>Sun, 18 Oct 2026 16:25:19 GMT</pubDate>
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/claudebyanthropic-1024x648.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>How to fix scaling and app size issues on your Samsung Galaxy Z Fold 8</title>
-      <link>https://nusalensa.com/phones/how-to-fix-scaling-and-app-size-issues-on-your-samsung-galaxy-z-fold-8</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/how-to-fix-scaling-and-app-size-issues-on-your-samsung-galaxy-z-fold-8</guid>
-      <description>If you have trouble getting apps to scale properly on your foldable, read on.</description>
-      <category>Smartphones</category>
-      <pubDate>Sun, 18 Oct 2026 16:15:00 GMT</pubDate>
-      <enclosure url="https://www.engadget.com/img/gallery/how-to-fix-scaling-and-app-size-issues-on-your-samsung-galaxy-z-fold-8/l-intro-1791985713.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
