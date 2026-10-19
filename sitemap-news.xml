@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/samsung-may-launch-galaxy-s27-series-earlier-than-expected-but-memory-questions-still-linger</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T11:21:02Z</news:publication_date>
+      <news:title>Samsung may launch Galaxy S27 series earlier than expected, but memory questions still linger</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/samsung-galaxy-s27-series-maybe-in-january/gsmarena_000.jpg</image:loc>
+      <image:title>Samsung may launch Galaxy S27 series earlier than expected, but memory questions still linger</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/android8217s-brand-new-3d-emoji-are-rolling-out-more-widely</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T11:12:37Z</news:publication_date>
+      <news:title>Android&amp;#8217;s brand-new 3D emoji are rolling out more widely</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/07/google-gboard-emoji-picker-new-july.jpg</image:loc>
+      <image:title>Android&amp;#8217;s brand-new 3D emoji are rolling out more widely</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-maeving-rm2-is-high-style-electric-riding-with-a-few-compromises</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T11:00:00Z</news:publication_date>
+      <news:title>The Maeving RM2 is high-style electric riding with a few compromises</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/2026-Maeving-RM2-013.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>The Maeving RM2 is high-style electric riding with a few compromises</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/foldables-remain-a-tough-sell-but-this-iphone-duo-alternative-gets-our-readers8217-vote</loc>
     <news:news>
       <news:publication>
@@ -1830,36 +1875,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-Cooking_73277b.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Apple’s HomeView is just the latest threat to online recipe writers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/science-says-your-boss-should-talk-less-in-meetings</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T11:15:11Z</news:publication_date>
-      <news:title>Science says your boss should talk less in meetings</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/meetingboredom-1152x648.jpg</image:loc>
-      <image:title>Science says your boss should talk less in meetings</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/qualcomm-says-rumors-about-snapdragon-8-elite-extreme-gen-6-overheating-are-8216inaccurate8217</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T11:05:00Z</news:publication_date>
-      <news:title>Qualcomm says rumors about Snapdragon 8 Elite Extreme Gen 6 overheating are &amp;#8216;inaccurate&amp;#8217;</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/07/snapdragon-8-elite-gen-5-for-galaxy.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Qualcomm says rumors about Snapdragon 8 Elite Extreme Gen 6 overheating are &amp;#8216;inaccurate&amp;#8217;</image:title>
     </image:image>
   </url>
 </urlset>
