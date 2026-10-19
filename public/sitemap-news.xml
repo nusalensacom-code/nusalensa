@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/google-gemini-4-agents-just-beat-minecraft-with-no-human-intervention</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T09:19:19Z</news:publication_date>
+      <news:title>Google Gemini 4 agents just beat Minecraft with no human intervention</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/google-gemini-4-agents-just-beat-minecraft-with-no-human-intervention/l-intro-1792401444.jpg</image:loc>
+      <image:title>Google Gemini 4 agents just beat Minecraft with no human intervention</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/location-sharing-in-google-messages-could-soon-get-much-more-useful</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T09:18:55Z</news:publication_date>
+      <news:title>Location sharing in Google Messages could soon get much more useful</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/google-messages-logo-z-fold-8.jpg</image:loc>
+      <image:title>Location sharing in Google Messages could soon get much more useful</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/samsung-galaxy-f70-arrives-with-familiar-specs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T09:12:02Z</news:publication_date>
+      <news:title>Samsung Galaxy F70 arrives with familiar specs</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/samsung-galaxy-f70-ofic/gsmarena_000.jpg</image:loc>
+      <image:title>Samsung Galaxy F70 arrives with familiar specs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/i-thought-the-pixel-118217s-magic-capture-would-be-perfect-for-concerts-i-was-wrong</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T09:00:28Z</news:publication_date>
+      <news:title>I thought the Pixel 11&amp;#8217;s Magic Capture would be perfect for concerts. I was wrong</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Magic-Capture-Pixel-11-scaled.jpg</image:loc>
+      <image:title>I thought the Pixel 11&amp;#8217;s Magic Capture would be perfect for concerts. I was wrong</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/the-galaxy-s27-may-launch-earlier-than-usual-samsung8217s-leaked-plans-reveal</loc>
     <news:news>
       <news:publication>
@@ -1755,36 +1815,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Samsung-phone-in-hand-showing-Google-Keep-app-scaled.jpg</image:loc>
       <image:title>I never thought I’d ditch Samsung Notes, but this Google Keep feature changed my mind</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/deals-iphone-duo-pre-orders-begin-as-galaxy-z-fold8-gets-a-price-cut</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T09:01:02Z</news:publication_date>
-      <news:title>Deals: iPhone Duo pre-orders begin as Galaxy Z Fold8 gets a price cut</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/weekly-deals-16/gsmarena_uk.jpg</image:loc>
-      <image:title>Deals: iPhone Duo pre-orders begin as Galaxy Z Fold8 gets a price cut</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/i8217ve-been-using-an-ai-agent-for-a-month-and-i8217m-both-impressed-and-terrified</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T09:00:53Z</news:publication_date>
-      <news:title>I&amp;#8217;ve been using an AI agent for a month, and I&amp;#8217;m both impressed and terrified</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/instinct-hands-on-1.jpg</image:loc>
-      <image:title>I&amp;#8217;ve been using an AI agent for a month, and I&amp;#8217;m both impressed and terrified</image:title>
     </image:image>
   </url>
 </urlset>
