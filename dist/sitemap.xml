@@ -468,6 +468,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://nusalensa.com/reviews/apple-airpods-5-review</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/airpods-5-review/gsmarena_000.jpg</image:loc>
+      <image:title>Apple AirPods 5 review</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/what-do-all-the-lights-on-your-netgear-router-mean-and-which-ones-actually-matter</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/what-do-all-the-lights-on-your-netgear-router-mean-and-which-ones-actually-matter/l-intro-1792009377.jpg</image:loc>
+      <image:title>What do all the lights on your Netgear router mean, and which ones actually matter?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/what-does-the-orange-dot-on-your-samsung-galaxy-watch-mean</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>daily</changefreq>

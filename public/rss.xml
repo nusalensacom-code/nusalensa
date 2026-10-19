@@ -5,8 +5,26 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 19 Oct 2026 00:21:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 01:10:49 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple AirPods 5 review</title>
+      <link>https://nusalensa.com/reviews/apple-airpods-5-review</link>
+      <guid isPermaLink="true">https://nusalensa.com/reviews/apple-airpods-5-review</guid>
+      <description>How do you update the most popular audio product in the world? That&apos;s a question that would keep many companies awake at night. But almost a decade after the or</description>
+      <category>Reviews</category>
+      <pubDate>Mon, 19 Oct 2026 01:00:02 GMT</pubDate>
+      <enclosure url="https://fdn.gsmarena.com/imgroot/news/26/10/airpods-5-review/gsmarena_000.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>What do all the lights on your Netgear router mean, and which ones actually matter?</title>
+      <link>https://nusalensa.com/technology/what-do-all-the-lights-on-your-netgear-router-mean-and-which-ones-actually-matter</link>
+      <guid isPermaLink="true">https://nusalensa.com/technology/what-do-all-the-lights-on-your-netgear-router-mean-and-which-ones-actually-matter</guid>
+      <description>Some router symbols are obvious, while others take a bit of work to decipher. Their lights can vary, too.</description>
+      <category>Technology</category>
+      <pubDate>Mon, 19 Oct 2026 00:30:00 GMT</pubDate>
+      <enclosure url="https://www.engadget.com/img/gallery/what-do-all-the-lights-on-your-netgear-router-mean-and-which-ones-actually-matter/l-intro-1792009377.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>What does the orange dot on your Samsung Galaxy Watch mean?</title>
       <link>https://nusalensa.com/phones/what-does-the-orange-dot-on-your-samsung-galaxy-watch-mean</link>
@@ -258,24 +276,6 @@
       <category>Tablets</category>
       <pubDate>Sun, 18 Oct 2026 14:54:31 GMT</pubDate>
       <enclosure url="https://images.macrumors.com/article-new/2026/10/homeview_home_screen_feature-1.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>iOS 27&apos;s new CarPlay features are great, but only these iPhones can actually use them</title>
-      <link>https://nusalensa.com/phones/ios-27s-new-carplay-features-are-great-but-only-these-iphones-can-actually-use-them</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/ios-27s-new-carplay-features-are-great-but-only-these-iphones-can-actually-use-them</guid>
-      <description>With the release of iOS 27, car owners with CarPlay support can enjoy lots of cool new features. However, not all iPhone models are able to support them all.</description>
-      <category>Smartphones</category>
-      <pubDate>Sun, 18 Oct 2026 14:45:00 GMT</pubDate>
-      <enclosure url="https://www.engadget.com/img/gallery/ios-27s-new-carplay-features-are-great-but-only-these-iphones-can-actually-use-them/l-intro-1791964323.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Apple iPhone 18 Pro vs. iPhone 17 Pro</title>
-      <link>https://nusalensa.com/phones/apple-iphone-18-pro-vs-iphone-17-pro</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/apple-iphone-18-pro-vs-iphone-17-pro</guid>
-      <description>We&apos;ve got a new iPhone in town, but the age-old question remains: do I get the new iPhone, or is last year&apos;s model just as good? With the Apple iPhone 18 Pro no</description>
-      <category>Smartphones</category>
-      <pubDate>Sun, 18 Oct 2026 14:37:02 GMT</pubDate>
-      <enclosure url="https://fdn.gsmarena.com/imgroot/news/26/10/apple-iphone-18-pro-vs-iphone-17-pro/gsmarena_000.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
