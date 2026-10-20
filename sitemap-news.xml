@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/what-can-you-use-your-apple-watch-ultra-4-action-button-for</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T23:30:00Z</news:publication_date>
+      <news:title>What can you use your Apple Watch Ultra 4 action button for?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/what-can-you-use-your-apple-watch-ultra-4-action-button-for/l-intro-1791574824.jpg</image:loc>
+      <image:title>What can you use your Apple Watch Ultra 4 action button for?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/judge-dismisses-sam-altmans-sisters-sexual-abuse-lawsuit</loc>
     <news:news>
       <news:publication>
@@ -4815,36 +4830,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/what-does-the-orange-dot-on-your-samsung-galaxy-watch-mean/l-intro-1792007262.jpg</image:loc>
       <image:title>What does the orange dot on your Samsung Galaxy Watch mean?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/why-you-should-never-point-a-laser-pointer-at-a-security-camera</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-18T23:45:00Z</news:publication_date>
-      <news:title>Why you should never point a laser pointer at a security camera</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/why-you-should-never-point-a-laser-pointer-at-a-security-camera/l-intro-1792005987.jpg</image:loc>
-      <image:title>Why you should never point a laser pointer at a security camera</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/how-to-use-googles-synthid-ai-detection-website</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-18T23:30:00Z</news:publication_date>
-      <news:title>How to use Google&apos;s SynthID AI detection website</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/how-to-use-googles-synthid-ai-detection-website/l-intro-1791998472.jpg</image:loc>
-      <image:title>How to use Google&apos;s SynthID AI detection website</image:title>
     </image:image>
   </url>
 </urlset>
