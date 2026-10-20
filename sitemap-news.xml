@@ -3,6 +3,96 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/tiktok-has-started-censoring-searches-for-popular-peptides</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T20:16:04Z</news:publication_date>
+      <news:title>TikTok has started censoring searches for popular peptides</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS538_PEPTIDES2.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>TikTok has started censoring searches for popular peptides</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/meta-suspends-muse-chats-sharing-feature-after-it-left-private-details-exposed</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T20:00:43Z</news:publication_date>
+      <news:title>Meta suspends Muse chats sharing feature after it left private details exposed</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/meta-suspends-muse-chats-sharing-feature-after-it-left-private-details-exposed/l-intro-1792526399.jpg</image:loc>
+      <image:title>Meta suspends Muse chats sharing feature after it left private details exposed</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/your-android-auto-experience-is-getting-a-personal-touch-from-gemini</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T20:00:24Z</news:publication_date>
+      <news:title>Your Android Auto experience is getting a personal touch from Gemini</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/android-auto-gemini-ask-gemini-command-1.jpg</image:loc>
+      <image:title>Your Android Auto experience is getting a personal touch from Gemini</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-brings-gemini-personal-intelligence-to-android-auto</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T20:00:00Z</news:publication_date>
+      <news:title>Google brings Gemini Personal Intelligence to Android Auto</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/google-brings-gemini-personal-intelligence-to-android-auto/l-intro-1792518047.jpg</image:loc>
+      <image:title>Google brings Gemini Personal Intelligence to Android Auto</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-upgrading-gemini-for-android-auto-with-personal-intelligence</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T20:00:00Z</news:publication_date>
+      <news:title>Google upgrading Gemini for Android Auto with Personal Intelligence</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-Personal-Intelligence-Android-Auto.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Google upgrading Gemini for Android Auto with Personal Intelligence</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/logitechs-refurbished-g-pro-x2-superstrike-is-35-percent-off</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T20:00:00Z</news:publication_date>
+      <news:title>Logitech’s refurbished G Pro X2 Superstrike is 35 percent off</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/PXL_20260213_153451513.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Logitech’s refurbished G Pro X2 Superstrike is 35 percent off</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/apple039s-touchscreen-oled-macbook-pro-everything-we-know</loc>
     <news:news>
       <news:publication>
@@ -45,6 +135,21 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/uk-regulator-wants-apple-to-open-up-nfc/gsmarena_000.jpg</image:loc>
       <image:title>UK wants Apple to open up iPhone contactless tech and charge lower fees</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/ipad-mini-8-expected-next-week-with-these-10-new-features</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T19:35:00Z</news:publication_date>
+      <news:title>iPad Mini 8 Expected Next Week With These 10 New Features</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/07/iPad-mini-7-Review-Thumb-1-sans-text.jpg</image:loc>
+      <image:title>iPad Mini 8 Expected Next Week With These 10 New Features</image:title>
     </image:image>
   </url>
   <url>
@@ -4200,21 +4305,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/after-five-years-inscryption-is-finally-coming-to-mobile/l-intro-1792354834.jpg</image:loc>
       <image:title>After five years, Inscryption is finally coming to mobile</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/amazon-discounts-new-mac-mini-by-up-to-36149-mac-studio-by-36200</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-18T20:15:14Z</news:publication_date>
-      <news:title>Amazon Discounts New Mac Mini by Up to &amp;#36;149, Mac Studio by &amp;#36;200</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/04/Mac-mini-vs-Studio-Feature-Sans-Text-1.jpg</image:loc>
-      <image:title>Amazon Discounts New Mac Mini by Up to &amp;#36;149, Mac Studio by &amp;#36;200</image:title>
     </image:image>
   </url>
 </urlset>
