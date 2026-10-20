@@ -3,6 +3,186 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/arturias-minifreak-49-makes-its-freak-synths-more-professional</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T16:00:00Z</news:publication_date>
+      <news:title>Arturia’s MiniFreak 49 makes its Freak synths more professional</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Playful2.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Arturia’s MiniFreak 49 makes its Freak synths more professional</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/deals-galaxy-s26-ultra-455-off-brand-new-tcl-android-tab-at-150-docks-magnetic-chargers-more</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T15:46:47Z</news:publication_date>
+      <news:title>Deals: Galaxy S26 Ultra $455 off brand new, TCL Android tab at $150, docks, magnetic chargers, more</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/9to5Google-Oct-20.webp?w=1600</image:loc>
+      <image:title>Deals: Galaxy S26 Ultra $455 off brand new, TCL Android tab at $150, docks, magnetic chargers, more</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/5-ways-to-make-your-old-iphone-feel-faster</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T15:45:00Z</news:publication_date>
+      <news:title>5 ways to make your old iPhone feel faster</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/5-ways-to-make-your-old-iphone-feel-faster/l-intro-1792168459.jpg</image:loc>
+      <image:title>5 ways to make your old iPhone feel faster</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-gospel-according-to-peter-thiel</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T15:45:00Z</news:publication_date>
+      <news:title>The Gospel according to Peter (Thiel)</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/258014_Peter_Thiel_LKantrowitz.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>The Gospel according to Peter (Thiel)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/perplexity-makes-it-easier-to-run-ai-workflows-entirely-on-your-own-mac</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T15:42:45Z</news:publication_date>
+      <news:title>Perplexity makes it easier to run AI workflows entirely on your own Mac</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/perplexity-makes-it-easier-to-run-entire-ai-workflows-entirely-on-your-own-mac/l-intro-1792510842.jpg</image:loc>
+      <image:title>Perplexity makes it easier to run AI workflows entirely on your own Mac</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-iphone-duo-may-not-have-a-visible-crease-but-the-display-is-soft-in-that-area</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T15:33:02Z</news:publication_date>
+      <news:title>The iPhone Duo may not have a visible crease, but the display is soft in that area</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/iphone-duo-squishy-crease/gsmarena_000.jpg</image:loc>
+      <image:title>The iPhone Duo may not have a visible crease, but the display is soft in that area</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/get-ready-for-2027-early-with-remarkable8217s-new-calendar-release</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T15:26:03Z</news:publication_date>
+      <news:title>Get ready for 2027 early with reMarkable&amp;#8217;s new calendar release</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Remarkable-Calendar-2027.jpg</image:loc>
+      <image:title>Get ready for 2027 early with reMarkable&amp;#8217;s new calendar release</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/this-popular-mini-45w-power-bank-is-down-to-3299-on-amazon</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T15:20:58Z</news:publication_date>
+      <news:title>This popular mini 45W power bank is down to $32.99 on Amazon</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/LISEN-45W-10000mAh-Mini-Power-Bank-Press-Image.jpg</image:loc>
+      <image:title>This popular mini 45W power bank is down to $32.99 on Amazon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/this-garmin-instinct-crossover-deal-makes-it-400-less-than-the-latest-model</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T15:20:00Z</news:publication_date>
+      <news:title>This Garmin Instinct Crossover deal makes it $400 less than the latest model</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/garmin-instinct-crossover-render-with-gradient.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>This Garmin Instinct Crossover deal makes it $400 less than the latest model</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/5-carplay-navigation-apps-you-should-be-using-instead-of-apple-maps</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T15:15:00Z</news:publication_date>
+      <news:title>5 CarPlay navigation apps you should be using instead of Apple Maps</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/5-carplay-navigation-apps-you-should-be-using-instead-of-apple-maps/l-intro-1792160620.jpg</image:loc>
+      <image:title>5 CarPlay navigation apps you should be using instead of Apple Maps</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/tcl-tab-10-gen-4-returns-to-its-lowest-price-since-launch-at-just-150</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T15:02:18Z</news:publication_date>
+      <news:title>TCL TAB 10 Gen 4 returns to its lowest price since launch at just $150</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/TCL-TAB-10-Gen-4-Android-Tablet-Press-Image.jpg</image:loc>
+      <image:title>TCL TAB 10 Gen 4 returns to its lowest price since launch at just $150</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/spotify-podcast-memberships-let-you-support-your-favorite-shows-and-get-added-perks</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T14:55:00Z</news:publication_date>
+      <news:title>Spotify podcast memberships let you support your favorite shows and get added perks</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/spotify-podcast-memberships-2.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Spotify podcast memberships let you support your favorite shows and get added perks</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/over-963000-worth-of-graded-pokemon-and-sports-cards-were-stolen-from-fedex</loc>
     <news:news>
       <news:publication>
@@ -3585,51 +3765,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/how-to-fix-scaling-and-app-size-issues-on-your-samsung-galaxy-z-fold-8/l-intro-1791985713.jpg</image:loc>
       <image:title>How to fix scaling and app size issues on your Samsung Galaxy Z Fold 8</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/flat-ethernet-cables-probably-arent-the-answer-to-your-home-networking-problem</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-18T15:45:00Z</news:publication_date>
-      <news:title>Flat Ethernet cables probably aren&apos;t the answer to your home networking problem</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/flat-ethernet-cables-probably-arent-the-answer-to-your-home-networking-problem/l-intro-1791980716.jpg</image:loc>
-      <image:title>Flat Ethernet cables probably aren&apos;t the answer to your home networking problem</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-reason-why-your-drive-shows-less-storage-than-you-paid-for</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-18T15:15:00Z</news:publication_date>
-      <news:title>The reason why your drive shows less storage than you paid for</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/the-reason-why-your-drive-shows-less-storage-than-you-paid-for/l-intro-1791975351.jpg</image:loc>
-      <image:title>The reason why your drive shows less storage than you paid for</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-reveals-iphone-duo039s-battery-capacity</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-18T15:07:06Z</news:publication_date>
-      <news:title>Apple Reveals iPhone Duo&amp;#039;s Battery Capacity</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/09/iphone-duo-closed-1.jpg</image:loc>
-      <image:title>Apple Reveals iPhone Duo&amp;#039;s Battery Capacity</image:title>
     </image:image>
   </url>
 </urlset>
