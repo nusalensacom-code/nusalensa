@@ -5,8 +5,17 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 20 Oct 2026 00:25:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 01:12:38 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to stop audio from auto-playing on Android Auto</title>
+      <link>https://nusalensa.com/technology/how-to-stop-audio-from-auto-playing-on-android-auto</link>
+      <guid isPermaLink="true">https://nusalensa.com/technology/how-to-stop-audio-from-auto-playing-on-android-auto</guid>
+      <description>Although Android Auto&apos;s autoplay feature is intended to be a convenience, you may find yourself wanting to turn it off. Here&apos;s how.</description>
+      <category>Technology</category>
+      <pubDate>Tue, 20 Oct 2026 00:30:00 GMT</pubDate>
+      <enclosure url="https://www.engadget.com/img/gallery/how-to-stop-audio-from-auto-playing-on-android-auto/l-intro-1792093586.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>DCS: the Huawei Enjoy 100 Pro Max will have a bigger battery than its predecessor</title>
       <link>https://nusalensa.com/phones/dcs-the-huawei-enjoy-100-pro-max-will-have-a-bigger-battery-than-its-predecessor</link>
@@ -267,15 +276,6 @@
       <category>Technology</category>
       <pubDate>Mon, 19 Oct 2026 19:27:24 GMT</pubDate>
       <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Endurance-Energy-rockhopper-drill-1152x648.jpeg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Sony is offering NFL fans a chance to win custom team edition XM6 headphones</title>
-      <link>https://nusalensa.com/phones/sony-is-offering-nfl-fans-a-chance-to-win-custom-team-edition-xm6-headphones</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/sony-is-offering-nfl-fans-a-chance-to-win-custom-team-edition-xm6-headphones</guid>
-      <description>Sony&apos;s team edition WH-1000XM6s will block out the crowd noise, but you&apos;ll have to win them first.</description>
-      <category>Smartphones</category>
-      <pubDate>Mon, 19 Oct 2026 19:21:03 GMT</pubDate>
-      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/10/Sony-NFL-Custom-Headphones_Family-Shot.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>

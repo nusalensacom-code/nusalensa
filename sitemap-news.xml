@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/how-to-stop-audio-from-auto-playing-on-android-auto</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T00:30:00Z</news:publication_date>
+      <news:title>How to stop audio from auto-playing on Android Auto</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/how-to-stop-audio-from-auto-playing-on-android-auto/l-intro-1792093586.jpg</image:loc>
+      <image:title>How to stop audio from auto-playing on Android Auto</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/dcs-the-huawei-enjoy-100-pro-max-will-have-a-bigger-battery-than-its-predecessor</loc>
     <news:news>
       <news:publication>
@@ -3030,21 +3045,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/vivo-v80-ifr/gsmarena_000.jpg</image:loc>
       <image:title>vivo V80 in for review</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/you-dont-have-to-turn-off-your-phone-to-switch-sim-cards-but-you-probably-should</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-18T00:30:00Z</news:publication_date>
-      <news:title>You don&apos;t have to turn off your phone to switch SIM cards (but you probably should)</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/you-dont-have-to-turn-off-your-phone-to-switch-sim-cards-but-you-probably-should/l-intro-1791896825.jpg</image:loc>
-      <image:title>You don&apos;t have to turn off your phone to switch SIM cards (but you probably should)</image:title>
     </image:image>
   </url>
 </urlset>
