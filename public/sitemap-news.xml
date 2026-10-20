@@ -3,6 +3,186 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/google-says-chromes-safe-browsing-enhanced-protection-mode-makes-users-10x-safer</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T17:00:00Z</news:publication_date>
+      <news:title>Google says Chrome’s Safe Browsing Enhanced Protection mode makes users 10x safer</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Chrome-Suspicious-Site-Warnings.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Google says Chrome’s Safe Browsing Enhanced Protection mode makes users 10x safer</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/chrome-will-now-show-a-warning-before-you-visit-suspicious-sites</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T17:00:00Z</news:publication_date>
+      <news:title>Chrome will now show a warning before you visit ‘suspicious’ sites</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Google-Chrome-suspicious-website-warning-hero.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Chrome will now show a warning before you visit ‘suspicious’ sites</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/oura-is-giving-its-smart-rings-a-big-cardiovascular-health-upgrade</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T16:49:01Z</news:publication_date>
+      <news:title>Oura is giving its smart rings a big cardiovascular health upgrade</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/06/Oura-Ring-5-app-scaled.jpg</image:loc>
+      <image:title>Oura is giving its smart rings a big cardiovascular health upgrade</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/verizons-straight-talk-upgrades-its-unlimited-plans-without-raising-prices</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T16:47:02Z</news:publication_date>
+      <news:title>Verizon&apos;s Straight Talk upgrades its unlimited plans without raising prices</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/straight-talk-unlimited-plan-improvements/gsmarena_000.jpg</image:loc>
+      <image:title>Verizon&apos;s Straight Talk upgrades its unlimited plans without raising prices</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/dont-put-your-phone-in-the-tsa-bin-do-this-instead</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T16:45:00Z</news:publication_date>
+      <news:title>Don&apos;t put your phone in the TSA bin — do this instead</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/dont-put-your-phone-in-the-tsa-bin-do-this-instead/l-intro-1792170181.jpg</image:loc>
+      <image:title>Don&apos;t put your phone in the TSA bin — do this instead</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/amd-is-bringing-fsr-41-to-xbox-consoles-and-handhelds</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T16:21:18Z</news:publication_date>
+      <news:title>AMD is bringing FSR 4.1 to Xbox consoles and handhelds</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/3b4peqgb3j7f1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>AMD is bringing FSR 4.1 to Xbox consoles and handhelds</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/you-can-build-your-own-mechanical-keyboard-but-is-it-worth-the-price</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T16:15:00Z</news:publication_date>
+      <news:title>You can build your own mechanical keyboard, but is it worth the price?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/you-can-build-your-own-mechanical-keyboard-but-is-it-worth-the-price/l-intro-1792169830.jpg</image:loc>
+      <image:title>You can build your own mechanical keyboard, but is it worth the price?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/samsung8217s-galaxy-s27-lineup-takes-shape-in-new-leak</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T16:14:29Z</news:publication_date>
+      <news:title>Samsung&amp;#8217;s Galaxy S27 lineup takes shape in new leak</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Galaxy-S27-S27-S27-Ultra-Screen-Protector-1.jpg</image:loc>
+      <image:title>Samsung&amp;#8217;s Galaxy S27 lineup takes shape in new leak</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/amazon-knocks-31-off-sony-wh-ch520-wireless-headphones</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T16:10:12Z</news:publication_date>
+      <news:title>Amazon knocks $31 off Sony WH-CH520 wireless headphones</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/05/Sony-WH-CH520-Wireless-Headphones-SoundGuys.jpg</image:loc>
+      <image:title>Amazon knocks $31 off Sony WH-CH520 wireless headphones</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/older-pixel-phones-appear-to-be-getting-google8217s-new-3d-emoji</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T16:06:33Z</news:publication_date>
+      <news:title>Older Pixel phones appear to be getting Google&amp;#8217;s new 3D emoji</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Pixel-11-Pro-Updated-Emoji.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Older Pixel phones appear to be getting Google&amp;#8217;s new 3D emoji</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/iron-man-himself-now-officially-endorses-snap8217s-latest-smart-glasses</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T16:05:00Z</news:publication_date>
+      <news:title>Iron Man himself now officially endorses Snap&amp;#8217;s latest smart glasses</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/snap-specs-robert-downey-jr.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Iron Man himself now officially endorses Snap&amp;#8217;s latest smart glasses</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/ios-273-may-expand-rcs-support-to-australia039s-telstra-in-december</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T16:04:13Z</news:publication_date>
+      <news:title>iOS 27.3 May Expand RCS Support to Australia&amp;#039;s Telstra in December</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/05/ios-26-5-rcs.jpg</image:loc>
+      <image:title>iOS 27.3 May Expand RCS Support to Australia&amp;#039;s Telstra in December</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/arturias-minifreak-49-makes-its-freak-synths-more-professional</loc>
     <news:news>
       <news:publication>
@@ -3690,81 +3870,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/from-the-royole-flexpai-to-the-iphone-duo-how-the-modern-foldable-phone-has-evolved/l-intro-1791988871.jpg</image:loc>
       <image:title>From the Royole FlexPai to the iPhone Duo: How the modern foldable phone has evolved</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/should-you-limit-your-fps-in-games-heres-when-it-makes-sense</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-18T16:45:00Z</news:publication_date>
-      <news:title>Should you limit your FPS in games? Here&apos;s when it makes sense</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/should-you-limit-your-fps-in-games-heres-when-it-makes-sense/l-intro-1791988078.jpg</image:loc>
-      <image:title>Should you limit your FPS in games? Here&apos;s when it makes sense</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/tiktok-reportedly-bans-ads-for-musk-documentary-before-its-wider-us-release</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-18T16:42:15Z</news:publication_date>
-      <news:title>TikTok reportedly bans ads for Musk documentary before its wider US release</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/tiktok-reportedly-bans-ads-for-musk-documentary-before-its-wider-us-release/l-intro-1792341551.jpg</image:loc>
-      <image:title>TikTok reportedly bans ads for Musk documentary before its wider US release</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/video-game-ownership-bill-introduced-in-congress</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-18T16:27:51Z</news:publication_date>
-      <news:title>Video game ownership bill introduced in Congress</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25544255/2162439650.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Video game ownership bill introduced in Congress</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/anthropic-gives-outside-ai-watchdog-employee-like-access</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-18T16:25:19Z</news:publication_date>
-      <news:title>Anthropic gives outside AI watchdog “employee-like” access</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/09/claudebyanthropic-1024x648.jpg</image:loc>
-      <image:title>Anthropic gives outside AI watchdog “employee-like” access</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/how-to-fix-scaling-and-app-size-issues-on-your-samsung-galaxy-z-fold-8</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-18T16:15:00Z</news:publication_date>
-      <news:title>How to fix scaling and app size issues on your Samsung Galaxy Z Fold 8</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/how-to-fix-scaling-and-app-size-issues-on-your-samsung-galaxy-z-fold-8/l-intro-1791985713.jpg</image:loc>
-      <image:title>How to fix scaling and app size issues on your Samsung Galaxy Z Fold 8</image:title>
     </image:image>
   </url>
 </urlset>
