@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/apple-is-already-working-on-a-larger-and-better-homeview</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T07:01:02Z</news:publication_date>
+      <news:title>Apple is already working on a larger and better HomeView</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/apple-homeview-9-inch/gsmarena_000.jpg</image:loc>
+      <image:title>Apple is already working on a larger and better HomeView</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/xiaomi-18-pro-series-leak-reveals-painful-global-price</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T07:00:45Z</news:publication_date>
+      <news:title>Xiaomi 18 Pro series leak reveals painful global price</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Xiaomi-18-Pro-Max-White-1-of-4.jpg</image:loc>
+      <image:title>Xiaomi 18 Pro series leak reveals painful global price</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/googlebook-owners-finally-get-an-explanation-for-the-missing-find-hub-app</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T06:42:05Z</news:publication_date>
+      <news:title>Googlebook owners finally get an explanation for the missing Find Hub app</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/04/chipolo-card-google-find-hub-bluetooth-tracker-secrid-wallet-app.jpg</image:loc>
+      <image:title>Googlebook owners finally get an explanation for the missing Find Hub app</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/huawei-mate-x8-specs-leak</loc>
     <news:news>
       <news:publication>
@@ -15,6 +60,21 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/huawei-mate-x8-specs-leak/gsmarena_000.jpg</image:loc>
       <image:title>Huawei Mate X8 specs leak</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T05:59:56Z</news:publication_date>
+      <news:title>Japan launches mission to bring home a piece of the Martian moon Phobos</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/52568167027_27ac36afb5_o-1152x648.jpg</image:loc>
+      <image:title>Japan launches mission to bring home a piece of the Martian moon Phobos</image:title>
     </image:image>
   </url>
   <url>

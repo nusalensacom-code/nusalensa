@@ -468,6 +468,36 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/apple-is-already-working-on-a-larger-and-better-homeview</loc>
+    <lastmod>2026-10-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/apple-homeview-9-inch/gsmarena_000.jpg</image:loc>
+      <image:title>Apple is already working on a larger and better HomeView</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/xiaomi-18-pro-series-leak-reveals-painful-global-price</loc>
+    <lastmod>2026-10-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Xiaomi-18-Pro-Max-White-1-of-4.jpg</image:loc>
+      <image:title>Xiaomi 18 Pro series leak reveals painful global price</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/googlebook-owners-finally-get-an-explanation-for-the-missing-find-hub-app</loc>
+    <lastmod>2026-10-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/04/chipolo-card-google-find-hub-bluetooth-tracker-secrid-wallet-app.jpg</image:loc>
+      <image:title>Googlebook owners finally get an explanation for the missing Find Hub app</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/huawei-mate-x8-specs-leak</loc>
     <lastmod>2026-10-20</lastmod>
     <changefreq>daily</changefreq>
@@ -475,6 +505,16 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/huawei-mate-x8-specs-leak/gsmarena_000.jpg</image:loc>
       <image:title>Huawei Mate X8 specs leak</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos</loc>
+    <lastmod>2026-10-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/52568167027_27ac36afb5_o-1152x648.jpg</image:loc>
+      <image:title>Japan launches mission to bring home a piece of the Martian moon Phobos</image:title>
     </image:image>
   </url>
   <url>
