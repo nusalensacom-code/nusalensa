@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/reviews/the-android-authority-best-of-2026-awards-all-the-winners-so-far</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T22:42:01Z</news:publication_date>
+      <news:title>The Android Authority Best of 2026 Awards: All the winners so far!</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/AA_Best_of_2026_hero.jpg</image:loc>
+      <image:title>The Android Authority Best of 2026 Awards: All the winners so far!</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/fitbit-edge-vs-fitbit-inspire-3-how-these-google-fitness-trackers-compare</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T22:30:00Z</news:publication_date>
+      <news:title>Fitbit Edge vs. Fitbit Inspire 3: How these Google fitness trackers compare</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/fitbit-edge-vs-fitbit-inspire-3-how-these-google-fitness-trackers-compare/l-intro-1792178621.jpg</image:loc>
+      <image:title>Fitbit Edge vs. Fitbit Inspire 3: How these Google fitness trackers compare</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/apple-expands-partnerships-with-american-suppliers-for-the-iphone-duo-and-iphone-18-pro</loc>
     <news:news>
       <news:publication>
@@ -33,6 +63,36 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/technology/trump-is-giving-nick-shirley-10000-and-launching-a-25-million-fraud-bounty-program</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T22:20:11Z</news:publication_date>
+      <news:title>Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2300641963.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/googles-more-personalized-gemini-ai-is-heading-to-your-car</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T22:11:34Z</news:publication_date>
+      <news:title>Google’s more personalized Gemini AI is heading to your car</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/google-gemini-personal-intelligence.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Google’s more personalized Gemini AI is heading to your car</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/save-250-on-beyerdynamic-dt-1770-pro-mkii-studio-headphones</loc>
     <news:news>
       <news:publication>
@@ -45,6 +105,21 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Beyerdynamic-DT-1770-PRO-MKII-SoundGuys.jpg</image:loc>
       <image:title>Save $250 on Beyerdynamic DT 1770 Pro MKII studio headphones</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/merging-spacex-and-tesla-would-be-a-good-idea-musk-says</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T22:04:54Z</news:publication_date>
+      <news:title>Merging SpaceX and Tesla would be a &quot;good idea,&quot; Musk says</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/tesla-in-space-1152x648.jpg</image:loc>
+      <image:title>Merging SpaceX and Tesla would be a &quot;good idea,&quot; Musk says</image:title>
     </image:image>
   </url>
   <url>
@@ -93,6 +168,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/technology/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T21:44:34Z</news:publication_date>
+      <news:title>Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1234276092-1152x648.jpg</image:loc>
+      <image:title>Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/the-latest-playstation-firmware-may-have-already-been-cracked-ahead-of-gta-6</loc>
     <news:news>
       <news:publication>
@@ -135,6 +225,21 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/06/Google-Account-Switcher-3-scaled.jpg</image:loc>
       <image:title>Survey reveals trust in Google has taken a big hit after this quiet Android change</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/microsoft-reportedly-projects-1200-to-1800-price-for-2028-project-helix</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T21:14:33Z</news:publication_date>
+      <news:title>Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2024/07/xbox-dominoes-1152x648.jpg</image:loc>
+      <image:title>Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix</image:title>
     </image:image>
   </url>
   <url>
@@ -4710,36 +4815,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/an-xbox-series-x-can-now-run-playstation-5-games-but-theres-a-catch/l-intro-1791888562.jpg</image:loc>
       <image:title>An Xbox Series X can now run PlayStation 5 games, but there&apos;s a catch</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/starlink-has-two-55-plans-that-are-wildly-different-heres-how</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-18T22:45:00Z</news:publication_date>
-      <news:title>Starlink has two $55 plans that are wildly different — here&apos;s how</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/starlink-has-two-55-plans-that-are-wildly-different-heres-how/l-intro-1791994899.jpg</image:loc>
-      <image:title>Starlink has two $55 plans that are wildly different — here&apos;s how</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/router-and-modem-or-gateway-whats-actually-in-your-home-network</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-18T22:30:00Z</news:publication_date>
-      <news:title>Router and modem or gateway: What&apos;s actually in your home network?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/router-and-modem-or-gateway-whats-actually-in-your-home-network/l-intro-1791993839.jpg</image:loc>
-      <image:title>Router and modem or gateway: What&apos;s actually in your home network?</image:title>
     </image:image>
   </url>
 </urlset>
