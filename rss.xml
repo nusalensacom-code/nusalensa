@@ -5,8 +5,17 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 20 Oct 2026 03:04:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 04:01:27 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Baseus’ new security camera has a spotlight that tracks and follows moving targets</title>
+      <link>https://nusalensa.com/technology/baseus-new-security-camera-has-a-spotlight-that-tracks-and-follows-moving-targets</link>
+      <guid isPermaLink="true">https://nusalensa.com/technology/baseus-new-security-camera-has-a-spotlight-that-tracks-and-follows-moving-targets</guid>
+      <description>Baseus announced a new addition to its lineup of AI-assisted security cameras that&apos;s more proactive about discouraging unwanted visitors instead of just recordi</description>
+      <category>Technology</category>
+      <pubDate>Tue, 20 Oct 2026 04:00:00 GMT</pubDate>
+      <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/baseus1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>New Realme phone gets listed before launch, here are its specs and price</title>
       <link>https://nusalensa.com/phones/new-realme-phone-gets-listed-before-launch-here-are-its-specs-and-price</link>
@@ -267,15 +276,6 @@
       <category>Smartphones</category>
       <pubDate>Mon, 19 Oct 2026 19:39:19 GMT</pubDate>
       <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/plex-media-server-1152x648.webp" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Apple Starts Moving Up iPhone Duo Delivery Dates</title>
-      <link>https://nusalensa.com/phones/apple-starts-moving-up-iphone-duo-delivery-dates</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/apple-starts-moving-up-iphone-duo-delivery-dates</guid>
-      <description>Apple has started bumping up estimated delivery dates for some customers who pre-ordered the iPhone Duo in countries such as the U.S. and Japan. In the U.S., fo</description>
-      <category>Smartphones</category>
-      <pubDate>Mon, 19 Oct 2026 19:31:47 GMT</pubDate>
-      <enclosure url="https://images.macrumors.com/article-new/2026/10/Apple-iPhone-Duo-Early-Feature-Rejected.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
