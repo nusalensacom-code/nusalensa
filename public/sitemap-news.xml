@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/new-realme-phone-gets-listed-before-launch-here-are-its-specs-and-price</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T02:01:02Z</news:publication_date>
+      <news:title>New Realme phone gets listed before launch, here are its specs and price</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/realme-c01-listing/gsmarena_000.jpg</image:loc>
+      <image:title>New Realme phone gets listed before launch, here are its specs and price</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/how-to-stop-audio-from-auto-playing-on-android-auto</loc>
     <news:news>
       <news:publication>
@@ -3030,21 +3045,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/weekly-poll-results-samsung-galaxy-tab-s12-ultra-tab-s12-plus/gsmarena_000.jpg</image:loc>
       <image:title>Weekly poll results: the Galaxy Tab S12+ and Tab S12 Ultra make laptops look reasonably priced</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/vivo-v80-in-for-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-18T02:24:02Z</news:publication_date>
-      <news:title>vivo V80 in for review</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/vivo-v80-ifr/gsmarena_000.jpg</image:loc>
-      <image:title>vivo V80 in for review</image:title>
     </image:image>
   </url>
 </urlset>

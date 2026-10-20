@@ -5,8 +5,17 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 20 Oct 2026 02:00:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 02:30:43 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Realme phone gets listed before launch, here are its specs and price</title>
+      <link>https://nusalensa.com/phones/new-realme-phone-gets-listed-before-launch-here-are-its-specs-and-price</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/new-realme-phone-gets-listed-before-launch-here-are-its-specs-and-price</guid>
+      <description>The upcoming Realme C01 - not to be confused with the Realme C1 from 2018 - was recently spotted on certification platforms in Malaysia and the UAE with the mod</description>
+      <category>Smartphones</category>
+      <pubDate>Tue, 20 Oct 2026 02:01:02 GMT</pubDate>
+      <enclosure url="https://fdn.gsmarena.com/imgroot/news/26/10/realme-c01-listing/gsmarena_000.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>How to stop audio from auto-playing on Android Auto</title>
       <link>https://nusalensa.com/technology/how-to-stop-audio-from-auto-playing-on-android-auto</link>
@@ -267,15 +276,6 @@
       <category>Smartphones</category>
       <pubDate>Mon, 19 Oct 2026 19:31:47 GMT</pubDate>
       <enclosure url="https://images.macrumors.com/article-new/2026/10/Apple-iPhone-Duo-Early-Feature-Rejected.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Startup taps underwater volcano as energy source in &quot;proof point&quot; test</title>
-      <link>https://nusalensa.com/technology/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test</guid>
-      <description>Can undersea geothermal power help Pacific Rim nations cut down on oil imports?</description>
-      <category>Technology</category>
-      <pubDate>Mon, 19 Oct 2026 19:27:24 GMT</pubDate>
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Endurance-Energy-rockhopper-drill-1152x648.jpeg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
