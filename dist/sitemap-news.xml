@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/dcs-the-huawei-enjoy-100-pro-max-will-have-a-bigger-battery-than-its-predecessor</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T00:02:02Z</news:publication_date>
+      <news:title>DCS: the Huawei Enjoy 100 Pro Max will have a bigger battery than its predecessor</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/huawei-enjoy-100-dcs-battery-colors/gsmarena_000.jpg</image:loc>
+      <image:title>DCS: the Huawei Enjoy 100 Pro Max will have a bigger battery than its predecessor</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/reviews/apple039s-october-28-039pro-and-tell039-launch-what039s-coming</loc>
     <news:news>
       <news:publication>
@@ -3030,21 +3045,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/you-dont-have-to-turn-off-your-phone-to-switch-sim-cards-but-you-probably-should/l-intro-1791896825.jpg</image:loc>
       <image:title>You don&apos;t have to turn off your phone to switch SIM cards (but you probably should)</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/what-to-check-if-your-nintendo-switch-2-isnt-connecting-to-the-tv</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-18T00:00:00Z</news:publication_date>
-      <news:title>What to check if your Nintendo Switch 2 isn&apos;t connecting to the TV</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/what-to-check-if-your-nintendo-switch-2-isnt-connecting-to-the-tv/l-intro-1791896347.jpg</image:loc>
-      <image:title>What to check if your Nintendo Switch 2 isn&apos;t connecting to the TV</image:title>
     </image:image>
   </url>
 </urlset>
