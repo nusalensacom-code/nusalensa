@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/foldables-are-about-to-get-huge</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T11:00:00Z</news:publication_date>
+      <news:title>Foldables are about to get huge</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/09/iphone-duo-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Foldables are about to get huge</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/ive-used-the-pixel-11-pro-xl-and-iphone-18-pro-max-and-apples-ecosystem-isnt-enough-anymore</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T10:30:31Z</news:publication_date>
+      <news:title>I’ve used the Pixel 11 Pro XL and iPhone 18 Pro Max, and Apple’s ecosystem isn’t enough anymore</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/iphone-18-pro-max-pixel-11-pro-xl-scaled.jpg</image:loc>
+      <image:title>I’ve used the Pixel 11 Pro XL and iPhone 18 Pro Max, and Apple’s ecosystem isn’t enough anymore</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/some-google-home-speakers-caught-downloading-hundreds-of-gigs-of-data</loc>
     <news:news>
       <news:publication>
@@ -3285,21 +3315,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/weekly-poll-oneplus-16/gsmarena_0000.jpg</image:loc>
       <image:title>Weekly poll: would you get a OnePlus 16 if you could?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-pixel-11-pro8217s-120x-zoom-is-ridiculous-but-is-it-actually-useful</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-18T11:00:46Z</news:publication_date>
-      <news:title>The Pixel 11 Pro&amp;#8217;s 120x zoom is ridiculous, but is it actually useful?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/google-pixel-11-pro-review-hero-photo-2-scaled.jpg</image:loc>
-      <image:title>The Pixel 11 Pro&amp;#8217;s 120x zoom is ridiculous, but is it actually useful?</image:title>
     </image:image>
   </url>
 </urlset>
