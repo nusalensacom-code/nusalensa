@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/some-google-home-speakers-caught-downloading-hundreds-of-gigs-of-data</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T10:16:47Z</news:publication_date>
+      <news:title>Some Google Home Speakers caught downloading hundreds of gigs of data</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268614_Google_Home_Speaker_JTuohy_0010.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Some Google Home Speakers caught downloading hundreds of gigs of data</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/how-i-turned-my-pixel-into-the-nest-hub-google-never-made</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T10:00:00Z</news:publication_date>
+      <news:title>How I turned my Pixel into the Nest Hub Google never made</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Google-Pixel-10-screensaver-as-nest-hub-gemini-smart-screen-1-scaled.jpeg</image:loc>
+      <image:title>How I turned my Pixel into the Nest Hub Google never made</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/oppos-wide-screen-phone-tipped-to-pack-an-8000mah-battery</loc>
     <news:news>
       <news:publication>
@@ -3270,21 +3300,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/google-pixel-11-pro-review-hero-photo-2-scaled.jpg</image:loc>
       <image:title>The Pixel 11 Pro&amp;#8217;s 120x zoom is ridiculous, but is it actually useful?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/i8217ve-been-a-smart-home-user-for-10-years-and-the-apple-homeview-looks-like-a-game-changer</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-18T10:30:59Z</news:publication_date>
-      <news:title>I&amp;#8217;ve been a smart home user for 10 years, and the Apple HomeView looks like a game-changer</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Apple-HomeView-screen-angles-261013-scaled.jpg</image:loc>
-      <image:title>I&amp;#8217;ve been a smart home user for 10 years, and the Apple HomeView looks like a game-changer</image:title>
     </image:image>
   </url>
 </urlset>

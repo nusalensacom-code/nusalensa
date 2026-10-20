@@ -5,8 +5,26 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 20 Oct 2026 10:00:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 10:31:04 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Some Google Home Speakers caught downloading hundreds of gigs of data</title>
+      <link>https://nusalensa.com/phones/some-google-home-speakers-caught-downloading-hundreds-of-gigs-of-data</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/some-google-home-speakers-caught-downloading-hundreds-of-gigs-of-data</guid>
+      <description>Some Google Home Speaker owners are currently experiencing an issue in which hundreds of gigabytes of data are being continuously downloaded to their device in </description>
+      <category>Smartphones</category>
+      <pubDate>Tue, 20 Oct 2026 10:16:47 GMT</pubDate>
+      <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268614_Google_Home_Speaker_JTuohy_0010.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>How I turned my Pixel into the Nest Hub Google never made</title>
+      <link>https://nusalensa.com/phones/how-i-turned-my-pixel-into-the-nest-hub-google-never-made</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/how-i-turned-my-pixel-into-the-nest-hub-google-never-made</guid>
+      <description>I wish I&apos;d saved myself the trouble.</description>
+      <category>Smartphones</category>
+      <pubDate>Tue, 20 Oct 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/10/Google-Pixel-10-screensaver-as-nest-hub-gemini-smart-screen-1-scaled.jpeg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Oppo&apos;s wide-screen phone tipped to pack an 8,000mAh battery</title>
       <link>https://nusalensa.com/phones/oppos-wide-screen-phone-tipped-to-pack-an-8000mah-battery</link>
@@ -258,24 +276,6 @@
       <category>Technology</category>
       <pubDate>Mon, 19 Oct 2026 23:00:00 GMT</pubDate>
       <enclosure url="https://www.engadget.com/img/gallery/robot-vacuums-have-a-major-privacy-problem-you-should-be-aware-of/l-intro-1792093298.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Some Google Home Speakers downloading massive amounts of data in the background</title>
-      <link>https://nusalensa.com/phones/some-google-home-speakers-downloading-massive-amounts-of-data-in-the-background</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/some-google-home-speakers-downloading-massive-amounts-of-data-in-the-background</guid>
-      <description>The new Google Home Speaker has an issue where it downloads hundreds of gigabytes of data in the background for some owners. more…</description>
-      <category>Smartphones</category>
-      <pubDate>Mon, 19 Oct 2026 22:54:46 GMT</pubDate>
-      <enclosure url="https://9to5google.com/wp-content/uploads/sites/4/2026/06/Google-Home-Speaker-6.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Meta tweaks its new terms of service after backlash against scraping</title>
-      <link>https://nusalensa.com/technology/meta-tweaks-its-new-terms-of-service-after-backlash-against-scraping</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/meta-tweaks-its-new-terms-of-service-after-backlash-against-scraping</guid>
-      <description>The changes have alarmed publishers and others with business accounts.</description>
-      <category>Technology</category>
-      <pubDate>Mon, 19 Oct 2026 22:47:00 GMT</pubDate>
-      <enclosure url="https://www.engadget.com/img/gallery/meta-tweaks-its-new-terms-of-service-after-backlash-against-scraping/l-intro-1792449693.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
