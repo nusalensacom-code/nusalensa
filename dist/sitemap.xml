@@ -468,6 +468,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/apple-to-unveil-new-macbook-pro-models-on-october-28</loc>
+    <lastmod>2026-10-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/apple-event-october-28/gsmarena_00.jpg</image:loc>
+      <image:title>Apple to unveil new MacBook Pro models on October 28</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/karbonn-rebel-5g-is-coming-soon-for-people-who-see-past-the-hype</loc>
     <lastmod>2026-10-20</lastmod>
     <changefreq>daily</changefreq>
