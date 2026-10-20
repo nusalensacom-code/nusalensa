@@ -3,6 +3,81 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/apple-expands-partnerships-with-american-suppliers-for-the-iphone-duo-and-iphone-18-pro</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T22:21:02Z</news:publication_date>
+      <news:title>Apple expands partnerships with American suppliers for the iPhone Duo and iPhone 18 Pro</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/apple-expands-american-manufacturing-program/gsmarena_000.jpg</image:loc>
+      <image:title>Apple expands partnerships with American suppliers for the iPhone Duo and iPhone 18 Pro</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/perplexity-computer-can-now-run-fully-locally-on-mac</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T22:20:12Z</news:publication_date>
+      <news:title>Perplexity Computer Can Now Run Fully Locally on Mac</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/perplexity-computer.jpg</image:loc>
+      <image:title>Perplexity Computer Can Now Run Fully Locally on Mac</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/save-250-on-beyerdynamic-dt-1770-pro-mkii-studio-headphones</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T22:04:59Z</news:publication_date>
+      <news:title>Save $250 on Beyerdynamic DT 1770 Pro MKII studio headphones</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Beyerdynamic-DT-1770-PRO-MKII-SoundGuys.jpg</image:loc>
+      <image:title>Save $250 on Beyerdynamic DT 1770 Pro MKII studio headphones</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-next-xbox-might-cost-1800-report-says</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T22:01:23Z</news:publication_date>
+      <news:title>The next Xbox might cost $1,800, report says</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/the-next-xbox-might-cost-1800-report-says/l-intro-1792533408.jpg</image:loc>
+      <image:title>The next Xbox might cost $1,800, report says</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/what-to-expect-at-apples-pro-and-tell-event-on-october-28</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T22:00:00Z</news:publication_date>
+      <news:title>What to expect at Apple&apos;s &apos;Pro and Tell&apos; event on October 28</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/what-to-expect-at-apples-pro-and-tell-event-on-october-28/l-intro-1792520191.jpg</image:loc>
+      <image:title>What to expect at Apple&apos;s &apos;Pro and Tell&apos; event on October 28</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/hisense-l9q-projector-hits-record-low-price-saving-you-2000</loc>
     <news:news>
       <news:publication>
@@ -4665,21 +4740,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/router-and-modem-or-gateway-whats-actually-in-your-home-network/l-intro-1791993839.jpg</image:loc>
       <image:title>Router and modem or gateway: What&apos;s actually in your home network?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/a-savannah-police-officer-gave-her-flock-login-to-her-ice-agent-husband</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-18T22:20:53Z</news:publication_date>
-      <news:title>A Savannah police officer gave her Flock login to her ICE agent husband</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2265184860.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>A Savannah police officer gave her Flock login to her ICE agent husband</image:title>
     </image:image>
   </url>
 </urlset>
