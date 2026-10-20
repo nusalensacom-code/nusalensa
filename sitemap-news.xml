@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/one-of-samsung8217s-most-popular-phones-is-now-getting-stable-one-ui-9-with-android-17</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T08:59:49Z</news:publication_date>
+      <news:title>One of Samsung&amp;#8217;s most popular phones is now getting stable One UI 9 with Android 17</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/04/Samsung-Galaxy-A36-5G-review-image-8.jpg</image:loc>
+      <image:title>One of Samsung&amp;#8217;s most popular phones is now getting stable One UI 9 with Android 17</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/fed-up-with-ads-and-bloatware-on-your-smart-tv-people-are-vibecoding-ways-to-remove-them</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T08:30:28Z</news:publication_date>
+      <news:title>Fed up with ads and bloatware on your smart TV? People are vibecoding ways to remove them</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/Ads-on-Google-TVs-home-screen.jpg</image:loc>
+      <image:title>Fed up with ads and bloatware on your smart TV? People are vibecoding ways to remove them</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-tv8217s-latest-surprise-is-a-collection-of-features-you8217ve-probably-seen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T08:25:45Z</news:publication_date>
+      <news:title>Google TV&amp;#8217;s latest surprise is a collection of features you&amp;#8217;ve probably seen</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/01/Gemini-in-Google-TV-at-CES-2026-20-of-32.jpg</image:loc>
+      <image:title>Google TV&amp;#8217;s latest surprise is a collection of features you&amp;#8217;ve probably seen</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/oneplus-details-the-dual-airflow-fan-design-on-the-upcoming-ace-7-series</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T08:02:02Z</news:publication_date>
+      <news:title>OnePlus details the dual-airflow fan design on the upcoming Ace 7 series</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/oneplus-ace-7-pro-launch-design-confirmed/gsmarena_00.jpg</image:loc>
+      <image:title>OnePlus details the dual-airflow fan design on the upcoming Ace 7 series</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/some-google-home-speakers-are-downloading-hundreds-of-gigs-of-data-for-no-reason</loc>
     <news:news>
       <news:publication>
@@ -3150,36 +3210,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/02/Samsung-Galaxy-A16-5G-lying-on-table.jpg</image:loc>
       <image:title>5 Android phones you should buy instead of the Samsung Galaxy A16</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/pixel-11-pro-xl-vs-galaxy-s27-ultra-why-you-shouldn8217t-buy-google8217s-flagship-right-now</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-18T09:00:23Z</news:publication_date>
-      <news:title>Pixel 11 Pro XL vs. Galaxy S27 Ultra: Why you shouldn&amp;#8217;t buy Google&amp;#8217;s flagship right now</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/google-pixel-11-pro-xl-pink-flowers-scaled.jpg</image:loc>
-      <image:title>Pixel 11 Pro XL vs. Galaxy S27 Ultra: Why you shouldn&amp;#8217;t buy Google&amp;#8217;s flagship right now</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/deals-galaxy-z-fold8-is-on-sale-as-the-iphone-duo-launches-other-foldables-also-discounted</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-18T08:22:01Z</news:publication_date>
-      <news:title>Deals: Galaxy Z Fold8 is on sale as the iPhone Duo launches, other foldables also discounted</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/weekly-deals-16/gsmarena_de.jpg</image:loc>
-      <image:title>Deals: Galaxy Z Fold8 is on sale as the iPhone Duo launches, other foldables also discounted</image:title>
     </image:image>
   </url>
 </urlset>
