@@ -5,8 +5,26 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 20 Oct 2026 05:31:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 06:25:39 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Huawei Mate X8 specs leak</title>
+      <link>https://nusalensa.com/phones/huawei-mate-x8-specs-leak</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/huawei-mate-x8-specs-leak</guid>
+      <description>Huawei launched the Mate X7 in November of last year, and according to a new rumor from China, its successor, the Mate X8, is scheduled to become official next </description>
+      <category>Smartphones</category>
+      <pubDate>Tue, 20 Oct 2026 06:00:02 GMT</pubDate>
+      <enclosure url="https://fdn.gsmarena.com/imgroot/news/26/10/huawei-mate-x8-specs-leak/gsmarena_000.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>ChatGPT Slides is finally here to turn your chats and files into presentations</title>
+      <link>https://nusalensa.com/phones/chatgpt-slides-is-finally-here-to-turn-your-chats-and-files-into-presentations</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/chatgpt-slides-is-finally-here-to-turn-your-chats-and-files-into-presentations</guid>
+      <description>Unfortunately, Plus subscribers don&apos;t get access to it.</description>
+      <category>Smartphones</category>
+      <pubDate>Tue, 20 Oct 2026 05:40:52 GMT</pubDate>
+      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/08/Gemini-Claude-ChatGPT-on-home-screen-scaled.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Apple to unveil new MacBook Pro models on October 28</title>
       <link>https://nusalensa.com/phones/apple-to-unveil-new-macbook-pro-models-on-october-28</link>
@@ -258,24 +276,6 @@
       <category>Smartphones</category>
       <pubDate>Mon, 19 Oct 2026 20:31:09 GMT</pubDate>
       <enclosure url="https://images.macrumors.com/article-new/2026/10/homepod-sound-glow.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Straight Talk is giving its unlimited plans a boost without raising prices</title>
-      <link>https://nusalensa.com/phones/straight-talk-is-giving-its-unlimited-plans-a-boost-without-raising-prices</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/straight-talk-is-giving-its-unlimited-plans-a-boost-without-raising-prices</guid>
-      <description>More hotspot data, faster 5G for some, and not a price hike in sight.</description>
-      <category>Smartphones</category>
-      <pubDate>Mon, 19 Oct 2026 20:27:59 GMT</pubDate>
-      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Straight-Talk-logo-on-phone-with-many-devices-2.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says</title>
-      <link>https://nusalensa.com/technology/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says</guid>
-      <description>US fears Saudi government will help ex-OpenAI engineer flee spying charges.</description>
-      <category>Technology</category>
-      <pubDate>Mon, 19 Oct 2026 20:21:53 GMT</pubDate>
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2214263510-1024x648.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>

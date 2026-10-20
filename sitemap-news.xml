@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/huawei-mate-x8-specs-leak</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T06:00:02Z</news:publication_date>
+      <news:title>Huawei Mate X8 specs leak</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/huawei-mate-x8-specs-leak/gsmarena_000.jpg</image:loc>
+      <image:title>Huawei Mate X8 specs leak</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/chatgpt-slides-is-finally-here-to-turn-your-chats-and-files-into-presentations</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T05:40:52Z</news:publication_date>
+      <news:title>ChatGPT Slides is finally here to turn your chats and files into presentations</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/Gemini-Claude-ChatGPT-on-home-screen-scaled.jpg</image:loc>
+      <image:title>ChatGPT Slides is finally here to turn your chats and files into presentations</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/apple-to-unveil-new-macbook-pro-models-on-october-28</loc>
     <news:news>
       <news:publication>

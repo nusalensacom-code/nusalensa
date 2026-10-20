@@ -468,6 +468,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/huawei-mate-x8-specs-leak</loc>
+    <lastmod>2026-10-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/huawei-mate-x8-specs-leak/gsmarena_000.jpg</image:loc>
+      <image:title>Huawei Mate X8 specs leak</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/chatgpt-slides-is-finally-here-to-turn-your-chats-and-files-into-presentations</loc>
+    <lastmod>2026-10-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/Gemini-Claude-ChatGPT-on-home-screen-scaled.jpg</image:loc>
+      <image:title>ChatGPT Slides is finally here to turn your chats and files into presentations</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/apple-to-unveil-new-macbook-pro-models-on-october-28</loc>
     <lastmod>2026-10-20</lastmod>
     <changefreq>daily</changefreq>
