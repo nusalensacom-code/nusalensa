@@ -3,6 +3,111 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/amd-is-bringing-its-next-gen-fsr-41-upscaling-tech-to-xbox</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T18:17:00Z</news:publication_date>
+      <news:title>AMD is bringing its next-gen FSR 4.1 upscaling tech to Xbox</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/amd-is-bringing-its-next-gen-fsr-4-1-upscaling-tech-to-xbox/l-intro-1792520179.jpg</image:loc>
+      <image:title>AMD is bringing its next-gen FSR 4.1 upscaling tech to Xbox</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/here039s-what-apple039s-apps-look-like-on-the-iphone-duo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T18:12:50Z</news:publication_date>
+      <news:title>Here&amp;#039;s What Apple&amp;#039;s Apps Look Like on the iPhone Duo</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Trio.jpg</image:loc>
+      <image:title>Here&amp;#039;s What Apple&amp;#039;s Apps Look Like on the iPhone Duo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/youtube-starts-hiding-the-dislike-button-on-normal-videos</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T18:10:00Z</news:publication_date>
+      <news:title>YouTube starts hiding the dislike button on normal videos</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2025/06/youtube-logo-desktop-3.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>YouTube starts hiding the dislike button on normal videos</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/meta-pauses-muse-sharing-after-researchers-find-ai-chats-on-the-web</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T18:07:34Z</news:publication_date>
+      <news:title>Meta pauses Muse sharing after researchers find AI chats on the web</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_A.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Meta pauses Muse sharing after researchers find AI chats on the web</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/todays-android-app-deals-and-freebies-chrono-trigger-next-level-not-a-bot-more</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T18:06:17Z</news:publication_date>
+      <news:title>Today’s Android app deals and freebies: Chrono Trigger, Next Level, Not A Bot, more</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Google-Play-collage-c9c028.webp?w=1600</image:loc>
+      <image:title>Today’s Android app deals and freebies: Chrono Trigger, Next Level, Not A Bot, more</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/samsung-improves-the-power-efficiency-of-the-exynos-modems-for-the-galaxy-s27-phones</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T18:03:01Z</news:publication_date>
+      <news:title>Samsung improves the power efficiency of the Exynos modems for the Galaxy S27 phones</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/samsung-m2700-modem-more-power-efficient/gsmarena_000.jpg</image:loc>
+      <image:title>Samsung improves the power efficiency of the Exynos modems for the Galaxy S27 phones</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/how-often-should-you-restart-your-apple-watch</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T18:00:00Z</news:publication_date>
+      <news:title>How often should you restart your Apple Watch?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/how-often-should-you-restart-your-apple-watch/l-intro-1792170963.jpg</image:loc>
+      <image:title>How often should you restart your Apple Watch?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/amazon-drops-belkin-soundform-isolate-buds-to-a-new-low</loc>
     <news:news>
       <news:publication>
@@ -3975,66 +4080,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/heres-how-the-slate-truck-gets-software-updates-without-built-in-infotainment/l-intro-1791571931.jpg</image:loc>
       <image:title>Here&apos;s how the Slate truck gets software updates without built-in infotainment</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-18T18:28:10Z</news:publication_date>
-      <news:title>A woman was arrested in Philly for blocking a delivery robot</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/avride-uber-delivery.webp?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>A woman was arrested in Philly for blocking a delivery robot</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/oneplus-16-is-official-with-9000mah-battery-week-42-in-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-18T18:09:02Z</news:publication_date>
-      <news:title>OnePlus 16 is official with 9,000mAh battery, Week 42 in review</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/week-42-in-review/gsmarena_000.jpg</image:loc>
-      <image:title>OnePlus 16 is official with 9,000mAh battery, Week 42 in review</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-expected-to-release-new-products-on-next-four-fridays</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-18T18:01:53Z</news:publication_date>
-      <news:title>Apple Expected to Release New Products on Next Four Fridays</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/07/iPad-mini-7-Review-Thumb-1-sans-text.jpg</image:loc>
-      <image:title>Apple Expected to Release New Products on Next Four Fridays</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/from-the-royole-flexpai-to-the-iphone-duo-how-the-modern-foldable-phone-has-evolved</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-18T18:00:00Z</news:publication_date>
-      <news:title>From the Royole FlexPai to the iPhone Duo: How the modern foldable phone has evolved</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/from-the-royole-flexpai-to-the-iphone-duo-how-the-modern-foldable-phone-has-evolved/l-intro-1791988871.jpg</image:loc>
-      <image:title>From the Royole FlexPai to the iPhone Duo: How the modern foldable phone has evolved</image:title>
     </image:image>
   </url>
 </urlset>
