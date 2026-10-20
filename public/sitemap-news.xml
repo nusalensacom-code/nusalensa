@@ -3,6 +3,96 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/djis-osmo-pocket-3-vlogging-camera-is-a-good-deal-at-under-400</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T19:09:35Z</news:publication_date>
+      <news:title>DJI’s Osmo Pocket 3 vlogging camera is a good deal at under $400</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/dji-osmo-pocket-3-roundup.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>DJI’s Osmo Pocket 3 vlogging camera is a good deal at under $400</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/xbox-ceo-is-reportedly-planning-three-more-rounds-of-layoffs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T19:06:40Z</news:publication_date>
+      <news:title>Xbox CEO is reportedly planning three more rounds of layoffs</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK048_XBOX_2_D.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Xbox CEO is reportedly planning three more rounds of layoffs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/amazon-is-phasing-out-fire-hd-tablets-but-not-without-some-big-discounts-first</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T19:00:00Z</news:publication_date>
+      <news:title>Amazon is phasing out Fire HD tablets, but not without some big discounts first</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/amazonfirehd.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Amazon is phasing out Fire HD tablets, but not without some big discounts first</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/justwatch-now-streams-tv-shows-and-movies-too</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T18:56:50Z</news:publication_date>
+      <news:title>JustWatch now streams TV shows and movies, too</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/justwatch.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>JustWatch now streams TV shows and movies, too</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/microsoft-reportedly-plans-xbox-handheld-in-2027-next-gen-console-in-2028</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T18:45:39Z</news:publication_date>
+      <news:title>Microsoft reportedly plans Xbox handheld in 2027, next-gen console in 2028</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290359/STK048_XBOX_C.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Microsoft reportedly plans Xbox handheld in 2027, next-gen console in 2028</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/how-long-can-you-expect-your-original-steam-deck-to-last</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T18:30:00Z</news:publication_date>
+      <news:title>How long can you expect your original Steam Deck to last?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/how-long-can-you-expect-your-original-steam-deck-to-last/l-intro-1791573909.jpg</image:loc>
+      <image:title>How long can you expect your original Steam Deck to last?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/amd-is-bringing-its-next-gen-fsr-41-upscaling-tech-to-xbox</loc>
     <news:news>
       <news:publication>
@@ -4050,36 +4140,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Mister-Organ-poster.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Mister Organ is one of the most unsettling documentaries I’ve ever seen</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/what-is-the-star-button-for-on-your-roku-remote</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-18T18:45:00Z</news:publication_date>
-      <news:title>What is the star button for on your Roku remote?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/what-is-the-star-button-for-on-your-roku-remote/l-intro-1791990292.jpg</image:loc>
-      <image:title>What is the star button for on your Roku remote?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/heres-how-the-slate-truck-gets-software-updates-without-built-in-infotainment</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-18T18:30:00Z</news:publication_date>
-      <news:title>Here&apos;s how the Slate truck gets software updates without built-in infotainment</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/heres-how-the-slate-truck-gets-software-updates-without-built-in-infotainment/l-intro-1791571931.jpg</image:loc>
-      <image:title>Here&apos;s how the Slate truck gets software updates without built-in infotainment</image:title>
     </image:image>
   </url>
 </urlset>
