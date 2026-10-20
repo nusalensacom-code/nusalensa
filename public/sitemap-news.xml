@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/judge-dismisses-sam-altmans-sisters-sexual-abuse-lawsuit</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T23:04:19Z</news:publication_date>
+      <news:title>Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_D.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/oura-ring-can-track-new-stats-related-to-cardio-fitness</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T23:00:10Z</news:publication_date>
+      <news:title>Oura Ring can track new stats related to cardio fitness</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/oura-ring-can-track-new-stats-related-to-cardio-fitness/l-intro-1792537017.jpg</image:loc>
+      <image:title>Oura Ring can track new stats related to cardio fitness</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/five-things-you-should-know-before-buying-the-iphone-duo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T23:00:00Z</news:publication_date>
+      <news:title>Five things you should know before buying the iPhone Duo</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/five-things-you-should-know-before-buying-the-iphone-duo/l-intro-1791925293.jpg</image:loc>
+      <image:title>Five things you should know before buying the iPhone Duo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/reviews/the-android-authority-best-of-2026-awards-all-the-winners-so-far</loc>
     <news:news>
       <news:publication>
@@ -4800,21 +4845,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/how-to-use-googles-synthid-ai-detection-website/l-intro-1791998472.jpg</image:loc>
       <image:title>How to use Google&apos;s SynthID AI detection website</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/an-xbox-series-x-can-now-run-playstation-5-games-but-theres-a-catch</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-18T23:00:00Z</news:publication_date>
-      <news:title>An Xbox Series X can now run PlayStation 5 games, but there&apos;s a catch</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/an-xbox-series-x-can-now-run-playstation-5-games-but-theres-a-catch/l-intro-1791888562.jpg</image:loc>
-      <image:title>An Xbox Series X can now run PlayStation 5 games, but there&apos;s a catch</image:title>
     </image:image>
   </url>
 </urlset>
