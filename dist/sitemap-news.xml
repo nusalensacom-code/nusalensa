@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/hisense-l9q-projector-hits-record-low-price-saving-you-2000</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T21:54:36Z</news:publication_date>
+      <news:title>Hisense L9Q projector hits record-low price, saving you $2,000</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Hisense-L9Q-Ultra-Short-Throw-Triple-Laser-Projector-Press-Image.jpg</image:loc>
+      <image:title>Hisense L9Q projector hits record-low price, saving you $2,000</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-latest-playstation-firmware-may-have-already-been-cracked-ahead-of-gta-6</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T21:30:57Z</news:publication_date>
+      <news:title>The latest PlayStation firmware may have already been cracked ahead of GTA 6</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/the-latest-playstation-firmware-may-have-already-been-cracked-ahead-of-gta-6/l-intro-1792530805.jpg</image:loc>
+      <image:title>The latest PlayStation firmware may have already been cracked ahead of GTA 6</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/tesla-and-spacex-are-discussing-a-possible-merger-musk-says</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T21:30:24Z</news:publication_date>
+      <news:title>Tesla and SpaceX are discussing a possible merger, Musk says</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_D.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Tesla and SpaceX are discussing a possible merger, Musk says</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/survey-reveals-trust-in-google-has-taken-a-big-hit-after-this-quiet-android-change</loc>
     <news:news>
       <news:publication>
@@ -4635,36 +4680,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2265184860.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>A Savannah police officer gave her Flock login to her ICE agent husband</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/what-is-apples-image-playground-app-for-and-how-do-you-use-it</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-18T22:00:00Z</news:publication_date>
-      <news:title>What is Apple&apos;s Image Playground app for and how do you use it?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/what-is-apples-image-playground-app-for-and-how-do-you-use-it/l-intro-1791993182.jpg</image:loc>
-      <image:title>What is Apple&apos;s Image Playground app for and how do you use it?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/what-is-variable-aperture-and-why-should-you-care</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-18T21:55:01Z</news:publication_date>
-      <news:title>What is variable aperture and why should you care?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/iphone-variable-aperture-test/gsmarena_000.jpg</image:loc>
-      <image:title>What is variable aperture and why should you care?</image:title>
     </image:image>
   </url>
 </urlset>
