@@ -3,6 +3,96 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/samsung-signs-huge-dram-and-hbm-contracts</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T12:28:02Z</news:publication_date>
+      <news:title>Samsung signs huge DRAM and HBM contracts</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/samsung-signs-huge-dram-hbm-contracts/gsmarena_000.jpg</image:loc>
+      <image:title>Samsung signs huge DRAM and HBM contracts</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/3-useful-features-included-with-google-one-that-people-ignore</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T12:15:00Z</news:publication_date>
+      <news:title>3+ useful features included with Google One that people ignore</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/3-useful-features-included-with-google-one-that-people-ignore/l-intro-1792146441.jpg</image:loc>
+      <image:title>3+ useful features included with Google One that people ignore</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/openai-says-its-models-can-help-banks-migrate-from-old-cobol-programs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T12:01:59Z</news:publication_date>
+      <news:title>OpenAI says its models can help banks migrate from old COBOL programs</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/openai-says-its-models-can-help-banks-migrate-from-old-cobol-programs/l-intro-1792497626.jpg</image:loc>
+      <image:title>OpenAI says its models can help banks migrate from old COBOL programs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/oura-adds-new-fitness-metrics-to-show-how-workouts-impact-your-body</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T12:00:00Z</news:publication_date>
+      <news:title>Oura adds new fitness metrics to show how workouts impact your body</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
+      <image:title>Oura adds new fitness metrics to show how workouts impact your body</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/spotifys-memberships-program-for-podcasts-is-here-to-compete-with-patreon</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T12:00:00Z</news:publication_date>
+      <news:title>Spotify&apos;s Memberships program for podcasts is here to compete with Patreon</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/spotifys-memberships-program-for-podcasts-is-here-to-compete-with-patreon/l-intro-1792416234.jpg</image:loc>
+      <image:title>Spotify&apos;s Memberships program for podcasts is here to compete with Patreon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/spotifys-new-podcast-memberships-let-you-pay-for-extra-perks</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T12:00:00Z</news:publication_date>
+      <news:title>Spotify’s new podcast memberships let you pay for extra perks</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Spotify-Podcast-Memberships.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Spotify’s new podcast memberships let you pay for extra perks</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/snapdragon-or-exynos-new-upgrade-for-exynos-galaxy-s27-could-make-this-a-tough-choice</loc>
     <news:news>
       <news:publication>
@@ -3300,66 +3390,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/why-its-important-to-avoid-plugging-in-a-damaged-external-hard-drive/l-intro-1791900463.jpg</image:loc>
       <image:title>Why it&apos;s important to avoid plugging in a damaged external hard drive</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/why-are-internet-upload-speeds-so-much-slower-than-download-speeds</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-18T12:30:00Z</news:publication_date>
-      <news:title>Why are internet upload speeds so much slower than download speeds?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/why-are-internet-upload-speeds-so-much-slower-than-download-speeds/l-intro-1791899938.jpg</image:loc>
-      <image:title>Why are internet upload speeds so much slower than download speeds?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/why-you-might-not-want-to-join-two-ethernet-cables-and-what-you-should-do-instead</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-18T12:15:00Z</news:publication_date>
-      <news:title>Why you might not want to join two Ethernet cables (and what you should do instead)</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/why-you-might-not-want-to-join-two-ethernet-cables-and-what-you-should-do-instead/l-intro-1791896475.jpg</image:loc>
-      <image:title>Why you might not want to join two Ethernet cables (and what you should do instead)</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/this-firefox-feature-made-me-ditch-sticky-notes-for-everyday-research</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-18T12:00:01Z</news:publication_date>
-      <news:title>This Firefox feature made me ditch sticky notes for everyday research</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/i-replaced-sticky-notes-with-firefox-tab-notes-for-everyday-research-1.jpg</image:loc>
-      <image:title>This Firefox feature made me ditch sticky notes for everyday research</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/cities-want-to-put-the-boot-on-robotaxis</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-18T12:00:00Z</news:publication_date>
-      <news:title>Cities want to put the boot on robotaxis</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2270749481.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Cities want to put the boot on robotaxis</image:title>
     </image:image>
   </url>
 </urlset>
