@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/i-split-claude-gemini-and-chatgpt-into-work-home-and-casual-and-it8217s-a-mixed-bag</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T09:30:24Z</news:publication_date>
+      <news:title>I split Claude, Gemini, and ChatGPT into work, home, and casual, and it&amp;#8217;s a mixed bag</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/AI2-4-scaled.jpg</image:loc>
+      <image:title>I split Claude, Gemini, and ChatGPT into work, home, and casual, and it&amp;#8217;s a mixed bag</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/samsung-is-killing-a-smart-tv-hub-that-just-got-a-major-google-photos-upgrade</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T09:14:40Z</news:publication_date>
+      <news:title>Samsung is killing a smart TV hub that just got a major Google Photos upgrade</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Samsung-Daily-Plus-hub-shutting-down.jpg</image:loc>
+      <image:title>Samsung is killing a smart TV hub that just got a major Google Photos upgrade</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/subaru-is-dropping-gas-cars-for-evs-in-europe-by-the-end-of-2027</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T09:14:00Z</news:publication_date>
+      <news:title>Subaru is dropping gas cars for EVs in Europe by the end of 2027</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/subaru-is-dropping-gas-cars-for-evs-in-europe-by-the-end-of-2027/l-intro-1792573932.jpg</image:loc>
+      <image:title>Subaru is dropping gas cars for EVs in Europe by the end of 2027</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/omdia-foldable-displays-shipments-will-increase-44-this-year-with-a-focus-on-wide-foldables</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T09:07:02Z</news:publication_date>
+      <news:title>Omdia: foldable displays shipments will increase 44% this year with a focus on wide foldables</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/omdia-foldable-display-shipments-2026-forecast/gsmarena_000.jpg</image:loc>
+      <image:title>Omdia: foldable displays shipments will increase 44% this year with a focus on wide foldables</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/samsung8217s-first-android-xr-glasses-face-a-design-problem-its-competitor-already-solved</loc>
     <news:news>
       <news:publication>
@@ -5010,111 +5070,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/redmi-k100-launch-design/gsmarena_00.jpg</image:loc>
       <image:title>Redmi K100 with 10,000mAh battery and 6.83-inch display is launching next week</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/i-own-a-pixel-watch-but-these-5-features-make-me-want-the-fitbit-edge-instead</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T10:00:25Z</news:publication_date>
-      <news:title>I own a Pixel Watch, but these 5 features make me want the Fitbit Edge instead</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/fitbit-edge-fabric-metal-bands-official.jpg</image:loc>
-      <image:title>I own a Pixel Watch, but these 5 features make me want the Fitbit Edge instead</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/android-auto-could-soon-make-commute-part-of-your-workday-whether-you-like-it-or-not</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T09:42:30Z</news:publication_date>
-      <news:title>Android Auto could soon make commute part of your workday, whether you like it or not</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/MapQuest-on-Android-Auto_2.jpg</image:loc>
-      <image:title>Android Auto could soon make commute part of your workday, whether you like it or not</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/here8217s-how-you8217ll-enable-enhanced-protection-in-google-messages-when-it-rolls-out</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T09:35:48Z</news:publication_date>
-      <news:title>Here&amp;#8217;s how you&amp;#8217;ll enable Enhanced Protection in Google Messages when it rolls out</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/google-messages-logo-pixel-11-pro-close-scaled.jpg</image:loc>
-      <image:title>Here&amp;#8217;s how you&amp;#8217;ll enable Enhanced Protection in Google Messages when it rolls out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/6-things-i-wish-i-knew-before-buying-my-first-google-tv-projector</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T09:30:12Z</news:publication_date>
-      <news:title>6 things I wish I knew before buying my first Google TV projector</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/xgimi-horizon-20-max-8-1.jpg</image:loc>
-      <image:title>6 things I wish I knew before buying my first Google TV projector</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-gemini-4-agents-just-beat-minecraft-with-no-human-intervention</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T09:19:19Z</news:publication_date>
-      <news:title>Google Gemini 4 agents just beat Minecraft with no human intervention</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/google-gemini-4-agents-just-beat-minecraft-with-no-human-intervention/l-intro-1792401444.jpg</image:loc>
-      <image:title>Google Gemini 4 agents just beat Minecraft with no human intervention</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/location-sharing-in-google-messages-could-soon-get-much-more-useful</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T09:18:55Z</news:publication_date>
-      <news:title>Location sharing in Google Messages could soon get much more useful</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/google-messages-logo-z-fold-8.jpg</image:loc>
-      <image:title>Location sharing in Google Messages could soon get much more useful</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-galaxy-f70-arrives-with-familiar-specs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T09:12:02Z</news:publication_date>
-      <news:title>Samsung Galaxy F70 arrives with familiar specs</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/samsung-galaxy-f70-ofic/gsmarena_000.jpg</image:loc>
-      <image:title>Samsung Galaxy F70 arrives with familiar specs</image:title>
     </image:image>
   </url>
 </urlset>
