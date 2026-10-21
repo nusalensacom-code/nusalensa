@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/samsung-is-rolling-out-android-17-updates-for-some-of-its-most-popular-galaxy-phones</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/03/galaxy-a37-1.webp?w=1600</image:loc>
+      <image:title>Samsung is rolling out Android 17 updates for some of its most popular Galaxy phones</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/openais-agents-disabled-their-own-safety-monitoring-systems</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/openais-agents-disabled-their-own-safety-monitoring-systems/l-intro-1792579899.jpg</image:loc>
+      <image:title>OpenAI&apos;s agents disabled their own safety monitoring systems</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/this-new-phone-brings-snapdragon-8-elite-gen-6-with-cooling-fan-10000mah-battery-and-more</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/HONOR-Win-RT-2-official-edited-scaled.jpg</image:loc>
+      <image:title>This new phone brings Snapdragon 8 Elite Gen 6 with cooling fan, 10,000mAh battery, and more</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/a-highlight-google-photos-feature-could-be-up-for-a-rebrand-coming-alongside-these-fixes</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/google-photos-july-2026-redesign.jpg</image:loc>
+      <image:title>A highlight Google Photos feature could be up for a rebrand, coming alongside these fixes</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/lisbon-through-the-lenses-of-the-oppo-find-x10-pro-max</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/oppo-find-x10-pro-max-lisbon/gsmarena_000.jpg</image:loc>
+      <image:title>Lisbon through the lenses of the Oppo Find X10 Pro Max</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/i-didn8217t-expect-pixel-vips-to-impress-me-much-but-now-i-can8217t-stop-using-it</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/the-pixel-vips-widget-on-a-pixel-8-pro-scaled.jpg</image:loc>
+      <image:title>I didn&amp;#8217;t expect Pixel VIPs to impress me much, but now I can&amp;#8217;t stop using it</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/i-split-claude-gemini-and-chatgpt-into-work-home-and-casual-and-it8217s-a-mixed-bag</loc>
     <lastmod>2026-10-21</lastmod>
     <changefreq>daily</changefreq>

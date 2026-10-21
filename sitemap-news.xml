@@ -3,6 +3,96 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/samsung-is-rolling-out-android-17-updates-for-some-of-its-most-popular-galaxy-phones</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T11:00:00Z</news:publication_date>
+      <news:title>Samsung is rolling out Android 17 updates for some of its most popular Galaxy phones</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/03/galaxy-a37-1.webp?w=1600</image:loc>
+      <image:title>Samsung is rolling out Android 17 updates for some of its most popular Galaxy phones</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/openais-agents-disabled-their-own-safety-monitoring-systems</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T10:53:21Z</news:publication_date>
+      <news:title>OpenAI&apos;s agents disabled their own safety monitoring systems</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/openais-agents-disabled-their-own-safety-monitoring-systems/l-intro-1792579899.jpg</image:loc>
+      <image:title>OpenAI&apos;s agents disabled their own safety monitoring systems</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/this-new-phone-brings-snapdragon-8-elite-gen-6-with-cooling-fan-10000mah-battery-and-more</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T10:37:15Z</news:publication_date>
+      <news:title>This new phone brings Snapdragon 8 Elite Gen 6 with cooling fan, 10,000mAh battery, and more</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/HONOR-Win-RT-2-official-edited-scaled.jpg</image:loc>
+      <image:title>This new phone brings Snapdragon 8 Elite Gen 6 with cooling fan, 10,000mAh battery, and more</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/a-highlight-google-photos-feature-could-be-up-for-a-rebrand-coming-alongside-these-fixes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T10:22:13Z</news:publication_date>
+      <news:title>A highlight Google Photos feature could be up for a rebrand, coming alongside these fixes</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/google-photos-july-2026-redesign.jpg</image:loc>
+      <image:title>A highlight Google Photos feature could be up for a rebrand, coming alongside these fixes</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/lisbon-through-the-lenses-of-the-oppo-find-x10-pro-max</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T10:03:02Z</news:publication_date>
+      <news:title>Lisbon through the lenses of the Oppo Find X10 Pro Max</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/oppo-find-x10-pro-max-lisbon/gsmarena_000.jpg</image:loc>
+      <image:title>Lisbon through the lenses of the Oppo Find X10 Pro Max</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/i-didn8217t-expect-pixel-vips-to-impress-me-much-but-now-i-can8217t-stop-using-it</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T10:00:36Z</news:publication_date>
+      <news:title>I didn&amp;#8217;t expect Pixel VIPs to impress me much, but now I can&amp;#8217;t stop using it</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/the-pixel-vips-widget-on-a-pixel-8-pro-scaled.jpg</image:loc>
+      <image:title>I didn&amp;#8217;t expect Pixel VIPs to impress me much, but now I can&amp;#8217;t stop using it</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/i-split-claude-gemini-and-chatgpt-into-work-home-and-casual-and-it8217s-a-mixed-bag</loc>
     <news:news>
       <news:publication>
@@ -4995,81 +5085,6 @@
     <image:image>
       <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/Sceye-ST1-Launch-from-outside-1152x648.jpg</image:loc>
       <image:title>Stratospheric airship flew from US to Japan to test sky cell tower concept</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-maeving-rm2-is-high-style-electric-riding-with-a-few-compromises</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T11:00:00Z</news:publication_date>
-      <news:title>The Maeving RM2 is high-style electric riding with a few compromises</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/2026-Maeving-RM2-013.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>The Maeving RM2 is high-style electric riding with a few compromises</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/foldables-remain-a-tough-sell-but-this-iphone-duo-alternative-gets-our-readers8217-vote</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T10:42:51Z</news:publication_date>
-      <news:title>Foldables remain a tough sell, but this iPhone Duo alternative gets our readers&amp;#8217; vote</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-iPhone-Duo-Hands-On-Facetime-on-inner-display-in-flex-mode.jpg</image:loc>
-      <image:title>Foldables remain a tough sell, but this iPhone Duo alternative gets our readers&amp;#8217; vote</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/i-looked-at-the-20-best-selling-smartphones-on-amazon-and-these-are-the-only-3-i-would-buy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T10:30:15Z</news:publication_date>
-      <news:title>I looked at the 20 best-selling smartphones on Amazon, and these are the only 3 I would buy</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/03/Samsung-Galaxy-S26-Ultra-home-screen.jpg</image:loc>
-      <image:title>I looked at the 20 best-selling smartphones on Amazon, and these are the only 3 I would buy</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-best-ps3-emulator-on-android-just-got-a-massive-local-multiplayer-upgrade</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T10:30:09Z</news:publication_date>
-      <news:title>The best PS3 emulator on Android just got a massive local multiplayer upgrade</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/ARMSX3-PS3-emulator-on-Google-Play-Store-scaled.jpg</image:loc>
-      <image:title>The best PS3 emulator on Android just got a massive local multiplayer upgrade</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/redmi-k100-with-10000mah-battery-and-683-inch-display-is-launching-next-week</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T10:14:02Z</news:publication_date>
-      <news:title>Redmi K100 with 10,000mAh battery and 6.83-inch display is launching next week</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/redmi-k100-launch-design/gsmarena_00.jpg</image:loc>
-      <image:title>Redmi K100 with 10,000mAh battery and 6.83-inch display is launching next week</image:title>
     </image:image>
   </url>
 </urlset>
