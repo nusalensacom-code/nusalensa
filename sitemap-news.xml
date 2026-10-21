@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/bose-acquires-skullcandy-to-help-it-reach-a-wider-audience</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T20:15:00Z</news:publication_date>
+      <news:title>Bose acquires Skullcandy to help it reach a wider audience</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/skullcandy1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Bose acquires Skullcandy to help it reach a wider audience</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/jmgo-iris-ultra-pre-order-deal-cuts-200-off-this-4k-projector</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T20:05:44Z</news:publication_date>
+      <news:title>JMGO IRIS Ultra pre-order deal cuts $200 off this 4K projector</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/JMGO-IRIS-series.jpg</image:loc>
+      <image:title>JMGO IRIS Ultra pre-order deal cuts $200 off this 4K projector</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/what-32000-folds-did-to-the-iphone-duo039s-hinge</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T20:05:27Z</news:publication_date>
+      <news:title>What 32,000 Folds Did to the iPhone Duo&amp;#039;s Hinge</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/joanna-stern-fold-test.jpg</image:loc>
+      <image:title>What 32,000 Folds Did to the iPhone Duo&amp;#039;s Hinge</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/spotify-launches-podcast-memberships-creators-keep-90-of-the-revenue</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T20:01:02Z</news:publication_date>
+      <news:title>Spotify launches podcast Memberships, creators keep 90% of the revenue</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/spotify-members/gsmarena_000.jpg</image:loc>
+      <image:title>Spotify launches podcast Memberships, creators keep 90% of the revenue</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/ring-outdoor-cam-4k-pro-gets-a-rare-60-amazon-discount</loc>
     <news:news>
       <news:publication>
@@ -5325,36 +5385,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Straight-Talk-logo-on-phone-with-many-devices-2.jpg</image:loc>
       <image:title>Straight Talk is giving its unlimited plans a boost without raising prices</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T20:21:53Z</news:publication_date>
-      <news:title>Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2214263510-1024x648.jpg</image:loc>
-      <image:title>Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/batteries-help-reduce-emissions-but-how-do-we-reduce-their-emissions</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T20:03:55Z</news:publication_date>
-      <news:title>Batteries help reduce emissions, but how do we reduce their emissions?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1177067-1024x648.jpg</image:loc>
-      <image:title>Batteries help reduce emissions, but how do we reduce their emissions?</image:title>
     </image:image>
   </url>
 </urlset>
