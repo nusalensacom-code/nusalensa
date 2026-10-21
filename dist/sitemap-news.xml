@@ -3,6 +3,96 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/nvidias-latest-gpu-driver-brings-a-new-way-to-speed-up-pc-games</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T13:09:26Z</news:publication_date>
+      <news:title>Nvidia’s latest GPU driver brings a new way to speed up PC games</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25728971/STK083_NVIDIA_2_D.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Nvidia’s latest GPU driver brings a new way to speed up PC games</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/forget-custom-roms-you-can-now-run-ios-on-android-phones-yes-really</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T13:09:21Z</news:publication_date>
+      <news:title>Forget custom ROMs, you can now run iOS on Android phones (yes, really)</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/iOS-on-Redmi-Note-10-Pro.jpg</image:loc>
+      <image:title>Forget custom ROMs, you can now run iOS on Android phones (yes, really)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-says-039reachability039-feature-coming-to-iphone-duo-later-this-year</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T13:05:08Z</news:publication_date>
+      <news:title>Apple Says &amp;#039;Reachability&amp;#039; Feature Coming to iPhone Duo Later This Year</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/iphone-duo-feature.jpg</image:loc>
+      <image:title>Apple Says &amp;#039;Reachability&amp;#039; Feature Coming to iPhone Duo Later This Year</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/honor-win2-and-win-tablet-launch-with-built-in-fans-and-big-batteries</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T13:03:02Z</news:publication_date>
+      <news:title>Honor Win2 and Win Tablet launch with built-in fans and big batteries</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/honor-win2-win-tablet-official/gsmarena_000.jpg</image:loc>
+      <image:title>Honor Win2 and Win Tablet launch with built-in fans and big batteries</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/how-to-spot-a-white-label-gadget-and-why-thats-important</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T13:00:00Z</news:publication_date>
+      <news:title>How to spot a white label gadget, and why that&apos;s important</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/how-to-spot-a-white-label-gadget-and-why-thats-important/l-intro-1792586287.jpg</image:loc>
+      <image:title>How to spot a white label gadget, and why that&apos;s important</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/spotify-just-dealt-a-major-blow-to-a-popular-lossless-music-downloader</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T12:55:58Z</news:publication_date>
+      <news:title>Spotify just dealt a major blow to a popular lossless music downloader</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/SpotiFLAC-Hi-Res-Python-Module.jpg</image:loc>
+      <image:title>Spotify just dealt a major blow to a popular lossless music downloader</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/heres-how-spacex-plans-to-catch-starships-upper-stage-for-the-first-time</loc>
     <news:news>
       <news:publication>
@@ -5055,111 +5145,6 @@
     <image:image>
       <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/09/iphone-duo-galaxy-z-fold-8-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
       <image:title>iPhone Duo has a bigger battery than Galaxy Z Fold 8 and Pixel 11 Pro Fold</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/dont-throw-away-your-old-graphics-card-heres-what-you-can-do-with-it</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T13:15:00Z</news:publication_date>
-      <news:title>Don&apos;t throw away your old graphics card — here&apos;s what you can do with it</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/dont-throw-away-your-old-graphics-card-heres-what-you-can-do-with-it/l-intro-1792070835.jpg</image:loc>
-      <image:title>Don&apos;t throw away your old graphics card — here&apos;s what you can do with it</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/amazon-offers-36900-off-2026-16-inch-macbook-pro-with-m5-max-chip</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T13:09:59Z</news:publication_date>
-      <news:title>Amazon Offers &amp;#36;900 Off 2026 16-Inch MacBook Pro With M5 Max Chip</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/macbook-pro-prime-day.jpeg</image:loc>
-      <image:title>Amazon Offers &amp;#36;900 Off 2026 16-Inch MacBook Pro With M5 Max Chip</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/fitbit-air-is-about-to-get-another-rival-this-time-from-a-brand-for-pro-athletes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T13:02:57Z</news:publication_date>
-      <news:title>Fitbit Air is about to get another rival, this time from a brand for pro athletes</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/fitbit-air-watch-scaled-e1791814982602.jpg</image:loc>
-      <image:title>Fitbit Air is about to get another rival, this time from a brand for pro athletes</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/wyze-moved-the-screen-on-its-new-smart-scale-to-the-handle-so-its-easier-to-read-at-eye-level</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T13:00:00Z</news:publication_date>
-      <news:title>Wyze moved the screen on its new smart scale to the handle so it’s easier to read at eye level</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/wyzescale1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Wyze moved the screen on its new smart scale to the handle so it’s easier to read at eye level</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/6-unexpected-uses-for-your-old-playstation-3</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T12:45:00Z</news:publication_date>
-      <news:title>6 unexpected uses for your old PlayStation 3</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/6-unexpected-uses-for-your-old-playstation-3/l-intro-1792057635.jpg</image:loc>
-      <image:title>6 unexpected uses for your old PlayStation 3</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/diy-vr-how-to-build-your-own-headset-and-why-you-probably-wont-want-to</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T12:33:34Z</news:publication_date>
-      <news:title>DIY VR: How to build your own headset, and why you probably won&apos;t want to</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/DIY-VR-header-1152x648.jpg</image:loc>
-      <image:title>DIY VR: How to build your own headset, and why you probably won&apos;t want to</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/vibe-coding-is-turning-the-music-gear-world-upside-down</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T12:30:00Z</news:publication_date>
-      <news:title>Vibe coding is turning the music gear world upside down</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/elektron-model-cycles-model-samples-8.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Vibe coding is turning the music gear world upside down</image:title>
     </image:image>
   </url>
 </urlset>

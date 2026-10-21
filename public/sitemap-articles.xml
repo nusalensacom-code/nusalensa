@@ -2,6 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/nvidias-latest-gpu-driver-brings-a-new-way-to-speed-up-pc-games</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25728971/STK083_NVIDIA_2_D.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Nvidia’s latest GPU driver brings a new way to speed up PC games</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/forget-custom-roms-you-can-now-run-ios-on-android-phones-yes-really</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/iOS-on-Redmi-Note-10-Pro.jpg</image:loc>
+      <image:title>Forget custom ROMs, you can now run iOS on Android phones (yes, really)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-says-039reachability039-feature-coming-to-iphone-duo-later-this-year</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/iphone-duo-feature.jpg</image:loc>
+      <image:title>Apple Says &amp;#039;Reachability&amp;#039; Feature Coming to iPhone Duo Later This Year</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/honor-win2-and-win-tablet-launch-with-built-in-fans-and-big-batteries</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/honor-win2-win-tablet-official/gsmarena_000.jpg</image:loc>
+      <image:title>Honor Win2 and Win Tablet launch with built-in fans and big batteries</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/how-to-spot-a-white-label-gadget-and-why-thats-important</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/how-to-spot-a-white-label-gadget-and-why-thats-important/l-intro-1792586287.jpg</image:loc>
+      <image:title>How to spot a white label gadget, and why that&apos;s important</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/spotify-just-dealt-a-major-blow-to-a-popular-lossless-music-downloader</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/SpotiFLAC-Hi-Res-Python-Module.jpg</image:loc>
+      <image:title>Spotify just dealt a major blow to a popular lossless music downloader</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/heres-how-spacex-plans-to-catch-starships-upper-stage-for-the-first-time</loc>
     <lastmod>2026-10-21</lastmod>
     <changefreq>daily</changefreq>
