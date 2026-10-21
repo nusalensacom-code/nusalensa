@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/inmo-go3-smart-glasses-pack-a-display-and-gemini-integration-with-clever-camera-privacy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T22:45:00Z</news:publication_date>
+      <news:title>INMO GO3 smart glasses pack a display and Gemini integration with clever camera privacy</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/inmo-go3-1.png?w=1600</image:loc>
+      <image:title>INMO GO3 smart glasses pack a display and Gemini integration with clever camera privacy</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/mark-zuckerberg-says-meta-is-entering-a-new-phase-with-muse</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T22:36:03Z</news:publication_date>
+      <news:title>Mark Zuckerberg says Meta is &apos;entering a new phase&apos; with Muse</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/mark-zuckerberg-says-meta-is-entering-a-new-phase-with-muse/l-intro-1792621715.jpg</image:loc>
+      <image:title>Mark Zuckerberg says Meta is &apos;entering a new phase&apos; with Muse</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/data-centers-could-erase-decades-of-air-quality-gains</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T22:33:44Z</news:publication_date>
+      <news:title>Data centers could erase decades of air quality gains</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Data centers could erase decades of air quality gains</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/bose-buys-audio-rival-skullcandy</loc>
     <news:news>
       <news:publication>
@@ -5550,96 +5595,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/what-can-you-use-the-hdmi-port-on-your-ugreen-nas-for/l-intro-1792093866.jpg</image:loc>
       <image:title>What can you use the HDMI port on your Ugreen NAS for?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/robot-vacuums-have-a-major-privacy-problem-you-should-be-aware-of</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T23:00:00Z</news:publication_date>
-      <news:title>Robot vacuums have a major privacy problem you should be aware of</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/robot-vacuums-have-a-major-privacy-problem-you-should-be-aware-of/l-intro-1792093298.jpg</image:loc>
-      <image:title>Robot vacuums have a major privacy problem you should be aware of</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/some-google-home-speakers-downloading-massive-amounts-of-data-in-the-background</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T22:54:46Z</news:publication_date>
-      <news:title>Some Google Home Speakers downloading massive amounts of data in the background</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/06/Google-Home-Speaker-6.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Some Google Home Speakers downloading massive amounts of data in the background</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/meta-tweaks-its-new-terms-of-service-after-backlash-against-scraping</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T22:47:00Z</news:publication_date>
-      <news:title>Meta tweaks its new terms of service after backlash against scraping</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/meta-tweaks-its-new-terms-of-service-after-backlash-against-scraping/l-intro-1792449693.jpg</image:loc>
-      <image:title>Meta tweaks its new terms of service after backlash against scraping</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/pennsylvania-issues-alert-on-congenital-measlessomething-us-hasnt-seen-for-decades</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T22:44:26Z</news:publication_date>
-      <news:title>Pennsylvania issues alert on congenital measles—something US hasn&apos;t seen for decades</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2024/10/GettyImages-509481102-scaled-1152x648-1729196833.jpg</image:loc>
-      <image:title>Pennsylvania issues alert on congenital measles—something US hasn&apos;t seen for decades</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/whats-new-in-android8217s-october-2026-google-system-updates-u</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T22:43:00Z</news:publication_date>
-      <news:title>What’s new in Android&amp;#8217;s October 2026 Google System Updates [U]</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2025/01/google-play-services-3.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>What’s new in Android&amp;#8217;s October 2026 Google System Updates [U]</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-buys-ai-audio-editing-app-samplab</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T22:35:24Z</news:publication_date>
-      <news:title>Apple Buys AI Audio Editing App Samplab</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/samplab.jpg</image:loc>
-      <image:title>Apple Buys AI Audio Editing App Samplab</image:title>
     </image:image>
   </url>
 </urlset>
