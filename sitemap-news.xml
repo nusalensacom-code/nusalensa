@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/youtube-says-it-isnt-testing-hiding-the-dislike-button</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T23:46:45Z</news:publication_date>
+      <news:title>YouTube says it isn’t testing hiding the dislike button</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK092_03.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>YouTube says it isn’t testing hiding the dislike button</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/tesla-says-customers-can-add-their-own-vehicles-to-the-robotaxi-fleet-next-year-will-it-happen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T23:36:31Z</news:publication_date>
+      <news:title>Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKE001_STK086_Tesla_Robotaxi_3_A.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/iphone-duo-reviewers-really-miss-face-id</loc>
     <news:news>
       <news:publication>
@@ -5580,51 +5610,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/huawei-enjoy-100-dcs-battery-colors/gsmarena_000.jpg</image:loc>
       <image:title>DCS: the Huawei Enjoy 100 Pro Max will have a bigger battery than its predecessor</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/apple039s-october-28-039pro-and-tell039-launch-what039s-coming</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T23:51:05Z</news:publication_date>
-      <news:title>Apple&amp;#039;s October 28 &amp;#039;Pro and Tell&amp;#039; Launch: What&amp;#039;s Coming</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/apple-pro-tell-logo.jpg</image:loc>
-      <image:title>Apple&amp;#039;s October 28 &amp;#039;Pro and Tell&amp;#039; Launch: What&amp;#039;s Coming</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-limiting-us-iphone-duo-orders-to-two-per-customer</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T23:42:24Z</news:publication_date>
-      <news:title>Apple Limiting U.S. iPhone Duo Orders to Two Per Customer</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/09/iphone-duo-standby.jpg</image:loc>
-      <image:title>Apple Limiting U.S. iPhone Duo Orders to Two Per Customer</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/what-can-you-use-the-hdmi-port-on-your-ugreen-nas-for</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T23:30:00Z</news:publication_date>
-      <news:title>What can you use the HDMI port on your Ugreen NAS for?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/what-can-you-use-the-hdmi-port-on-your-ugreen-nas-for/l-intro-1792093866.jpg</image:loc>
-      <image:title>What can you use the HDMI port on your Ugreen NAS for?</image:title>
     </image:image>
   </url>
 </urlset>
