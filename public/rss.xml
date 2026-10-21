@@ -5,8 +5,17 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 21 Oct 2026 03:00:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 03:31:00 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple Could Owe Even More After &amp;#36;5.7 Billion Patent Verdict</title>
+      <link>https://nusalensa.com/phones/apple-could-owe-even-more-after-3657-billion-patent-verdict</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/apple-could-owe-even-more-after-3657-billion-patent-verdict</guid>
+      <description>Apple could face additional payments on top of a &amp;#36;5.7 billion patent verdict, with Taction Technology asking a federal judge for more damages, interest, and</description>
+      <category>Smartphones</category>
+      <pubDate>Wed, 21 Oct 2026 03:24:11 GMT</pubDate>
+      <enclosure url="https://images.macrumors.com/article-new/2016/05/Taptic-Engine-iPhone-6s.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Skyrim Comes to Apple Silicon Macs With New Unofficial Installer</title>
       <link>https://nusalensa.com/phones/skyrim-comes-to-apple-silicon-macs-with-new-unofficial-installer</link>
@@ -33,6 +42,15 @@
       <category>Smartphones</category>
       <pubDate>Wed, 21 Oct 2026 02:29:08 GMT</pubDate>
       <enclosure url="https://images.macrumors.com/article-new/2026/10/apple-pencil-paris-design.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>PHP warns it plans to release 2 emergency patches imminently</title>
+      <link>https://nusalensa.com/phones/php-warns-it-plans-to-release-2-emergency-patches-imminently</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/php-warns-it-plans-to-release-2-emergency-patches-imminently</guid>
+      <description>Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.</description>
+      <category>Smartphones</category>
+      <pubDate>Wed, 21 Oct 2026 02:12:18 GMT</pubDate>
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Oppo Reno17 Pro specs leak, and they sound very familiar</title>
@@ -258,24 +276,6 @@
       <category>Smartphones</category>
       <pubDate>Tue, 20 Oct 2026 21:18:41 GMT</pubDate>
       <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/06/Google-Account-Switcher-3-scaled.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix</title>
-      <link>https://nusalensa.com/technology/microsoft-reportedly-projects-1200-to-1800-price-for-2028-project-helix</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/microsoft-reportedly-projects-1200-to-1800-price-for-2028-project-helix</guid>
-      <description>Xbox maker is also apparently planning its own gaming handheld for next year.</description>
-      <category>Technology</category>
-      <pubDate>Tue, 20 Oct 2026 21:14:33 GMT</pubDate>
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2024/07/xbox-dominoes-1152x648.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Android 17 QPR3 Beta 2 opens the floodgate on fixes</title>
-      <link>https://nusalensa.com/phones/android-17-qpr3-beta-2-opens-the-floodgate-on-fixes</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/android-17-qpr3-beta-2-opens-the-floodgate-on-fixes</guid>
-      <description>We&apos;ve got a long way to go until stable, but all these fixes are bound to help!</description>
-      <category>Smartphones</category>
-      <pubDate>Tue, 20 Oct 2026 21:08:10 GMT</pubDate>
-      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-4-scaled.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>

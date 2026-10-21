@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/apple-could-owe-even-more-after-3657-billion-patent-verdict</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2016/05/Taptic-Engine-iPhone-6s.jpg</image:loc>
+      <image:title>Apple Could Owe Even More After &amp;#36;5.7 Billion Patent Verdict</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/skyrim-comes-to-apple-silicon-macs-with-new-unofficial-installer</loc>
     <lastmod>2026-10-21</lastmod>
     <changefreq>daily</changefreq>
@@ -29,6 +39,16 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/10/apple-pencil-paris-design.jpg</image:loc>
       <image:title>Apple Highlights Mac and iPad Use in Paris Design Exhibition</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/php-warns-it-plans-to-release-2-emergency-patches-imminently</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg</image:loc>
+      <image:title>PHP warns it plans to release 2 emergency patches imminently</image:title>
     </image:image>
   </url>
   <url>
