@@ -2,6 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/apple-ceo-john-ternus-explains-what-makes-good-product-design</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
+      <image:title>Apple CEO John Ternus Explains What Makes Good Product Design</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-latest-android-17-beta-fixes-a-major-quick-settings-security-issue</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/08/google-pixel-10-quick-settings-hero-2-scaled.jpg</image:loc>
+      <image:title>The latest Android 17 beta fixes a major Quick Settings security issue</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/google-clears-the-air-on-fitbit-air8217s-missing-sleep-breathing-quality-feature</loc>
     <lastmod>2026-10-21</lastmod>
     <changefreq>daily</changefreq>
