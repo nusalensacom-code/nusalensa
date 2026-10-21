@@ -3,6 +3,186 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/reviews/they-want-your-blood</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T17:00:00Z</news:publication_date>
+      <news:title>They want your blood</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268812_Everybody_wants_my_blood_CVirginia4.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>They want your blood</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-music039s-new-look-officially-announced</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T16:48:18Z</news:publication_date>
+      <news:title>Apple Music&amp;#039;s New Look Officially Announced</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/Apple-Music-New-Branding.jpg</image:loc>
+      <image:title>Apple Music&amp;#039;s New Look Officially Announced</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/still-trying-to-get-an-iphone-duo-this-might-be-your-best-chance</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T16:46:05Z</news:publication_date>
+      <news:title>Still trying to get an iPhone Duo? This might be your best chance</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-iPhone-Duo-Hands-On-Outer-Display-Cover-Display-in-hand.jpg</image:loc>
+      <image:title>Still trying to get an iPhone Duo? This might be your best chance</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-wallet-rolling-out-notifications-feed-support-for-more-digital-passports</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T16:37:14Z</news:publication_date>
+      <news:title>Google Wallet rolling out notifications feed, support for more digital passports</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2025/03/Id-pass-Google-Wallet-how-to-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Google Wallet rolling out notifications feed, support for more digital passports</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/earfun-air-pro-4-deal-saves-21-on-feature-packed-earbuds</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T16:24:06Z</news:publication_date>
+      <news:title>EarFun Air Pro 4 deal saves $21 on feature-packed earbuds</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/08/EarFun-AirPro-4-earbud-exterior.jpg</image:loc>
+      <image:title>EarFun Air Pro 4 deal saves $21 on feature-packed earbuds</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/iphone-duo-review-roundup-the-same-problems-android-foldables-face-but-with-apple8217s-polish</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T16:15:00Z</news:publication_date>
+      <news:title>iPhone Duo review roundup: The same problems Android foldables face, but with Apple&amp;#8217;s polish</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/iphone-duo-9to5mac-review.webp?w=1600</image:loc>
+      <image:title>iPhone Duo review roundup: The same problems Android foldables face, but with Apple&amp;#8217;s polish</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/save-20-on-ankers-10-in-1-usb-c-smart-display-hub</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T16:10:07Z</news:publication_date>
+      <news:title>Save $20 on Anker’s 10-in-1 USB-C Smart Display Hub</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Anker-USB-C-Smart-Display-Hub-Press-Image.jpg</image:loc>
+      <image:title>Save $20 on Anker’s 10-in-1 USB-C Smart Display Hub</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/sonys-playstation-pulse-headset-arrives-on-november-19-for-100</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T16:09:48Z</news:publication_date>
+      <news:title>Sony&apos;s PlayStation Pulse headset arrives on November 19 for $100</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/sonys-playstation-pulse-headset-arrives-on-november-19-for-100/l-intro-1792598917.jpg</image:loc>
+      <image:title>Sony&apos;s PlayStation Pulse headset arrives on November 19 for $100</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/supernaturals-comeback-starts-today-with-more-music-and-vr-workouts-coming-soon</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T16:05:51Z</news:publication_date>
+      <news:title>Supernatural’s comeback starts today, with more music and VR workouts coming soon</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/268305_Supernatural_Sherry_LPhilomene_0024.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Supernatural’s comeback starts today, with more music and VR workouts coming soon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/oppo-find-x10-pro-max-hasselblad-teleconverter-kit-samples</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T16:01:02Z</news:publication_date>
+      <news:title>Oppo Find X10 Pro Max Hasselblad teleconverter kit samples</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/oppo-find-x10-pro-max-hasselblad-tele-kit-samples/gsmarena_000.jpg</image:loc>
+      <image:title>Oppo Find X10 Pro Max Hasselblad teleconverter kit samples</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/supernaturals-vr-exercise-app-has-relaunched-on-meta-vr-headsets</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T16:00:00Z</news:publication_date>
+      <news:title>Supernatural&apos;s VR exercise app has relaunched on Meta VR headsets</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/supernaturals-vr-exercise-app-has-relaunched-on-meta-vr-headsets/l-intro-1792598064.jpg</image:loc>
+      <image:title>Supernatural&apos;s VR exercise app has relaunched on Meta VR headsets</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/supernatural-the-best-vr-workout-app-makes-its-glorious-comeback-today</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T16:00:00Z</news:publication_date>
+      <news:title>Supernatural, the best VR workout app, makes its glorious comeback today</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/supernatural-returns-meta-vr-glasses.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Supernatural, the best VR workout app, makes its glorious comeback today</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/apple-music-has-a-new-logo</loc>
     <news:news>
       <news:publication>
@@ -435,6 +615,21 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1499.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Apple says it only has &amp;#8216;limited&amp;#8217; iPhone Duo units for in-store sales</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/a-permanent-pokemon-store-will-open-in-london-with-more-locations-outside-asia-to-follow</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T14:20:47Z</news:publication_date>
+      <news:title>A permanent Pokémon store will open in London, with more locations outside Asia to follow</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/a-permanent-pokmon-store-will-open-in-london-with-more-locations-outside-asia-to-follow/l-intro-1792592324.jpg</image:loc>
+      <image:title>A permanent Pokémon store will open in London, with more locations outside Asia to follow</image:title>
     </image:image>
   </url>
   <url>
@@ -4950,231 +5145,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Anker-Soundcore-Liberty-5-SoundGuys.jpg</image:loc>
       <image:title>Soundcore Liberty 5 fall to 37% off on Amazon</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/soundcore-nebula-p1-projector-gets-160-off-on-amazon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T17:00:36Z</news:publication_date>
-      <news:title>Soundcore Nebula P1 projector gets $160 off on Amazon</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/10/Anker-Nebula-P1-Portable-Projector-Press-Image-1.jpg</image:loc>
-      <image:title>Soundcore Nebula P1 projector gets $160 off on Amazon</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/homeland-security-bans-deepseek-use-in-federal-civilian-agencies</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T16:59:28Z</news:publication_date>
-      <news:title>Homeland Security bans DeepSeek use in federal civilian agencies</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/homeland-security-bans-deepseek-use-in-federal-civilian-agencies/l-intro-1792429083.jpg</image:loc>
-      <image:title>Homeland Security bans DeepSeek use in federal civilian agencies</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T16:59:22Z</news:publication_date>
-      <news:title>AI game clones are making indie developers afraid to show their work</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/ss_c6067e139d8dd2cbf79c41a9c4e41e3bb088c95a.1920x1080-1152x648.jpg</image:loc>
-      <image:title>AI game clones are making indie developers afraid to show their work</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/rip-macbook-ultra</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T16:57:26Z</news:publication_date>
-      <news:title>RIP, MacBook Ultra</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2025/10/M5-MacBook-Pro.jpg</image:loc>
-      <image:title>RIP, MacBook Ultra</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/at-what-distance-does-a-video-doorbell-stop-detecting-motion</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T16:45:00Z</news:publication_date>
-      <news:title>At what distance does a video doorbell stop detecting motion?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/at-what-distance-does-a-video-doorbell-stop-detecting-motion/l-intro-1792085683.jpg</image:loc>
-      <image:title>At what distance does a video doorbell stop detecting motion?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung8217s-android-18-based-one-ui-10-update-sounds-like-it-might-be-a-big-deal</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T16:45:00Z</news:publication_date>
-      <news:title>Samsung&amp;#8217;s Android 18-based One UI 10 update sounds like it might be a big deal</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/07/Samsung-S26-and-Z-Fold-8-family.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Samsung&amp;#8217;s Android 18-based One UI 10 update sounds like it might be a big deal</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/the-extra-rugged-crosscall-core-x7-surfaces-at-a-french-retailer-followed-by-a-rugged-tablet</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T16:41:02Z</news:publication_date>
-      <news:title>The extra rugged Crosscall Core X7 surfaces at a French retailer, followed by a rugged tablet</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/crosscall-core-x7-t7/gsmarena_000.jpg</image:loc>
-      <image:title>The extra rugged Crosscall Core X7 surfaces at a French retailer, followed by a rugged tablet</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/huge-dmv-data-breach-impacted-current-and-former-florida-residents</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T16:38:13Z</news:publication_date>
-      <news:title>Huge DMV data breach impacted current and former Florida residents</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1384284626-1152x648.jpg</image:loc>
-      <image:title>Huge DMV data breach impacted current and former Florida residents</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/samsungs-galaxy-tab-s10-fe-plus-gets-a-solid-220-discount</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T16:26:48Z</news:publication_date>
-      <news:title>Samsung’s Galaxy Tab S10 FE Plus gets a solid $220 discount</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Samsung-Galaxy-Tab-S10-FE-Plus-Press-Image.jpg</image:loc>
-      <image:title>Samsung’s Galaxy Tab S10 FE Plus gets a solid $220 discount</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/garmin-venu-3s-drops-back-to-its-lowest-price-we8217ve-seen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T16:18:16Z</news:publication_date>
-      <news:title>Garmin Venu 3S drops back to its lowest price we&amp;#8217;ve seen</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2023/09/Garmin-Vivoactive-5-Venu-3S-Activies-Menu-scaled.jpg</image:loc>
-      <image:title>Garmin Venu 3S drops back to its lowest price we&amp;#8217;ve seen</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/fiber-vs-cable-internet-whats-the-difference-between-them</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T16:15:00Z</news:publication_date>
-      <news:title>Fiber vs. cable internet: What&apos;s the difference between them?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/fiber-vs-cable-internet-whats-the-difference-between-them/l-intro-1792085043.jpg</image:loc>
-      <image:title>Fiber vs. cable internet: What&apos;s the difference between them?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/apple-is-set-to-hold-another-product-event-on-october-28</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T16:09:26Z</news:publication_date>
-      <news:title>Apple is set to hold another product event on October 28</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/apple-pro-and-tell-event-october-28-announcement/l-intro-1792426206.jpg</image:loc>
-      <image:title>Apple is set to hold another product event on October 28</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/android-auto-8216work-account8217-support-would-allow-for-easy-switching-in-work-vehicles</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T16:07:32Z</news:publication_date>
-      <news:title>Android Auto &amp;#8216;Work Account&amp;#8217; support would allow for easy switching in work vehicles</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/07/android-auto-google-maps-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Android Auto &amp;#8216;Work Account&amp;#8217; support would allow for easy switching in work vehicles</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/apple-announcing-new-products-next-week-039pro-and-tell039</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T16:05:07Z</news:publication_date>
-      <news:title>Apple Announcing New Products Next Week: &amp;#039;Pro and Tell&amp;#039;</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/apple-pro-tell-logo.jpg</image:loc>
-      <image:title>Apple Announcing New Products Next Week: &amp;#039;Pro and Tell&amp;#039;</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-tv-shows-off-its-8216new8217-features-in-fullscreen-roundup-when-you-turn-on-your-tv-gallery</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T16:05:00Z</news:publication_date>
-      <news:title>Google TV shows off its &amp;#8216;new&amp;#8217; features in fullscreen roundup when you turn on your TV [Gallery]</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/google-tv-new-features-october-2026-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Google TV shows off its &amp;#8216;new&amp;#8217; features in fullscreen roundup when you turn on your TV [Gallery]</image:title>
     </image:image>
   </url>
 </urlset>
