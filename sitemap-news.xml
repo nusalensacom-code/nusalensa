@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/this-crazy-bright-google-tv-projector-is-now-available-to-order</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T06:17:04Z</news:publication_date>
+      <news:title>This crazy bright Google TV projector is now available to order</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/xgimi-aura-3-pro-max-ultra-short-throw-projector-1.jpg</image:loc>
+      <image:title>This crazy bright Google TV projector is now available to order</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-just-gave-pixel-9-owners-a-little-more-time-with-this-lifesaving-feature</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T06:08:51Z</news:publication_date>
+      <news:title>Google just gave Pixel 9 owners a little more time with this lifesaving feature</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/03/Pixel_satellite_SOS_hero_image_3.jpg</image:loc>
+      <image:title>Google just gave Pixel 9 owners a little more time with this lifesaving feature</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/here8217s-how-google-plans-to-let-you-use-pixel8217s-face-unlock-in-the-dark</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T05:59:58Z</news:publication_date>
+      <news:title>Here&amp;#8217;s how Google plans to let you use Pixel&amp;#8217;s face unlock in the dark</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/google-pixel-11-pro-face-unlock-settings-scaled.jpg</image:loc>
+      <image:title>Here&amp;#8217;s how Google plans to let you use Pixel&amp;#8217;s face unlock in the dark</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/redmi-k100-to-get-a-50mp-rear-camera-ultrasonic-fingerprint-scanner</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T05:45:02Z</news:publication_date>
+      <news:title>Redmi K100 to get a 50MP rear camera, ultrasonic fingerprint scanner</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/redmi-k100-camera-specs/gsmarena_00.jpg</image:loc>
+      <image:title>Redmi K100 to get a 50MP rear camera, ultrasonic fingerprint scanner</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/uk-proposes-new-ways-to-help-apple-pay-rivals</loc>
     <news:news>
       <news:publication>
@@ -4980,21 +5040,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/iqoo-neo12-launch-date-design/gsmarena_000.jpg</image:loc>
       <image:title>iQOO Neo12 set to launch on October 28, design and color options revealed</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iphone-duos-battery-capacity-officially-revealed</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T06:08:02Z</news:publication_date>
-      <news:title>iPhone Duo&apos;s battery capacity officially revealed</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/iphone-duo-battery-capacity/gsmarena_00.jpg</image:loc>
-      <image:title>iPhone Duo&apos;s battery capacity officially revealed</image:title>
     </image:image>
   </url>
 </urlset>
