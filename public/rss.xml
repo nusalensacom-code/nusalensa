@@ -5,8 +5,26 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 21 Oct 2026 04:07:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 05:01:07 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UK Proposes New Ways to Help Apple Pay Rivals</title>
+      <link>https://nusalensa.com/phones/uk-proposes-new-ways-to-help-apple-pay-rivals</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/uk-proposes-new-ways-to-help-apple-pay-rivals</guid>
+      <description>The UK&apos;s competition regulator has proposed changes to make it easier and cheaper for companies to offer alternatives to Apple Pay on the iPhone (via Reuters ).</description>
+      <category>Smartphones</category>
+      <pubDate>Wed, 21 Oct 2026 04:57:09 GMT</pubDate>
+      <enclosure url="https://images.macrumors.com/article-new/2023/11/apple-pay-feature-dynamic-island.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>WhatsApp Developing In-App Browser for All Chat Links on iPhone</title>
+      <link>https://nusalensa.com/phones/whatsapp-developing-in-app-browser-for-all-chat-links-on-iphone</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/whatsapp-developing-in-app-browser-for-all-chat-links-on-iphone</guid>
+      <description>WhatsApp is developing an optional in-app browser for its iPhone app that would let users open any link shared in chats without leaving the app, according to WA</description>
+      <category>Smartphones</category>
+      <pubDate>Wed, 21 Oct 2026 04:15:09 GMT</pubDate>
+      <enclosure url="https://images.macrumors.com/article-new/2026/05/Whatsapp-Feature.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Coolpad unveils the Cool X Wide with a 16:10 display and 50MP camera</title>
       <link>https://nusalensa.com/phones/coolpad-unveils-the-cool-x-wide-with-a-1610-display-and-50mp-camera</link>
@@ -258,24 +276,6 @@
       <category>Smartphones</category>
       <pubDate>Tue, 20 Oct 2026 21:54:36 GMT</pubDate>
       <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/10/Hisense-L9Q-Ultra-Short-Throw-Triple-Laser-Projector-Press-Image.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies</title>
-      <link>https://nusalensa.com/technology/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies</guid>
-      <description>Guinea-Bissau police said hepatitis B vaccine doses were taken as part of an investigation.</description>
-      <category>Technology</category>
-      <pubDate>Tue, 20 Oct 2026 21:44:34 GMT</pubDate>
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1234276092-1152x648.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>The latest PlayStation firmware may have already been cracked ahead of GTA 6</title>
-      <link>https://nusalensa.com/technology/the-latest-playstation-firmware-may-have-already-been-cracked-ahead-of-gta-6</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/the-latest-playstation-firmware-may-have-already-been-cracked-ahead-of-gta-6</guid>
-      <description>Hackers aren&apos;t giving up at cracking the Playstation 5&apos;s latest firmware as evidenced by a new video showing an apparent kernel exploit.</description>
-      <category>Technology</category>
-      <pubDate>Tue, 20 Oct 2026 21:30:57 GMT</pubDate>
-      <enclosure url="https://www.engadget.com/img/gallery/the-latest-playstation-firmware-may-have-already-been-cracked-ahead-of-gta-6/l-intro-1792530805.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>

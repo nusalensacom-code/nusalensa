@@ -2,6 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/uk-proposes-new-ways-to-help-apple-pay-rivals</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2023/11/apple-pay-feature-dynamic-island.jpg</image:loc>
+      <image:title>UK Proposes New Ways to Help Apple Pay Rivals</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/whatsapp-developing-in-app-browser-for-all-chat-links-on-iphone</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/05/Whatsapp-Feature.jpg</image:loc>
+      <image:title>WhatsApp Developing In-App Browser for All Chat Links on iPhone</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/coolpad-unveils-the-cool-x-wide-with-a-1610-display-and-50mp-camera</loc>
     <lastmod>2026-10-21</lastmod>
     <changefreq>daily</changefreq>

@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/uk-proposes-new-ways-to-help-apple-pay-rivals</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T04:57:09Z</news:publication_date>
+      <news:title>UK Proposes New Ways to Help Apple Pay Rivals</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2023/11/apple-pay-feature-dynamic-island.jpg</image:loc>
+      <image:title>UK Proposes New Ways to Help Apple Pay Rivals</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/whatsapp-developing-in-app-browser-for-all-chat-links-on-iphone</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T04:15:09Z</news:publication_date>
+      <news:title>WhatsApp Developing In-App Browser for All Chat Links on iPhone</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/05/Whatsapp-Feature.jpg</image:loc>
+      <image:title>WhatsApp Developing In-App Browser for All Chat Links on iPhone</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/coolpad-unveils-the-cool-x-wide-with-a-1610-display-and-50mp-camera</loc>
     <news:news>
       <news:publication>
@@ -4965,21 +4995,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/iphone-duo-battery-capacity/gsmarena_00.jpg</image:loc>
       <image:title>iPhone Duo&apos;s battery capacity officially revealed</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/honor-watch-6-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T05:01:02Z</news:publication_date>
-      <news:title>Honor Watch 6 review</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/honor-watch-6-review/gsmarena_000.jpg</image:loc>
-      <image:title>Honor Watch 6 review</image:title>
     </image:image>
   </url>
 </urlset>
