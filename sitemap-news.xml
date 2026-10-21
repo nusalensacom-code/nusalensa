@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/google-clears-the-air-on-fitbit-air8217s-missing-sleep-breathing-quality-feature</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T07:14:48Z</news:publication_date>
+      <news:title>Google clears the air on Fitbit Air&amp;#8217;s missing sleep breathing quality feature</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/fitbit-air-side-wrist-scaled-e1791815438152-500w-260h.jpg</image:loc>
+      <image:title>Google clears the air on Fitbit Air&amp;#8217;s missing sleep breathing quality feature</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/better-pay-for-applecare-plus-the-iphone-duo-has-a-concerningly-soft-crease</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T07:03:34Z</news:publication_date>
+      <news:title>Better pay for AppleCare Plus: The iPhone Duo has a concerningly soft crease</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/iPhone-Duo-Weibo-user-Kang.jpg</image:loc>
+      <image:title>Better pay for AppleCare Plus: The iPhone Duo has a concerningly soft crease</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/this-crazy-bright-google-tv-projector-is-now-available-to-order</loc>
     <news:news>
       <news:publication>
@@ -5010,36 +5040,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/Open-AI-ChatGPT-logo-on-phone-stock-photo-7.jpg</image:loc>
       <image:title>ChatGPT can now do more in Google Chrome, including taking action inside open tabs</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iphone-duo-battery-specs-revealed-good-news-for-galaxy-z-fold-8-and-other-android-rivals</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T07:06:45Z</news:publication_date>
-      <news:title>iPhone Duo battery specs revealed: Good news for Galaxy Z Fold 8 and other Android rivals</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-iPhone-Duo-Hands-On-Netflix-on-inner-display.jpg</image:loc>
-      <image:title>iPhone Duo battery specs revealed: Good news for Galaxy Z Fold 8 and other Android rivals</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iqoo-neo12-set-to-launch-on-october-28-design-and-color-options-revealed</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T07:00:02Z</news:publication_date>
-      <news:title>iQOO Neo12 set to launch on October 28, design and color options revealed</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/iqoo-neo12-launch-date-design/gsmarena_000.jpg</image:loc>
-      <image:title>iQOO Neo12 set to launch on October 28, design and color options revealed</image:title>
     </image:image>
   </url>
 </urlset>
