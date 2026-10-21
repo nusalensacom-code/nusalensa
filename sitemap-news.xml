@@ -3,6 +3,156 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/meta-ordered-to-pay-25-billion-in-penalties-over-the-cambridge-analytica-scandal</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T19:02:49Z</news:publication_date>
+      <news:title>Meta ordered to pay $25 billion in penalties over the Cambridge Analytica scandal</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_2_E.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Meta ordered to pay $25 billion in penalties over the Cambridge Analytica scandal</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/samsung-good-lock8217s-quick-share-alternative-is-failing-to-share-files-with-iphones</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T18:56:43Z</news:publication_date>
+      <news:title>Samsung Good Lock&amp;#8217;s Quick Share alternative is failing to share files with iPhones</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/07/Samsung-Galaxy-Z-Flip-6-Good-Lock-interface.jpg</image:loc>
+      <image:title>Samsung Good Lock&amp;#8217;s Quick Share alternative is failing to share files with iPhones</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/ea-is-shutting-down-bioware-and-cutting-around-400-jobs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T18:42:41Z</news:publication_date>
+      <news:title>EA is shutting down BioWare and cutting around 400 jobs</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/ea-is-shutting-down-bioware-and-cutting-around-400-jobs/l-intro-1792608097.jpg</image:loc>
+      <image:title>EA is shutting down BioWare and cutting around 400 jobs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/xbox-cloud-gaming8217s-added-playtime-costs-start-at-around-40-per-hour</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T18:40:00Z</news:publication_date>
+      <news:title>Xbox Cloud Gaming&amp;#8217;s added playtime costs start at around 40¢ per hour</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2023/03/xbox-cloud-logo-4.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Xbox Cloud Gaming&amp;#8217;s added playtime costs start at around 40¢ per hour</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/cyberpunk-20778217s-update-for-edgerunners-2-brings-mods-to-ps5-switch-2-and-xbox</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T18:39:52Z</news:publication_date>
+      <news:title>Cyberpunk 2077&amp;#8217;s update for Edgerunners 2 brings mods to PS5, Switch 2, and Xbox</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_93290.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Cyberpunk 2077&amp;#8217;s update for Edgerunners 2 brings mods to PS5, Switch 2, and Xbox</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/iphone-duo039s-hidden-facetime-camera-takes-039trash039-photos</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T18:36:52Z</news:publication_date>
+      <news:title>iPhone Duo&amp;#039;s Hidden FaceTime Camera Takes &amp;#039;Trash&amp;#039; Photos</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/09/iphone-duo-facetime.jpg</image:loc>
+      <image:title>iPhone Duo&amp;#039;s Hidden FaceTime Camera Takes &amp;#039;Trash&amp;#039; Photos</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/xbox-mandates-a-four-day-return-to-office</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T18:31:15Z</news:publication_date>
+      <news:title>Xbox mandates a four-day return to office</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485114/STK048_XBOX2__A.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Xbox mandates a four-day return to office</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/oppo-sets-its-sights-on-europe-with-faster-launches-and-carrier-partnerships</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T18:31:02Z</news:publication_date>
+      <news:title>Oppo sets its sights on Europe with faster launches and carrier partnerships</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/oppo-sets-its-sights-on-europe/gsmarena_000.jpg</image:loc>
+      <image:title>Oppo sets its sights on Europe with faster launches and carrier partnerships</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/honor8217s-new-gaming-phone-038-tablet-have-10000-mah-batteries-fans-up-to-240hz-oled-display</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T18:30:00Z</news:publication_date>
+      <news:title>Honor&amp;#8217;s new gaming phone &amp;#038; tablet have 10,000+ mAh batteries, fans, up to 240Hz OLED display</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/honor-win2-fans.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1444</image:loc>
+      <image:title>Honor&amp;#8217;s new gaming phone &amp;#038; tablet have 10,000+ mAh batteries, fans, up to 240Hz OLED display</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/star-wars-zero-company-is-a-must-play-strategy-game-at-20-percent-off</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T18:30:00Z</news:publication_date>
+      <news:title>Star Wars Zero Company is a must-play strategy game at 20 percent off</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/SWZC_AnnGP_Screenshot_1_WM.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Star Wars Zero Company is a must-play strategy game at 20 percent off</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/survey-nearly-half-of-you-want-nothing-to-do-with-samsung8217s-home-screen-news-feed</loc>
     <news:news>
       <news:publication>
@@ -5190,141 +5340,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/REDTIGER-VP40-Dash-Cam-Press-Image.jpg</image:loc>
       <image:title>Save $70 on the REDTIGER VP40 dash cam with 4-channel recording</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/amazon-cuts-85-off-the-tcl-60-xe-nxtpaper-5g-but-not-for-long</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T19:10:48Z</news:publication_date>
-      <news:title>Amazon cuts $85 off the TCL 60 XE NXTPAPER 5G, but not for long</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/01/TCL-60-XE-NXTPAPER-5G-In-hand-with-full-color-scaled.jpg</image:loc>
-      <image:title>Amazon cuts $85 off the TCL 60 XE NXTPAPER 5G, but not for long</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/tvos-272-rc-lays-groundwork-for-homepod-surround-sound</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T19:09:15Z</news:publication_date>
-      <news:title>tvOS 27.2 RC Lays Groundwork for HomePod Surround Sound</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/surround_mixed_16x9.jpg</image:loc>
-      <image:title>tvOS 27.2 RC Lays Groundwork for HomePod Surround Sound</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/mondays-android-app-deals-and-freebies-troll-parkour-good-snowman-harvest-moon-more</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T18:57:35Z</news:publication_date>
-      <news:title>Monday’s Android app deals and freebies: Troll Parkour, Good Snowman, Harvest Moon, more</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Google-Play-collage-cbf68c.webp?w=1600</image:loc>
-      <image:title>Monday’s Android app deals and freebies: Troll Parkour, Good Snowman, Harvest Moon, more</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/bose-lifestyle-ultra-subwoofer-gets-a-huge-33-price-cut</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T18:53:13Z</news:publication_date>
-      <news:title>Bose Lifestyle Ultra Subwoofer gets a huge 33% price cut</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Bose-New-Lifestyle-Ultra-Subwoofer-Press-Image.jpg</image:loc>
-      <image:title>Bose Lifestyle Ultra Subwoofer gets a huge 33% price cut</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/sonys-best-noise-canceling-earbuds-are-nearly-100-off-today-only</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T18:52:41Z</news:publication_date>
-      <news:title>Sony’s best noise-canceling earbuds are nearly $100 off today only</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Sony-WF-1000XM6.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Sony’s best noise-canceling earbuds are nearly $100 off today only</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/garmin8217s-new-feature-ruins-one-of-the-best-reasons-to-own-its-smartwatches</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T18:48:04Z</news:publication_date>
-      <news:title>Garmin&amp;#8217;s new feature ruins one of the best reasons to own its smartwatches</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/10/Garmin-Fenix-8-AMOLED-voice-controls.jpg</image:loc>
-      <image:title>Garmin&amp;#8217;s new feature ruins one of the best reasons to own its smartwatches</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/reactos-reaches-major-milestone-with-ntfs-install-support</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T18:30:56Z</news:publication_date>
-      <news:title>ReactOS reaches major milestone with NTFS install support</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/ReactOS_NTFS_Drive_Properties.jpg</image:loc>
-      <image:title>ReactOS reaches major milestone with NTFS install support</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/heres-how-we-would-build-out-the-perfect-modular-electric-slate-truck</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T18:30:00Z</news:publication_date>
-      <news:title>Here&apos;s how we would build out the perfect modular electric Slate truck</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/heres-how-we-would-build-out-the-perfect-modular-electric-slate-truck/l-intro-1792004130.jpg</image:loc>
-      <image:title>Here&apos;s how we would build out the perfect modular electric Slate truck</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/i8217ve-struggled-to-use-samsung-displays-for-years-but-the-galaxy-s27-may-finally-fix-that-here8217s-why</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T18:30:00Z</news:publication_date>
-      <news:title>I&amp;#8217;ve struggled to use Samsung displays for years, but the Galaxy S27 may finally fix that; here&amp;#8217;s why</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/04/Vivo-X300-Ultra-and-Galaxy-S26-Ultra-displays-2.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>I&amp;#8217;ve struggled to use Samsung displays for years, but the Galaxy S27 may finally fix that; here&amp;#8217;s why</image:title>
     </image:image>
   </url>
 </urlset>
