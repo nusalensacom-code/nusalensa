@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/bose-buys-audio-rival-skullcandy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T22:19:48Z</news:publication_date>
+      <news:title>Bose buys audio rival Skullcandy</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/bose-buys-audio-rival-skullcandy/l-intro-1792621054.jpg</image:loc>
+      <image:title>Bose buys audio rival Skullcandy</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T22:06:07Z</news:publication_date>
+      <news:title>Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/xcloud3-1152x648.jpg</image:loc>
+      <image:title>Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/does-the-iphone-duo-run-hot-here039s-what-reviews-found</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T22:05:15Z</news:publication_date>
+      <news:title>Does the iPhone Duo Run Hot? Here&amp;#039;s What Reviews Found</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Hinge-Feature-3.jpg</image:loc>
+      <image:title>Does the iPhone Duo Run Hot? Here&amp;#039;s What Reviews Found</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/airbnb-bans-hosts-from-making-you-do-the-dishes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T22:04:32Z</news:publication_date>
+      <news:title>Airbnb bans hosts from making you do the dishes</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/airbnb-bans-hosts-from-making-you-do-the-dishes/l-intro-1792620107.jpg</image:loc>
+      <image:title>Airbnb bans hosts from making you do the dishes</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/save-56-on-the-sandisk-1tb-extreme-portable-ssd</loc>
     <news:news>
       <news:publication>
@@ -15,6 +75,36 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/SANDISK-1TB-Extreme-Portable-SSD-Press-Image.jpg</image:loc>
       <image:title>Save $56 on the SanDisk 1TB Extreme Portable SSD</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/enterprises-keep-buying-software-upgrades-that-it-thinks-will-make-things-worse</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T21:48:52Z</news:publication_date>
+      <news:title>Enterprises keep buying software upgrades that IT thinks will make things worse</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-832621336-1024x648.jpg</image:loc>
+      <image:title>Enterprises keep buying software upgrades that IT thinks will make things worse</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/tesla-profits-drop-43-in-q3</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T21:35:07Z</news:publication_date>
+      <news:title>Tesla profits drop 43% in Q3</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2019/10/tesla-polarizing.jpg</image:loc>
+      <image:title>Tesla profits drop 43% in Q3</image:title>
     </image:image>
   </url>
   <url>
@@ -5550,51 +5640,6 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/10/samplab.jpg</image:loc>
       <image:title>Apple Buys AI Audio Editing App Samplab</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/elon-musks-proposed-spacex-stock-giveaway-would-go-into-8216trump-accounts8217</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T22:30:42Z</news:publication_date>
-      <news:title>Elon Musk’s proposed SpaceX stock giveaway would go into &amp;#8216;Trump Accounts&amp;#8217;</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_L.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Elon Musk’s proposed SpaceX stock giveaway would go into &amp;#8216;Trump Accounts&amp;#8217;</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/why-your-expensive-wi-fi-7-router-could-be-delivering-slower-speeds</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T22:30:00Z</news:publication_date>
-      <news:title>Why your expensive Wi-Fi 7 router could be delivering slower speeds</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/why-your-expensive-wi-fi-7-router-could-be-delivering-slower-speeds/l-intro-1792091857.jpg</image:loc>
-      <image:title>Why your expensive Wi-Fi 7 router could be delivering slower speeds</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/this-is-the-upcoming-moto-g47-power</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T22:11:02Z</news:publication_date>
-      <news:title>This is the upcoming Moto G47 Power</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/moto-g47-power-renders/gsmarena_000.jpg</image:loc>
-      <image:title>This is the upcoming Moto G47 Power</image:title>
     </image:image>
   </url>
 </urlset>
