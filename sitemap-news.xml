@@ -3,6 +3,111 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/ring-outdoor-cam-4k-pro-gets-a-rare-60-amazon-discount</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T19:57:12Z</news:publication_date>
+      <news:title>Ring Outdoor Cam 4K Pro gets a rare $60 Amazon discount</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Ring-Outdoor-Cam-4K-Pro-Press-Image.jpg</image:loc>
+      <image:title>Ring Outdoor Cam 4K Pro gets a rare $60 Amazon discount</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/airbnb-bans-making-guests-do-dishes-and-take-out-the-trash</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T19:54:00Z</news:publication_date>
+      <news:title>Airbnb bans making guests do dishes and take out the trash</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK090_06.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Airbnb bans making guests do dishes and take out the trash</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/anthropic-takes-on-muse-with-claude-duet-its-new-ai-agent</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T19:53:20Z</news:publication_date>
+      <news:title>Anthropic takes on Muse with Claude Duet, its new AI agent</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Anthropic takes on Muse with Claude Duet, its new AI agent</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/xbox-is-previewing-paid-cloud-gaming-for-players-without-game-pass</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T19:52:50Z</news:publication_date>
+      <news:title>Xbox is previewing paid cloud gaming for players without Game Pass</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/xbox-is-previewing-paid-cloud-gaming-for-players-without-game-pass/l-intro-1792612307.jpg</image:loc>
+      <image:title>Xbox is previewing paid cloud gaming for players without Game Pass</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/amazon-price-drop-knocks-50-off-the-skullcandy-push-720-open-earbuds</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T19:50:43Z</news:publication_date>
+      <news:title>Amazon price drop knocks $50 off the Skullcandy Push 720 Open earbuds</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/11/Skullcandy-Push-720-Open-Press-Image-1-scaled.jpg</image:loc>
+      <image:title>Amazon price drop knocks $50 off the Skullcandy Push 720 Open earbuds</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/walmart-is-inviting-ai-agents-to-shop-for-you</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T19:30:00Z</news:publication_date>
+      <news:title>Walmart is inviting AI agents to shop for you</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2247092603.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Walmart is inviting AI agents to shop for you</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/samsung-releases-8216re-newed8217-galaxy-phones-on-amazon-starting-under-500</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T19:25:00Z</news:publication_date>
+      <news:title>Samsung releases &amp;#8216;Re-Newed&amp;#8217; Galaxy phones on Amazon starting under $500</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2025/02/Galaxy-S24-and-S25-Ultra-cameras-close-up.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Samsung releases &amp;#8216;Re-Newed&amp;#8217; Galaxy phones on Amazon starting under $500</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/meta-ordered-to-pay-25-billion-in-penalties-over-the-cambridge-analytica-scandal</loc>
     <news:news>
       <news:publication>
@@ -5250,96 +5355,6 @@
     <image:image>
       <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1177067-1024x648.jpg</image:loc>
       <image:title>Batteries help reduce emissions, but how do we reduce their emissions?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/psa-patch-your-plex-media-server-before-someone-hacks-it</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T19:39:19Z</news:publication_date>
-      <news:title>PSA: Patch your Plex media server before someone hacks it</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/plex-media-server-1152x648.webp</image:loc>
-      <image:title>PSA: Patch your Plex media server before someone hacks it</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-starts-moving-up-iphone-duo-delivery-dates</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T19:31:47Z</news:publication_date>
-      <news:title>Apple Starts Moving Up iPhone Duo Delivery Dates</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/Apple-iPhone-Duo-Early-Feature-Rejected.jpg</image:loc>
-      <image:title>Apple Starts Moving Up iPhone Duo Delivery Dates</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T19:27:24Z</news:publication_date>
-      <news:title>Startup taps underwater volcano as energy source in &quot;proof point&quot; test</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/Endurance-Energy-rockhopper-drill-1152x648.jpeg</image:loc>
-      <image:title>Startup taps underwater volcano as energy source in &quot;proof point&quot; test</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/sony-is-offering-nfl-fans-a-chance-to-win-custom-team-edition-xm6-headphones</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T19:21:03Z</news:publication_date>
-      <news:title>Sony is offering NFL fans a chance to win custom team edition XM6 headphones</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Sony-NFL-Custom-Headphones_Family-Shot.jpg</image:loc>
-      <image:title>Sony is offering NFL fans a chance to win custom team edition XM6 headphones</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/motorolas-wide-razr-flex-hits-geekbench-with-a-surprising-chipset</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T19:21:02Z</news:publication_date>
-      <news:title>Motorola&apos;s wide Razr Flex hits Geekbench with a surprising chipset</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/motorola-razr-flex-geekbench/gsmarena_000.jpg</image:loc>
-      <image:title>Motorola&apos;s wide Razr Flex hits Geekbench with a surprising chipset</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/save-70-on-the-redtiger-vp40-dash-cam-with-4-channel-recording</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T19:20:14Z</news:publication_date>
-      <news:title>Save $70 on the REDTIGER VP40 dash cam with 4-channel recording</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/REDTIGER-VP40-Dash-Cam-Press-Image.jpg</image:loc>
-      <image:title>Save $70 on the REDTIGER VP40 dash cam with 4-channel recording</image:title>
     </image:image>
   </url>
 </urlset>
