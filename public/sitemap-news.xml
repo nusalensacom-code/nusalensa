@@ -3,6 +3,96 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/samsung8217s-first-android-xr-glasses-face-a-design-problem-its-competitor-already-solved</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T09:00:33Z</news:publication_date>
+      <news:title>Samsung&amp;#8217;s first Android XR glasses face a design problem its competitor already solved</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-scaled.jpg</image:loc>
+      <image:title>Samsung&amp;#8217;s first Android XR glasses face a design problem its competitor already solved</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-stores-in-bordeaux-and-lille-looted-during-french-protests</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T08:59:06Z</news:publication_date>
+      <news:title>Apple Stores in Bordeaux and Lille Looted During French Protests</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2021/04/apple-lille-france.jpeg</image:loc>
+      <image:title>Apple Stores in Bordeaux and Lille Looted During French Protests</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/spacex-and-tesla-are-exploring-a-possible-merger</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T08:40:59Z</news:publication_date>
+      <news:title>SpaceX and Tesla are exploring a possible merger</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/spacex-and-tesla-are-exploring-a-possible-merger/l-intro-1792571852.jpg</image:loc>
+      <image:title>SpaceX and Tesla are exploring a possible merger</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/loop-capital-cuts-apple-rating-over-iphone-sales-outlook</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T08:38:06Z</news:publication_date>
+      <news:title>Loop Capital Cuts Apple Rating Over iPhone Sales Outlook</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2020/12/aapl-logo-banner.jpg</image:loc>
+      <image:title>Loop Capital Cuts Apple Rating Over iPhone Sales Outlook</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/oneplus-may-call-dibs-on-a-new-snapdragon-8216pro8217-chip-and-youre-allowed-to-feel-jealous</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T08:11:46Z</news:publication_date>
+      <news:title>OnePlus may call dibs on a new Snapdragon &amp;#8216;Pro&amp;#8217; chip, and you’re allowed to feel jealous</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/04/OnePlus-Nord-6.jpg</image:loc>
+      <image:title>OnePlus may call dibs on a new Snapdragon &amp;#8216;Pro&amp;#8217; chip, and you’re allowed to feel jealous</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/bluesound-adds-native-apple-music-support</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T08:06:00Z</news:publication_date>
+      <news:title>Bluesound Adds Native Apple Music Support</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/apple-music-new-logo-red.jpg</image:loc>
+      <image:title>Bluesound Adds Native Apple Music Support</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/apple-ceo-john-ternus-explains-what-makes-good-product-design</loc>
     <news:news>
       <news:publication>
@@ -15,6 +105,21 @@
     <image:image>
       <image:loc>https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
       <image:title>Apple CEO John Ternus Explains What Makes Good Product Design</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/lava-aura-curve-unveiled-with-curved-display-rear-screen-and-6000mah-battery</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T08:03:02Z</news:publication_date>
+      <news:title>Lava Aura Curve unveiled with curved display, rear screen, and 6,000mAh battery</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/lava-aura-curve-ofic/gsmarena_00.jpg</image:loc>
+      <image:title>Lava Aura Curve unveiled with curved display, rear screen, and 6,000mAh battery</image:title>
     </image:image>
   </url>
   <url>
@@ -5010,21 +5115,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/samsung-galaxy-f70-ofic/gsmarena_000.jpg</image:loc>
       <image:title>Samsung Galaxy F70 arrives with familiar specs</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/i-thought-the-pixel-118217s-magic-capture-would-be-perfect-for-concerts-i-was-wrong</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T09:00:28Z</news:publication_date>
-      <news:title>I thought the Pixel 11&amp;#8217;s Magic Capture would be perfect for concerts. I was wrong</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Magic-Capture-Pixel-11-scaled.jpg</image:loc>
-      <image:title>I thought the Pixel 11&amp;#8217;s Magic Capture would be perfect for concerts. I was wrong</image:title>
     </image:image>
   </url>
 </urlset>
