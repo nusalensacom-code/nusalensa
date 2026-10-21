@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/several-samsung-galaxy-watch-owners-report-alarming-burn-like-wrist-marks</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T11:28:22Z</news:publication_date>
+      <news:title>Several Samsung Galaxy Watch owners report alarming burn-like wrist marks</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2023/07/Oura-Ring-3-Galaxy-Watch-5-Pro-scaled.jpg</image:loc>
+      <image:title>Several Samsung Galaxy Watch owners report alarming burn-like wrist marks</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/vivo-x500-ultra-said-to-use-a-larger-telephoto-sensor-over-its-predecessor</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T11:04:02Z</news:publication_date>
+      <news:title>vivo X500 Ultra said to use a larger telephoto sensor over its predecessor</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/vivo-x500-ultra-telephoto-camera-leak/gsmarena_00.jpg</image:loc>
+      <image:title>vivo X500 Ultra said to use a larger telephoto sensor over its predecessor</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/two-dangerous-internet-security-issues-are-putting-site-admins-on-edge</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T11:02:54Z</news:publication_date>
+      <news:title>Two dangerous internet security issues are putting site admins on edge</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/two-dangerous-internet-security-issues-are-putting-site-admins-on-edge/l-intro-1792580279.jpg</image:loc>
+      <image:title>Two dangerous internet security issues are putting site admins on edge</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/samsung-is-rolling-out-android-17-updates-for-some-of-its-most-popular-galaxy-phones</loc>
     <news:news>
       <news:publication>
@@ -5025,66 +5070,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/AYN-Odin-3-Portal-official-teaser-screenshot.jpg</image:loc>
       <image:title>AYN Odin 3 Portal specs reveal Elite horsepower, gigantic battery for this handheld</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/even-realities-g2-review-smart-glasses-stupid-controls</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T11:30:00Z</news:publication_date>
-      <news:title>Even Realities G2 review: Smart glasses, stupid controls</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/l-intro-1792155926.jpg</image:loc>
-      <image:title>Even Realities G2 review: Smart glasses, stupid controls</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-may-launch-galaxy-s27-series-earlier-than-expected-but-memory-questions-still-linger</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T11:21:02Z</news:publication_date>
-      <news:title>Samsung may launch Galaxy S27 series earlier than expected, but memory questions still linger</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/samsung-galaxy-s27-series-maybe-in-january/gsmarena_000.jpg</image:loc>
-      <image:title>Samsung may launch Galaxy S27 series earlier than expected, but memory questions still linger</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/android8217s-brand-new-3d-emoji-are-rolling-out-more-widely</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T11:12:37Z</news:publication_date>
-      <news:title>Android&amp;#8217;s brand-new 3D emoji are rolling out more widely</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/07/google-gboard-emoji-picker-new-july.jpg</image:loc>
-      <image:title>Android&amp;#8217;s brand-new 3D emoji are rolling out more widely</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/stratospheric-airship-flew-from-us-to-japan-to-test-sky-cell-tower-concept</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T11:05:49Z</news:publication_date>
-      <news:title>Stratospheric airship flew from US to Japan to test sky cell tower concept</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/Sceye-ST1-Launch-from-outside-1152x648.jpg</image:loc>
-      <image:title>Stratospheric airship flew from US to Japan to test sky cell tower concept</image:title>
     </image:image>
   </url>
 </urlset>
