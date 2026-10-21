@@ -4862,34 +4862,4 @@
       <image:title>Honor Watch 6 review</image:title>
     </image:image>
   </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/apple-airpods-5-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T01:00:02Z</news:publication_date>
-      <news:title>Apple AirPods 5 review</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/airpods-5-review/gsmarena_000.jpg</image:loc>
-      <image:title>Apple AirPods 5 review</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/what-do-all-the-lights-on-your-netgear-router-mean-and-which-ones-actually-matter</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T00:30:00Z</news:publication_date>
-      <news:title>What do all the lights on your Netgear router mean, and which ones actually matter?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/what-do-all-the-lights-on-your-netgear-router-mean-and-which-ones-actually-matter/l-intro-1792009377.jpg</image:loc>
-      <image:title>What do all the lights on your Netgear router mean, and which ones actually matter?</image:title>
-    </image:image>
-  </url>
 </urlset>
