@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/things-updated-for-iphone-duo-with-adaptive-layout</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T04:52:10Z</news:publication_date>
+      <news:title>Things Updated for iPhone Duo With Adaptive Layout</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/things-3-for-iphone-duo.jpg</image:loc>
+      <image:title>Things Updated for iPhone Duo With Adaptive Layout</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-docs-on-android-is-getting-a-gemini-live-like-upgrade-for-more-users</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T04:47:59Z</news:publication_date>
+      <news:title>Google Docs on Android is getting a Gemini Live-like upgrade for more users</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2022/02/Google-Docs-logo-on-smartphone-next-to-office-gear-stock-photo-4.jpg</image:loc>
+      <image:title>Google Docs on Android is getting a Gemini Live-like upgrade for more users</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/skullcandy8217s-got-a-new-8216bose8217-to-answer-to</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T04:41:14Z</news:publication_date>
+      <news:title>Skullcandy&amp;#8217;s got a new &amp;#8216;Bose&amp;#8217; to answer to</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/12/Bose-QuietComfort-Ultra-2nd-Gen-next-to-other-headphones.jpg</image:loc>
+      <image:title>Skullcandy&amp;#8217;s got a new &amp;#8216;Bose&amp;#8217; to answer to</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/simplicity-and-siri-ai-are-homeview039s-killer-features-apple-says</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T04:28:25Z</news:publication_date>
+      <news:title>Simplicity and Siri AI Are HomeView&amp;#039;s Killer Features, Apple Says</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/homeview-calendar.jpg</image:loc>
+      <image:title>Simplicity and Siri AI Are HomeView&amp;#039;s Killer Features, Apple Says</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/iqoo-16r-receives-its-first-certification-ahead-of-release</loc>
     <news:news>
       <news:publication>
@@ -5595,21 +5655,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/Gemini-Claude-ChatGPT-on-home-screen-scaled.jpg</image:loc>
       <image:title>ChatGPT Slides is finally here to turn your chats and files into presentations</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-to-unveil-new-macbook-pro-models-on-october-28</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T05:00:02Z</news:publication_date>
-      <news:title>Apple to unveil new MacBook Pro models on October 28</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/apple-event-october-28/gsmarena_00.jpg</image:loc>
-      <image:title>Apple to unveil new MacBook Pro models on October 28</image:title>
     </image:image>
   </url>
 </urlset>
