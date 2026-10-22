@@ -2,6 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/sony-xperia-1-vii-gets-android-17-update</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/xperia-1-vii-android-17/gsmarena_000.jpg</image:loc>
+      <image:title>Sony Xperia 1 VII gets Android 17 update</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-reportedly-boosts-iphone-duo-orders-by-44</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Hinge-Feature-1.jpg</image:loc>
+      <image:title>Apple Reportedly Boosts iPhone Duo Orders by 44%</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/does-the-fitbit-edge-have-nfc-here8217s-what-google-says</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/fitbit-edge-hands-on-10-scaled.jpg</image:loc>
+      <image:title>Does the Fitbit Edge have NFC? Here&amp;#8217;s what Google says</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/fortnite-returning-to-australian-app-store-after-court-ruling</loc>
     <lastmod>2026-10-22</lastmod>
     <changefreq>daily</changefreq>
