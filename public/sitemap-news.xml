@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/iqoo-16r-receives-its-first-certification-ahead-of-release</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T04:02:02Z</news:publication_date>
+      <news:title>iQOO 16R receives its first certification ahead of release</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/iqoo-16r-certified/gsmarena_000.jpg</image:loc>
+      <image:title>iQOO 16R receives its first certification ahead of release</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google8217s-gemini-intelligence-has-a-new-android-competitor-and-it8217s-ready-to-get-things-done</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T03:34:55Z</news:publication_date>
+      <news:title>Google&amp;#8217;s Gemini Intelligence has a new Android competitor, and it&amp;#8217;s ready to get things done</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Claude-Duet.jpg</image:loc>
+      <image:title>Google&amp;#8217;s Gemini Intelligence has a new Android competitor, and it&amp;#8217;s ready to get things done</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/another-nubia-a76-4g-debuts-quietly-with-a-larger-display-faster-charging-battery</loc>
     <news:news>
       <news:publication>
@@ -5580,36 +5610,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/apple-event-october-28/gsmarena_00.jpg</image:loc>
       <image:title>Apple to unveil new MacBook Pro models on October 28</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/karbonn-rebel-5g-is-coming-soon-for-people-who-see-past-the-hype</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T04:01:02Z</news:publication_date>
-      <news:title>Karbonn Rebel 5G is coming soon &quot;for people who see past the hype&quot;</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/karbonn-rebel-5g-teaser/gsmarena_000.jpg</image:loc>
-      <image:title>Karbonn Rebel 5G is coming soon &quot;for people who see past the hype&quot;</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/baseus-new-security-camera-has-a-spotlight-that-tracks-and-follows-moving-targets</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T04:00:00Z</news:publication_date>
-      <news:title>Baseus’ new security camera has a spotlight that tracks and follows moving targets</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/baseus1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Baseus’ new security camera has a spotlight that tracks and follows moving targets</image:title>
     </image:image>
   </url>
 </urlset>
