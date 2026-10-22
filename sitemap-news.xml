@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/another-nubia-a76-4g-debuts-quietly-with-a-larger-display-faster-charging-battery</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T02:11:02Z</news:publication_date>
+      <news:title>Another nubia A76 4G debuts quietly with a larger display, faster charging battery</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/zte-nubia-a76-4g/gsmarena_000.jpg</image:loc>
+      <image:title>Another nubia A76 4G debuts quietly with a larger display, faster charging battery</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/oneplus-turbo-pro-to-borrow-a-lot-from-the-oneplus-16-key-specs-leak</loc>
     <news:news>
       <news:publication>
