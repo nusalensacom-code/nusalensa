@@ -3,6 +3,81 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/these-are-the-oppo-reno17-models-launching-in-india-according-to-a-new-rumor</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T08:24:02Z</news:publication_date>
+      <news:title>These are the Oppo Reno17 models launching in India according to a new rumor</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/oppo-reno17-series-india/gsmarena_000.jpg</image:loc>
+      <image:title>These are the Oppo Reno17 models launching in India according to a new rumor</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/fortnite-is-back-on-apples-australian-app-store-following-court-ruling</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T08:18:58Z</news:publication_date>
+      <news:title>Fortnite is back on Apple&apos;s Australian App Store following court ruling</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/fortnite-is-back-on-apples-australian-app-store-following-court-ruling/l-intro-1792656974.jpg</image:loc>
+      <image:title>Fortnite is back on Apple&apos;s Australian App Store following court ruling</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/sony8217s-android-17-update-with-desktop-mode-is-now-reaching-this-older-xperia-flagship</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T08:17:49Z</news:publication_date>
+      <news:title>Sony&amp;#8217;s Android 17 update with Desktop mode is now reaching this older Xperia flagship</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/08/Sony-Xperia-1-VII-standing-on-desk.jpg</image:loc>
+      <image:title>Sony&amp;#8217;s Android 17 update with Desktop mode is now reaching this older Xperia flagship</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/getting-to-snapseed8217s-camera-may-soon-stop-feeling-like-a-side-quest</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T08:17:06Z</news:publication_date>
+      <news:title>Getting to Snapseed&amp;#8217;s camera may soon stop feeling like a side quest</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/snapseed-app-open-in-android-phones-image.jpg</image:loc>
+      <image:title>Getting to Snapseed&amp;#8217;s camera may soon stop feeling like a side quest</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-one-may-soon-fix-its-biggest-multi-account-headache</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T08:03:44Z</news:publication_date>
+      <news:title>Google One may soon fix its biggest multi-account headache</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/google-one-storage-manager-on-a-smartphone-screen-scaled.jpg</image:loc>
+      <image:title>Google One may soon fix its biggest multi-account headache</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/heres-when-the-oneplus-ace-7-series-is-launching</loc>
     <news:news>
       <news:publication>
@@ -5655,51 +5730,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/04/Samsung-Galaxy-A36-5G-review-image-8.jpg</image:loc>
       <image:title>One of Samsung&amp;#8217;s most popular phones is now getting stable One UI 9 with Android 17</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/fed-up-with-ads-and-bloatware-on-your-smart-tv-people-are-vibecoding-ways-to-remove-them</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T08:30:28Z</news:publication_date>
-      <news:title>Fed up with ads and bloatware on your smart TV? People are vibecoding ways to remove them</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/Ads-on-Google-TVs-home-screen.jpg</image:loc>
-      <image:title>Fed up with ads and bloatware on your smart TV? People are vibecoding ways to remove them</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-tv8217s-latest-surprise-is-a-collection-of-features-you8217ve-probably-seen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T08:25:45Z</news:publication_date>
-      <news:title>Google TV&amp;#8217;s latest surprise is a collection of features you&amp;#8217;ve probably seen</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/01/Gemini-in-Google-TV-at-CES-2026-20-of-32.jpg</image:loc>
-      <image:title>Google TV&amp;#8217;s latest surprise is a collection of features you&amp;#8217;ve probably seen</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/oneplus-details-the-dual-airflow-fan-design-on-the-upcoming-ace-7-series</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T08:02:02Z</news:publication_date>
-      <news:title>OnePlus details the dual-airflow fan design on the upcoming Ace 7 series</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/oneplus-ace-7-pro-launch-design-confirmed/gsmarena_00.jpg</image:loc>
-      <image:title>OnePlus details the dual-airflow fan design on the upcoming Ace 7 series</image:title>
     </image:image>
   </url>
 </urlset>
