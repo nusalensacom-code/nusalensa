@@ -3,6 +3,126 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/giant-iphone-duo-installations-spotted-at-apple-fifth-avenue</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T11:02:39Z</news:publication_date>
+      <news:title>Giant iPhone Duo Installations Spotted at Apple Fifth Avenue</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2025/03/Apple-Fifth-Avenue-Hero.jpeg</image:loc>
+      <image:title>Giant iPhone Duo Installations Spotted at Apple Fifth Avenue</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/android-has-always-been-chaotic-in-the-best-ways-possible</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T11:00:00Z</news:publication_date>
+      <news:title>Android has always been chaotic in the best ways possible</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Pixel-11-Pro-Play-Store-Downloads-.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Android has always been chaotic in the best ways possible</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/eiliko-maker-says-it8217s-hiring-an-8217independent-security-firm-after-verge-report-on-its-insecure-robots</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T11:00:00Z</news:publication_date>
+      <news:title>Eiliko maker says it&amp;#8217;s hiring an ‘&amp;#8217;independent security firm’ after Verge report on its insecure robots</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-012.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Eiliko maker says it&amp;#8217;s hiring an ‘&amp;#8217;independent security firm’ after Verge report on its insecure robots</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/iphone-duo-2-prototypes-include-under-display-face-id</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T10:46:15Z</news:publication_date>
+      <news:title>iPhone Duo 2 Prototypes Include Under-Display Face ID</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/09/iPhone-Duo-Open-large-scaled.png</image:loc>
+      <image:title>iPhone Duo 2 Prototypes Include Under-Display Face ID</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/sony-quietly-killed-a-key-5g-workaround-for-xperia-phones</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T10:43:44Z</news:publication_date>
+      <news:title>Sony quietly killed a key 5G workaround for Xperia phones</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/08/sony-xperia-1-vi-review-front-handheld-scaled.jpg</image:loc>
+      <image:title>Sony quietly killed a key 5G workaround for Xperia phones</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/exclusive-this-is-samsung8217s-galaxy-fit-4-in-three-colors</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T10:37:44Z</news:publication_date>
+      <news:title>Exclusive: This is Samsung&amp;#8217;s Galaxy Fit 4 in three colors</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Galaxy-Fit-4-first-look-1.jpg</image:loc>
+      <image:title>Exclusive: This is Samsung&amp;#8217;s Galaxy Fit 4 in three colors</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/i8217ve-never-owned-smart-glasses-but-samsung8217s-android-xr-glasses-may-change-that</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T10:30:34Z</news:publication_date>
+      <news:title>I&amp;#8217;ve never owned smart glasses, but Samsung&amp;#8217;s Android XR glasses may change that</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/01/Samsung-logo-sign-CES-2025.jpg</image:loc>
+      <image:title>I&amp;#8217;ve never owned smart glasses, but Samsung&amp;#8217;s Android XR glasses may change that</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/bose-acquires-skullcandy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T10:24:03Z</news:publication_date>
+      <news:title>Bose acquires Skullcandy</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/bose-acquires-skullcandy/gsmarena_00.jpg</image:loc>
+      <image:title>Bose acquires Skullcandy</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/i-vibe-coded-a-pebble-time-2-app-and-i-learned-some-tough-lessons</loc>
     <news:news>
       <news:publication>
@@ -5640,66 +5760,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/06/Samsung-Galaxy-S25-Ultra-RAM-use.jpg</image:loc>
       <image:title>Big downgrade: Some Android brands could offer just 4GB of RAM in their upcoming budget phones</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/visiting-slates-first-showroom-as-its-25000-electric-truck-nears-production</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T11:00:16Z</news:publication_date>
-      <news:title>Visiting Slate’s first showroom as its $25,000 electric truck nears production</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/slate-visit-chicago-intro-1152x648.jpg</image:loc>
-      <image:title>Visiting Slate’s first showroom as its $25,000 electric truck nears production</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/foldables-are-about-to-get-huge</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T11:00:00Z</news:publication_date>
-      <news:title>Foldables are about to get huge</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/09/iphone-duo-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Foldables are about to get huge</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/ive-used-the-pixel-11-pro-xl-and-iphone-18-pro-max-and-apples-ecosystem-isnt-enough-anymore</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T10:30:31Z</news:publication_date>
-      <news:title>I’ve used the Pixel 11 Pro XL and iPhone 18 Pro Max, and Apple’s ecosystem isn’t enough anymore</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/iphone-18-pro-max-pixel-11-pro-xl-scaled.jpg</image:loc>
-      <image:title>I’ve used the Pixel 11 Pro XL and iPhone 18 Pro Max, and Apple’s ecosystem isn’t enough anymore</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/some-google-home-speakers-caught-downloading-hundreds-of-gigs-of-data</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T10:16:47Z</news:publication_date>
-      <news:title>Some Google Home Speakers caught downloading hundreds of gigs of data</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268614_Google_Home_Speaker_JTuohy_0010.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Some Google Home Speakers caught downloading hundreds of gigs of data</image:title>
     </image:image>
   </url>
 </urlset>
