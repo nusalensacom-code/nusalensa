@@ -3,6 +3,156 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/nba-2k27-drops-below-50-on-amazon-saving-you-20</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T17:55:55Z</news:publication_date>
+      <news:title>NBA 2K27 drops below $50 on Amazon, saving you $20</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/NBA-2K27-Gameplay.jpg</image:loc>
+      <image:title>NBA 2K27 drops below $50 on Amazon, saving you $20</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/some-t-mobile-customers-may-finally-get-something-back-for-those-unexpected-price-hikes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T17:52:29Z</news:publication_date>
+      <news:title>Some T-Mobile customers may finally get something back for those unexpected price hikes</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/10/t-mobile-logo-pixel-hero-1-scaled.jpg</image:loc>
+      <image:title>Some T-Mobile customers may finally get something back for those unexpected price hikes</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/amazon-renames-kindle-unlimited-to-kindle-plus-and-expands-access-to-audiobooks</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T17:46:40Z</news:publication_date>
+      <news:title>Amazon renames Kindle Unlimited to Kindle Plus and expands access to audiobooks</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/kindleplus.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Amazon renames Kindle Unlimited to Kindle Plus and expands access to audiobooks</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/elon-musk-says-tesla-will-sell-5-million-cars-by-2030-math-says-otherwise</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T17:42:52Z</news:publication_date>
+      <news:title>Elon Musk says Tesla will sell 5 million cars by 2030 — math says otherwise</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKE001_STK086_Tesla_Robotaxi_3_B.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Elon Musk says Tesla will sell 5 million cars by 2030 — math says otherwise</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/shokz-openrun-pro-headphones-get-a-70-amazon-discount</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T17:34:02Z</news:publication_date>
+      <news:title>Shokz OpenRun Pro headphones get a $70 Amazon discount</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2022/10/shokz-openrun-pro-hero.jpg</image:loc>
+      <image:title>Shokz OpenRun Pro headphones get a $70 Amazon discount</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/someone-hacked-the-switch-2-by-using-an-old-game-and-ai</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T17:21:31Z</news:publication_date>
+      <news:title>Someone hacked the Switch 2 by using an old game and AI</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
+      <image:title>Someone hacked the Switch 2 by using an old game and AI</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-sheets-is-finally-catching-up-to-excel-with-support-for-more-chart-types</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T17:20:18Z</news:publication_date>
+      <news:title>Google Sheets is finally catching up to Excel with support for more chart types</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2022/02/Google-Sheets-next-to-calculator-stock-photo-1.jpg</image:loc>
+      <image:title>Google Sheets is finally catching up to Excel with support for more chart types</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/amazon-cuts-900-off-the-2026-macbook-pro-with-m5-max-chip</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T17:17:19Z</news:publication_date>
+      <news:title>Amazon cuts $900 off the 2026 MacBook Pro with M5 Max chip</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Apple-2026-MacBook-Pro-Press-Image.jpg</image:loc>
+      <image:title>Amazon cuts $900 off the 2026 MacBook Pro with M5 Max chip</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/meta-shocked-by-25b-fine-after-nm-refused-to-join-multistate-settlement</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T17:04:31Z</news:publication_date>
+      <news:title>Meta shocked by $25B fine after N.M. refused to join multistate settlement</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1968308632-1024x648.jpg</image:loc>
+      <image:title>Meta shocked by $25B fine after N.M. refused to join multistate settlement</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/arc-browser-is-shutting-down</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T17:03:37Z</news:publication_date>
+      <news:title>Arc browser is shutting down</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-12.56.25-PM.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Arc browser is shutting down</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/the-disastrous-php-vulnerabilities-were-exploited-days-before-the-patch</loc>
     <news:news>
       <news:publication>
@@ -33,6 +183,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/someone-built-iphone-duo8217s-tent-mode-for-android-foldables-but-made-it-even-better</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T16:45:00Z</news:publication_date>
+      <news:title>Someone built iPhone Duo&amp;#8217;s tent mode for Android foldables, but made it even better</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/galaxy-z-fold-8-standby-copy-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Someone built iPhone Duo&amp;#8217;s tent mode for Android foldables, but made it even better</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/iphone-duo-isn8217t-even-out-yet-and-it-already-has-better-foldable-apps-than-your-android</loc>
     <news:news>
       <news:publication>
@@ -45,6 +210,21 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-iPhone-Duo-Hands-On-Outer-Display-Cover-Display-in-hand.jpg</image:loc>
       <image:title>iPhone Duo isn&amp;#8217;t even out yet and it already has better foldable apps than your Android</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/us-backed-vaccine-trial-on-babies-canceled-after-international-outcry</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T16:37:00Z</news:publication_date>
+      <news:title>US-backed vaccine trial on babies canceled after international outcry</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-629400903-1152x648.jpg</image:loc>
+      <image:title>US-backed vaccine trial on babies canceled after international outcry</image:title>
     </image:image>
   </url>
   <url>
@@ -180,6 +360,21 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/R_2016-Hackathon-Day2-064-1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Microsoft shuts down its beloved maker space</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/this-emulator-reimagines-nintendos-virtual-boy-with-a-full-color-display</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T15:59:40Z</news:publication_date>
+      <news:title>This emulator reimagines Nintendo’s Virtual Boy with a full color display</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/mtcolor.png</image:loc>
+      <image:title>This emulator reimagines Nintendo’s Virtual Boy with a full color display</image:title>
     </image:image>
   </url>
   <url>
@@ -330,6 +525,21 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/z-fold-8-launch-day-1.jpg</image:loc>
       <image:title>Samsung Galaxy Z Fold 8 just keeps riding iPhone Duo momentum to new sales heights</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T15:25:02Z</news:publication_date>
+      <news:title>Hackers got a four-day head start on epic PHP2Shell vulnerability</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2022/03/internet-routing-1000x648.jpeg</image:loc>
+      <image:title>Hackers got a four-day head start on epic PHP2Shell vulnerability</image:title>
     </image:image>
   </url>
   <url>
@@ -510,6 +720,21 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/coolpad1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Coolpad’s new $150 Android phone has a wider screen like the iPhone Duo, but doesn’t fold</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/sauron-recruits-his-future-ringwraiths-in-rings-of-power-s3-trailer</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T14:22:31Z</news:publication_date>
+      <news:title>Sauron recruits his future Ringwraiths in Rings of Power S3 trailer</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/sauron-1152x648-1792610020.jpg</image:loc>
+      <image:title>Sauron recruits his future Ringwraiths in Rings of Power S3 trailer</image:title>
     </image:image>
   </url>
   <url>
@@ -5700,141 +5925,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/how-often-should-you-restart-your-apple-watch/l-intro-1792170963.jpg</image:loc>
       <image:title>How often should you restart your Apple Watch?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/amazon-drops-belkin-soundform-isolate-buds-to-a-new-low</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T17:52:00Z</news:publication_date>
-      <news:title>Amazon drops Belkin SoundForm Isolate Buds to a new low</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Belkin-SoundForm-Isolate-Buds-ANC-Press-Image.jpg</image:loc>
-      <image:title>Amazon drops Belkin SoundForm Isolate Buds to a new low</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-20000-voxel-bot-will-help-you-find-misplaced-things-around-your-home</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T17:49:55Z</news:publication_date>
-      <news:title>The $20,000 Voxel bot will help you find misplaced things around your home</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/voxel1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>The $20,000 Voxel bot will help you find misplaced things around your home</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/youtube8217s-war-on-the-dislike-button-appears-to-be-far-from-over</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T17:43:13Z</news:publication_date>
-      <news:title>YouTube&amp;#8217;s war on the Dislike button appears to be far from over</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/03/youtube-logo-google-pixel-10a-2-scaled.jpg</image:loc>
-      <image:title>YouTube&amp;#8217;s war on the Dislike button appears to be far from over</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/lenovo-yoga-silent-mouse-drops-below-22-on-amazon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T17:42:16Z</news:publication_date>
-      <news:title>Lenovo Yoga Silent Mouse drops below $22 on Amazon</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Lenovo-Yoga-Bluetooth-Silent-Mouse-Press-Image.jpg</image:loc>
-      <image:title>Lenovo Yoga Silent Mouse drops below $22 on Amazon</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/spotifys-war-on-ai-slop-has-already-wiped-tens-of-millions-of-fake-tracks</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T17:41:44Z</news:publication_date>
-      <news:title>Spotify’s war on AI slop has already wiped tens of millions of fake tracks</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/01/spotify-prompted-playlists-generating-interface.jpg</image:loc>
-      <image:title>Spotify’s war on AI slop has already wiped tens of millions of fake tracks</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/airpods-pro-3-still-50-off-on-amazon-while-deal-is-live</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T17:23:56Z</news:publication_date>
-      <news:title>AirPods Pro 3 still $50 off on Amazon while deal is live</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/12/Apple-AirPods-Pro-3-featured-image.jpg</image:loc>
-      <image:title>AirPods Pro 3 still $50 off on Amazon while deal is live</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/you-can-cut-your-cell-phone-bill-to-10month-or-get-a-pixel-11-for-400-right-now-here8217s-how</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T17:15:00Z</news:publication_date>
-      <news:title>You can cut your cell phone bill to $10/month or get a Pixel 11 for $400 right now – here&amp;#8217;s how</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-in-Obsidian-various-2.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>You can cut your cell phone bill to $10/month or get a Pixel 11 for $400 right now – here&amp;#8217;s how</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/new-baseus-spacemate-rd1-plus-14-in-1-dock-gets-its-first-price-drop-saving-you-90</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T17:13:47Z</news:publication_date>
-      <news:title>New Baseus Spacemate RD1 Plus 14-in-1 dock gets its first price drop, saving you $90</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Baseus-Spacemate-RD1-Plus-Docking-Station-14-in-1-Press-Image.jpg</image:loc>
-      <image:title>New Baseus Spacemate RD1 Plus 14-in-1 dock gets its first price drop, saving you $90</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/spotify-is-dancing-around-its-ai-slop-and-spam-problem</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T17:11:26Z</news:publication_date>
-      <news:title>Spotify is dancing around its AI &apos;slop and spam&apos; problem</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/spotify-is-dancing-around-its-ai-slop-and-spam-problem/l-intro-1792516193.jpg</image:loc>
-      <image:title>Spotify is dancing around its AI &apos;slop and spam&apos; problem</image:title>
     </image:image>
   </url>
 </urlset>
