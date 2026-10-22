@@ -3,6 +3,141 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/the-disastrous-php-vulnerabilities-were-exploited-days-before-the-patch</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T16:49:48Z</news:publication_date>
+      <news:title>The disastrous PHP vulnerabilities were exploited days before the patch</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318435/akrales_220309_4977_0232.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>The disastrous PHP vulnerabilities were exploited days before the patch</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/deal-drops-the-samsung-galaxy-tab-s10-fe-to-its-lowest-price-in-months</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T16:48:15Z</news:publication_date>
+      <news:title>Deal drops the Samsung Galaxy Tab S10 FE to its lowest price in months</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/05/Samsung-Galaxy-Tab-S10-FE-with-S-Pen.jpg</image:loc>
+      <image:title>Deal drops the Samsung Galaxy Tab S10 FE to its lowest price in months</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/iphone-duo-isn8217t-even-out-yet-and-it-already-has-better-foldable-apps-than-your-android</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T16:43:26Z</news:publication_date>
+      <news:title>iPhone Duo isn&amp;#8217;t even out yet and it already has better foldable apps than your Android</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-iPhone-Duo-Hands-On-Outer-Display-Cover-Display-in-hand.jpg</image:loc>
+      <image:title>iPhone Duo isn&amp;#8217;t even out yet and it already has better foldable apps than your Android</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/put-down-your-pitchforks-google8217s-not-hiding-youtube8217s-dislike-button</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T16:30:33Z</news:publication_date>
+      <news:title>Put down your pitchforks — Google&amp;#8217;s not hiding YouTube&amp;#8217;s dislike button</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2022/04/YouTube-on-smartphone-stock-photo-6.jpg</image:loc>
+      <image:title>Put down your pitchforks — Google&amp;#8217;s not hiding YouTube&amp;#8217;s dislike button</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/android-handhelds-are-running-ps5-games-now</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T16:30:30Z</news:publication_date>
+      <news:title>Android handhelds are running PS5 games now</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/07/Playstation-controller.jpg</image:loc>
+      <image:title>Android handhelds are running PS5 games now</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/sundar-pichai-allegedly-draws-the-line-at-oceans</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T16:22:50Z</news:publication_date>
+      <news:title>Sundar Pichai (allegedly) draws the line at oceans</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/sundar-pichai-allegedly-draws-the-line-at-oceans/l-intro-1792685934.jpg</image:loc>
+      <image:title>Sundar Pichai (allegedly) draws the line at oceans</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/score-91-off-the-tp-link-deco-7-be5000-whole-home-wi-fi-7-system</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T16:21:31Z</news:publication_date>
+      <news:title>Score $91 off the TP-Link Deco 7 BE5000 whole-home Wi-Fi 7 system</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/TP-Link-Deco-7-BE5000-Wi-Fi-7-system-Press-Image.jpg</image:loc>
+      <image:title>Score $91 off the TP-Link Deco 7 BE5000 whole-home Wi-Fi 7 system</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/wildwoods-director-says-ai-is-antithetical-to-everything-that-we-are-at-this-studio</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T16:16:15Z</news:publication_date>
+      <news:title>Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/WILDWOOD-Curtis-Alexandra-Still-Credit_-LAIKA.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/oppo-find-x10-and-find-x10-pro-max-launch-in-india-here-is-how-much-they-cost</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T16:09:02Z</news:publication_date>
+      <news:title>Oppo Find X10 and Find X10 Pro Max launch in India, here is how much they cost</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/oppo-find-x10-series-launch-india/gsmarena_000.jpg</image:loc>
+      <image:title>Oppo Find X10 and Find X10 Pro Max launch in India, here is how much they cost</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/trump-says-sundar-pichai-talked-him-out-of-renaming-the-atlantic-ocean</loc>
     <news:news>
       <news:publication>
@@ -15,6 +150,21 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2276602257.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Trump says Sundar Pichai talked him out of renaming the Atlantic Ocean</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/lineageos-24-review-easier-than-ever-to-recommend-video</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T16:00:00Z</news:publication_date>
+      <news:title>LineageOS 24 review: Easier than ever to recommend [Video]</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/LineageOS-24-logo.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>LineageOS 24 review: Easier than ever to recommend [Video]</image:title>
     </image:image>
   </url>
   <url>
@@ -5685,201 +5835,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/spotify-is-dancing-around-its-ai-slop-and-spam-problem/l-intro-1792516193.jpg</image:loc>
       <image:title>Spotify is dancing around its AI &apos;slop and spam&apos; problem</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/chrome-can-now-share-your-clipboard-data-with-google-servers-for-your-own-good</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T17:00:43Z</news:publication_date>
-      <news:title>Chrome can now share your clipboard data with Google servers (for your own good)</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/09/google-pixel-9-pro-fold-chrome-android-authority-1.jpg</image:loc>
-      <image:title>Chrome can now share your clipboard data with Google servers (for your own good)</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-says-chromes-safe-browsing-enhanced-protection-mode-makes-users-10x-safer</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T17:00:00Z</news:publication_date>
-      <news:title>Google says Chrome’s Safe Browsing Enhanced Protection mode makes users 10x safer</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Chrome-Suspicious-Site-Warnings.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Google says Chrome’s Safe Browsing Enhanced Protection mode makes users 10x safer</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/chrome-will-now-show-a-warning-before-you-visit-suspicious-sites</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T17:00:00Z</news:publication_date>
-      <news:title>Chrome will now show a warning before you visit ‘suspicious’ sites</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Google-Chrome-suspicious-website-warning-hero.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Chrome will now show a warning before you visit ‘suspicious’ sites</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/oura-is-giving-its-smart-rings-a-big-cardiovascular-health-upgrade</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T16:49:01Z</news:publication_date>
-      <news:title>Oura is giving its smart rings a big cardiovascular health upgrade</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/06/Oura-Ring-5-app-scaled.jpg</image:loc>
-      <image:title>Oura is giving its smart rings a big cardiovascular health upgrade</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/verizons-straight-talk-upgrades-its-unlimited-plans-without-raising-prices</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T16:47:02Z</news:publication_date>
-      <news:title>Verizon&apos;s Straight Talk upgrades its unlimited plans without raising prices</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/straight-talk-unlimited-plan-improvements/gsmarena_000.jpg</image:loc>
-      <image:title>Verizon&apos;s Straight Talk upgrades its unlimited plans without raising prices</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/dont-put-your-phone-in-the-tsa-bin-do-this-instead</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T16:45:00Z</news:publication_date>
-      <news:title>Don&apos;t put your phone in the TSA bin — do this instead</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/dont-put-your-phone-in-the-tsa-bin-do-this-instead/l-intro-1792170181.jpg</image:loc>
-      <image:title>Don&apos;t put your phone in the TSA bin — do this instead</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/amd-is-bringing-fsr-41-to-xbox-consoles-and-handhelds</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T16:21:18Z</news:publication_date>
-      <news:title>AMD is bringing FSR 4.1 to Xbox consoles and handhelds</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/3b4peqgb3j7f1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>AMD is bringing FSR 4.1 to Xbox consoles and handhelds</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/you-can-build-your-own-mechanical-keyboard-but-is-it-worth-the-price</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T16:15:00Z</news:publication_date>
-      <news:title>You can build your own mechanical keyboard, but is it worth the price?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/you-can-build-your-own-mechanical-keyboard-but-is-it-worth-the-price/l-intro-1792169830.jpg</image:loc>
-      <image:title>You can build your own mechanical keyboard, but is it worth the price?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung8217s-galaxy-s27-lineup-takes-shape-in-new-leak</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T16:14:29Z</news:publication_date>
-      <news:title>Samsung&amp;#8217;s Galaxy S27 lineup takes shape in new leak</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Galaxy-S27-S27-S27-Ultra-Screen-Protector-1.jpg</image:loc>
-      <image:title>Samsung&amp;#8217;s Galaxy S27 lineup takes shape in new leak</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/amazon-knocks-31-off-sony-wh-ch520-wireless-headphones</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T16:10:12Z</news:publication_date>
-      <news:title>Amazon knocks $31 off Sony WH-CH520 wireless headphones</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/05/Sony-WH-CH520-Wireless-Headphones-SoundGuys.jpg</image:loc>
-      <image:title>Amazon knocks $31 off Sony WH-CH520 wireless headphones</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/older-pixel-phones-appear-to-be-getting-google8217s-new-3d-emoji</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T16:06:33Z</news:publication_date>
-      <news:title>Older Pixel phones appear to be getting Google&amp;#8217;s new 3D emoji</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Pixel-11-Pro-Updated-Emoji.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Older Pixel phones appear to be getting Google&amp;#8217;s new 3D emoji</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iron-man-himself-now-officially-endorses-snap8217s-latest-smart-glasses</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T16:05:00Z</news:publication_date>
-      <news:title>Iron Man himself now officially endorses Snap&amp;#8217;s latest smart glasses</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/snap-specs-robert-downey-jr.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Iron Man himself now officially endorses Snap&amp;#8217;s latest smart glasses</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/ios-273-may-expand-rcs-support-to-australia039s-telstra-in-december</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T16:04:13Z</news:publication_date>
-      <news:title>iOS 27.3 May Expand RCS Support to Australia&amp;#039;s Telstra in December</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/05/ios-26-5-rcs.jpg</image:loc>
-      <image:title>iOS 27.3 May Expand RCS Support to Australia&amp;#039;s Telstra in December</image:title>
     </image:image>
   </url>
 </urlset>
