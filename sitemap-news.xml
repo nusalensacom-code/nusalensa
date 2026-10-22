@@ -3,6 +3,111 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/the-next-oneplus-phone-comes-with-a-fan-to-keep-your-phone-and-hands-cool</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T11:53:54Z</news:publication_date>
+      <news:title>The next OnePlus phone comes with a fan to keep your phone and hands cool</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/OnePlus-Ace-7-series-with-tower-fin-dual-channel-air-cooling_2.jpg</image:loc>
+      <image:title>The next OnePlus phone comes with a fan to keep your phone and hands cool</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-blocks-certificates-that-could-help-attackers-fake-websites</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T11:43:09Z</news:publication_date>
+      <news:title>Apple Blocks Certificates That Could Help Attackers Fake Websites</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/03/apple-lock-security-bug-vulnerability-fix-privacy.jpg</image:loc>
+      <image:title>Apple Blocks Certificates That Could Help Attackers Fake Websites</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/this-app-recreates-iphone-duo8217s-standby-mode-on-any-android-foldable</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T11:39:38Z</news:publication_date>
+      <news:title>This app recreates iPhone Duo&amp;#8217;s StandBy mode on any Android foldable</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Android-standby-iphone-duo-inspired.jpg</image:loc>
+      <image:title>This app recreates iPhone Duo&amp;#8217;s StandBy mode on any Android foldable</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/333-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T11:30:33Z</news:publication_date>
+      <news:title>333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1237260150-1152x648.jpg</image:loc>
+      <image:title>333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/googles-newest-health-features-are-a-confusing-mess-across-pixel-watches-and-fitbits</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T11:30:29Z</news:publication_date>
+      <news:title>Google’s newest health features are a confusing mess across Pixel Watches and Fitbits</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-watch-5-fitbit-air-front-scaled-e1792594908250.jpg</image:loc>
+      <image:title>Google’s newest health features are a confusing mess across Pixel Watches and Fitbits</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/iphone-duo-is-getting-apple-pencil-support-very-soon-reachability-too</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T11:28:02Z</news:publication_date>
+      <news:title>iPhone Duo is getting Apple Pencil support very soon, Reachability too</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/iphone-duo-apple-pencil-support/gsmarena_000.jpg</image:loc>
+      <image:title>iPhone Duo is getting Apple Pencil support very soon, Reachability too</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/un-says-were-going-to-blow-past-15-warming-offers-a-now-what-answer</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T11:15:36Z</news:publication_date>
+      <news:title>UN says we&apos;re going to blow past 1.5º warming, offers a &quot;now what?&quot; answer</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2170672849-1152x648.jpg</image:loc>
+      <image:title>UN says we&apos;re going to blow past 1.5º warming, offers a &quot;now what?&quot; answer</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/giant-iphone-duo-installations-spotted-at-apple-fifth-avenue</loc>
     <news:news>
       <news:publication>
@@ -5670,96 +5775,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/openai-says-its-models-can-help-banks-migrate-from-old-cobol-programs/l-intro-1792497626.jpg</image:loc>
       <image:title>OpenAI says its models can help banks migrate from old COBOL programs</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/oura-adds-new-fitness-metrics-to-show-how-workouts-impact-your-body</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T12:00:00Z</news:publication_date>
-      <news:title>Oura adds new fitness metrics to show how workouts impact your body</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
-      <image:title>Oura adds new fitness metrics to show how workouts impact your body</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/spotifys-memberships-program-for-podcasts-is-here-to-compete-with-patreon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T12:00:00Z</news:publication_date>
-      <news:title>Spotify&apos;s Memberships program for podcasts is here to compete with Patreon</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/spotifys-memberships-program-for-podcasts-is-here-to-compete-with-patreon/l-intro-1792416234.jpg</image:loc>
-      <image:title>Spotify&apos;s Memberships program for podcasts is here to compete with Patreon</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/spotifys-new-podcast-memberships-let-you-pay-for-extra-perks</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T12:00:00Z</news:publication_date>
-      <news:title>Spotify’s new podcast memberships let you pay for extra perks</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Spotify-Podcast-Memberships.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Spotify’s new podcast memberships let you pay for extra perks</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/snapdragon-or-exynos-new-upgrade-for-exynos-galaxy-s27-could-make-this-a-tough-choice</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T11:45:29Z</news:publication_date>
-      <news:title>Snapdragon or Exynos? New upgrade for Exynos Galaxy S27 could make this a tough choice</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/03/samsung-galaxy-s26-base-and-s26-plus-review-3-scaled.jpg</image:loc>
-      <image:title>Snapdragon or Exynos? New upgrade for Exynos Galaxy S27 could make this a tough choice</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/shipping-dates-for-the-iphone-duo-have-been-pulled-forward-for-many-users</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T11:27:02Z</news:publication_date>
-      <news:title>Shipping dates for the iPhone Duo have been pulled forward for many users</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/apple-iphone-duo-shipping-dates-pulled-forward/gsmarena_000.jpg</image:loc>
-      <image:title>Shipping dates for the iPhone Duo have been pulled forward for many users</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/big-downgrade-some-android-brands-could-offer-just-4gb-of-ram-in-their-upcoming-budget-phones</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T11:18:38Z</news:publication_date>
-      <news:title>Big downgrade: Some Android brands could offer just 4GB of RAM in their upcoming budget phones</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/06/Samsung-Galaxy-S25-Ultra-RAM-use.jpg</image:loc>
-      <image:title>Big downgrade: Some Android brands could offer just 4GB of RAM in their upcoming budget phones</image:title>
     </image:image>
   </url>
 </urlset>
