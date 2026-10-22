@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/fortnite-returning-to-australian-app-store-after-court-ruling</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T05:55:06Z</news:publication_date>
+      <news:title>Fortnite Returning to Australian App Store After Court Ruling</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2020/08/fortnite-apple-logo-2.5.jpg</image:loc>
+      <image:title>Fortnite Returning to Australian App Store After Court Ruling</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-ordered-to-open-iphone-to-rival-app-stores-in-australia</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T05:41:09Z</news:publication_date>
+      <news:title>Apple Ordered to Open iPhone to Rival App Stores in Australia</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2022/01/iOS-App-Store-General-Feature-Black.jpg</image:loc>
+      <image:title>Apple Ordered to Open iPhone to Rival App Stores in Australia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/oppo-enco-x4-unboxing-and-hands-on</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T05:21:02Z</news:publication_date>
+      <news:title>Oppo Enco X4 unboxing and hands-on</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/oppo-enco-x4-hands-on/gsmarena_000.jpg</image:loc>
+      <image:title>Oppo Enco X4 unboxing and hands-on</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-suppliers-face-hurdles-cutting-circuit-board-emissions</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T05:15:09Z</news:publication_date>
+      <news:title>Apple Suppliers Face Hurdles Cutting Circuit Board Emissions</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2023/04/Apple-Environment-Feature.jpg</image:loc>
+      <image:title>Apple Suppliers Face Hurdles Cutting Circuit Board Emissions</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/things-updated-for-iphone-duo-with-adaptive-layout</loc>
     <news:news>
       <news:publication>
@@ -5610,51 +5670,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/04/chipolo-card-google-find-hub-bluetooth-tracker-secrid-wallet-app.jpg</image:loc>
       <image:title>Googlebook owners finally get an explanation for the missing Find Hub app</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/huawei-mate-x8-specs-leak</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T06:00:02Z</news:publication_date>
-      <news:title>Huawei Mate X8 specs leak</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/huawei-mate-x8-specs-leak/gsmarena_000.jpg</image:loc>
-      <image:title>Huawei Mate X8 specs leak</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T05:59:56Z</news:publication_date>
-      <news:title>Japan launches mission to bring home a piece of the Martian moon Phobos</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/52568167027_27ac36afb5_o-1152x648.jpg</image:loc>
-      <image:title>Japan launches mission to bring home a piece of the Martian moon Phobos</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/chatgpt-slides-is-finally-here-to-turn-your-chats-and-files-into-presentations</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T05:40:52Z</news:publication_date>
-      <news:title>ChatGPT Slides is finally here to turn your chats and files into presentations</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/Gemini-Claude-ChatGPT-on-home-screen-scaled.jpg</image:loc>
-      <image:title>ChatGPT Slides is finally here to turn your chats and files into presentations</image:title>
     </image:image>
   </url>
 </urlset>
