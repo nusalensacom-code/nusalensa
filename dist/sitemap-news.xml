@@ -3,6 +3,111 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/reviews/meta-turns-muse-sharing-back-on</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T20:24:04Z</news:publication_date>
+      <news:title>Meta turns Muse sharing back on</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Meta turns Muse sharing back on</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-fcc-is-beginning-to-block-gadgets-with-foreign-surveillance-chips</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T20:23:48Z</news:publication_date>
+      <news:title>The FCC is beginning to block gadgets with ‘foreign surveillance chips’</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25840497/STKP211_BRENDAN_CARR_B.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>The FCC is beginning to block gadgets with ‘foreign surveillance chips’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/spotifys-family-plan-qr-code-could-cost-you-premium-access</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T20:19:19Z</news:publication_date>
+      <news:title>Spotify&apos;s Family plan QR code could cost you Premium access</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/spotifys-family-plan-qr-code-could-cost-you-premium-access/l-intro-1792700036.jpg</image:loc>
+      <image:title>Spotify&apos;s Family plan QR code could cost you Premium access</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple039s-iwork-apps-get-039intelligent-assistant039-and-iphone-duo-support</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T20:15:24Z</news:publication_date>
+      <news:title>Apple&amp;#039;s iWork Apps Get &amp;#039;Intelligent Assistant&amp;#039; and iPhone Duo Support</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/iphone-duo-keynote.jpg</image:loc>
+      <image:title>Apple&amp;#039;s iWork Apps Get &amp;#039;Intelligent Assistant&amp;#039; and iPhone Duo Support</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/google-meet-expands-real-time-translation-across-63-languages</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T20:09:20Z</news:publication_date>
+      <news:title>Google Meet expands real-time translation across 63 languages</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/live-translate-phone-screen-cropped.jpg</image:loc>
+      <image:title>Google Meet expands real-time translation across 63 languages</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/meta-hit-with-25b-fine-in-new-mexico</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T20:09:03Z</news:publication_date>
+      <news:title>Meta hit with $25B fine in New Mexico</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/meta-25b-fine-new-mexico/gsmarena_001.jpg</image:loc>
+      <image:title>Meta hit with $25B fine in New Mexico</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/rhode-island-sues-meta-over-its-approach-to-scam-ads</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T20:05:26Z</news:publication_date>
+      <news:title>Rhode Island sues Meta over its approach to scam ads</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/rhode-island-sues-meta-over-its-approach-to-scam-ads/l-intro-1792699351.jpg</image:loc>
+      <image:title>Rhode Island sues Meta over its approach to scam ads</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/apple-is-apparently-considering-a-slightly-larger-iphone-duo</loc>
     <news:news>
       <news:publication>
@@ -15,6 +120,21 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Open-large-scaled-feature.jpg</image:loc>
       <image:title>Apple is Apparently Considering a Slightly Larger iPhone Duo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-trailer-for-mass-effect-5-has-leaked-and-unfortunately-it-looks-good</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T19:55:13Z</news:publication_date>
+      <news:title>The trailer for Mass Effect 5 has leaked and unfortunately it looks good</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/the-trailer-for-mass-effect-5-has-leaked-and-unfortunately-it-looks-good/l-intro-1792698450.jpg</image:loc>
+      <image:title>The trailer for Mass Effect 5 has leaked and unfortunately it looks good</image:title>
     </image:image>
   </url>
   <url>
@@ -60,6 +180,21 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/teenage-engineering-ep-35.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Teenage Engineering launched an instrument amp with a ton of built-in effects</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/some-galaxy-s24-s25-owners-say-samsung8217s-latest-update-is-wrecking-battery-life</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T19:40:00Z</news:publication_date>
+      <news:title>Some Galaxy S24, S25 owners say Samsung&amp;#8217;s latest update is wrecking battery life</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2025/02/S24-and-S25-Ultra-battery-stats.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Some Galaxy S24, S25 owners say Samsung&amp;#8217;s latest update is wrecking battery life</image:title>
     </image:image>
   </url>
   <url>
@@ -5910,126 +6045,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_10042.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Snap is paying Robert Downey Jr. to do the Iron Man thing</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/android-17-qpr3-beta-2-for-pixel-rolling-out-with-21-fixes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T20:31:34Z</news:publication_date>
-      <news:title>Android 17 QPR3 Beta 2 for Pixel rolling out with 21 fixes</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/06/Android-17-launch-logo-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Android 17 QPR3 Beta 2 for Pixel rolling out with 21 fixes</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/payday-aces-high-playtest-on-meta-quest-and-steam-comes-with-a-free-mask-this-week</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T20:30:00Z</news:publication_date>
-      <news:title>Payday: Aces High playtest on Meta Quest and Steam comes with a free mask this week</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/PSX_20261020_161631.png?w=1600</image:loc>
-      <image:title>Payday: Aces High playtest on Meta Quest and Steam comes with a free mask this week</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/chatgpt8217s-latest-feature-will-keep-your-chats-shielded-from-prying-eyes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T20:29:27Z</news:publication_date>
-      <news:title>ChatGPT&amp;#8217;s latest feature will keep your chats shielded from prying eyes</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/Open-AI-ChatGPT-logo-on-phone-stock-photo-10.jpg</image:loc>
-      <image:title>ChatGPT&amp;#8217;s latest feature will keep your chats shielded from prying eyes</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/spacex-says-big-ai-growth-fueled-revenue-jump</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T20:26:58Z</news:publication_date>
-      <news:title>SpaceX says big AI growth fueled revenue jump</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_E.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>SpaceX says big AI growth fueled revenue jump</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/oura-adds-two-new-cardiovascular-health-tracking-features-to-its-smart-rings</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T20:26:04Z</news:publication_date>
-      <news:title>Oura adds two new cardiovascular health tracking features to its smart rings</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/oura1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Oura adds two new cardiovascular health tracking features to its smart rings</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/justwatch-which-tackles-streaming-fragmentation-launches-own-streaming-service</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T20:20:12Z</news:publication_date>
-      <news:title>JustWatch, which tackles streaming fragmentation, launches own streaming service</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/Global_banner_preview-1152x648.png</image:loc>
-      <image:title>JustWatch, which tackles streaming fragmentation, launches own streaming service</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/tiktok-has-started-censoring-searches-for-popular-peptides</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T20:16:04Z</news:publication_date>
-      <news:title>TikTok has started censoring searches for popular peptides</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS538_PEPTIDES2.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>TikTok has started censoring searches for popular peptides</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T20:07:58Z</news:publication_date>
-      <news:title>Meta drops the word &quot;train&quot; from its commercial TOS after AI backlash</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2299491134-1152x648.jpg</image:loc>
-      <image:title>Meta drops the word &quot;train&quot; from its commercial TOS after AI backlash</image:title>
     </image:image>
   </url>
 </urlset>
