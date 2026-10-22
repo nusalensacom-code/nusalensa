@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/vivo-y600-to-debut-next-week-with-a-10000mah-battery</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T12:31:02Z</news:publication_date>
+      <news:title>vivo Y600 to debut next week with a 10,000mAh battery</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/vivo-y600-china-launch/gsmarena_00.jpg</image:loc>
+      <image:title>vivo Y600 to debut next week with a 10,000mAh battery</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/these-2-useful-google-wallet-upgrades-are-starting-to-roll-out</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T12:10:03Z</news:publication_date>
+      <news:title>These 2 useful Google Wallet upgrades are starting to roll out</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/04/google-wallet-2026-redesign-new-passes-hero-1-scaled.jpg</image:loc>
+      <image:title>These 2 useful Google Wallet upgrades are starting to roll out</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/the-next-oneplus-phone-comes-with-a-fan-to-keep-your-phone-and-hands-cool</loc>
     <news:news>
       <news:publication>
@@ -5715,66 +5745,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/uk-antitrust-regulartor-wants-apple-to-open-up-iphone-nfc-access/l-intro-1792504983.jpg</image:loc>
       <image:title>UK antitrust regulator wants Apple to open up iPhone NFC access</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T12:33:13Z</news:publication_date>
-      <news:title>Meta Muse exposes users&apos; personal and business secrets when they share conversations</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-robot-hand-caution-1152x648.jpg</image:loc>
-      <image:title>Meta Muse exposes users&apos; personal and business secrets when they share conversations</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-signs-huge-dram-and-hbm-contracts</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T12:28:02Z</news:publication_date>
-      <news:title>Samsung signs huge DRAM and HBM contracts</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/samsung-signs-huge-dram-hbm-contracts/gsmarena_000.jpg</image:loc>
-      <image:title>Samsung signs huge DRAM and HBM contracts</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/3-useful-features-included-with-google-one-that-people-ignore</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T12:15:00Z</news:publication_date>
-      <news:title>3+ useful features included with Google One that people ignore</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/3-useful-features-included-with-google-one-that-people-ignore/l-intro-1792146441.jpg</image:loc>
-      <image:title>3+ useful features included with Google One that people ignore</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/openai-says-its-models-can-help-banks-migrate-from-old-cobol-programs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T12:01:59Z</news:publication_date>
-      <news:title>OpenAI says its models can help banks migrate from old COBOL programs</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/openai-says-its-models-can-help-banks-migrate-from-old-cobol-programs/l-intro-1792497626.jpg</image:loc>
-      <image:title>OpenAI says its models can help banks migrate from old COBOL programs</image:title>
     </image:image>
   </url>
 </urlset>
