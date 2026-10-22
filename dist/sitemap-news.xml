@@ -123,6 +123,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/technology/fcc-chair-warns-media-not-to-run-the-fake-polls-trump-keeps-complaining-about</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T22:17:50Z</news:publication_date>
+      <news:title>FCC chair warns media not to run the &quot;fake polls&quot; Trump keeps complaining about</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2024/12/trump-carr-1152x648-1734382746.jpg</image:loc>
+      <image:title>FCC chair warns media not to run the &quot;fake polls&quot; Trump keeps complaining about</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought</loc>
     <news:news>
       <news:publication>
@@ -5595,21 +5610,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/how-to-stop-audio-from-auto-playing-on-android-auto/l-intro-1792093586.jpg</image:loc>
       <image:title>How to stop audio from auto-playing on Android Auto</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/dcs-the-huawei-enjoy-100-pro-max-will-have-a-bigger-battery-than-its-predecessor</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T00:02:02Z</news:publication_date>
-      <news:title>DCS: the Huawei Enjoy 100 Pro Max will have a bigger battery than its predecessor</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/huawei-enjoy-100-dcs-battery-colors/gsmarena_000.jpg</image:loc>
-      <image:title>DCS: the Huawei Enjoy 100 Pro Max will have a bigger battery than its predecessor</image:title>
     </image:image>
   </url>
 </urlset>
