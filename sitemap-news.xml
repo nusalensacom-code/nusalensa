@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/iphone-duo-launch-begins-as-first-orders-reach-customers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T22:21:59Z</news:publication_date>
+      <news:title>iPhone Duo Launch Begins as First Orders Reach Customers</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/boardiesboi-duo-australia.jpg</image:loc>
+      <image:title>iPhone Duo Launch Begins as First Orders Reach Customers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/youtube-removing-8216subscriptions8217-bottom-bar-tab-on-android-ios-after-nearly-a-decade</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T22:05:06Z</news:publication_date>
+      <news:title>YouTube removing &amp;#8216;Subscriptions&amp;#8217; bottom bar tab on Android, iOS after nearly a decade</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/YouTube-Subscriptions-move-cover.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>YouTube removing &amp;#8216;Subscriptions&amp;#8217; bottom bar tab on Android, iOS after nearly a decade</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/nintendo-switch-2-jailbreak-discovery-could-open-the-door-to-a-world-of-mods</loc>
     <news:news>
       <news:publication>
@@ -5910,126 +5940,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/fitbit-edge-vs-fitbit-inspire-3-how-these-google-fitness-trackers-compare/l-intro-1792178621.jpg</image:loc>
       <image:title>Fitbit Edge vs. Fitbit Inspire 3: How these Google fitness trackers compare</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-expands-partnerships-with-american-suppliers-for-the-iphone-duo-and-iphone-18-pro</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T22:21:02Z</news:publication_date>
-      <news:title>Apple expands partnerships with American suppliers for the iPhone Duo and iPhone 18 Pro</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/apple-expands-american-manufacturing-program/gsmarena_000.jpg</image:loc>
-      <image:title>Apple expands partnerships with American suppliers for the iPhone Duo and iPhone 18 Pro</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/perplexity-computer-can-now-run-fully-locally-on-mac</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T22:20:12Z</news:publication_date>
-      <news:title>Perplexity Computer Can Now Run Fully Locally on Mac</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/perplexity-computer.jpg</image:loc>
-      <image:title>Perplexity Computer Can Now Run Fully Locally on Mac</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/trump-is-giving-nick-shirley-10000-and-launching-a-25-million-fraud-bounty-program</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T22:20:11Z</news:publication_date>
-      <news:title>Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2300641963.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/googles-more-personalized-gemini-ai-is-heading-to-your-car</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T22:11:34Z</news:publication_date>
-      <news:title>Google’s more personalized Gemini AI is heading to your car</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/google-gemini-personal-intelligence.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Google’s more personalized Gemini AI is heading to your car</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/save-250-on-beyerdynamic-dt-1770-pro-mkii-studio-headphones</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T22:04:59Z</news:publication_date>
-      <news:title>Save $250 on Beyerdynamic DT 1770 Pro MKII studio headphones</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Beyerdynamic-DT-1770-PRO-MKII-SoundGuys.jpg</image:loc>
-      <image:title>Save $250 on Beyerdynamic DT 1770 Pro MKII studio headphones</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/merging-spacex-and-tesla-would-be-a-good-idea-musk-says</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T22:04:54Z</news:publication_date>
-      <news:title>Merging SpaceX and Tesla would be a &quot;good idea,&quot; Musk says</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/tesla-in-space-1152x648.jpg</image:loc>
-      <image:title>Merging SpaceX and Tesla would be a &quot;good idea,&quot; Musk says</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-next-xbox-might-cost-1800-report-says</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T22:01:23Z</news:publication_date>
-      <news:title>The next Xbox might cost $1,800, report says</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/the-next-xbox-might-cost-1800-report-says/l-intro-1792533408.jpg</image:loc>
-      <image:title>The next Xbox might cost $1,800, report says</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/what-to-expect-at-apples-pro-and-tell-event-on-october-28</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T22:00:00Z</news:publication_date>
-      <news:title>What to expect at Apple&apos;s &apos;Pro and Tell&apos; event on October 28</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/what-to-expect-at-apples-pro-and-tell-event-on-october-28/l-intro-1792520191.jpg</image:loc>
-      <image:title>What to expect at Apple&apos;s &apos;Pro and Tell&apos; event on October 28</image:title>
     </image:image>
   </url>
 </urlset>
