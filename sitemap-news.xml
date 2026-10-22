@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/i-replaced-my-reminders-app-with-google-messages-here8217s-why-and-how-to-set-it-up</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T09:00:30Z</news:publication_date>
+      <news:title>I replaced my reminders app with Google Messages — here&amp;#8217;s why (and how to set it up)</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Two-Samsung-Galaxy-phones-showing-Reminders-and-Google-Messages-apps-scaled.jpg</image:loc>
+      <image:title>I replaced my reminders app with Google Messages — here&amp;#8217;s why (and how to set it up)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/tesla-plans-to-start-selling-cybercabs-by-the-end-of-the-year</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T08:52:48Z</news:publication_date>
+      <news:title>Tesla plans to start selling Cybercabs by the end of the year</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/tesla-plans-to-start-selling-cybercabs-by-the-end-of-the-year/l-intro-1792659015.jpg</image:loc>
+      <image:title>Tesla plans to start selling Cybercabs by the end of the year</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/these-are-the-oppo-reno17-models-launching-in-india-according-to-a-new-rumor</loc>
     <news:news>
       <news:publication>
@@ -5655,81 +5685,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/Open-AI-ChatGPT-logo-on-phone-stock-photo-10.jpg</image:loc>
       <image:title>What if the next AI breakthrough isn&amp;#8217;t a better chatbot?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-chat8217s-latest-feature-could-finally-end-the-post-meeting-confusion</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T09:10:48Z</news:publication_date>
-      <news:title>Google Chat&amp;#8217;s latest feature could finally end the post-meeting confusion</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Chat-compose-box-for-unsent-messages.jpg</image:loc>
-      <image:title>Google Chat&amp;#8217;s latest feature could finally end the post-meeting confusion</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-apple-store-will-only-let-you-check-out-two-iphone-duos</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T09:07:59Z</news:publication_date>
-      <news:title>The Apple Store will only let you check out two iPhone Duos</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/the-apple-store-will-only-let-you-check-out-two-iphone-duos/l-intro-1792487224.jpg</image:loc>
-      <image:title>The Apple Store will only let you check out two iPhone Duos</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-sheets-on-iphone-finally-catches-up-to-android-with-this-gemini-upgrade</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T09:01:50Z</news:publication_date>
-      <news:title>Google Sheets on iPhone finally catches up to Android with this Gemini upgrade</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Gemini-in-Google-Sheets-on-iPhone.jpg</image:loc>
-      <image:title>Google Sheets on iPhone finally catches up to Android with this Gemini upgrade</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/after-a-few-days-with-the-fitbit-edge-i-think-google-found-the-sweet-spot</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T09:00:10Z</news:publication_date>
-      <news:title>After a few days with the Fitbit Edge, I think Google found the sweet spot</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/fitbit-edge-hands-on-5-scaled.jpg</image:loc>
-      <image:title>After a few days with the Fitbit Edge, I think Google found the sweet spot</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/one-of-samsung8217s-most-popular-phones-is-now-getting-stable-one-ui-9-with-android-17</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T08:59:49Z</news:publication_date>
-      <news:title>One of Samsung&amp;#8217;s most popular phones is now getting stable One UI 9 with Android 17</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/04/Samsung-Galaxy-A36-5G-review-image-8.jpg</image:loc>
-      <image:title>One of Samsung&amp;#8217;s most popular phones is now getting stable One UI 9 with Android 17</image:title>
     </image:image>
   </url>
 </urlset>

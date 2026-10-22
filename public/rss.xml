@@ -5,8 +5,26 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 22 Oct 2026 08:31:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 09:12:44 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I replaced my reminders app with Google Messages — here&amp;#8217;s why (and how to set it up)</title>
+      <link>https://nusalensa.com/phones/i-replaced-my-reminders-app-with-google-messages-here8217s-why-and-how-to-set-it-up</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/i-replaced-my-reminders-app-with-google-messages-here8217s-why-and-how-to-set-it-up</guid>
+      <description>Trust me, it works.</description>
+      <category>Smartphones</category>
+      <pubDate>Thu, 22 Oct 2026 09:00:30 GMT</pubDate>
+      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/10/Two-Samsung-Galaxy-phones-showing-Reminders-and-Google-Messages-apps-scaled.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Tesla plans to start selling Cybercabs by the end of the year</title>
+      <link>https://nusalensa.com/technology/tesla-plans-to-start-selling-cybercabs-by-the-end-of-the-year</link>
+      <guid isPermaLink="true">https://nusalensa.com/technology/tesla-plans-to-start-selling-cybercabs-by-the-end-of-the-year</guid>
+      <description>Tesla wants to sell Cybercabs to other transport companies before the year ends.</description>
+      <category>Technology</category>
+      <pubDate>Thu, 22 Oct 2026 08:52:48 GMT</pubDate>
+      <enclosure url="https://www.engadget.com/img/gallery/tesla-plans-to-start-selling-cybercabs-by-the-end-of-the-year/l-intro-1792659015.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>These are the Oppo Reno17 models launching in India according to a new rumor</title>
       <link>https://nusalensa.com/phones/these-are-the-oppo-reno17-models-launching-in-india-according-to-a-new-rumor</link>
@@ -258,24 +276,6 @@
       <category>Smartphones</category>
       <pubDate>Wed, 21 Oct 2026 22:45:00 GMT</pubDate>
       <enclosure url="https://9to5google.com/wp-content/uploads/sites/4/2026/10/inmo-go3-1.png?w=1600" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Mark Zuckerberg says Meta is &apos;entering a new phase&apos; with Muse</title>
-      <link>https://nusalensa.com/technology/mark-zuckerberg-says-meta-is-entering-a-new-phase-with-muse</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/mark-zuckerberg-says-meta-is-entering-a-new-phase-with-muse</guid>
-      <description>Zuckerberg expects the agent will generate more revenue per user than the company&apos;s apps.</description>
-      <category>Technology</category>
-      <pubDate>Wed, 21 Oct 2026 22:36:03 GMT</pubDate>
-      <enclosure url="https://www.engadget.com/img/gallery/mark-zuckerberg-says-meta-is-entering-a-new-phase-with-muse/l-intro-1792621715.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Data centers could erase decades of air quality gains</title>
-      <link>https://nusalensa.com/phones/data-centers-could-erase-decades-of-air-quality-gains</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/data-centers-could-erase-decades-of-air-quality-gains</guid>
-      <description>A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical inf</description>
-      <category>Smartphones</category>
-      <pubDate>Wed, 21 Oct 2026 22:33:44 GMT</pubDate>
-      <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
