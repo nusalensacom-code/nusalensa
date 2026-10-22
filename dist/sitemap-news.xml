@@ -3,6 +3,81 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/i-vibe-coded-a-pebble-time-2-app-and-i-learned-some-tough-lessons</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T10:00:33Z</news:publication_date>
+      <news:title>I vibe-coded a Pebble Time 2 app, and I learned some tough lessons</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/pebble-time-2-custom-app-home-screen-scaled.jpg</image:loc>
+      <image:title>I vibe-coded a Pebble Time 2 app, and I learned some tough lessons</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-isn8217t-ruling-out-this-major-pixel-watch-feature-for-the-fitbit-edge</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T09:56:05Z</news:publication_date>
+      <news:title>Google isn&amp;#8217;t ruling out this major Pixel Watch feature for the Fitbit Edge</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/fitbit-edge-hands-on-10-scaled.jpg</image:loc>
+      <image:title>Google isn&amp;#8217;t ruling out this major Pixel Watch feature for the Fitbit Edge</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google8217s-refurbished-pixel-9-might-be-the-smartest-phone-purchase-of-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T09:30:58Z</news:publication_date>
+      <news:title>Google&amp;#8217;s refurbished Pixel 9 might be the smartest phone purchase of 2026</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/08/Google-Pixel-9-in-all-four-colors-standing-upright-on-a-table-in-a-row-with-the-Peony-color-at-the-front.jpg</image:loc>
+      <image:title>Google&amp;#8217;s refurbished Pixel 9 might be the smartest phone purchase of 2026</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/new-evidence-points-to-the-vivo-x500-e-being-a-rebranded-vivo-v80</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T09:23:03Z</news:publication_date>
+      <news:title>New evidence points to the vivo X500 E being a rebranded vivo V80</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/vivo-x500-e-cases-amazon/gsmarena_000.jpg</image:loc>
+      <image:title>New evidence points to the vivo X500 E being a rebranded vivo V80</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/survey-shows-dropping-assistant-for-gemini-was-one-of-google8217s-biggest-blunders</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T09:15:17Z</news:publication_date>
+      <news:title>Survey shows dropping Assistant for Gemini was one of Google&amp;#8217;s biggest blunders</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/android-auto-gemini-ask-gemini-command-1.jpg</image:loc>
+      <image:title>Survey shows dropping Assistant for Gemini was one of Google&amp;#8217;s biggest blunders</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/i-replaced-my-reminders-app-with-google-messages-here8217s-why-and-how-to-set-it-up</loc>
     <news:news>
       <news:publication>
@@ -5625,66 +5700,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268614_Google_Home_Speaker_JTuohy_0010.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Some Google Home Speakers caught downloading hundreds of gigs of data</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/how-i-turned-my-pixel-into-the-nest-hub-google-never-made</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T10:00:00Z</news:publication_date>
-      <news:title>How I turned my Pixel into the Nest Hub Google never made</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Google-Pixel-10-screensaver-as-nest-hub-gemini-smart-screen-1-scaled.jpeg</image:loc>
-      <image:title>How I turned my Pixel into the Nest Hub Google never made</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/oppos-wide-screen-phone-tipped-to-pack-an-8000mah-battery</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T09:52:02Z</news:publication_date>
-      <news:title>Oppo&apos;s wide-screen phone tipped to pack an 8,000mAh battery</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/oppo-reno-x-wide-screen-battery-leak/gsmarena_00.jpg</image:loc>
-      <image:title>Oppo&apos;s wide-screen phone tipped to pack an 8,000mAh battery</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/this-ultra-phone-could-destroy-samsung-and-google-with-long-overdue-zoom-camera-upgrade</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T09:38:31Z</news:publication_date>
-      <news:title>This Ultra phone could destroy Samsung and Google with long-overdue zoom camera upgrade</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/04/vivo-X300-Ultra-rear-camera-bump.jpg</image:loc>
-      <image:title>This Ultra phone could destroy Samsung and Google with long-overdue zoom camera upgrade</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/what-if-the-next-ai-breakthrough-isn8217t-a-better-chatbot</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T09:30:24Z</news:publication_date>
-      <news:title>What if the next AI breakthrough isn&amp;#8217;t a better chatbot?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/Open-AI-ChatGPT-logo-on-phone-stock-photo-10.jpg</image:loc>
-      <image:title>What if the next AI breakthrough isn&amp;#8217;t a better chatbot?</image:title>
     </image:image>
   </url>
 </urlset>
