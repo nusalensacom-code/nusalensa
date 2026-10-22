@@ -3,6 +3,81 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/samsung-reiterates-that-galaxy-z-fold-8-is-a-hit-and-that-iphone-duo-puts-a-spotlight-on-it</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T21:05:00Z</news:publication_date>
+      <news:title>Samsung reiterates that Galaxy Z Fold 8 is a hit, and that iPhone Duo puts a spotlight on it</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-review-42.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Samsung reiterates that Galaxy Z Fold 8 is a hit, and that iPhone Duo puts a spotlight on it</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/a-new-subscription-service-promises-an-evolving-collection-of-bold-and-bizarre-indie-games</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T20:57:17Z</news:publication_date>
+      <news:title>A new subscription service promises an evolving collection of &apos;bold and bizarre&apos; indie games</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/a-new-subscription-service-promises-an-evolving-collection-of-bold-and-bizarre-indie-games/l-intro-1792701864.jpg</image:loc>
+      <image:title>A new subscription service promises an evolving collection of &apos;bold and bizarre&apos; indie games</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/iphone-duo-24-hours-later-your-questions-answered</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T20:55:51Z</news:publication_date>
+      <news:title>iPhone Duo 24 Hours Later: Your Questions Answered</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
+      <image:title>iPhone Duo 24 Hours Later: Your Questions Answered</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-explains-how-to-fix-time-zones-on-android-amid-changes-in-canada</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T20:45:00Z</news:publication_date>
+      <news:title>Google explains how to fix time zones on Android amid changes in Canada</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2025/08/pixel-10-pro-8.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Google explains how to fix time zones on Android amid changes in Canada</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/meta8217s-ai-could-still-scrape-news-sites-legal-experts-say</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T20:32:05Z</news:publication_date>
+      <news:title>Meta&amp;#8217;s AI could still scrape news sites, legal experts say</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_1_Meta.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Meta&amp;#8217;s AI could still scrape news sites, legal experts say</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/reviews/meta-turns-muse-sharing-back-on</loc>
     <news:news>
       <news:publication>
@@ -45,6 +120,21 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/spotifys-family-plan-qr-code-could-cost-you-premium-access/l-intro-1792700036.jpg</image:loc>
       <image:title>Spotify&apos;s Family plan QR code could cost you Premium access</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/disgraced-emudhra-drops-out-of-tls-business-after-using-cert-private-key-of-4</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T20:17:52Z</news:publication_date>
+      <news:title>Disgraced eMudhra drops out of TLS business after using cert private key of 4</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-1778229942-1152x648.jpg</image:loc>
+      <image:title>Disgraced eMudhra drops out of TLS business after using cert private key of 4</image:title>
     </image:image>
   </url>
   <url>
@@ -105,6 +195,21 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/rhode-island-sues-meta-over-its-approach-to-scam-ads/l-intro-1792699351.jpg</image:loc>
       <image:title>Rhode Island sues Meta over its approach to scam ads</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/leaked-mass-effect-universe-trailer-gives-a-taste-of-what-were-all-missing</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T19:59:37Z</news:publication_date>
+      <news:title>Leaked Mass Effect: Universe trailer gives a taste of what we&apos;re all missing</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/meuniverse-1152x648.png</image:loc>
+      <image:title>Leaked Mass Effect: Universe trailer gives a taste of what we&apos;re all missing</image:title>
     </image:image>
   </url>
   <url>
@@ -5895,156 +6000,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-4-scaled.jpg</image:loc>
       <image:title>Android 17 QPR3 Beta 2 opens the floodgate on fixes</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/here8217s-everything-new-in-android-17-qpr3-beta-2-gallery</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T21:05:40Z</news:publication_date>
-      <news:title>Here&amp;#8217;s everything new in Android 17 QPR3 Beta 2 [Gallery]</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/09/Android-17-QPR1-yellow.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Here&amp;#8217;s everything new in Android 17 QPR3 Beta 2 [Gallery]</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/chatgpt-now-lets-you-lock-sensitive-chats-behind-a-pin</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T21:05:00Z</news:publication_date>
-      <news:title>ChatGPT now lets you lock sensitive chats behind a PIN</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/chatgpt-now-lets-you-lock-sensitive-chats-behind-a-pin/l-intro-1792530123.jpg</image:loc>
-      <image:title>ChatGPT now lets you lock sensitive chats behind a PIN</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-caps-iphone-duo-purchases-at-two-per-person-in-an-attempt-to-tackle-scalpers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T21:03:02Z</news:publication_date>
-      <news:title>Apple caps iPhone Duo purchases at two per person in an attempt to tackle scalpers</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/apple-iphone-duo-cameras/gsmarena_000.jpg</image:loc>
-      <image:title>Apple caps iPhone Duo purchases at two per person in an attempt to tackle scalpers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T21:02:53Z</news:publication_date>
-      <news:title>SpaceX will try catching Starship and its booster for first time, Musk says</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/52822624215_2e5d62e50a_o.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>SpaceX will try catching Starship and its booster for first time, Musk says</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/judge-tosses-sexual-abuse-lawsuit-from-sam-altmans-sister</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T20:53:25Z</news:publication_date>
-      <news:title>Judge tosses sexual abuse lawsuit from Sam Altman&apos;s sister</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/judge-tosses-sexual-abuse-lawsuit-from-sam-altmans-sister/l-intro-1792529383.jpg</image:loc>
-      <image:title>Judge tosses sexual abuse lawsuit from Sam Altman&apos;s sister</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-wallet8217s-receipt-scanning-has-already-won-over-most-of-you</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T20:53:22Z</news:publication_date>
-      <news:title>Google Wallet&amp;#8217;s receipt scanning has already won over most of you</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2023/04/Google-Wallet-logo-on-smartphone-next-to-credit-cards-and-cash-Stock-photo-8.jpg</image:loc>
-      <image:title>Google Wallet&amp;#8217;s receipt scanning has already won over most of you</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-sideload-048-its-ai-mania-not-ai-psychosis</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T20:52:13Z</news:publication_date>
-      <news:title>The Sideload 048: It’s AI Mania, Not AI Psychosis</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2025/08/sideload-podcast-wider-copy-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>The Sideload 048: It’s AI Mania, Not AI Psychosis</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/netflix-is-telling-investors-not-to-worry-even-though-you8217re-watching-less-and-less</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T20:52:07Z</news:publication_date>
-      <news:title>Netflix is telling investors not to worry, even though you&amp;#8217;re watching less and less</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23923972/acastro_STK072_01.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Netflix is telling investors not to worry, even though you&amp;#8217;re watching less and less</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google8217s-latest-health-upgrade-is-sleeping-on-fitbit-support</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T20:35:35Z</news:publication_date>
-      <news:title>Google&amp;#8217;s latest health upgrade is sleeping on Fitbit support</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/fitbit-air-side-scaled-e1791815518822.jpg</image:loc>
-      <image:title>Google&amp;#8217;s latest health upgrade is sleeping on Fitbit support</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/snap-is-paying-robert-downey-jr-to-do-the-iron-man-thing</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T20:32:09Z</news:publication_date>
-      <news:title>Snap is paying Robert Downey Jr. to do the Iron Man thing</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_10042.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Snap is paying Robert Downey Jr. to do the Iron Man thing</image:title>
     </image:image>
   </url>
 </urlset>
