@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/oneplus-turbo-pro-to-borrow-a-lot-from-the-oneplus-16-key-specs-leak</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T00:33:02Z</news:publication_date>
+      <news:title>OnePlus Turbo Pro to borrow a lot from the OnePlus 16, key specs leak</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/oneplus-turbo-pro-specs-leak/gsmarena_000.jpg</image:loc>
+      <image:title>OnePlus Turbo Pro to borrow a lot from the OnePlus 16, key specs leak</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/youtube-says-it-isnt-testing-hiding-the-dislike-button</loc>
     <news:news>
       <news:publication>
@@ -5595,21 +5610,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/realme-c01-listing/gsmarena_000.jpg</image:loc>
       <image:title>New Realme phone gets listed before launch, here are its specs and price</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/how-to-stop-audio-from-auto-playing-on-android-auto</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T00:30:00Z</news:publication_date>
-      <news:title>How to stop audio from auto-playing on Android Auto</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/how-to-stop-audio-from-auto-playing-on-android-auto/l-intro-1792093586.jpg</image:loc>
-      <image:title>How to stop audio from auto-playing on Android Auto</image:title>
     </image:image>
   </url>
 </urlset>
