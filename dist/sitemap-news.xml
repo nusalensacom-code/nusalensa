@@ -3,6 +3,201 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/apple-is-apparently-considering-a-slightly-larger-iphone-duo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T19:58:04Z</news:publication_date>
+      <news:title>Apple is Apparently Considering a Slightly Larger iPhone Duo</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Open-large-scaled-feature.jpg</image:loc>
+      <image:title>Apple is Apparently Considering a Slightly Larger iPhone Duo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/motorola8217s-android-17-rollout-reaches-another-flagship-foldable</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T19:54:52Z</news:publication_date>
+      <news:title>Motorola&amp;#8217;s Android 17 rollout reaches another flagship foldable</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/04/Motorola-Razr-Ultra-in-Alcantera-next-to-Moto-Loop-Buds.jpg</image:loc>
+      <image:title>Motorola&amp;#8217;s Android 17 rollout reaches another flagship foldable</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/sure-lets-smoosh-spacex-and-tesla-together-who-cares</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T19:45:00Z</news:publication_date>
+      <news:title>Sure, let’s smoosh SpaceX and Tesla together, who cares</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_A.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Sure, let’s smoosh SpaceX and Tesla together, who cares</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/teenage-engineering-launched-an-instrument-amp-with-a-ton-of-built-in-effects</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T19:44:51Z</news:publication_date>
+      <news:title>Teenage Engineering launched an instrument amp with a ton of built-in effects</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/teenage-engineering-ep-35.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Teenage Engineering launched an instrument amp with a ton of built-in effects</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T19:34:40Z</news:publication_date>
+      <news:title>Meet the 2026 winner of Nikon&apos;s Small World photomicrography contest</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/nikonTOP-1152x648.jpg</image:loc>
+      <image:title>Meet the 2026 winner of Nikon&apos;s Small World photomicrography contest</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/1password8217s-new-solution-mitigates-the-security-risks-of-ai-agent-account-access</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T19:29:07Z</news:publication_date>
+      <news:title>1Password&amp;#8217;s new solution mitigates the security risks of AI agent account access</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2021/09/1Password-Android-dark-mode-scaled-e1741284420164-500w-260h.jpg</image:loc>
+      <image:title>1Password&amp;#8217;s new solution mitigates the security risks of AI agent account access</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/gemini-app-expands-google-maps-personal-intelligence-replacing-deep-think</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T19:28:41Z</news:publication_date>
+      <news:title>Gemini app expands Google Maps Personal Intelligence, replacing Deep Think</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-5.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Gemini app expands Google Maps Personal Intelligence, replacing Deep Think</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/save-380-on-the-arlo-ultra-4k-hdr-security-bundle-with-solar-panels</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T19:25:52Z</news:publication_date>
+      <news:title>Save $380 on the Arlo Ultra 4K HDR security bundle with solar panels</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Arlo-Ultra-Security-Camera-4K-HDR-3rd-Gen-Bundle-Product-Image.jpg</image:loc>
+      <image:title>Save $380 on the Arlo Ultra 4K HDR security bundle with solar panels</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/pour-one-out-for-arc-one-of-the-most-hyped-browsers-is-shutting-down-for-good</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T19:20:41Z</news:publication_date>
+      <news:title>Pour one out for Arc: One of the most hyped browsers is shutting down for good</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/10/arc-search-browser-stock-1.jpg</image:loc>
+      <image:title>Pour one out for Arc: One of the most hyped browsers is shutting down for good</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/republican-politicians-have-embraced-anti-indian-racism-and-its-costing-them-votes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T19:15:00Z</news:publication_date>
+      <news:title>Republican politicians have embraced anti-Indian racism — and it’s costing them votes</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK423_ELECTIONS2.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Republican politicians have embraced anti-Indian racism — and it’s costing them votes</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/google-tells-android-users-to-update-as-parts-of-canada-adopt-permanent-daylight-saving-time</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T19:13:42Z</news:publication_date>
+      <news:title>Google tells Android users to update as parts of Canada adopt permanent daylight saving time</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24642397/google_pixel_fold_hands_on_5.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Google tells Android users to update as parts of Canada adopt permanent daylight saving time</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/disillusioned-maha-leader-quits-as-trump-admins-food-agenda-spoils-report</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T19:04:06Z</news:publication_date>
+      <news:title>&quot;Disillusioned&quot; MAHA leader quits as Trump admin&apos;s food agenda spoils: Report</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2210915866-1152x648.jpg</image:loc>
+      <image:title>&quot;Disillusioned&quot; MAHA leader quits as Trump admin&apos;s food agenda spoils: Report</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/electric-or-gas-bmw-goes-both-ways-with-new-2027-x5-and-ix5</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T19:01:23Z</news:publication_date>
+      <news:title>Electric or gas? BMW goes both ways with new 2027 X5 and iX5.</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/BMW-iX5-60-xDrive-Tanzanite-Blue_43-1152x648.jpg</image:loc>
+      <image:title>Electric or gas? BMW goes both ways with new 2027 X5 and iX5.</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/2027-bmw-ix5-first-drive-youll-love-the-range-but-maybe-not-the-look</loc>
     <news:news>
       <news:publication>
@@ -108,6 +303,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/samsung-all-but-confirms-iphone-duo-is-goosing-galaxy-z8-sales</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T18:49:14Z</news:publication_date>
+      <news:title>Samsung all but confirms iPhone Duo is goosing Galaxy Z8 sales</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/Galaxy-Z8-1-1152x648.jpg</image:loc>
+      <image:title>Samsung all but confirms iPhone Duo is goosing Galaxy Z8 sales</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/samsungs-galaxy-z-fold8-duo-beats-fold7-sales-by-45-in-europe-with-a-catch</loc>
     <news:news>
       <news:publication>
@@ -180,6 +390,21 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Delta-2.0-lineup-update.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Delta can turn the iPhone Duo into your favorite folding handheld</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/us-official-russias-stalker-satellite-sure-looks-like-an-orbital-weapon</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T18:29:39Z</news:publication_date>
+      <news:title>US official: Russia&apos;s stalker satellite sure looks like an orbital weapon</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/vorontsov-1152x648.jpg</image:loc>
+      <image:title>US official: Russia&apos;s stalker satellite sure looks like an orbital weapon</image:title>
     </image:image>
   </url>
   <url>
@@ -5805,246 +6030,6 @@
     <image:image>
       <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2299491134-1152x648.jpg</image:loc>
       <image:title>Meta drops the word &quot;train&quot; from its commercial TOS after AI backlash</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/meta-suspends-muse-chats-sharing-feature-after-it-left-private-details-exposed</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T20:00:43Z</news:publication_date>
-      <news:title>Meta suspends Muse chats sharing feature after it left private details exposed</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/meta-suspends-muse-chats-sharing-feature-after-it-left-private-details-exposed/l-intro-1792526399.jpg</image:loc>
-      <image:title>Meta suspends Muse chats sharing feature after it left private details exposed</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/geminis-personal-intelligence-is-coming-to-cars</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T20:00:33Z</news:publication_date>
-      <news:title>Gemini&apos;s Personal Intelligence is coming to cars</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/google-gemini-android-auto-1152x648.png</image:loc>
-      <image:title>Gemini&apos;s Personal Intelligence is coming to cars</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/your-android-auto-experience-is-getting-a-personal-touch-from-gemini</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T20:00:24Z</news:publication_date>
-      <news:title>Your Android Auto experience is getting a personal touch from Gemini</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/android-auto-gemini-ask-gemini-command-1.jpg</image:loc>
-      <image:title>Your Android Auto experience is getting a personal touch from Gemini</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-brings-gemini-personal-intelligence-to-android-auto</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T20:00:00Z</news:publication_date>
-      <news:title>Google brings Gemini Personal Intelligence to Android Auto</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/google-brings-gemini-personal-intelligence-to-android-auto/l-intro-1792518047.jpg</image:loc>
-      <image:title>Google brings Gemini Personal Intelligence to Android Auto</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-upgrading-gemini-for-android-auto-with-personal-intelligence</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T20:00:00Z</news:publication_date>
-      <news:title>Google upgrading Gemini for Android Auto with Personal Intelligence</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-Personal-Intelligence-Android-Auto.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Google upgrading Gemini for Android Auto with Personal Intelligence</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/logitechs-refurbished-g-pro-x2-superstrike-is-35-percent-off</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T20:00:00Z</news:publication_date>
-      <news:title>Logitech’s refurbished G Pro X2 Superstrike is 35 percent off</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/PXL_20260213_153451513.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Logitech’s refurbished G Pro X2 Superstrike is 35 percent off</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/openbsd-80-arrives-with-security-record-still-intact</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T19:57:18Z</news:publication_date>
-      <news:title>OpenBSD 8.0 arrives with security record still intact</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/OpenBSD80Fish-e1792523267196.png</image:loc>
-      <image:title>OpenBSD 8.0 arrives with security record still intact</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple039s-touchscreen-oled-macbook-pro-everything-we-know</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T19:51:59Z</news:publication_date>
-      <news:title>Apple&amp;#039;s Touchscreen OLED MacBook Pro: Everything We Know</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/MacBook-Pro-Dynamic-Island-multicolor.jpg</image:loc>
-      <image:title>Apple&amp;#039;s Touchscreen OLED MacBook Pro: Everything We Know</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T19:47:35Z</news:publication_date>
-      <news:title>The Internet goes on high alert after discovery of 8 compromised TLS certs</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/07/broken-encryption-lock-1152x648.jpg</image:loc>
-      <image:title>The Internet goes on high alert after discovery of 8 compromised TLS certs</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/t-mobile-retains-5g-crown-as-at038t-falls-massively-behind-verizon-in-standalone-access</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T19:47:04Z</news:publication_date>
-      <news:title>T-Mobile retains 5G crown as AT&amp;#038;T falls massively behind Verizon in standalone access</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/05/Phones-showing-Verizon-ATT-and-T-Mobile-logos-stock-photo-1.jpg</image:loc>
-      <image:title>T-Mobile retains 5G crown as AT&amp;#038;T falls massively behind Verizon in standalone access</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/uk-wants-apple-to-open-up-iphone-contactless-tech-and-charge-lower-fees</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T19:40:02Z</news:publication_date>
-      <news:title>UK wants Apple to open up iPhone contactless tech and charge lower fees</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/uk-regulator-wants-apple-to-open-up-nfc/gsmarena_000.jpg</image:loc>
-      <image:title>UK wants Apple to open up iPhone contactless tech and charge lower fees</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/ipad-mini-8-expected-next-week-with-these-10-new-features</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T19:35:00Z</news:publication_date>
-      <news:title>iPad Mini 8 Expected Next Week With These 10 New Features</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/07/iPad-mini-7-Review-Thumb-1-sans-text.jpg</image:loc>
-      <image:title>iPad Mini 8 Expected Next Week With These 10 New Features</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/employees-warned-tiktok-about-child-exploitation-court-documents-show</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T19:25:38Z</news:publication_date>
-      <news:title>Employees warned TikTok about child exploitation, court documents show</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/employees-warned-tiktok-about-child-exploitation-court-documents-show/l-intro-1792524329.jpg</image:loc>
-      <image:title>Employees warned TikTok about child exploitation, court documents show</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/tp-link-tries-to-appease-trump-admin-with-pledge-to-assemble-routers-in-us</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T19:25:14Z</news:publication_date>
-      <news:title>TP-Link tries to appease Trump admin with pledge to assemble routers in US</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/tp-link-routers-1152x648.jpg</image:loc>
-      <image:title>TP-Link tries to appease Trump admin with pledge to assemble routers in US</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/does-anyone-actually-want-to-win-the-medium-lift-race-in-the-united-states</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T19:13:31Z</news:publication_date>
-      <news:title>Does anyone actually want to win the medium-lift race in the United States?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/stoke-second-stage-1152x648.jpg</image:loc>
-      <image:title>Does anyone actually want to win the medium-lift race in the United States?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-goes-global-with-fold-5-and-flip-5-stable-one-ui-9-rollout</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T19:12:21Z</news:publication_date>
-      <news:title>Samsung goes global with Fold 5 and Flip 5 stable One UI 9 rollout</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2023/07/Samsung-Galaxy-Z-Flip-5-and-Galaxy-Z-Fold-5-cover-displays.jpg</image:loc>
-      <image:title>Samsung goes global with Fold 5 and Flip 5 stable One UI 9 rollout</image:title>
     </image:image>
   </url>
 </urlset>
