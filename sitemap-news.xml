@@ -3,6 +3,141 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/oura-sues-ultrahuman-in-the-us-once-again-threatening-the-new-ring-pro</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T15:01:03Z</news:publication_date>
+      <news:title>Oura sues Ultrahuman in the US once again, threatening the new Ring Pro</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/03/ultrahuman-ring-pro-pre-orders-in-the-us/gsmarena_000.jpg</image:loc>
+      <image:title>Oura sues Ultrahuman in the US once again, threatening the new Ring Pro</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/meta-delays-new-business-terms-after-publisher-pushback-on-ai-scraping</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T14:47:41Z</news:publication_date>
+      <news:title>Meta delays new business terms after publisher pushback on AI scraping</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951350/STK043_VRG_Illo_N_Barclay_6_Meta.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Meta delays new business terms after publisher pushback on AI scraping</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-pixel-watch-5-deal-saves-you-100-on-the-lte-model</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T14:45:55Z</news:publication_date>
+      <news:title>Google Pixel Watch 5 deal saves you $100 on the LTE model</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-8-scaled-e1786466755516-500w-260h.jpg</image:loc>
+      <image:title>Google Pixel Watch 5 deal saves you $100 on the LTE model</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/iphone-duo-launches-with-carrier-and-accessory-discounts-available</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T14:43:38Z</news:publication_date>
+      <news:title>iPhone Duo Launches With Carrier and Accessory Discounts Available</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/new-best-apple-deals-dark-mode.jpeg</image:loc>
+      <image:title>iPhone Duo Launches With Carrier and Accessory Discounts Available</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-sigma-fp2-brings-significant-upgrades-to-the-worlds-smallest-full-frame-camera</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T14:42:46Z</news:publication_date>
+      <news:title>The Sigma FP2 brings significant upgrades to the ‘world’s smallest’ full-frame camera</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/sigmafp2_1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>The Sigma FP2 brings significant upgrades to the ‘world’s smallest’ full-frame camera</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-just-made-your-gemini-built-web-apps-a-lot-easier-to-share</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T14:18:41Z</news:publication_date>
+      <news:title>Google just made your Gemini-built web apps a lot easier to share</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-2-scaled.jpg</image:loc>
+      <image:title>Google just made your Gemini-built web apps a lot easier to share</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/this-vibecoded-image-editor-cost-2000-to-build-was-it-worth-it</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T14:15:07Z</news:publication_date>
+      <news:title>This vibecoded image editor cost $2,000 to build — was it worth it?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/new-ai-apps-photon-studio-1.jpg</image:loc>
+      <image:title>This vibecoded image editor cost $2,000 to build — was it worth it?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/oneplus-starts-rolling-out-stable-android-17-updates-early-marking-the-end-of-oxygenos</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T14:15:00Z</news:publication_date>
+      <news:title>OnePlus starts rolling out stable Android 17 updates early, marking the end of OxygenOS</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2025/11/oneplus-15-review-02.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>OnePlus starts rolling out stable Android 17 updates early, marking the end of OxygenOS</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-music-has-a-hidden-ipod-you-can-play-with</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T14:11:16Z</news:publication_date>
+      <news:title>Apple Music Has a Hidden iPod You Can Play With</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/Apple-Music-iPod-Page-Not-Found.jpeg</image:loc>
+      <image:title>Apple Music Has a Hidden iPod You Can Play With</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/tired-of-rebuilding-patched-apks-these-morphe-community-projects-handle-them-for-you</loc>
     <news:news>
       <news:publication>
@@ -5385,321 +5520,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/reviews/26/oppo-find-x10-pro-max/-347x151/gsmarena_001.jpg</image:loc>
       <image:title>Oppo Find X10 Pro Max review</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/ugreen-25w-magflow-travel-charger-returns-to-its-prime-day-price</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T15:02:02Z</news:publication_date>
-      <news:title>UGREEN 25W MagFlow travel charger returns to its Prime Day price</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/UGREEN-MagFlow-25W-Pocket-Sized-Foldable-Wireless-Charger-Press-Image.jpg</image:loc>
-      <image:title>UGREEN 25W MagFlow travel charger returns to its Prime Day price</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/now-even-carplay-users-can-talk-to-gemini-during-google-maps-navigation</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T15:00:57Z</news:publication_date>
-      <news:title>Now even CarPlay users can talk to Gemini during Google Maps navigation</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2020/08/google-maps-carplay.jpg</image:loc>
-      <image:title>Now even CarPlay users can talk to Gemini during Google Maps navigation</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-oppo-find-x10-pro-max-is-the-ultimate-android-flagship-at-a-price</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T15:00:33Z</news:publication_date>
-      <news:title>The OPPO Find X10 Pro Max is the ultimate Android flagship, at a price</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/OPPO-Find-X10-Pro-Max-Camera-and-Accessories.jpg</image:loc>
-      <image:title>The OPPO Find X10 Pro Max is the ultimate Android flagship, at a price</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/silicon-carbon-batteries-have-changed-the-game-apple-and-samsung-need-to-catch-up</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T15:00:04Z</news:publication_date>
-      <news:title>Silicon-carbon batteries have changed the game — Apple and Samsung need to catch up</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Battery-capacity-remaining.jpg</image:loc>
-      <image:title>Silicon-carbon batteries have changed the game — Apple and Samsung need to catch up</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/oppo-find-x10-and-find-x10-pro-max-go-global</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T15:00:02Z</news:publication_date>
-      <news:title>Oppo Find X10 and Find X10 Pro Max go global</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/oppo-find-x10-series-launches-globally/gsmarena_000.jpg</image:loc>
-      <image:title>Oppo Find X10 and Find X10 Pro Max go global</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/now-you-can-chat-with-gemini-while-using-google-maps-through-carplay</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T15:00:00Z</news:publication_date>
-      <news:title>Now you can chat with Gemini while using Google Maps through CarPlay</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/now-you-can-chat-with-gemini-while-using-google-maps-through-carplay/l-intro-1792593259.jpg</image:loc>
-      <image:title>Now you can chat with Gemini while using Google Maps through CarPlay</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/oppo-find-x10-pro-max-hands-on-triple-200-megapixel-cameras-but-few-surprises</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T15:00:00Z</news:publication_date>
-      <news:title>Oppo Find X10 Pro Max hands-on: Triple 200-megapixel cameras but few surprises</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/oppo-find-x10-pro-max-hands-on-triple-200-megapixel-cameras-but-few-surprises/l-intro-1792496281.jpg</image:loc>
-      <image:title>Oppo Find X10 Pro Max hands-on: Triple 200-megapixel cameras but few surprises</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/review-the-oppo-find-x10-pro-max-is-a-gut-punch-in-a-post-oneplus-world</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T15:00:00Z</news:publication_date>
-      <news:title>Review: The Oppo Find X10 Pro Max is a gut punch in a post-OnePlus world</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/oppo-find-x10-pro-max-6.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Review: The Oppo Find X10 Pro Max is a gut punch in a post-OnePlus world</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-maps-on-carplay-rolling-out-gemini-when-navigating</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T15:00:00Z</news:publication_date>
-      <news:title>Google Maps on CarPlay rolling out Gemini when navigating</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-Google-Maps-CarPlay.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Google Maps on CarPlay rolling out Gemini when navigating</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/conversational-gemini-navigation-comes-to-apple-carplay</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T15:00:00Z</news:publication_date>
-      <news:title>Conversational Gemini navigation comes to Apple CarPlay</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Conversational Gemini navigation comes to Apple CarPlay</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-wide-folds-are-coming-foldable-display-shipments-to-increase-by-44-in-2026-analysts-say</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T14:48:32Z</news:publication_date>
-      <news:title>The wide folds are coming; foldable display shipments to increase by 44% in 2026, analysts say</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-review-32.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>The wide folds are coming; foldable display shipments to increase by 44% in 2026, analysts say</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsungs-5k-monitor-has-good-gaming-chops-and-a-great-price</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T14:47:14Z</news:publication_date>
-      <news:title>Samsung’s 5K monitor has good gaming chops and a great price</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/samsung5k.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Samsung’s 5K monitor has good gaming chops and a great price</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/your-pixel-could-soon-borrow-one-of-samsung8217s-best-screen-recording-tricks</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T14:47:12Z</news:publication_date>
-      <news:title>Your Pixel could soon borrow one of Samsung&amp;#8217;s best screen recording tricks</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/06/android-17-screen-recording-new-ui-scaled.jpg</image:loc>
-      <image:title>Your Pixel could soon borrow one of Samsung&amp;#8217;s best screen recording tricks</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-galaxy-z-fold-7-hits-all-time-low-price-with-655-off</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T14:42:34Z</news:publication_date>
-      <news:title>Samsung Galaxy Z Fold 7 hits all-time low price with $655 off</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/07/Galaxy-Z-Fold-7-folded-laying-down-on-table-close-hero-image-scaled.jpg</image:loc>
-      <image:title>Samsung Galaxy Z Fold 7 hits all-time low price with $655 off</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/your-car-may-no-longer-need-your-phone-to-get-the-full-spotify-experience</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T14:39:06Z</news:publication_date>
-      <news:title>Your car may no longer need your phone to get the full Spotify experience</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Spotify-app-on-Android-Automotive-OS.jpg</image:loc>
-      <image:title>Your car may no longer need your phone to get the full Spotify experience</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/youre-checking-androids-notification-history-all-wrong</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T14:35:44Z</news:publication_date>
-      <news:title>You’re checking Android’s notification history all wrong</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2021/11/pixel-6-notification-history.jpg</image:loc>
-      <image:title>You’re checking Android’s notification history all wrong</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-pixels-solution-to-using-face-unlock-in-the-dark-seems-to-be-just-blinding-you</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T14:30:00Z</news:publication_date>
-      <news:title>Google Pixel’s solution to using Face Unlock in the dark seems to be just blinding you</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2024/11/Face-Unlock-screen-on-Pixel-9.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Google Pixel’s solution to using Face Unlock in the dark seems to be just blinding you</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iphone-duo-accessories-roundup-cases-and-screen-protectors-from-otterbox-zagg-and-more</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T14:25:48Z</news:publication_date>
-      <news:title>iPhone Duo Accessories Roundup: Cases and Screen Protectors From OtterBox, ZAGG, and More</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/09/iphone-18-duo-cases-new-blue.jpeg</image:loc>
-      <image:title>iPhone Duo Accessories Roundup: Cases and Screen Protectors From OtterBox, ZAGG, and More</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-stores-will-have-039limited039-availability-of-iphone-duo-for-walk-in-customers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T14:24:38Z</news:publication_date>
-      <news:title>Apple Stores Will Have &amp;#039;Limited&amp;#039; Availability of iPhone Duo for Walk-In Customers</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Hinge-Feature-4.jpg</image:loc>
-      <image:title>Apple Stores Will Have &amp;#039;Limited&amp;#039; Availability of iPhone Duo for Walk-In Customers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-says-it-only-has-8216limited8217-iphone-duo-units-for-in-store-sales</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T14:22:59Z</news:publication_date>
-      <news:title>Apple says it only has &amp;#8216;limited&amp;#8217; iPhone Duo units for in-store sales</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1499.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Apple says it only has &amp;#8216;limited&amp;#8217; iPhone Duo units for in-store sales</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/a-permanent-pokemon-store-will-open-in-london-with-more-locations-outside-asia-to-follow</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T14:20:47Z</news:publication_date>
-      <news:title>A permanent Pokémon store will open in London, with more locations outside Asia to follow</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/a-permanent-pokmon-store-will-open-in-london-with-more-locations-outside-asia-to-follow/l-intro-1792592324.jpg</image:loc>
-      <image:title>A permanent Pokémon store will open in London, with more locations outside Asia to follow</image:title>
     </image:image>
   </url>
 </urlset>
