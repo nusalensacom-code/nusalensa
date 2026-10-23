@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/gemini-notebook-now-available-as-connected-app-for-deeper-integration</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T20:21:15Z</news:publication_date>
+      <news:title>Gemini Notebook now available as Connected App for deeper integration</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/07/gemini-notebook.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Gemini Notebook now available as Connected App for deeper integration</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-store-pickup-for-iphone-duo-starting-to-resume-but-very-limited</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T20:16:18Z</news:publication_date>
+      <news:title>Apple Store Pickup for iPhone Duo Starting to Resume But Very Limited</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/hero_medium_2x-feature1.jpg</image:loc>
+      <image:title>Apple Store Pickup for iPhone Duo Starting to Resume But Very Limited</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/your-pixel-watch-is-getting-smarter-about-tracking-activity-with-google-health-511</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T20:06:16Z</news:publication_date>
+      <news:title>Your Pixel Watch is getting smarter about tracking activity with Google Health 5.11</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/fitbit-edge-hands-on-6-scaled.jpg</image:loc>
+      <image:title>Your Pixel Watch is getting smarter about tracking activity with Google Health 5.11</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/fridays-android-app-deals-and-freebies-dredge-slaps-and-beans-thronefall-more</loc>
     <news:news>
       <news:publication>
@@ -5190,66 +5235,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23382326/VRG_Illo_STK022_K_Radtke_Musk_Tesla.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Flying Roadsters can’t lift Tesla’s flat Q3 revenues</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/bose-acquires-skullcandy-to-help-it-reach-a-wider-audience</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T20:15:00Z</news:publication_date>
-      <news:title>Bose acquires Skullcandy to help it reach a wider audience</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/skullcandy1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Bose acquires Skullcandy to help it reach a wider audience</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/jmgo-iris-ultra-pre-order-deal-cuts-200-off-this-4k-projector</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T20:05:44Z</news:publication_date>
-      <news:title>JMGO IRIS Ultra pre-order deal cuts $200 off this 4K projector</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/JMGO-IRIS-series.jpg</image:loc>
-      <image:title>JMGO IRIS Ultra pre-order deal cuts $200 off this 4K projector</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/what-32000-folds-did-to-the-iphone-duo039s-hinge</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T20:05:27Z</news:publication_date>
-      <news:title>What 32,000 Folds Did to the iPhone Duo&amp;#039;s Hinge</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/joanna-stern-fold-test.jpg</image:loc>
-      <image:title>What 32,000 Folds Did to the iPhone Duo&amp;#039;s Hinge</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/spotify-launches-podcast-memberships-creators-keep-90-of-the-revenue</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T20:01:02Z</news:publication_date>
-      <news:title>Spotify launches podcast Memberships, creators keep 90% of the revenue</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/spotify-members/gsmarena_000.jpg</image:loc>
-      <image:title>Spotify launches podcast Memberships, creators keep 90% of the revenue</image:title>
     </image:image>
   </url>
 </urlset>
