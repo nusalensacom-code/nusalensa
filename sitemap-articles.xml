@@ -2,6 +2,96 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/iphone-duo-how-to-skip-the-swipe-up-after-touch-id</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/iphone-duo-blue.jpeg</image:loc>
+      <image:title>iPhone Duo: How to Skip the Swipe Up After Touch ID</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/netflix-cant-fire-its-way-out-of-this-downward-spiral</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK072_VRG_Illo_N_Barclay_1_netflix.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Netflix can’t fire its way out of this downward spiral</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/people-are-vibe-coding-their-way-to-better-tvs</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/cleanyourtv-home-page.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>People are vibe coding their way to better TVs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/huawei-enjoy-100-series-launch-date-confirmed-pre-orders-open</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/huawei-enjoy-100-series-launch-date-teaser/gsmarena_000.jpg</image:loc>
+      <image:title>Huawei Enjoy 100 series launch date confirmed, pre-orders open</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/someone-put-apple-carplay-on-an-amazon-echo-show-running-android-and-it-actually-works</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/01/echo-show-5-clock-android-scaled.jpg</image:loc>
+      <image:title>Someone put Apple CarPlay on an Amazon Echo Show running Android, and it actually works</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/spacex-is-getting-more-serious-about-becoming-the-fourth-carrier-the-us-needs</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/5G-network-indicator-status-bar-resized.jpg</image:loc>
+      <image:title>SpaceX is getting more serious about becoming the fourth carrier the US needs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/bricks-new-app-blocker-is-designed-for-bedtime-doomscrolling</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Brick-Night-app-blocker-hero.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Brick’s new app blocker is designed for bedtime doomscrolling</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/samsung-is-releasing-a-new-foldable-next-week-and-it-just-leaked</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/07/Galaxy-Z-Fold-8-Ultra-6-2.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Samsung is releasing a new foldable next week, and it just leaked</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/asus-proart-p16-review-a-sleek-showcase-for-nvidias-rtx-spark</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/asus-proart-p16-review-a-sleek-showcase-for-nvidias-rtx-spark/l-intro-1792702282.jpg</image:loc>
+      <image:title>ASUS ProArt P16 review: A sleek showcase for NVIDIA&apos;s RTX Spark</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/retro-gaming-is-being-overrun-with-ai</loc>
     <lastmod>2026-10-23</lastmod>
     <changefreq>daily</changefreq>
@@ -19,6 +109,16 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/11/OnePlus-15-hero-image-scaled.jpg</image:loc>
       <image:title>Goodbye Oxygen OS, hello Color OS: OnePlus 15 is now getting stable Android 17</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/Starlink-terminal-in-Ukraine-1152x648.jpg</image:loc>
+      <image:title>Ukraine learns to fight without Starlink as Musk plays politics with satellites</image:title>
     </image:image>
   </url>
   <url>
@@ -52,6 +152,16 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/reviews/review-crystal-lake-suffers-a-bit-from-its-obsession-with-pam-voorhees</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/Crystal-Lake-via-Peacock-Matt-Infante-1000x648.webp</image:loc>
+      <image:title>Review: Crystal Lake suffers a bit from its obsession with Pam Voorhees</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/tablets/samsung-confirms-a-list-of-galaxy-phones-and-tablets-getting-android-17-updates</loc>
     <lastmod>2026-10-23</lastmod>
     <changefreq>daily</changefreq>
@@ -69,6 +179,16 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Open-large-scaled-feature.jpg</image:loc>
       <image:title>Where to Buy iPhone Duo Today: Stores, Pickup, and Wait Times</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/reaction-dynamics-1152x648.jpg</image:loc>
+      <image:title>Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready</image:title>
     </image:image>
   </url>
   <url>

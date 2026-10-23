@@ -3,6 +3,141 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/iphone-duo-how-to-skip-the-swipe-up-after-touch-id</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T13:00:39Z</news:publication_date>
+      <news:title>iPhone Duo: How to Skip the Swipe Up After Touch ID</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/iphone-duo-blue.jpeg</image:loc>
+      <image:title>iPhone Duo: How to Skip the Swipe Up After Touch ID</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/netflix-cant-fire-its-way-out-of-this-downward-spiral</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T13:00:00Z</news:publication_date>
+      <news:title>Netflix can’t fire its way out of this downward spiral</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK072_VRG_Illo_N_Barclay_1_netflix.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Netflix can’t fire its way out of this downward spiral</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/people-are-vibe-coding-their-way-to-better-tvs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T13:00:00Z</news:publication_date>
+      <news:title>People are vibe coding their way to better TVs</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/cleanyourtv-home-page.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>People are vibe coding their way to better TVs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/huawei-enjoy-100-series-launch-date-confirmed-pre-orders-open</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T12:54:02Z</news:publication_date>
+      <news:title>Huawei Enjoy 100 series launch date confirmed, pre-orders open</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/huawei-enjoy-100-series-launch-date-teaser/gsmarena_000.jpg</image:loc>
+      <image:title>Huawei Enjoy 100 series launch date confirmed, pre-orders open</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/someone-put-apple-carplay-on-an-amazon-echo-show-running-android-and-it-actually-works</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T12:53:32Z</news:publication_date>
+      <news:title>Someone put Apple CarPlay on an Amazon Echo Show running Android, and it actually works</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/01/echo-show-5-clock-android-scaled.jpg</image:loc>
+      <image:title>Someone put Apple CarPlay on an Amazon Echo Show running Android, and it actually works</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/spacex-is-getting-more-serious-about-becoming-the-fourth-carrier-the-us-needs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T12:51:42Z</news:publication_date>
+      <news:title>SpaceX is getting more serious about becoming the fourth carrier the US needs</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/5G-network-indicator-status-bar-resized.jpg</image:loc>
+      <image:title>SpaceX is getting more serious about becoming the fourth carrier the US needs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/bricks-new-app-blocker-is-designed-for-bedtime-doomscrolling</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T12:50:17Z</news:publication_date>
+      <news:title>Brick’s new app blocker is designed for bedtime doomscrolling</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Brick-Night-app-blocker-hero.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Brick’s new app blocker is designed for bedtime doomscrolling</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/samsung-is-releasing-a-new-foldable-next-week-and-it-just-leaked</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T12:15:00Z</news:publication_date>
+      <news:title>Samsung is releasing a new foldable next week, and it just leaked</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/07/Galaxy-Z-Fold-8-Ultra-6-2.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Samsung is releasing a new foldable next week, and it just leaked</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/asus-proart-p16-review-a-sleek-showcase-for-nvidias-rtx-spark</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T12:00:00Z</news:publication_date>
+      <news:title>ASUS ProArt P16 review: A sleek showcase for NVIDIA&apos;s RTX Spark</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/asus-proart-p16-review-a-sleek-showcase-for-nvidias-rtx-spark/l-intro-1792702282.jpg</image:loc>
+      <image:title>ASUS ProArt P16 review: A sleek showcase for NVIDIA&apos;s RTX Spark</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/retro-gaming-is-being-overrun-with-ai</loc>
     <news:news>
       <news:publication>
@@ -30,6 +165,21 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/11/OnePlus-15-hero-image-scaled.jpg</image:loc>
       <image:title>Goodbye Oxygen OS, hello Color OS: OnePlus 15 is now getting stable Android 17</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T11:30:22Z</news:publication_date>
+      <news:title>Ukraine learns to fight without Starlink as Musk plays politics with satellites</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/Starlink-terminal-in-Ukraine-1152x648.jpg</image:loc>
+      <image:title>Ukraine learns to fight without Starlink as Musk plays politics with satellites</image:title>
     </image:image>
   </url>
   <url>
@@ -78,6 +228,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/reviews/review-crystal-lake-suffers-a-bit-from-its-obsession-with-pam-voorhees</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T11:15:03Z</news:publication_date>
+      <news:title>Review: Crystal Lake suffers a bit from its obsession with Pam Voorhees</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/Crystal-Lake-via-Peacock-Matt-Infante-1000x648.webp</image:loc>
+      <image:title>Review: Crystal Lake suffers a bit from its obsession with Pam Voorhees</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/tablets/samsung-confirms-a-list-of-galaxy-phones-and-tablets-getting-android-17-updates</loc>
     <news:news>
       <news:publication>
@@ -105,6 +270,21 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Open-large-scaled-feature.jpg</image:loc>
       <image:title>Where to Buy iPhone Duo Today: Stores, Pickup, and Wait Times</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T11:00:57Z</news:publication_date>
+      <news:title>Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/reaction-dynamics-1152x648.jpg</image:loc>
+      <image:title>Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready</image:title>
     </image:image>
   </url>
   <url>
@@ -5550,156 +5730,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Gran-Turismo-3-Android-port-scaled.jpg</image:loc>
       <image:title>You can now play Gran Turismo 3 on Android thanks to this unofficial port</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/nvidias-latest-gpu-driver-brings-a-new-way-to-speed-up-pc-games</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T13:09:26Z</news:publication_date>
-      <news:title>Nvidia’s latest GPU driver brings a new way to speed up PC games</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25728971/STK083_NVIDIA_2_D.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Nvidia’s latest GPU driver brings a new way to speed up PC games</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/forget-custom-roms-you-can-now-run-ios-on-android-phones-yes-really</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T13:09:21Z</news:publication_date>
-      <news:title>Forget custom ROMs, you can now run iOS on Android phones (yes, really)</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/iOS-on-Redmi-Note-10-Pro.jpg</image:loc>
-      <image:title>Forget custom ROMs, you can now run iOS on Android phones (yes, really)</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-says-039reachability039-feature-coming-to-iphone-duo-later-this-year</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T13:05:08Z</news:publication_date>
-      <news:title>Apple Says &amp;#039;Reachability&amp;#039; Feature Coming to iPhone Duo Later This Year</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/iphone-duo-feature.jpg</image:loc>
-      <image:title>Apple Says &amp;#039;Reachability&amp;#039; Feature Coming to iPhone Duo Later This Year</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/honor-win2-and-win-tablet-launch-with-built-in-fans-and-big-batteries</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T13:03:02Z</news:publication_date>
-      <news:title>Honor Win2 and Win Tablet launch with built-in fans and big batteries</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/honor-win2-win-tablet-official/gsmarena_000.jpg</image:loc>
-      <image:title>Honor Win2 and Win Tablet launch with built-in fans and big batteries</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/how-to-spot-a-white-label-gadget-and-why-thats-important</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T13:00:00Z</news:publication_date>
-      <news:title>How to spot a white label gadget, and why that&apos;s important</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/how-to-spot-a-white-label-gadget-and-why-thats-important/l-intro-1792586287.jpg</image:loc>
-      <image:title>How to spot a white label gadget, and why that&apos;s important</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/spotify-just-dealt-a-major-blow-to-a-popular-lossless-music-downloader</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T12:55:58Z</news:publication_date>
-      <news:title>Spotify just dealt a major blow to a popular lossless music downloader</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/SpotiFLAC-Hi-Res-Python-Module.jpg</image:loc>
-      <image:title>Spotify just dealt a major blow to a popular lossless music downloader</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/heres-how-spacex-plans-to-catch-starships-upper-stage-for-the-first-time</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T12:19:58Z</news:publication_date>
-      <news:title>Here&apos;s how SpaceX plans to catch Starship&apos;s upper stage for the first time</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/heres-how-spacex-plans-to-catch-starships-upper-stage-for-the-first-time/l-intro-1792584880.jpg</image:loc>
-      <image:title>Here&apos;s how SpaceX plans to catch Starship&apos;s upper stage for the first time</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/i-reviewed-the-iphone-duo-ask-me-anything</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T12:15:00Z</news:publication_date>
-      <news:title>I reviewed the iPhone Duo, ask me anything</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_0082.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>I reviewed the iPhone Duo, ask me anything</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/this-home-security-camera-has-a-clever-way-of-deterring-intruders</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T12:10:31Z</news:publication_date>
-      <news:title>This home security camera has a clever way of deterring intruders</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Baseus-PrimeSentinel-U2-Pro.jpeg</image:loc>
-      <image:title>This home security camera has a clever way of deterring intruders</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/vivo-buds-ultra-launch-in-europe-with-60db-anc-and-dual-drivers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T12:06:02Z</news:publication_date>
-      <news:title>vivo Buds Ultra launch in Europe with 60dB ANC and dual drivers</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/vivo-buds-ultra/gsmarena_000.jpg</image:loc>
-      <image:title>vivo Buds Ultra launch in Europe with 60dB ANC and dual drivers</image:title>
     </image:image>
   </url>
 </urlset>
