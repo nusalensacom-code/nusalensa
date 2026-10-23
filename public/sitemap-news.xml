@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/retro-gaming-is-being-overrun-with-ai</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T12:00:00Z</news:publication_date>
+      <news:title>Retro gaming is being overrun with AI</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK465_VIDEO_GAMES_EMULATOR__CVirginia_D.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Retro gaming is being overrun with AI</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/goodbye-oxygen-os-hello-color-os-oneplus-15-is-now-getting-stable-android-17</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T11:54:35Z</news:publication_date>
+      <news:title>Goodbye Oxygen OS, hello Color OS: OnePlus 15 is now getting stable Android 17</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/11/OnePlus-15-hero-image-scaled.jpg</image:loc>
+      <image:title>Goodbye Oxygen OS, hello Color OS: OnePlus 15 is now getting stable Android 17</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/gulikit-tt-pro-review-the-ideal-switch-2-controller-for-players-on-the-go</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T11:30:00Z</news:publication_date>
+      <news:title>GuliKit TT Pro review: The ideal Switch 2 controller for players on the go</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/gulikit-tt-pro-review-the-ideal-switch-2-controller-for-players-on-the-go/l-intro-1792685476.jpg</image:loc>
+      <image:title>GuliKit TT Pro review: The ideal Switch 2 controller for players on the go</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/tesla-says-it-will-no-longer-release-the-cybertruck-in-australia-and-new-zealand</loc>
     <news:news>
       <news:publication>
@@ -5655,111 +5700,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/vivo-buds-ultra/gsmarena_000.jpg</image:loc>
       <image:title>vivo Buds Ultra launch in Europe with 60dB ANC and dual drivers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-iphone-duo-review-a-first-class-foldable</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T12:00:00Z</news:publication_date>
-      <news:title>Apple iPhone Duo review: A first-class foldable</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/apple-iphone-duo-review-a-first-class-foldable/l-intro-1792528421.jpg</image:loc>
-      <image:title>Apple iPhone Duo review: A first-class foldable</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-iphone-duo-is-a-a-messy-expensive-good-time</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T12:00:00Z</news:publication_date>
-      <news:title>The iPhone Duo is a a messy, expensive, good time</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1378.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>The iPhone Duo is a a messy, expensive, good time</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/i-cant-get-enough-of-the-iphone-duos-matte-inner-display</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T12:00:00Z</news:publication_date>
-      <news:title>I can’t get enough of the iPhone Duo’s matte inner display</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_0055.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>I can’t get enough of the iPhone Duo’s matte inner display</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/spotify-is-busting-free-of-carplay-with-the-launch-of-its-first-native-car-app</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T12:00:00Z</news:publication_date>
-      <news:title>Spotify is busting free of CarPlay with the launch of its first native car app</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Spotify-x-Audi-Image-2.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Spotify is busting free of CarPlay with the launch of its first native car app</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/a-critical-php-vulnerability-may-take-websites-down-today</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T11:49:17Z</news:publication_date>
-      <news:title>A critical PHP vulnerability may take websites down today</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/VRG_ILLO_STK001_carlo_cadenas_cybersecurity_virus.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>A critical PHP vulnerability may take websites down today</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-odin-3-portal-launches-this-week-with-elite-power-and-the-price-is-better-than-expected</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T11:34:58Z</news:publication_date>
-      <news:title>The Odin 3 Portal launches this week with Elite power, and the price is better than expected</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/AYN-Odin-3-Portal-cold-gray-model-official.jpg</image:loc>
-      <image:title>The Odin 3 Portal launches this week with Elite power, and the price is better than expected</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/this-top-selling-samsung-phone-is-finally-getting-stable-one-ui-9-with-android-17</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T11:31:04Z</news:publication_date>
-      <news:title>This top-selling Samsung phone is finally getting stable One UI 9 with Android 17</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/05/Samsung-Galaxy-A55-5G-in-hand-showing-screen-scaled.jpg</image:loc>
-      <image:title>This top-selling Samsung phone is finally getting stable One UI 9 with Android 17</image:title>
     </image:image>
   </url>
 </urlset>
