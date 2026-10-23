@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/the-iphone-duo-can-be-a-tiny-mac-a-toaster-and-a-nintendo-ds</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T23:22:55Z</news:publication_date>
+      <news:title>The iPhone Duo Can Be a Tiny Mac, a Toaster, and a Nintendo DS</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/tiny-computer-iphone-duo.jpg</image:loc>
+      <image:title>The iPhone Duo Can Be a Tiny Mac, a Toaster, and a Nintendo DS</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue</loc>
     <news:news>
       <news:publication>
@@ -5010,51 +5025,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/oneplus-turbo-pro-specs-leak/gsmarena_000.jpg</image:loc>
       <image:title>OnePlus Turbo Pro to borrow a lot from the OnePlus 16, key specs leak</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/youtube-says-it-isnt-testing-hiding-the-dislike-button</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T23:46:45Z</news:publication_date>
-      <news:title>YouTube says it isn’t testing hiding the dislike button</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK092_03.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>YouTube says it isn’t testing hiding the dislike button</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/tesla-says-customers-can-add-their-own-vehicles-to-the-robotaxi-fleet-next-year-will-it-happen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T23:36:31Z</news:publication_date>
-      <news:title>Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKE001_STK086_Tesla_Robotaxi_3_A.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iphone-duo-reviewers-really-miss-face-id</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T23:27:31Z</news:publication_date>
-      <news:title>iPhone Duo Reviewers Really Miss Face ID</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/09/iPhone-Duo-Open-large-scaled.png</image:loc>
-      <image:title>iPhone Duo Reviewers Really Miss Face ID</image:title>
     </image:image>
   </url>
 </urlset>

@@ -468,6 +468,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/the-iphone-duo-can-be-a-tiny-mac-a-toaster-and-a-nintendo-ds</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/tiny-computer-iphone-duo.jpg</image:loc>
+      <image:title>The iPhone Duo Can Be a Tiny Mac, a Toaster, and a Nintendo DS</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue</loc>
     <lastmod>2026-10-23</lastmod>
     <changefreq>daily</changefreq>

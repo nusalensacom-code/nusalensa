@@ -5,8 +5,17 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 23 Oct 2026 23:21:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 23:53:25 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The iPhone Duo Can Be a Tiny Mac, a Toaster, and a Nintendo DS</title>
+      <link>https://nusalensa.com/phones/the-iphone-duo-can-be-a-tiny-mac-a-toaster-and-a-nintendo-ds</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/the-iphone-duo-can-be-a-tiny-mac-a-toaster-and-a-nintendo-ds</guid>
+      <description>The iPhone Duo has an all-new form factor with multiple folding and orientation options, and app developers are having some fun with it. You can find quite a fe</description>
+      <category>Smartphones</category>
+      <pubDate>Fri, 23 Oct 2026 23:22:55 GMT</pubDate>
+      <enclosure url="https://images.macrumors.com/article-new/2026/10/tiny-computer-iphone-duo.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>NASA updates lander plans for Moon landings, finally solves long-festering Orion issue</title>
       <link>https://nusalensa.com/technology/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue</link>
@@ -267,15 +276,6 @@
       <category>Smartphones</category>
       <pubDate>Fri, 23 Oct 2026 19:21:02 GMT</pubDate>
       <enclosure url="https://fdn.gsmarena.com/imgroot/news/26/10/amazon-us-samsung-certified-re-newed-program/gsmarena_000.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Spotify ramps up policy enforcement on family plans</title>
-      <link>https://nusalensa.com/technology/spotify-ramps-up-policy-enforcement-on-family-plans</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/spotify-ramps-up-policy-enforcement-on-family-plans</guid>
-      <description>If you share Spotify sub with family, you may need to scan QR code to prove it.</description>
-      <category>Technology</category>
-      <pubDate>Fri, 23 Oct 2026 19:20:27 GMT</pubDate>
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2016/07/spotify-1152x648.png" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
