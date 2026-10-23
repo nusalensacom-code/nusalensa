@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/oneplus-nord-buds-3-pro-hit-their-lowest-price-in-months</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T20:54:49Z</news:publication_date>
+      <news:title>OnePlus Nord Buds 3 Pro hit their lowest price in months</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/07/OnePlus-Nord-Buds-3-Pro-scaled.jpg</image:loc>
+      <image:title>OnePlus Nord Buds 3 Pro hit their lowest price in months</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/using-an-apple-pencil-with-the-iphone-duo-what-to-know</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T20:49:57Z</news:publication_date>
+      <news:title>Using an Apple Pencil With the iPhone Duo: What to Know</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
+      <image:title>Using an Apple Pencil With the iPhone Duo: What to Know</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-messages-rolling-out-enhanced-protection-mode-against-spam-and-scams</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T20:47:00Z</news:publication_date>
+      <news:title>Google Messages rolling out Enhanced Protection mode against spam and scams</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2023/03/google-messages-logo-circle-3.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Google Messages rolling out Enhanced Protection mode against spam and scams</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/pixelated-122-seven-years-late-same-foldable-problems</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T20:30:00Z</news:publication_date>
+      <news:title>Pixelated 122: Seven years late, same foldable problems</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2024/03/Pixelated-cover.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Pixelated 122: Seven years late, same foldable problems</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/gemini-notebook-now-available-as-connected-app-for-deeper-integration</loc>
     <news:news>
       <news:publication>
@@ -5085,156 +5145,6 @@
     <image:image>
       <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Galaxy-Z-FOld-8-walkman-music-player.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1400</image:loc>
       <image:title>Someone made a Walkman music player for the Galaxy Z Fold 8, and it works with YouTube Music</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/government-websites-in-the-eu-and-canada-taken-offline-over-php-vulnerability</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T20:56:47Z</news:publication_date>
-      <news:title>Government websites in the EU and Canada taken offline over PHP vulnerability</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/government-websites-in-eu-and-canada-taken-offline-over-php-vulnerability/l-intro-1792616156.jpg</image:loc>
-      <image:title>Government websites in the EU and Canada taken offline over PHP vulnerability</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/anthropic-launches-claude-duet-a-proactive-ai-agent</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T20:53:08Z</news:publication_date>
-      <news:title>Anthropic Launches Claude Duet, a Proactive AI Agent</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/claude-duet-scaled.jpg</image:loc>
-      <image:title>Anthropic Launches Claude Duet, a Proactive AI Agent</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/new-yorks-first-microdrama-film-festival-searches-for-its-audience</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T20:49:07Z</news:publication_date>
-      <news:title>New York’s first microdrama film festival searches for its audience</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2300700160.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>New York’s first microdrama film festival searches for its audience</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/meta-says-it-wouldve-made-over-22-billion-if-it-didnt-have-to-pay-a-child-safety-settlement</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T20:46:56Z</news:publication_date>
-      <news:title>Meta says it would’ve made over $22 billion if it didn’t have to pay a child safety settlement</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS487_ANTITRUST_2__STK043_META.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Meta says it would’ve made over $22 billion if it didn’t have to pay a child safety settlement</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/claude-duet-is-anthropics-proactive-ai-agent-answer-to-muse-and-openais-dots-video</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T20:45:00Z</news:publication_date>
-      <news:title>Claude Duet is Anthropic’s proactive AI agent answer to Muse and OpenAI’s Dots [Video]</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/claude-duet-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1280</image:loc>
-      <image:title>Claude Duet is Anthropic’s proactive AI agent answer to Muse and OpenAI’s Dots [Video]</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/meta-ordered-to-cough-up-25-billion-in-new-mexico-privacy-case</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T20:43:17Z</news:publication_date>
-      <news:title>Meta ordered to cough up $25 billion in New Mexico privacy case</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/meta-ordered-to-cough-up-25-billion-in-new-mexico-privacy-case/l-intro-1792615292.jpg</image:loc>
-      <image:title>Meta ordered to cough up $25 billion in New Mexico privacy case</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/php-the-three-letters-that-shut-down-sites-all-over-the-internet-today</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T20:36:56Z</news:publication_date>
-      <news:title>PHP: The three letters that shut down sites all over the internet today</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>PHP: The three letters that shut down sites all over the internet today</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-galaxy-s25-fe-wins-our-reader-poll-for-best-samsung-galaxy-a16-alternative</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T20:33:18Z</news:publication_date>
-      <news:title>Samsung Galaxy S25 FE wins our reader poll for best Samsung Galaxy A16 alternative</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/09/Samsung-Galaxy-S25-FE-in-Navy-standing-in-front-of-plant.jpg</image:loc>
-      <image:title>Samsung Galaxy S25 FE wins our reader poll for best Samsung Galaxy A16 alternative</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/gemini-notebooks-creative-flow-update-lets-you-fine-tune-slides-and-videos-before-committing</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T20:30:22Z</news:publication_date>
-      <news:title>Gemini Notebook’s creative flow update lets you fine-tune slides and videos before committing</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-Ultra-Gemini-Notebook-scaled.jpg</image:loc>
-      <image:title>Gemini Notebook’s creative flow update lets you fine-tune slides and videos before committing</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/flying-roadsters-cant-lift-teslas-flat-q3-revenues</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T20:22:31Z</news:publication_date>
-      <news:title>Flying Roadsters can’t lift Tesla’s flat Q3 revenues</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23382326/VRG_Illo_STK022_K_Radtke_Musk_Tesla.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Flying Roadsters can’t lift Tesla’s flat Q3 revenues</image:title>
     </image:image>
   </url>
 </urlset>
