@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T21:59:19Z</news:publication_date>
+      <news:title>Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
+      <image:title>Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/deal-the-samsung-galaxy-z-fold8-is-300-cheaper-than-the-iphone-duo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T21:54:02Z</news:publication_date>
+      <news:title>Deal: the Samsung Galaxy Z Fold8 is $300 cheaper than the iPhone Duo</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/samsung-galaxy-z-fold8-us-deal/gsmarena_000.jpg</image:loc>
+      <image:title>Deal: the Samsung Galaxy Z Fold8 is $300 cheaper than the iPhone Duo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/xboxs-first-chief-operating-officer-is-out-after-just-a-few-months</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T21:39:26Z</news:publication_date>
+      <news:title>Xbox’s first chief operating officer is out after just a few months</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485116/STK048_XBOX2__B.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Xbox’s first chief operating officer is out after just a few months</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/some-iphone-duo-screens-arent-making-it-through-day-one</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T21:26:00Z</news:publication_date>
+      <news:title>Some iPhone Duo screens aren’t making it through day one</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-iPhone-Duo-Hands-On-Facetime-on-inner-display-in-flex-mode.jpg</image:loc>
+      <image:title>Some iPhone Duo screens aren’t making it through day one</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/this-launcher-was-made-for-your-dual-screen-android-handheld</loc>
     <news:news>
       <news:publication>
@@ -5085,81 +5145,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/airbnb-bans-hosts-from-making-you-do-the-dishes/l-intro-1792620107.jpg</image:loc>
       <image:title>Airbnb bans hosts from making you do the dishes</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/save-56-on-the-sandisk-1tb-extreme-portable-ssd</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T21:53:52Z</news:publication_date>
-      <news:title>Save $56 on the SanDisk 1TB Extreme Portable SSD</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/SANDISK-1TB-Extreme-Portable-SSD-Press-Image.jpg</image:loc>
-      <image:title>Save $56 on the SanDisk 1TB Extreme Portable SSD</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/enterprises-keep-buying-software-upgrades-that-it-thinks-will-make-things-worse</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T21:48:52Z</news:publication_date>
-      <news:title>Enterprises keep buying software upgrades that IT thinks will make things worse</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-832621336-1024x648.jpg</image:loc>
-      <image:title>Enterprises keep buying software upgrades that IT thinks will make things worse</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/tesla-profits-drop-43-in-q3</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T21:35:07Z</news:publication_date>
-      <news:title>Tesla profits drop 43% in Q3</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2019/10/tesla-polarizing.jpg</image:loc>
-      <image:title>Tesla profits drop 43% in Q3</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/tozo-a1-earbuds-drop-to-1396-on-amazon-with-30-off</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T21:34:32Z</news:publication_date>
-      <news:title>TOZO A1 earbuds drop to $13.96 on Amazon with 30% off</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/TOZO-A1-earbuds-Product-Image.jpg</image:loc>
-      <image:title>TOZO A1 earbuds drop to $13.96 on Amazon with 30% off</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/meta-to-create-a-new-class-of-shares-to-fund-ai-push</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T21:30:02Z</news:publication_date>
-      <news:title>Meta to create a new class of shares to fund AI push</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Meta to create a new class of shares to fund AI push</image:title>
     </image:image>
   </url>
 </urlset>
