@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/vivo-x500-ultra-may-launch-globally</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T07:01:02Z</news:publication_date>
+      <news:title>vivo X500 Ultra may launch globally</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/vivo-x500-ultra-global/gsmarena_000.jpg</image:loc>
+      <image:title>vivo X500 Ultra may launch globally</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/happy-25th-anniversary-ipod</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T07:00:11Z</news:publication_date>
+      <news:title>Happy 25th Anniversary, iPod</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/ipod.jpg</image:loc>
+      <image:title>Happy 25th Anniversary, iPod</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/it8217s-official-samsung8217s-next-foldable-phone-is-coming-soon</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T06:28:59Z</news:publication_date>
+      <news:title>It&amp;#8217;s official: Samsung&amp;#8217;s next foldable phone is coming soon</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Samsung-W27-W2026-official-image-website-resized.jpg</image:loc>
+      <image:title>It&amp;#8217;s official: Samsung&amp;#8217;s next foldable phone is coming soon</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/samsung-galaxy-s27-ultra-and-s27-pro-batteries-pictured-in-a-new-certification</loc>
     <news:news>
       <news:publication>
@@ -5760,66 +5805,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/08/google-pixel-10-quick-settings-hero-2-scaled.jpg</image:loc>
       <image:title>The latest Android 17 beta fixes a major Quick Settings security issue</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-clears-the-air-on-fitbit-air8217s-missing-sleep-breathing-quality-feature</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T07:14:48Z</news:publication_date>
-      <news:title>Google clears the air on Fitbit Air&amp;#8217;s missing sleep breathing quality feature</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/fitbit-air-side-wrist-scaled-e1791815438152-500w-260h.jpg</image:loc>
-      <image:title>Google clears the air on Fitbit Air&amp;#8217;s missing sleep breathing quality feature</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/better-pay-for-applecare-plus-the-iphone-duo-has-a-concerningly-soft-crease</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T07:03:34Z</news:publication_date>
-      <news:title>Better pay for AppleCare Plus: The iPhone Duo has a concerningly soft crease</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/iPhone-Duo-Weibo-user-Kang.jpg</image:loc>
-      <image:title>Better pay for AppleCare Plus: The iPhone Duo has a concerningly soft crease</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/this-crazy-bright-google-tv-projector-is-now-available-to-order</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T06:17:04Z</news:publication_date>
-      <news:title>This crazy bright Google TV projector is now available to order</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/xgimi-aura-3-pro-max-ultra-short-throw-projector-1.jpg</image:loc>
-      <image:title>This crazy bright Google TV projector is now available to order</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-just-gave-pixel-9-owners-a-little-more-time-with-this-lifesaving-feature</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T06:08:51Z</news:publication_date>
-      <news:title>Google just gave Pixel 9 owners a little more time with this lifesaving feature</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/03/Pixel_satellite_SOS_hero_image_3.jpg</image:loc>
-      <image:title>Google just gave Pixel 9 owners a little more time with this lifesaving feature</image:title>
     </image:image>
   </url>
 </urlset>
