@@ -468,6 +468,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/this-is-samsungs-next-foldable-and-its-launching-in-just-a-few-days</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/samsung-w27-live-image/gsmarena_000.jpg</image:loc>
+      <image:title>This is Samsung&apos;s next foldable and it&apos;s launching in just a few days</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/apple-is-testing-iphone-duo-2-prototype-with-this-key-upgrade</loc>
     <lastmod>2026-10-23</lastmod>
     <changefreq>daily</changefreq>

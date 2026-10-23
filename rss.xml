@@ -5,8 +5,17 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 23 Oct 2026 02:03:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 03:03:11 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This is Samsung&apos;s next foldable and it&apos;s launching in just a few days</title>
+      <link>https://nusalensa.com/phones/this-is-samsungs-next-foldable-and-its-launching-in-just-a-few-days</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/this-is-samsungs-next-foldable-and-its-launching-in-just-a-few-days</guid>
+      <description>Samsung is getting ready to launch the W27, its latest China-exclusive luxury foldable, and the device has now appeared in a leaked photo. According to a well-k</description>
+      <category>Smartphones</category>
+      <pubDate>Fri, 23 Oct 2026 02:11:01 GMT</pubDate>
+      <enclosure url="https://fdn.gsmarena.com/imgroot/news/26/10/samsung-w27-live-image/gsmarena_000.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Apple is testing iPhone Duo 2 prototype with this key upgrade</title>
       <link>https://nusalensa.com/phones/apple-is-testing-iphone-duo-2-prototype-with-this-key-upgrade</link>
@@ -267,15 +276,6 @@
       <category>Technology</category>
       <pubDate>Thu, 22 Oct 2026 20:17:52 GMT</pubDate>
       <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-1778229942-1152x648.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Apple&amp;#039;s iWork Apps Get &amp;#039;Intelligent Assistant&amp;#039; and iPhone Duo Support</title>
-      <link>https://nusalensa.com/phones/apple039s-iwork-apps-get-039intelligent-assistant039-and-iphone-duo-support</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/apple039s-iwork-apps-get-039intelligent-assistant039-and-iphone-duo-support</guid>
-      <description>Apple today added an &quot;Intelligent Assistant&quot; to Keynote, Numbers, and Pages. The feature is available in beta for Apple Creator Studio subscribers. The update i</description>
-      <category>Smartphones</category>
-      <pubDate>Thu, 22 Oct 2026 20:15:24 GMT</pubDate>
-      <enclosure url="https://images.macrumors.com/article-new/2026/10/iphone-duo-keynote.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
