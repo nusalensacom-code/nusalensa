@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/this-launcher-was-made-for-your-dual-screen-android-handheld</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T21:14:18Z</news:publication_date>
+      <news:title>This launcher was made for your dual-screen Android handheld</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/12/ANBERNIC-RG-in-hand-DS-Meteos.jpg</image:loc>
+      <image:title>This launcher was made for your dual-screen Android handheld</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/openai-now-trains-its-frontier-ai-models-with-no-internet-access</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T21:11:07Z</news:publication_date>
+      <news:title>OpenAI now trains its frontier AI models with no internet access</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>OpenAI now trains its frontier AI models with no internet access</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-health-511-rolling-out-with-fitbit-air-health-guardian-improved-sleep-tracking-038-more</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T21:00:10Z</news:publication_date>
+      <news:title>Google Health 5.11 rolling out with Fitbit Air Health Guardian, improved sleep tracking, &amp;#038; more</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/05/google-fitbit-air-hands-on-13.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Google Health 5.11 rolling out with Fitbit Air Health Guardian, improved sleep tracking, &amp;#038; more</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/oneplus-nord-buds-3-pro-hit-their-lowest-price-in-months</loc>
     <news:news>
       <news:publication>
@@ -63,6 +108,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/hegseth-warns-prediction-market-bets-warp-military-judgment-endanger-troops</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T20:28:43Z</news:publication_date>
+      <news:title>Hegseth warns prediction market bets warp military judgment, endanger troops</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/06/polymarket-1152x648.jpg</image:loc>
+      <image:title>Hegseth warns prediction market bets warp military judgment, endanger troops</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/gemini-notebook-now-available-as-connected-app-for-deeper-integration</loc>
     <news:news>
       <news:publication>
@@ -75,6 +135,21 @@
     <image:image>
       <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/07/gemini-notebook.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
       <image:title>Gemini Notebook now available as Connected App for deeper integration</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T20:19:55Z</news:publication_date>
+      <news:title>Updated Google privacy policy says your Gmail might be used for advertising</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-grooves-1152x648.jpg</image:loc>
+      <image:title>Updated Google privacy policy says your Gmail might be used for advertising</image:title>
     </image:image>
   </url>
   <url>
@@ -198,6 +273,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/technology/inside-the-pentagon-the-pressure-is-on-to-find-a-home-for-a-new-spaceport</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T19:33:58Z</news:publication_date>
+      <news:title>Inside the Pentagon, the pressure is on to find a home for a new spaceport</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/gallery-gallery_ng-2-ascent-2-1152x648.jpg</image:loc>
+      <image:title>Inside the Pentagon, the pressure is on to find a home for a new spaceport</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/jack-dorseys-block-made-an-ai-model-that-talks-to-you-like-an-awkward-new-friend</loc>
     <news:news>
       <news:publication>
@@ -240,6 +330,21 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/amazon-us-samsung-certified-re-newed-program/gsmarena_000.jpg</image:loc>
       <image:title>Samsung extends its Certified Re-Newed program to Amazon US</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/spotify-ramps-up-policy-enforcement-on-family-plans</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T19:20:27Z</news:publication_date>
+      <news:title>Spotify ramps up policy enforcement on family plans</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2016/07/spotify-1152x648.png</image:loc>
+      <image:title>Spotify ramps up policy enforcement on family plans</image:title>
     </image:image>
   </url>
   <url>
@@ -5055,96 +5160,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Meta to create a new class of shares to fund AI push</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-music039s-new-look-is-now-live-on-apple039s-website</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T21:24:31Z</news:publication_date>
-      <news:title>Apple Music&amp;#039;s New Look is Now Live on Apple&amp;#039;s Website</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/Apple-Music-New-Logo-on-Website.jpg</image:loc>
-      <image:title>Apple Music&amp;#039;s New Look is Now Live on Apple&amp;#039;s Website</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-lens-is-finding-new-ways-to-make-youtube-shorts-even-more-annoying</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T21:21:25Z</news:publication_date>
-      <news:title>Google Lens is finding new ways to make YouTube Shorts even more annoying</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/09/Google-Pixel-10-Pro-XL-YouTube-Short.jpg</image:loc>
-      <image:title>Google Lens is finding new ways to make YouTube Shorts even more annoying</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/amazon-cuts-dells-156-inch-everyday-laptop-by-130</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T21:20:15Z</news:publication_date>
-      <news:title>Amazon cuts Dell’s 15.6-inch everyday laptop by $130</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Dell-DC15250-Laptop-Press-Image.jpg</image:loc>
-      <image:title>Amazon cuts Dell’s 15.6-inch everyday laptop by $130</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google8217s-finally-bringing-this-desktop-meet-accessibility-tool-to-mobile</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T21:07:49Z</news:publication_date>
-      <news:title>Google&amp;#8217;s finally bringing this desktop Meet accessibility tool to mobile</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/google-meet-paired-tiles-desktop.jpg</image:loc>
-      <image:title>Google&amp;#8217;s finally bringing this desktop Meet accessibility tool to mobile</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/claude-duet-is-anthropics-answer-to-meta-muse-and-openai-dots</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T21:03:19Z</news:publication_date>
-      <news:title>Claude Duet is Anthropic&apos;s answer to Meta Muse and OpenAI Dots</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/claude-duet-is-anthropics-answer-to-meta-muse-and-openai-dots/l-intro-1792616502.jpg</image:loc>
-      <image:title>Claude Duet is Anthropic&apos;s answer to Meta Muse and OpenAI Dots</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/someone-made-a-walkman-music-player-for-the-galaxy-z-fold-8-and-it-works-with-youtube-music</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T21:01:25Z</news:publication_date>
-      <news:title>Someone made a Walkman music player for the Galaxy Z Fold 8, and it works with YouTube Music</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Galaxy-Z-FOld-8-walkman-music-player.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1400</image:loc>
-      <image:title>Someone made a Walkman music player for the Galaxy Z Fold 8, and it works with YouTube Music</image:title>
     </image:image>
   </url>
 </urlset>
