@@ -3,6 +3,81 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/a-startup-called-warhound-is-genetically-engineering-dogs-for-the-military</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T09:01:01Z</news:publication_date>
+      <news:title>A startup called Warhound is genetically engineering dogs for the military</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/a-startup-called-warhound-is-genetically-engineering-dogs-for-the-military/l-intro-1792745868.jpg</image:loc>
+      <image:title>A startup called Warhound is genetically engineering dogs for the military</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/these-6-pixel-features-prove-samsung-still-has-room-to-improve</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T09:00:08Z</news:publication_date>
+      <news:title>These 6 Pixel features prove Samsung still has room to improve</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/Pixel-11-vs-Galaxy-S26-scaled.jpg</image:loc>
+      <image:title>These 6 Pixel features prove Samsung still has room to improve</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/this-app-lets-you-run-steam-games-on-android-and-it-now-supports-game-pass-too</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T08:51:27Z</news:publication_date>
+      <news:title>This app lets you run Steam games on Android, and it now supports Game Pass too</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/DroidDeck-on-Retroid-Pocket-G2-scaled.jpg</image:loc>
+      <image:title>This app lets you run Steam games on Android, and it now supports Game Pass too</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-makes-a-privacy-policy-exception-to-use-your-gmail-and-photos-data-for-ads</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T08:37:56Z</news:publication_date>
+      <news:title>Google makes a privacy policy exception to use your Gmail and Photos data for ads</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/03/google-apps-folder-pixel-9-pro-scaled.jpeg</image:loc>
+      <image:title>Google makes a privacy policy exception to use your Gmail and Photos data for ads</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/huawei-pura-90-plus-to-launch-next-week-design-and-color-options-revealed</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T08:11:02Z</news:publication_date>
+      <news:title>Huawei Pura 90 Plus to launch next week, design and color options revealed</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/huawei-pura-90-plus-launch-design/gsmarena_00.jpg</image:loc>
+      <image:title>Huawei Pura 90 Plus to launch next week, design and color options revealed</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/google-is-tackling-three-googlebook-headaches-before-they-become-migraines</loc>
     <news:news>
       <news:publication>
@@ -5700,81 +5775,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/omdia-foldable-display-shipments-2026-forecast/gsmarena_000.jpg</image:loc>
       <image:title>Omdia: foldable displays shipments will increase 44% this year with a focus on wide foldables</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung8217s-first-android-xr-glasses-face-a-design-problem-its-competitor-already-solved</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T09:00:33Z</news:publication_date>
-      <news:title>Samsung&amp;#8217;s first Android XR glasses face a design problem its competitor already solved</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-scaled.jpg</image:loc>
-      <image:title>Samsung&amp;#8217;s first Android XR glasses face a design problem its competitor already solved</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-stores-in-bordeaux-and-lille-looted-during-french-protests</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T08:59:06Z</news:publication_date>
-      <news:title>Apple Stores in Bordeaux and Lille Looted During French Protests</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2021/04/apple-lille-france.jpeg</image:loc>
-      <image:title>Apple Stores in Bordeaux and Lille Looted During French Protests</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/spacex-and-tesla-are-exploring-a-possible-merger</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T08:40:59Z</news:publication_date>
-      <news:title>SpaceX and Tesla are exploring a possible merger</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/spacex-and-tesla-are-exploring-a-possible-merger/l-intro-1792571852.jpg</image:loc>
-      <image:title>SpaceX and Tesla are exploring a possible merger</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/loop-capital-cuts-apple-rating-over-iphone-sales-outlook</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T08:38:06Z</news:publication_date>
-      <news:title>Loop Capital Cuts Apple Rating Over iPhone Sales Outlook</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2020/12/aapl-logo-banner.jpg</image:loc>
-      <image:title>Loop Capital Cuts Apple Rating Over iPhone Sales Outlook</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/oneplus-may-call-dibs-on-a-new-snapdragon-8216pro8217-chip-and-youre-allowed-to-feel-jealous</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T08:11:46Z</news:publication_date>
-      <news:title>OnePlus may call dibs on a new Snapdragon &amp;#8216;Pro&amp;#8217; chip, and you’re allowed to feel jealous</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/04/OnePlus-Nord-6.jpg</image:loc>
-      <image:title>OnePlus may call dibs on a new Snapdragon &amp;#8216;Pro&amp;#8217; chip, and you’re allowed to feel jealous</image:title>
     </image:image>
   </url>
 </urlset>
