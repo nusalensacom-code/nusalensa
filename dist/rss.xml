@@ -5,8 +5,17 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 23 Oct 2026 21:59:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 22:27:14 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gemini for Android rolls out side panel and settings redesign</title>
+      <link>https://nusalensa.com/phones/gemini-for-android-rolls-out-side-panel-and-settings-redesign</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/gemini-for-android-rolls-out-side-panel-and-settings-redesign</guid>
+      <description>Following the Spark-to-Task update , the Gemini app has now rolled out redesigns of the side panel and settings on Android. more…</description>
+      <category>Smartphones</category>
+      <pubDate>Fri, 23 Oct 2026 22:02:00 GMT</pubDate>
+      <enclosure url="https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-2.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell</title>
       <link>https://nusalensa.com/phones/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell</link>
@@ -267,15 +276,6 @@
       <category>Smartphones</category>
       <pubDate>Fri, 23 Oct 2026 19:10:52 GMT</pubDate>
       <enclosure url="https://images.macrumors.com/article-new/2025/07/Apple-Store-Wallpaper-Basic-Apple-Guy.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Soundcore’s latest noise-crushing headphones are on sale for a new low price</title>
-      <link>https://nusalensa.com/technology/soundcores-latest-noise-crushing-headphones-are-on-sale-for-a-new-low-price</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/soundcores-latest-noise-crushing-headphones-are-on-sale-for-a-new-low-price</guid>
-      <description>My colleague John Higgins considered Soundcore’s Space One some of the best budget noise-canceling headphones you could buy when they launched in 2023 — and the</description>
-      <category>Technology</category>
-      <pubDate>Fri, 23 Oct 2026 18:43:30 GMT</pubDate>
-      <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268498_Soundcore_Space_2_AKrales_0084.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>

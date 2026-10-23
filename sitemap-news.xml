@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/gemini-for-android-rolls-out-side-panel-and-settings-redesign</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T22:02:00Z</news:publication_date>
+      <news:title>Gemini for Android rolls out side panel and settings redesign</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-2.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Gemini for Android rolls out side panel and settings redesign</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell</loc>
     <news:news>
       <news:publication>
@@ -5070,81 +5085,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Data centers could erase decades of air quality gains</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/bose-buys-audio-rival-skullcandy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T22:19:48Z</news:publication_date>
-      <news:title>Bose buys audio rival Skullcandy</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/bose-buys-audio-rival-skullcandy/l-intro-1792621054.jpg</image:loc>
-      <image:title>Bose buys audio rival Skullcandy</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/fcc-chair-warns-media-not-to-run-the-fake-polls-trump-keeps-complaining-about</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T22:17:50Z</news:publication_date>
-      <news:title>FCC chair warns media not to run the &quot;fake polls&quot; Trump keeps complaining about</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2024/12/trump-carr-1152x648-1734382746.jpg</image:loc>
-      <image:title>FCC chair warns media not to run the &quot;fake polls&quot; Trump keeps complaining about</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T22:06:07Z</news:publication_date>
-      <news:title>Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/xcloud3-1152x648.jpg</image:loc>
-      <image:title>Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/does-the-iphone-duo-run-hot-here039s-what-reviews-found</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T22:05:15Z</news:publication_date>
-      <news:title>Does the iPhone Duo Run Hot? Here&amp;#039;s What Reviews Found</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Hinge-Feature-3.jpg</image:loc>
-      <image:title>Does the iPhone Duo Run Hot? Here&amp;#039;s What Reviews Found</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/airbnb-bans-hosts-from-making-you-do-the-dishes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T22:04:32Z</news:publication_date>
-      <news:title>Airbnb bans hosts from making you do the dishes</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/airbnb-bans-hosts-from-making-you-do-the-dishes/l-intro-1792620107.jpg</image:loc>
-      <image:title>Airbnb bans hosts from making you do the dishes</image:title>
     </image:image>
   </url>
 </urlset>
