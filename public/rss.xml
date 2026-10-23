@@ -5,8 +5,17 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 23 Oct 2026 00:26:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 01:16:18 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple is testing iPhone Duo 2 prototype with this key upgrade</title>
+      <link>https://nusalensa.com/phones/apple-is-testing-iphone-duo-2-prototype-with-this-key-upgrade</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/apple-is-testing-iphone-duo-2-prototype-with-this-key-upgrade</guid>
+      <description>The iPhone Duo is now slowly making its way to users who placed their pre-orders last week and the first round of reviews are already out. The consensus is that</description>
+      <category>Smartphones</category>
+      <pubDate>Fri, 23 Oct 2026 00:41:02 GMT</pubDate>
+      <enclosure url="https://fdn.gsmarena.com/imgroot/news/26/10/apple-iphone-duo-2-prototype-key-upgrade/gsmarena_000.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Etsy is cracking down on AI slop listings</title>
       <link>https://nusalensa.com/technology/etsy-is-cracking-down-on-ai-slop-listings</link>
@@ -267,15 +276,6 @@
       <category>Smartphones</category>
       <pubDate>Thu, 22 Oct 2026 20:15:24 GMT</pubDate>
       <enclosure url="https://images.macrumors.com/article-new/2026/10/iphone-duo-keynote.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Google Meet expands real-time translation across 63 languages</title>
-      <link>https://nusalensa.com/tablets/google-meet-expands-real-time-translation-across-63-languages</link>
-      <guid isPermaLink="true">https://nusalensa.com/tablets/google-meet-expands-real-time-translation-across-63-languages</guid>
-      <description>The feature detects and translates 63 languages.</description>
-      <category>Tablets</category>
-      <pubDate>Thu, 22 Oct 2026 20:09:20 GMT</pubDate>
-      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/05/live-translate-phone-screen-cropped.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>

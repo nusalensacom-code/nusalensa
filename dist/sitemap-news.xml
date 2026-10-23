@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/apple-is-testing-iphone-duo-2-prototype-with-this-key-upgrade</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T00:41:02Z</news:publication_date>
+      <news:title>Apple is testing iPhone Duo 2 prototype with this key upgrade</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/apple-iphone-duo-2-prototype-key-upgrade/gsmarena_000.jpg</image:loc>
+      <image:title>Apple is testing iPhone Duo 2 prototype with this key upgrade</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/etsy-is-cracking-down-on-ai-slop-listings</loc>
     <news:news>
       <news:publication>
