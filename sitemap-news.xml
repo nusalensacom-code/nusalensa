@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/two-more-nothing-phones-get-nothing-os-50-beta</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T03:31:02Z</news:publication_date>
+      <news:title>Two more Nothing phones get Nothing OS 5.0 beta</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/nothing-phone-2a-2a-plus-nothing-os-5-beta/gsmarena_000.jpg</image:loc>
+      <image:title>Two more Nothing phones get Nothing OS 5.0 beta</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/youtube8217s-latest-trick-lets-you-build-a-custom-feed-for-every-viewing-mood</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T03:07:57Z</news:publication_date>
+      <news:title>YouTube&amp;#8217;s latest trick lets you build a custom feed for every viewing mood</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/02/YouTube-TV-logo-on-smartphone-stock-photo-5.jpg</image:loc>
+      <image:title>YouTube&amp;#8217;s latest trick lets you build a custom feed for every viewing mood</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/this-is-samsungs-next-foldable-and-its-launching-in-just-a-few-days</loc>
     <news:news>
       <news:publication>
@@ -5805,51 +5835,6 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/05/Whatsapp-Feature.jpg</image:loc>
       <image:title>WhatsApp Developing In-App Browser for All Chat Links on iPhone</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/coolpad-unveils-the-cool-x-wide-with-a-1610-display-and-50mp-camera</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T04:02:02Z</news:publication_date>
-      <news:title>Coolpad unveils the Cool X Wide with a 16:10 display and 50MP camera</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/coolpad-cool-x-wide-ofic/gsmarena_00.jpg</image:loc>
-      <image:title>Coolpad unveils the Cool X Wide with a 16:10 display and 50MP camera</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple039s-app-store-chief-explains-its-push-for-premium-games</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T03:58:10Z</news:publication_date>
-      <news:title>Apple&amp;#039;s App Store Chief Explains Its Push for Premium Games</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2022/01/iOS-App-Store-General-Feature-Clorange.jpg</image:loc>
-      <image:title>Apple&amp;#039;s App Store Chief Explains Its Push for Premium Games</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-could-owe-even-more-after-3657-billion-patent-verdict</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T03:24:11Z</news:publication_date>
-      <news:title>Apple Could Owe Even More After &amp;#36;5.7 Billion Patent Verdict</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2016/05/Taptic-Engine-iPhone-6s.jpg</image:loc>
-      <image:title>Apple Could Owe Even More After &amp;#36;5.7 Billion Patent Verdict</image:title>
     </image:image>
   </url>
 </urlset>
