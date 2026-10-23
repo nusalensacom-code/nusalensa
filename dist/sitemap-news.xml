@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/ugreens-45w-world-travel-adapter-is-back-to-its-prime-day-low</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T18:06:23Z</news:publication_date>
+      <news:title>UGREEN’s 45W world travel adapter is back to its Prime Day low</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/UGREEN-45W-6-Port-Universal-Travel-Plug-Adapter-Press-Image.jpg</image:loc>
+      <image:title>UGREEN’s 45W world travel adapter is back to its Prime Day low</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/crackgate-iphone-duo-owners-report-screens-breaking-along-the-hinge</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T18:05:41Z</news:publication_date>
+      <news:title>Crackgate? iPhone Duo Owners Report Screens Breaking Along the Hinge</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/iphone-duo-screen-crack.jpg</image:loc>
+      <image:title>Crackgate? iPhone Duo Owners Report Screens Breaking Along the Hinge</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/iphone-duo-brings-back-long-lines-at-apple-stores</loc>
     <news:news>
       <news:publication>
@@ -5325,126 +5355,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/SWZC_AnnGP_Screenshot_1_WM.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Star Wars Zero Company is a must-play strategy game at 20 percent off</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/survey-nearly-half-of-you-want-nothing-to-do-with-samsung8217s-home-screen-news-feed</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T18:25:56Z</news:publication_date>
-      <news:title>Survey: Nearly half of you want nothing to do with Samsung&amp;#8217;s home screen news feed</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2023/07/Samsung-Galaxy-Z-Fold-5-google-discover.jpg</image:loc>
-      <image:title>Survey: Nearly half of you want nothing to do with Samsung&amp;#8217;s home screen news feed</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T18:20:40Z</news:publication_date>
-      <news:title>Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2025/04/xAI-Thermal-Image-1152x648.jpg</image:loc>
-      <image:title>Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iphone-duo-tips-over-on-magsafe-stands-when-unfolded</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T18:16:14Z</news:publication_date>
-      <news:title>iPhone Duo Tips Over on MagSafe Stands When Unfolded</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/iphone-duo-feature.jpg</image:loc>
-      <image:title>iPhone Duo Tips Over on MagSafe Stands When Unfolded</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/amazon-fire-hd-10-tablet-hits-a-new-low-price-with-82-off</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T18:01:05Z</news:publication_date>
-      <news:title>Amazon Fire HD 10 tablet hits a new low price with $82 off</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Amazon-Fire-HD-10-Tablet-Press-Image.jpg</image:loc>
-      <image:title>Amazon Fire HD 10 tablet hits a new low price with $82 off</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/does-opting-out-of-smart-tv-tracking-work-research-finds-suspicious-traffic</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T18:00:37Z</news:publication_date>
-      <news:title>Does opting out of smart TV tracking work? Research finds “suspicious” traffic.</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2226225055-1152x648.jpg</image:loc>
-      <image:title>Does opting out of smart TV tracking work? Research finds “suspicious” traffic.</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/xbox-cloud-gamings-pay-as-you-go-option-starts-at-399-for-10-hours</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T18:00:00Z</news:publication_date>
-      <news:title>Xbox Cloud Gaming’s pay-as-you-go option starts at $3.99 for 10 hours</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22478836/acastro_210429_1777_0004.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Xbox Cloud Gaming’s pay-as-you-go option starts at $3.99 for 10 hours</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/gm-promises-smarter-cars-faster-updates-and-autonomous-dry-cleaning-runs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T18:00:00Z</news:publication_date>
-      <news:title>GM promises smarter cars, faster updates, and autonomous dry-cleaning runs</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-97616875.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>GM promises smarter cars, faster updates, and autonomous dry-cleaning runs</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/will-tp-link-really-make-routers-in-the-us-heres-what-it-told-us</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T18:00:00Z</news:publication_date>
-      <news:title>Will TP-Link really make routers in the US? Here’s what it told us</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/tp-link-wifi-8.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Will TP-Link really make routers in the US? Here’s what it told us</image:title>
     </image:image>
   </url>
 </urlset>
