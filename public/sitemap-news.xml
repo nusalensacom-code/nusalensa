@@ -3,6 +3,171 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/iphone-duo-brings-back-long-lines-at-apple-stores</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T17:56:01Z</news:publication_date>
+      <news:title>iPhone Duo Brings Back Long Lines at Apple Stores</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/Apple-Store-Austin-Texas-iPhone-Duo-Launch-Day.jpg</image:loc>
+      <image:title>iPhone Duo Brings Back Long Lines at Apple Stores</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/fis-gps-equipped-dog-trackers-are-on-sale-for-30-percent-off</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T17:55:03Z</news:publication_date>
+      <news:title>Fi’s GPS-equipped dog trackers are on sale for 30 percent off</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Fi-Ultra-Dog-Collar-roundup.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Fi’s GPS-equipped dog trackers are on sale for 30 percent off</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/strava-gets-plain-language-route-search-with-turn-by-turn-audio-navigation-coming-soon</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T17:50:31Z</news:publication_date>
+      <news:title>Strava gets plain-language route search, with turn-by-turn audio navigation coming soon</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2023/08/Samsung-Galaxy-Z-Flip-5-strava-cover-screen.jpg</image:loc>
+      <image:title>Strava gets plain-language route search, with turn-by-turn audio navigation coming soon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/counterpoint-global-pc-shipments-were-down-21-in-q3</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T17:49:03Z</news:publication_date>
+      <news:title>Counterpoint: Global PC shipments were down 21% in Q3</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/counterpoint-q3-global-pc-shipments-report/gsmarena_000.jpg</image:loc>
+      <image:title>Counterpoint: Global PC shipments were down 21% in Q3</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/kindle-android-app-borrows-a-useful-new-feature-from-alexa-tablets</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T17:48:40Z</news:publication_date>
+      <news:title>Kindle Android app borrows a useful new feature from Alexa Tablets</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2022/06/Amazon-Kindle-app-on-Android-4-edited-scaled.jpg</image:loc>
+      <image:title>Kindle Android app borrows a useful new feature from Alexa Tablets</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/sennheiser-accentum-earbuds-fall-under-100-with-55-off</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T17:45:43Z</news:publication_date>
+      <news:title>Sennheiser Accentum earbuds fall under $100 with 55% off</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Sennheiser-Accentum-True-Wireless-Earbuds-SoundGuys.jpg</image:loc>
+      <image:title>Sennheiser Accentum earbuds fall under $100 with 55% off</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/elon-musks-dangerous-grip-on-outer-space</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T17:35:15Z</news:publication_date>
+      <news:title>Elon Musk’s dangerous grip on outer space</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKB355_SPACE_X_IPO_B.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Elon Musk’s dangerous grip on outer space</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/crows-can-evaluate-visual-info-twice-as-fast-as-mammals</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T17:32:58Z</news:publication_date>
+      <news:title>Crows can evaluate visual info twice as fast as mammals</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1472974929-1152x648.jpg</image:loc>
+      <image:title>Crows can evaluate visual info twice as fast as mammals</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/fitbit-versa-4-bundle-hits-its-lowest-price-since-february</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T17:23:04Z</news:publication_date>
+      <news:title>Fitbit Versa 4 bundle hits its lowest price since February</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2022/09/Fitbit-Versa-4-home-screen-scaled.jpg</image:loc>
+      <image:title>Fitbit Versa 4 bundle hits its lowest price since February</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T17:18:31Z</news:publication_date>
+      <news:title>Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/Intel-fab-interior-1152x648.jpg</image:loc>
+      <image:title>Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-iphone-duo-should-have-been-an-ipad</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T17:00:18Z</news:publication_date>
+      <news:title>The iPhone Duo should have been an iPad</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_102326_Site_attempt.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>The iPhone Duo should have been an iPad</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/save-over-360-on-klipsch-flexus-core-300-512-dolby-atmos-soundbar</loc>
     <news:news>
       <news:publication>
@@ -15,6 +180,51 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Klipsch-Flexus-CORE-300-Sound-Bar-Press-Image.jpg</image:loc>
       <image:title>Save over $360 on Klipsch Flexus CORE 300 5.1.2 Dolby Atmos soundbar</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/rfk-jrs-vaccine-injury-clinic-could-damage-nih-hospital-board-warns</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T16:58:39Z</news:publication_date>
+      <news:title>RFK Jr.’s vaccine injury clinic could damage NIH hospital, board warns</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298718210-1152x648.jpg</image:loc>
+      <image:title>RFK Jr.’s vaccine injury clinic could damage NIH hospital, board warns</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/now-google-says-it-might-use-your-gmail-and-google-photos-data-to-target-ads</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T16:52:55Z</news:publication_date>
+      <news:title>Now Google says it might use your Gmail and Google Photos data to target ads</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Now Google says it might use your Gmail and Google Photos data to target ads</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/knicks-sent-employees-fake-offer-of-championship-rings-in-phishing-test-report</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T16:51:59Z</news:publication_date>
+      <news:title>Knicks sent employees fake offer of championship rings in phishing test: Report</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/james-dolan-knicks-championship-1152x648-1792772606.jpg</image:loc>
+      <image:title>Knicks sent employees fake offer of championship rings in phishing test: Report</image:title>
     </image:image>
   </url>
   <url>
@@ -60,6 +270,21 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/20ruxzn728xh1.jpeg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>The first broken iPhone Duos are here</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/everybody-panic-a-valve-developer-said-hlx-in-public</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T16:35:00Z</news:publication_date>
+      <news:title>Everybody panic: A Valve developer said &quot;HLX&quot; in public</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2017/08/024-1152x648-1740609184.jpg</image:loc>
+      <image:title>Everybody panic: A Valve developer said &quot;HLX&quot; in public</image:title>
     </image:image>
   </url>
   <url>
@@ -5220,231 +5445,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/tp-link-wifi-8.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Will TP-Link really make routers in the US? Here’s what it told us</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iphone-duo-has-039edge-light039-feature-that-debuted-on-macs-last-year</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T17:57:33Z</news:publication_date>
-      <news:title>iPhone Duo Has &amp;#039;Edge Light&amp;#039; Feature That Debuted on Macs Last Year</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Has-Edge-Light-Feature-Just-Like-Macs-Feature.jpg</image:loc>
-      <image:title>iPhone Duo Has &amp;#039;Edge Light&amp;#039; Feature That Debuted on Macs Last Year</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-support-app-updated-for-iphone-duo039s-larger-display</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T17:55:28Z</news:publication_date>
-      <news:title>Apple Support App Updated for iPhone Duo&amp;#039;s Larger Display</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2023/08/Apple-Support-App-General-Feature.jpg</image:loc>
-      <image:title>Apple Support App Updated for iPhone Duo&amp;#039;s Larger Display</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-hw-q600f-soundbar-drops-to-39999-with-a-100-discount</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T17:52:46Z</news:publication_date>
-      <news:title>Samsung HW-Q600F soundbar drops to $399.99 with a $100 discount</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Samsung-HW-Q600F-Q-Series-Soundbar-Press-Image.jpg</image:loc>
-      <image:title>Samsung HW-Q600F soundbar drops to $399.99 with a $100 discount</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-launches-certified-re-newed-galaxy-phones-on-amazon-starting-at-489</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T17:51:18Z</news:publication_date>
-      <news:title>Samsung launches Certified Re-Newed Galaxy phones on Amazon starting at $489</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/10/Samsung-Galaxy-S24-Ultra_1-scaled.jpg</image:loc>
-      <image:title>Samsung launches Certified Re-Newed Galaxy phones on Amazon starting at $489</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/mid-week-android-app-deals-and-freebies-lara-croft-go-between-kilometers-find-it-all-more</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T17:46:16Z</news:publication_date>
-      <news:title>Mid-week Android app deals and freebies: Lara Croft GO, Between Kilometers, Find it All, more</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Google-Play-collage-d42a17.webp?w=1600</image:loc>
-      <image:title>Mid-week Android app deals and freebies: Lara Croft GO, Between Kilometers, Find it All, more</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/gemini-is-getting-a-new-place-to-manage-apps-and-skills</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T17:42:56Z</news:publication_date>
-      <news:title>Gemini is getting a new place to manage apps and skills</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/gemini-logo-november-2025-2-1000w-562h.jpg</image:loc>
-      <image:title>Gemini is getting a new place to manage apps and skills</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/theres-a-new-apple-music-logo-and-it-looks-like-ripples-in-water</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T17:35:47Z</news:publication_date>
-      <news:title>There&apos;s a new Apple Music logo and it looks like ripples in water</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/theres-a-new-apple-music-logo-and-it-looks-like-ripples-in-water/l-intro-1792604071.jpg</image:loc>
-      <image:title>There&apos;s a new Apple Music logo and it looks like ripples in water</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/samsungs-latest-55-inch-frame-tv-is-down-to-its-lowest-price-yet</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T17:35:40Z</news:publication_date>
-      <news:title>Samsung’s latest 55-inch Frame TV is down to its lowest price yet</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/samsungtheframetv2026.jpg.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Samsung’s latest 55-inch Frame TV is down to its lowest price yet</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/amazon-sweetens-the-deal-on-entry-level-16-inch-macbook-pro-with-36570-off</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T17:34:45Z</news:publication_date>
-      <news:title>Amazon Sweetens the Deal on Entry-Level 16-Inch MacBook Pro With &amp;#36;570 Off</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/macbook-pro-black.jpeg</image:loc>
-      <image:title>Amazon Sweetens the Deal on Entry-Level 16-Inch MacBook Pro With &amp;#36;570 Off</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/openai-gpt-models-are-coming-to-google-antigravity-8216soon8217-cloud-8216in-the-coming-weeks8217</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T17:30:00Z</news:publication_date>
-      <news:title>OpenAI GPT models are coming to Google Antigravity &amp;#8216;soon,&amp;#8217; Cloud &amp;#8216;in the coming weeks&amp;#8217;</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/05/Google-Antigravity-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>OpenAI GPT models are coming to Google Antigravity &amp;#8216;soon,&amp;#8217; Cloud &amp;#8216;in the coming weeks&amp;#8217;</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-hue-bridge-pro8217s-missing-custom-behaviors-feature-will-launch-very-soon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T17:27:24Z</news:publication_date>
-      <news:title>The Hue Bridge Pro&amp;#8217;s missing custom behaviors feature will launch very soon</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2022/08/Philips-Hue-Lightguide-bulbs-and-matching-pendant-light-cords-scaled.jpg</image:loc>
-      <image:title>The Hue Bridge Pro&amp;#8217;s missing custom behaviors feature will launch very soon</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/ea-is-shutting-down-bioware</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T17:19:07Z</news:publication_date>
-      <news:title>EA is shutting down BioWare</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gsh636en2u1g1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>EA is shutting down BioWare</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-and-sk-hynix-are-upgrading-their-nand-factories-in-china</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T17:18:02Z</news:publication_date>
-      <news:title>Samsung and SK Hynix are upgrading their NAND factories in China</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/samsung-sk-hynix-chinese-factories-for-nand/gsmarena_000.jpg</image:loc>
-      <image:title>Samsung and SK Hynix are upgrading their NAND factories in China</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/did-your-phone-just-get-a-google-play-system-update-from-the-future-you8217re-not-alone</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T17:16:45Z</news:publication_date>
-      <news:title>Did your phone just get a Google Play system update from the future? You&amp;#8217;re not alone</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/01/Samsung-Google-Play-system-update.jpg</image:loc>
-      <image:title>Did your phone just get a Google Play system update from the future? You&amp;#8217;re not alone</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-odyssey-g4-falls-to-record-low-price-with-110-off</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T17:06:31Z</news:publication_date>
-      <news:title>Samsung Odyssey G4 falls to record-low price with $110 off</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Samsung-25-inch-Odyssey-G4-G40H-Series-FHD-Gaming-Monitor-Press-Image.jpg</image:loc>
-      <image:title>Samsung Odyssey G4 falls to record-low price with $110 off</image:title>
     </image:image>
   </url>
 </urlset>
