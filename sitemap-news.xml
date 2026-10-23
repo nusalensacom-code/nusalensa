@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/google-is-tackling-three-googlebook-headaches-before-they-become-migraines</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T07:49:50Z</news:publication_date>
+      <news:title>Google is tackling three Googlebook headaches before they become migraines</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Googlebook-Acer-10.jpg</image:loc>
+      <image:title>Google is tackling three Googlebook headaches before they become migraines</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/macbook-neo-helps-apple-outpace-rivals-as-market-declines</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T07:30:09Z</news:publication_date>
+      <news:title>MacBook Neo Helps Apple Outpace Rivals as Market Declines</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/08/macbook-neo-blue.jpeg</image:loc>
+      <image:title>MacBook Neo Helps Apple Outpace Rivals as Market Declines</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/vivo-x500-ultra-may-launch-globally</loc>
     <news:news>
       <news:publication>
@@ -5745,66 +5775,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/04/OnePlus-Nord-6.jpg</image:loc>
       <image:title>OnePlus may call dibs on a new Snapdragon &amp;#8216;Pro&amp;#8217; chip, and you’re allowed to feel jealous</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/bluesound-adds-native-apple-music-support</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T08:06:00Z</news:publication_date>
-      <news:title>Bluesound Adds Native Apple Music Support</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/apple-music-new-logo-red.jpg</image:loc>
-      <image:title>Bluesound Adds Native Apple Music Support</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-ceo-john-ternus-explains-what-makes-good-product-design</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T08:03:47Z</news:publication_date>
-      <news:title>Apple CEO John Ternus Explains What Makes Good Product Design</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
-      <image:title>Apple CEO John Ternus Explains What Makes Good Product Design</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/lava-aura-curve-unveiled-with-curved-display-rear-screen-and-6000mah-battery</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T08:03:02Z</news:publication_date>
-      <news:title>Lava Aura Curve unveiled with curved display, rear screen, and 6,000mAh battery</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/lava-aura-curve-ofic/gsmarena_00.jpg</image:loc>
-      <image:title>Lava Aura Curve unveiled with curved display, rear screen, and 6,000mAh battery</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-latest-android-17-beta-fixes-a-major-quick-settings-security-issue</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T07:35:57Z</news:publication_date>
-      <news:title>The latest Android 17 beta fixes a major Quick Settings security issue</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/08/google-pixel-10-quick-settings-hero-2-scaled.jpg</image:loc>
-      <image:title>The latest Android 17 beta fixes a major Quick Settings security issue</image:title>
     </image:image>
   </url>
 </urlset>
