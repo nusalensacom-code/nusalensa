@@ -5,8 +5,26 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 23 Oct 2026 22:27:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 22:57:43 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NASA updates lander plans for Moon landings, finally solves long-festering Orion issue</title>
+      <link>https://nusalensa.com/technology/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue</link>
+      <guid isPermaLink="true">https://nusalensa.com/technology/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue</guid>
+      <description>&quot;We have the mandate, we have the resources, and the support from our stakeholders.&quot;</description>
+      <category>Technology</category>
+      <pubDate>Fri, 23 Oct 2026 22:48:25 GMT</pubDate>
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/centaur-1002x648.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>OpenAI says it&apos;s cutting off internet access for frontier model training</title>
+      <link>https://nusalensa.com/technology/openai-says-its-cutting-off-internet-access-for-frontier-model-training</link>
+      <guid isPermaLink="true">https://nusalensa.com/technology/openai-says-its-cutting-off-internet-access-for-frontier-model-training</guid>
+      <description>OpenAI says it will no longer allow frontier models to access the internet during training in an effort to put in new safety measures after a series of incident</description>
+      <category>Technology</category>
+      <pubDate>Fri, 23 Oct 2026 22:37:02 GMT</pubDate>
+      <enclosure url="https://www.engadget.com/img/gallery/openai-says-its-cutting-off-internet-access-for-frontier-model-training/l-intro-1792794862.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Gemini for Android rolls out side panel and settings redesign</title>
       <link>https://nusalensa.com/phones/gemini-for-android-rolls-out-side-panel-and-settings-redesign</link>
@@ -258,24 +276,6 @@
       <category>Technology</category>
       <pubDate>Fri, 23 Oct 2026 19:20:27 GMT</pubDate>
       <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2016/07/spotify-1152x648.png" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Galaxy Buds On leak gives us a 360-degree look at Samsung&amp;#8217;s upcoming earbuds</title>
-      <link>https://nusalensa.com/phones/galaxy-buds-on-leak-gives-us-a-360-degree-look-at-samsung8217s-upcoming-earbuds</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/galaxy-buds-on-leak-gives-us-a-360-degree-look-at-samsung8217s-upcoming-earbuds</guid>
-      <description>This leak may also give us some answers on the global release.</description>
-      <category>Smartphones</category>
-      <pubDate>Fri, 23 Oct 2026 19:18:04 GMT</pubDate>
-      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/10/Galaxy-Budson-3.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Apple Store in UK Reopens With New Design on iPhone Duo Launch Day</title>
-      <link>https://nusalensa.com/phones/apple-store-in-uk-reopens-with-new-design-on-iphone-duo-launch-day</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/apple-store-in-uk-reopens-with-new-design-on-iphone-duo-launch-day</guid>
-      <description>Following more than three months of renovations, the Apple SouthGate store in Bath, England reopened today, just in time for iPhone Duo launch day . The store h</description>
-      <category>Smartphones</category>
-      <pubDate>Fri, 23 Oct 2026 19:10:52 GMT</pubDate>
-      <enclosure url="https://images.macrumors.com/article-new/2025/07/Apple-Store-Wallpaper-Basic-Apple-Guy.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>

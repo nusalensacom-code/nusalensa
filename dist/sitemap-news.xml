@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T22:48:25Z</news:publication_date>
+      <news:title>NASA updates lander plans for Moon landings, finally solves long-festering Orion issue</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/centaur-1002x648.jpg</image:loc>
+      <image:title>NASA updates lander plans for Moon landings, finally solves long-festering Orion issue</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/openai-says-its-cutting-off-internet-access-for-frontier-model-training</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T22:37:02Z</news:publication_date>
+      <news:title>OpenAI says it&apos;s cutting off internet access for frontier model training</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/openai-says-its-cutting-off-internet-access-for-frontier-model-training/l-intro-1792794862.jpg</image:loc>
+      <image:title>OpenAI says it&apos;s cutting off internet access for frontier model training</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/gemini-for-android-rolls-out-side-panel-and-settings-redesign</loc>
     <news:news>
       <news:publication>
@@ -5040,51 +5070,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/iphone-duo-limited-walk-in-stock/gsmarena_000.jpg</image:loc>
       <image:title>Apple warns of limited iPhone Duo stock for walk-in buyers on launch day</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/inmo-go3-smart-glasses-pack-a-display-and-gemini-integration-with-clever-camera-privacy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T22:45:00Z</news:publication_date>
-      <news:title>INMO GO3 smart glasses pack a display and Gemini integration with clever camera privacy</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/inmo-go3-1.png?w=1600</image:loc>
-      <image:title>INMO GO3 smart glasses pack a display and Gemini integration with clever camera privacy</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/mark-zuckerberg-says-meta-is-entering-a-new-phase-with-muse</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T22:36:03Z</news:publication_date>
-      <news:title>Mark Zuckerberg says Meta is &apos;entering a new phase&apos; with Muse</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/mark-zuckerberg-says-meta-is-entering-a-new-phase-with-muse/l-intro-1792621715.jpg</image:loc>
-      <image:title>Mark Zuckerberg says Meta is &apos;entering a new phase&apos; with Muse</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/data-centers-could-erase-decades-of-air-quality-gains</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T22:33:44Z</news:publication_date>
-      <news:title>Data centers could erase decades of air quality gains</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Data centers could erase decades of air quality gains</image:title>
     </image:image>
   </url>
 </urlset>
