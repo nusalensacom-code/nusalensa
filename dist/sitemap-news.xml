@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/tablets/i-replaced-my-laptop-with-the-galaxy-tab-s12-ultra-it-was-a-big-mistake</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T10:00:35Z</news:publication_date>
+      <news:title>I replaced my laptop with the Galaxy Tab S12 Ultra. It was a big mistake</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-galaxy-tab-s12-ultra-on-table-scaled.jpg</image:loc>
+      <image:title>I replaced my laptop with the Galaxy Tab S12 Ultra. It was a big mistake</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/no-the-iphone-duo-isnt-a-small-phone</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T10:00:00Z</news:publication_date>
+      <news:title>No, the iPhone Duo isn’t a small phone</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04350_processed.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>No, the iPhone Duo isn’t a small phone</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/want-to-make-ai-ringtones-for-your-android-phone-here-are-my-favorite-prompts-and-tips</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T09:30:32Z</news:publication_date>
+      <news:title>Want to make AI ringtones for your Android phone? Here are my favorite prompts and tips</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/pickupandrun-scaled.jpeg</image:loc>
+      <image:title>Want to make AI ringtones for your Android phone? Here are my favorite prompts and tips</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/delta-emulator-now-lets-you-turn-your-iphone-duo-into-a-nintendo-ds</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T09:21:16Z</news:publication_date>
+      <news:title>Delta emulator now lets you turn your iPhone Duo into a Nintendo DS</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-iPhone-Duo-Hands-On-Rear-camera.jpg</image:loc>
+      <image:title>Delta emulator now lets you turn your iPhone Duo into a Nintendo DS</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/a-startup-called-warhound-is-genetically-engineering-dogs-for-the-military</loc>
     <news:news>
       <news:publication>
@@ -5685,96 +5745,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/google-photos-july-2026-redesign.jpg</image:loc>
       <image:title>A highlight Google Photos feature could be up for a rebrand, coming alongside these fixes</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/lisbon-through-the-lenses-of-the-oppo-find-x10-pro-max</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T10:03:02Z</news:publication_date>
-      <news:title>Lisbon through the lenses of the Oppo Find X10 Pro Max</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/oppo-find-x10-pro-max-lisbon/gsmarena_000.jpg</image:loc>
-      <image:title>Lisbon through the lenses of the Oppo Find X10 Pro Max</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/i-didn8217t-expect-pixel-vips-to-impress-me-much-but-now-i-can8217t-stop-using-it</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T10:00:36Z</news:publication_date>
-      <news:title>I didn&amp;#8217;t expect Pixel VIPs to impress me much, but now I can&amp;#8217;t stop using it</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/the-pixel-vips-widget-on-a-pixel-8-pro-scaled.jpg</image:loc>
-      <image:title>I didn&amp;#8217;t expect Pixel VIPs to impress me much, but now I can&amp;#8217;t stop using it</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/i-split-claude-gemini-and-chatgpt-into-work-home-and-casual-and-it8217s-a-mixed-bag</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T09:30:24Z</news:publication_date>
-      <news:title>I split Claude, Gemini, and ChatGPT into work, home, and casual, and it&amp;#8217;s a mixed bag</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/AI2-4-scaled.jpg</image:loc>
-      <image:title>I split Claude, Gemini, and ChatGPT into work, home, and casual, and it&amp;#8217;s a mixed bag</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-is-killing-a-smart-tv-hub-that-just-got-a-major-google-photos-upgrade</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T09:14:40Z</news:publication_date>
-      <news:title>Samsung is killing a smart TV hub that just got a major Google Photos upgrade</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Samsung-Daily-Plus-hub-shutting-down.jpg</image:loc>
-      <image:title>Samsung is killing a smart TV hub that just got a major Google Photos upgrade</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/subaru-is-dropping-gas-cars-for-evs-in-europe-by-the-end-of-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T09:14:00Z</news:publication_date>
-      <news:title>Subaru is dropping gas cars for EVs in Europe by the end of 2027</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/subaru-is-dropping-gas-cars-for-evs-in-europe-by-the-end-of-2027/l-intro-1792573932.jpg</image:loc>
-      <image:title>Subaru is dropping gas cars for EVs in Europe by the end of 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/omdia-foldable-displays-shipments-will-increase-44-this-year-with-a-focus-on-wide-foldables</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T09:07:02Z</news:publication_date>
-      <news:title>Omdia: foldable displays shipments will increase 44% this year with a focus on wide foldables</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/omdia-foldable-display-shipments-2026-forecast/gsmarena_000.jpg</image:loc>
-      <image:title>Omdia: foldable displays shipments will increase 44% this year with a focus on wide foldables</image:title>
     </image:image>
   </url>
 </urlset>
