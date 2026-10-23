@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/samsung-galaxy-s27-ultra-and-s27-pro-batteries-pictured-in-a-new-certification</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/samsung-galaxy-s27-ultra-s27-pro-battery-images/gsmarena_000.jpg</image:loc>
+      <image:title>Samsung Galaxy S27 Ultra and S27 Pro batteries pictured in a new certification</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/the-vivo-x500-ultra-could-get-a-downgraded-main-rear-sensor</loc>
     <lastmod>2026-10-23</lastmod>
     <changefreq>daily</changefreq>

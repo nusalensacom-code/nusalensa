@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/samsung-galaxy-s27-ultra-and-s27-pro-batteries-pictured-in-a-new-certification</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T05:51:02Z</news:publication_date>
+      <news:title>Samsung Galaxy S27 Ultra and S27 Pro batteries pictured in a new certification</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/samsung-galaxy-s27-ultra-s27-pro-battery-images/gsmarena_000.jpg</image:loc>
+      <image:title>Samsung Galaxy S27 Ultra and S27 Pro batteries pictured in a new certification</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/the-vivo-x500-ultra-could-get-a-downgraded-main-rear-sensor</loc>
     <news:news>
       <news:publication>
@@ -5805,36 +5820,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/03/Pixel_satellite_SOS_hero_image_3.jpg</image:loc>
       <image:title>Google just gave Pixel 9 owners a little more time with this lifesaving feature</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/here8217s-how-google-plans-to-let-you-use-pixel8217s-face-unlock-in-the-dark</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T05:59:58Z</news:publication_date>
-      <news:title>Here&amp;#8217;s how Google plans to let you use Pixel&amp;#8217;s face unlock in the dark</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/google-pixel-11-pro-face-unlock-settings-scaled.jpg</image:loc>
-      <image:title>Here&amp;#8217;s how Google plans to let you use Pixel&amp;#8217;s face unlock in the dark</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/redmi-k100-to-get-a-50mp-rear-camera-ultrasonic-fingerprint-scanner</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T05:45:02Z</news:publication_date>
-      <news:title>Redmi K100 to get a 50MP rear camera, ultrasonic fingerprint scanner</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/redmi-k100-camera-specs/gsmarena_00.jpg</image:loc>
-      <image:title>Redmi K100 to get a 50MP rear camera, ultrasonic fingerprint scanner</image:title>
     </image:image>
   </url>
 </urlset>
