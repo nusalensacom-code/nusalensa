@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/youtube-streams-may-look-better-and-buffer-less-as-soon-as-early-2027</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T17:23:57Z</news:publication_date>
+      <news:title>YouTube streams may look better and buffer less as soon as early 2027</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2022/04/YouTube-on-smartphone-stock-photo-18.jpg</image:loc>
+      <image:title>YouTube streams may look better and buffer less as soon as early 2027</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/capcom-confirms-data-breach-that-affected-117-million-users</loc>
     <news:news>
       <news:publication>
@@ -3855,126 +3870,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/NBA-2K27-Gameplay.jpg</image:loc>
       <image:title>NBA 2K27 drops below $50 on Amazon, saving you $20</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/some-t-mobile-customers-may-finally-get-something-back-for-those-unexpected-price-hikes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T17:52:29Z</news:publication_date>
-      <news:title>Some T-Mobile customers may finally get something back for those unexpected price hikes</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/10/t-mobile-logo-pixel-hero-1-scaled.jpg</image:loc>
-      <image:title>Some T-Mobile customers may finally get something back for those unexpected price hikes</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/amazon-renames-kindle-unlimited-to-kindle-plus-and-expands-access-to-audiobooks</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T17:46:40Z</news:publication_date>
-      <news:title>Amazon renames Kindle Unlimited to Kindle Plus and expands access to audiobooks</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/kindleplus.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Amazon renames Kindle Unlimited to Kindle Plus and expands access to audiobooks</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/elon-musk-says-tesla-will-sell-5-million-cars-by-2030-math-says-otherwise</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T17:42:52Z</news:publication_date>
-      <news:title>Elon Musk says Tesla will sell 5 million cars by 2030 — math says otherwise</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKE001_STK086_Tesla_Robotaxi_3_B.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Elon Musk says Tesla will sell 5 million cars by 2030 — math says otherwise</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/shokz-openrun-pro-headphones-get-a-70-amazon-discount</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T17:34:02Z</news:publication_date>
-      <news:title>Shokz OpenRun Pro headphones get a $70 Amazon discount</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2022/10/shokz-openrun-pro-hero.jpg</image:loc>
-      <image:title>Shokz OpenRun Pro headphones get a $70 Amazon discount</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-updates-more-apps-with-iphone-duo-support</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T17:31:41Z</news:publication_date>
-      <news:title>Apple Updates More Apps With iPhone Duo Support</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/iphone-duo-garageband.jpg</image:loc>
-      <image:title>Apple Updates More Apps With iPhone Duo Support</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/heres-how-many-honor-700-series-models-are-coming</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T17:29:02Z</news:publication_date>
-      <news:title>Here&apos;s how many Honor 700 series models are coming</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/honor-700-rumor/gsmarena_000.jpg</image:loc>
-      <image:title>Here&apos;s how many Honor 700 series models are coming</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/someone-hacked-the-switch-2-by-using-an-old-game-and-ai</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T17:21:31Z</news:publication_date>
-      <news:title>Someone hacked the Switch 2 by using an old game and AI</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
-      <image:title>Someone hacked the Switch 2 by using an old game and AI</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-sheets-is-finally-catching-up-to-excel-with-support-for-more-chart-types</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T17:20:18Z</news:publication_date>
-      <news:title>Google Sheets is finally catching up to Excel with support for more chart types</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2022/02/Google-Sheets-next-to-calculator-stock-photo-1.jpg</image:loc>
-      <image:title>Google Sheets is finally catching up to Excel with support for more chart types</image:title>
     </image:image>
   </url>
 </urlset>
