@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/why-your-ring-camera-is-still-useful-without-a-subscription</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T14:30:00Z</news:publication_date>
+      <news:title>Why your Ring camera is still useful without a subscription</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/why-your-ring-camera-is-still-useful-without-a-subscription/l-intro-1791283019.jpg</image:loc>
+      <image:title>Why your Ring camera is still useful without a subscription</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/m5-macbook-air-returns-to-prime-day-low-with-36200-amazon-discount</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T14:27:30Z</news:publication_date>
+      <news:title>M5 MacBook Air Returns to Prime Day Low With &amp;#36;200 Amazon Discount</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/06/m5-macbook-air-prime-day.jpeg</image:loc>
+      <image:title>M5 MacBook Air Returns to Prime Day Low With &amp;#36;200 Amazon Discount</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone</loc>
     <news:news>
       <news:publication>
@@ -4260,141 +4290,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/apple-sideloading-austrlia/gsmarena_000.jpg</image:loc>
       <image:title>Apple must allow third-party app stores on the iPhone, the Federal Court of Australia rules</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/you-could-just-get-a-refurbished-samsung-phone-on-amazon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T14:55:29Z</news:publication_date>
-      <news:title>You could just get a refurbished Samsung phone on Amazon</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25729868/DSC08724.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>You could just get a refurbished Samsung phone on Amazon</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/cmf-clip-pro-are-perfect-for-runners-especially-with-this-69-deal</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T14:55:00Z</news:publication_date>
-      <news:title>CMF Clip Pro are perfect for runners, especially with this $69 deal</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/wearing-cmf-clip-pro.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>CMF Clip Pro are perfect for runners, especially with this $69 deal</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/coolflys-solar-powered-aura-smart-bird-feeder-is-nearly-50-percent-off</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T14:41:02Z</news:publication_date>
-      <news:title>Coolfly’s solar-powered Aura Smart Bird Feeder is nearly 50 percent off</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Coofly-Aura-Smart-Bird-Feeder.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Coolfly’s solar-powered Aura Smart Bird Feeder is nearly 50 percent off</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-will-label-apps-039made-for-iphone-duo039-in-app-store</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T14:40:36Z</news:publication_date>
-      <news:title>Apple Will Label Apps &amp;#039;Made for iPhone Duo&amp;#039; in App Store</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/Lyft-iPhone-Duo.jpg</image:loc>
-      <image:title>Apple Will Label Apps &amp;#039;Made for iPhone Duo&amp;#039; in App Store</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/1password-will-let-ai-agents-use-your-passwords-without-seeing-them</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T14:40:00Z</news:publication_date>
-      <news:title>1Password will let AI agents use your passwords without seeing them</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/1password-ai-agents.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1280</image:loc>
-      <image:title>1Password will let AI agents use your passwords without seeing them</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/anker-nano-13-in-1-usb-c-dock-gets-a-20-amazon-price-drop</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T14:37:01Z</news:publication_date>
-      <news:title>Anker Nano 13-in-1 USB-C dock gets a 20% Amazon price drop</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Anker-Nano-Laptop-Docking-Station-Press-Image.jpg</image:loc>
-      <image:title>Anker Nano 13-in-1 USB-C dock gets a 20% Amazon price drop</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/coolpads-new-150-android-phone-has-a-wider-screen-like-the-iphone-duo-but-doesnt-fold</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T14:24:49Z</news:publication_date>
-      <news:title>Coolpad’s new $150 Android phone has a wider screen like the iPhone Duo, but doesn’t fold</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/coolpad1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Coolpad’s new $150 Android phone has a wider screen like the iPhone Duo, but doesn’t fold</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/sauron-recruits-his-future-ringwraiths-in-rings-of-power-s3-trailer</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T14:22:31Z</news:publication_date>
-      <news:title>Sauron recruits his future Ringwraiths in Rings of Power S3 trailer</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/sauron-1152x648-1792610020.jpg</image:loc>
-      <image:title>Sauron recruits his future Ringwraiths in Rings of Power S3 trailer</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-search-just-lost-a-handy-research-feature-but-gemini-still-has-it</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T14:20:31Z</news:publication_date>
-      <news:title>Google Search just lost a handy research feature, but Gemini still has it</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/07/Google-AI-mode-app-scaled.jpg</image:loc>
-      <image:title>Google Search just lost a handy research feature, but Gemini still has it</image:title>
     </image:image>
   </url>
 </urlset>
