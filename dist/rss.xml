@@ -5,8 +5,35 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 24 Oct 2026 13:08:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 13:56:11 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to get better iPhone battery life without closing any apps</title>
+      <link>https://nusalensa.com/phones/how-to-get-better-iphone-battery-life-without-closing-any-apps</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/how-to-get-better-iphone-battery-life-without-closing-any-apps</guid>
+      <description>Apple has added a host of battery-management features to the iPhone over the years.</description>
+      <category>Smartphones</category>
+      <pubDate>Sat, 24 Oct 2026 13:45:00 GMT</pubDate>
+      <enclosure url="https://www.engadget.com/img/gallery/how-to-get-better-iphone-battery-life-without-closing-any-apps/l-intro-1792433821.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>The beneficial purpose of &apos;IQ&apos; on your Anker chargers</title>
+      <link>https://nusalensa.com/technology/the-beneficial-purpose-of-iq-on-your-anker-chargers</link>
+      <guid isPermaLink="true">https://nusalensa.com/technology/the-beneficial-purpose-of-iq-on-your-anker-chargers</guid>
+      <description>Anker&apos;s PowerIQ technology helps identify and charge your devices more efficiently.</description>
+      <category>Technology</category>
+      <pubDate>Sat, 24 Oct 2026 13:30:00 GMT</pubDate>
+      <enclosure url="https://www.engadget.com/img/gallery/the-beneficial-purpose-of-iq-on-your-anker-chargers/l-intro-1792432015.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>This clever USB-C cable doubles as a stand for your phone [Gallery]</title>
+      <link>https://nusalensa.com/phones/this-clever-usb-c-cable-doubles-as-a-stand-for-your-phone-gallery</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/this-clever-usb-c-cable-doubles-as-a-stand-for-your-phone-gallery</guid>
+      <description>One of my favorite things about the rise of magnetic wireless charging has been the prevalence of chargers that hold my phone upright on my nightstand. But, whe</description>
+      <category>Smartphones</category>
+      <pubDate>Sat, 24 Oct 2026 13:30:00 GMT</pubDate>
+      <enclosure url="https://9to5google.com/wp-content/uploads/sites/4/2026/10/statik-powerstand-7.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Top Stories: Apple &amp;#039;Pro and Tell&amp;#039; Debut, iPhone Duo Launch, and More</title>
       <link>https://nusalensa.com/phones/top-stories-apple-039pro-and-tell039-debut-iphone-duo-launch-and-more</link>
@@ -249,33 +276,6 @@
       <category>Smartphones</category>
       <pubDate>Fri, 23 Oct 2026 23:22:55 GMT</pubDate>
       <enclosure url="https://images.macrumors.com/article-new/2026/10/tiny-computer-iphone-duo.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>NASA updates lander plans for Moon landings, finally solves long-festering Orion issue</title>
-      <link>https://nusalensa.com/technology/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue</guid>
-      <description>&quot;We have the mandate, we have the resources, and the support from our stakeholders.&quot;</description>
-      <category>Technology</category>
-      <pubDate>Fri, 23 Oct 2026 22:48:25 GMT</pubDate>
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/centaur-1002x648.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>OpenAI says it&apos;s cutting off internet access for frontier model training</title>
-      <link>https://nusalensa.com/technology/openai-says-its-cutting-off-internet-access-for-frontier-model-training</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/openai-says-its-cutting-off-internet-access-for-frontier-model-training</guid>
-      <description>OpenAI says it will no longer allow frontier models to access the internet during training in an effort to put in new safety measures after a series of incident</description>
-      <category>Technology</category>
-      <pubDate>Fri, 23 Oct 2026 22:37:02 GMT</pubDate>
-      <enclosure url="https://www.engadget.com/img/gallery/openai-says-its-cutting-off-internet-access-for-frontier-model-training/l-intro-1792794862.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Gemini for Android rolls out side panel and settings redesign</title>
-      <link>https://nusalensa.com/phones/gemini-for-android-rolls-out-side-panel-and-settings-redesign</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/gemini-for-android-rolls-out-side-panel-and-settings-redesign</guid>
-      <description>Following the Spark-to-Task update , the Gemini app has now rolled out redesigns of the side panel and settings on Android. more…</description>
-      <category>Smartphones</category>
-      <pubDate>Fri, 23 Oct 2026 22:02:00 GMT</pubDate>
-      <enclosure url="https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-2.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
