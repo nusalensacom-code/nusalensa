@@ -2,6 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/the-pros-and-cons-of-using-an-esim-over-a-physical-sim-card</loc>
+    <lastmod>2026-10-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-an-esim-over-a-physical-sim-card/l-intro-1792520369.jpg</image:loc>
+      <image:title>The pros and cons of using an eSIM over a physical SIM card</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/cmf-speaker-s-unboxing-and-hands-on</loc>
+    <lastmod>2026-10-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/cmf-speaker-s-hands-on/gsmarena_000.jpg</image:loc>
+      <image:title>CMF Speaker S unboxing and hands-on</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/blue-planet-iii-is-keeping-the-rough-edges-in-the-age-of-ai</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>daily</changefreq>
