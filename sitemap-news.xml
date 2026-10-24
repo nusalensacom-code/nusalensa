@@ -3,6 +3,81 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/top-stories-apple-039pro-and-tell039-debut-iphone-duo-launch-and-more</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T13:00:14Z</news:publication_date>
+      <news:title>Top Stories: Apple &amp;#039;Pro and Tell&amp;#039; Debut, iPhone Duo Launch, and More</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/top_stories_2026-10-24.jpg</image:loc>
+      <image:title>Top Stories: Apple &amp;#039;Pro and Tell&amp;#039; Debut, iPhone Duo Launch, and More</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/which-services-can-you-safely-disable-to-improve-pc-gaming</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T13:00:00Z</news:publication_date>
+      <news:title>Which services can you safely disable to improve PC gaming?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/which-services-can-you-safely-disable-to-improve-pc-gaming/l-intro-1792431811.jpg</image:loc>
+      <image:title>Which services can you safely disable to improve PC gaming?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/how-to-improve-your-pcs-airflow-for-better-cooling</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T12:45:00Z</news:publication_date>
+      <news:title>How to improve your PC&apos;s airflow for better cooling</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/how-to-improve-your-pcs-airflow-for-better-cooling/l-intro-1792426812.jpg</image:loc>
+      <image:title>How to improve your PC&apos;s airflow for better cooling</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/how-long-is-too-long-for-an-hdmi-cable</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T12:30:00Z</news:publication_date>
+      <news:title>How long is too long for an HDMI cable?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/how-long-is-too-long-for-an-hdmi-cable/l-intro-1792426463.jpg</image:loc>
+      <image:title>How long is too long for an HDMI cable?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/lee-chang-dong-ponders-the-ethics-of-the-camera</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T12:30:00Z</news:publication_date>
+      <news:title>Lee Chang Dong ponders the ethics of the camera</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Possible-Love_NYFF64_03.jpeg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Lee Chang Dong ponders the ethics of the camera</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/father-of-the-playstation-ken-kutaragi-sides-with-sony-on-the-physical-discs-debate</loc>
     <news:news>
       <news:publication>
@@ -93,6 +168,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/technology/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T11:50:28Z</news:publication_date>
+      <news:title>A 1,000-mile cloud on Mars may reveal physics never seen in nature</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/marscloud-1152x648.jpg</image:loc>
+      <image:title>A 1,000-mile cloud on Mars may reveal physics never seen in nature</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/vivo-s70-tipped-to-launch-soon-with-teleconverter-support</loc>
     <news:news>
       <news:publication>
@@ -135,6 +225,21 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/ai-hub-ai-app-1.jpg</image:loc>
       <image:title>I dumped 8 popular Android apps for these better open-source alternatives</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/ice-sheet-expansion-may-have-started-2000-years-ago-but-we-canceled-that</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T11:00:09Z</news:publication_date>
+      <news:title>Ice sheet expansion may have started 2,000 years ago, but we canceled that</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1458824614-1152x648.jpg</image:loc>
+      <image:title>Ice sheet expansion may have started 2,000 years ago, but we canceled that</image:title>
     </image:image>
   </url>
   <url>
@@ -4395,201 +4500,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/atarivcs.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>The Atari VCS saga will come to an end next year when its software store closes</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-reveals-more-than-50-apps-that-will-be-updated-for-iphone-duo</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T13:04:37Z</news:publication_date>
-      <news:title>Apple Reveals More Than 50 Apps That Will Be Updated for iPhone Duo</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Apps.jpg</image:loc>
-      <image:title>Apple Reveals More Than 50 Apps That Will Be Updated for iPhone Duo</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/forget-malaise-20-gm-says-its-still-all-in-on-evs-and-autonomy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T13:04:32Z</news:publication_date>
-      <news:title>Forget &quot;Malaise 2.0,&quot; GM says it&apos;s still all-in on EVs and autonomy</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/OnStar-AI-Assistant-1152x648.jpg</image:loc>
-      <image:title>Forget &quot;Malaise 2.0,&quot; GM says it&apos;s still all-in on EVs and autonomy</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/birdbuddys-budget-feeder-foiled-my-squirrels</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T13:00:00Z</news:publication_date>
-      <news:title>Birdbuddy’s budget feeder foiled my squirrels</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6206-1.jpeg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Birdbuddy’s budget feeder foiled my squirrels</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/googlebooks-just-arent-ready</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T13:00:00Z</news:publication_date>
-      <news:title>Googlebooks just aren’t ready</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268755_Googlebooks_Lenovo_HP_Acer_laptop_review_ADiBenedetto_0001.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Googlebooks just aren’t ready</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/birdbuddys-nook-is-a-compact-smart-bird-feeder-for-small-spaces-and-budgets</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T13:00:00Z</news:publication_date>
-      <news:title>Birdbuddy’s Nook is a compact smart bird feeder for small spaces and budgets</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/birdbuddy1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Birdbuddy’s Nook is a compact smart bird feeder for small spaces and budgets</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/insta360-launches-a-cheaper-version-of-its-wireless-mics-with-color-screens</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T13:00:00Z</news:publication_date>
-      <news:title>Insta360 launches a cheaper version of its wireless mics with color screens</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/insta360_1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Insta360 launches a cheaper version of its wireless mics with color screens</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/rokus-pro-series-lx-oled-tvs-are-now-available-on-amazon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T13:00:00Z</news:publication_date>
-      <news:title>Roku&apos;s Pro Series LX OLED TVs are now available on Amazon</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/rokus-pro-series-lx-oled-tvs-are-now-available-on-amazon/l-intro-1792665032.jpg</image:loc>
-      <image:title>Roku&apos;s Pro Series LX OLED TVs are now available on Amazon</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/insta360-mic-review-a-midrange-mic-kit-thats-anything-but-boring</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T13:00:00Z</news:publication_date>
-      <news:title>Insta360 Mic review: A midrange mic kit that&apos;s anything but boring</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/insta360-mic-review-a-midrange-mic-kit-thats-anything-but-boring/l-intro-1792526511.jpg</image:loc>
-      <image:title>Insta360 Mic review: A midrange mic kit that&apos;s anything but boring</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/insta360-adds-expandable-storage-to-its-new-e-ink-wireless-mics</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T13:00:00Z</news:publication_date>
-      <news:title>Insta360 adds expandable storage to its new e-ink wireless mics</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/insta360-adds-expandable-storage-to-its-new-e-ink-wireless-mics/l-intro-1791804300.jpg</image:loc>
-      <image:title>Insta360 adds expandable storage to its new e-ink wireless mics</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/1password-will-let-you-hand-your-data-security-over-to-your-preferred-ai-agent</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T13:00:00Z</news:publication_date>
-      <news:title>1Password will let you hand your data security over to your preferred AI agent</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/1password-opens-up-ai-agents-muse-dots-grok/l-intro-1792675178.jpg</image:loc>
-      <image:title>1Password will let you hand your data security over to your preferred AI agent</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/wyze-bulb-cam-upgraded-with-better-camera-360-degree-rotation-and-color-lights</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T13:00:00Z</news:publication_date>
-      <news:title>Wyze Bulb Cam upgraded with better camera, 360-degree rotation, and color lights</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/wyze-bulb-cam-pan-color-2.png?w=1600</image:loc>
-      <image:title>Wyze Bulb Cam upgraded with better camera, 360-degree rotation, and color lights</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/vivo-y600-to-debut-next-week-with-a-10000mah-battery</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T12:31:02Z</news:publication_date>
-      <news:title>vivo Y600 to debut next week with a 10,000mAh battery</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/vivo-y600-china-launch/gsmarena_00.jpg</image:loc>
-      <image:title>vivo Y600 to debut next week with a 10,000mAh battery</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/ai-agents-are-ready-to-shop-some-retailers-are-wary</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T12:30:00Z</news:publication_date>
-      <news:title>AI agents are ready to shop. Some retailers are wary.</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_A.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>AI agents are ready to shop. Some retailers are wary.</image:title>
     </image:image>
   </url>
 </urlset>
