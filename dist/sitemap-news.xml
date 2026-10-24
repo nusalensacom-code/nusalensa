@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/i-got-gemini-and-chatgpt-to-argue-about-which-is-the-best-phone-and-the-results-are-in</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T09:00:24Z</news:publication_date>
+      <news:title>I got Gemini and ChatGPT to argue about which is the best phone, and the results are in</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/10/android-phones-holding-googe-samsung-oneplus-hero-scaled.jpg</image:loc>
+      <image:title>I got Gemini and ChatGPT to argue about which is the best phone, and the results are in</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/deals-the-oppo-find-x10-series-and-the-iphone-duo-launch-here-are-some-alternatives-too</loc>
     <news:news>
       <news:publication>
@@ -4695,51 +4710,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/08/Google-Pixel-9-in-all-four-colors-standing-upright-on-a-table-in-a-row-with-the-Peony-color-at-the-front.jpg</image:loc>
       <image:title>Google&amp;#8217;s refurbished Pixel 9 might be the smartest phone purchase of 2026</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/new-evidence-points-to-the-vivo-x500-e-being-a-rebranded-vivo-v80</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T09:23:03Z</news:publication_date>
-      <news:title>New evidence points to the vivo X500 E being a rebranded vivo V80</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/vivo-x500-e-cases-amazon/gsmarena_000.jpg</image:loc>
-      <image:title>New evidence points to the vivo X500 E being a rebranded vivo V80</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/survey-shows-dropping-assistant-for-gemini-was-one-of-google8217s-biggest-blunders</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T09:15:17Z</news:publication_date>
-      <news:title>Survey shows dropping Assistant for Gemini was one of Google&amp;#8217;s biggest blunders</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/android-auto-gemini-ask-gemini-command-1.jpg</image:loc>
-      <image:title>Survey shows dropping Assistant for Gemini was one of Google&amp;#8217;s biggest blunders</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/i-replaced-my-reminders-app-with-google-messages-here8217s-why-and-how-to-set-it-up</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T09:00:30Z</news:publication_date>
-      <news:title>I replaced my reminders app with Google Messages — here&amp;#8217;s why (and how to set it up)</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Two-Samsung-Galaxy-phones-showing-Reminders-and-Google-Messages-apps-scaled.jpg</image:loc>
-      <image:title>I replaced my reminders app with Google Messages — here&amp;#8217;s why (and how to set it up)</image:title>
     </image:image>
   </url>
 </urlset>
