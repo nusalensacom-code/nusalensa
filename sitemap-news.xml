@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/i-compared-this-year8217s-two-best-camera-phones-to-crown-an-ultimate-champion</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T09:30:02Z</news:publication_date>
+      <news:title>I compared this year&amp;#8217;s two best camera phones to crown an ultimate champion</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Google-Pixel-11-Pro-XL-vs-OPPO-Find-X10-Pro-Max-cameras.jpg</image:loc>
+      <image:title>I compared this year&amp;#8217;s two best camera phones to crown an ultimate champion</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/i-got-gemini-and-chatgpt-to-argue-about-which-is-the-best-phone-and-the-results-are-in</loc>
     <news:news>
       <news:publication>
@@ -4680,36 +4695,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/pebble-time-2-custom-app-home-screen-scaled.jpg</image:loc>
       <image:title>I vibe-coded a Pebble Time 2 app, and I learned some tough lessons</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-isn8217t-ruling-out-this-major-pixel-watch-feature-for-the-fitbit-edge</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T09:56:05Z</news:publication_date>
-      <news:title>Google isn&amp;#8217;t ruling out this major Pixel Watch feature for the Fitbit Edge</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/fitbit-edge-hands-on-10-scaled.jpg</image:loc>
-      <image:title>Google isn&amp;#8217;t ruling out this major Pixel Watch feature for the Fitbit Edge</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google8217s-refurbished-pixel-9-might-be-the-smartest-phone-purchase-of-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T09:30:58Z</news:publication_date>
-      <news:title>Google&amp;#8217;s refurbished Pixel 9 might be the smartest phone purchase of 2026</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/08/Google-Pixel-9-in-all-four-colors-standing-upright-on-a-table-in-a-row-with-the-Peony-color-at-the-front.jpg</image:loc>
-      <image:title>Google&amp;#8217;s refurbished Pixel 9 might be the smartest phone purchase of 2026</image:title>
     </image:image>
   </url>
 </urlset>
