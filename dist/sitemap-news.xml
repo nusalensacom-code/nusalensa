@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/what-are-the-different-types-of-digital-wallets</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T22:30:00Z</news:publication_date>
+      <news:title>What are the different types of digital wallets?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/what-are-the-different-types-of-digital-wallets/l-intro-1792568656.jpg</image:loc>
+      <image:title>What are the different types of digital wallets?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/the-pros-and-cons-of-using-an-esim-over-a-physical-sim-card</loc>
     <news:news>
       <news:publication>
@@ -3030,36 +3045,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23516635/adbenedetto_220508_5192_0047.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>The next-gen Xbox won’t cost you $1,800. It can’t. Can it?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/switch-2-security-takes-a-hit-as-hackers-unlock-homebrew-access</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T22:25:33Z</news:publication_date>
-      <news:title>Switch 2 security takes a hit as hackers unlock homebrew access</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/switch2hack-1152x648-1792704912.png</image:loc>
-      <image:title>Switch 2 security takes a hit as hackers unlock homebrew access</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iphone-duo-launch-begins-as-first-orders-reach-customers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T22:21:59Z</news:publication_date>
-      <news:title>iPhone Duo Launch Begins as First Orders Reach Customers</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/boardiesboi-duo-australia.jpg</image:loc>
-      <image:title>iPhone Duo Launch Begins as First Orders Reach Customers</image:title>
     </image:image>
   </url>
 </urlset>
