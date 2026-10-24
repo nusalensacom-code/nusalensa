@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/5-streaming-boxes-you-should-buy-instead-of-the-new-apple-tv-4k</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T10:00:49Z</news:publication_date>
+      <news:title>5 streaming boxes you should buy instead of the new Apple TV 4K</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/walmart-onn-4k-pro-2026-streaming-box-hands-on-8-scaled.jpg</image:loc>
+      <image:title>5 streaming boxes you should buy instead of the new Apple TV 4K</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/i-compared-this-year8217s-two-best-camera-phones-to-crown-an-ultimate-champion</loc>
     <news:news>
       <news:publication>
@@ -4680,21 +4695,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/bose-acquires-skullcandy/gsmarena_00.jpg</image:loc>
       <image:title>Bose acquires Skullcandy</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/i-vibe-coded-a-pebble-time-2-app-and-i-learned-some-tough-lessons</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T10:00:33Z</news:publication_date>
-      <news:title>I vibe-coded a Pebble Time 2 app, and I learned some tough lessons</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/pebble-time-2-custom-app-home-screen-scaled.jpg</image:loc>
-      <image:title>I vibe-coded a Pebble Time 2 app, and I learned some tough lessons</image:title>
     </image:image>
   </url>
 </urlset>
