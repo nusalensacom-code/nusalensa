@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/apple-pushes-back-on-doj-request-for-more-evidence</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T04:02:07Z</news:publication_date>
+      <news:title>Apple Pushes Back on DOJ Request for More Evidence</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2024/03/Apple-vs-DOJ-Feature.jpg</image:loc>
+      <image:title>Apple Pushes Back on DOJ Request for More Evidence</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/upcoming-realme-17-pro-series-phones-key-specs-leak</loc>
     <news:news>
       <news:publication>
@@ -4980,36 +4995,6 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/10/homeview-calendar.jpg</image:loc>
       <image:title>Simplicity and Siri AI Are HomeView&amp;#039;s Killer Features, Apple Says</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iqoo-16r-receives-its-first-certification-ahead-of-release</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T04:02:02Z</news:publication_date>
-      <news:title>iQOO 16R receives its first certification ahead of release</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/iqoo-16r-certified/gsmarena_000.jpg</image:loc>
-      <image:title>iQOO 16R receives its first certification ahead of release</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google8217s-gemini-intelligence-has-a-new-android-competitor-and-it8217s-ready-to-get-things-done</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T03:34:55Z</news:publication_date>
-      <news:title>Google&amp;#8217;s Gemini Intelligence has a new Android competitor, and it&amp;#8217;s ready to get things done</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Claude-Duet.jpg</image:loc>
-      <image:title>Google&amp;#8217;s Gemini Intelligence has a new Android competitor, and it&amp;#8217;s ready to get things done</image:title>
     </image:image>
   </url>
 </urlset>
