@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/common-mistakes-you-should-avoid-when-setting-up-your-home-network</loc>
+    <lastmod>2026-10-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/common-mistakes-you-should-avoid-when-setting-up-your-home-network/l-intro-1792590096.jpg</image:loc>
+      <image:title>Common mistakes you should avoid when setting up your home network</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/why-your-ev-battery-still-loses-charge-while-its-parked</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>daily</changefreq>

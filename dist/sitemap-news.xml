@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/common-mistakes-you-should-avoid-when-setting-up-your-home-network</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T23:30:00Z</news:publication_date>
+      <news:title>Common mistakes you should avoid when setting up your home network</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/common-mistakes-you-should-avoid-when-setting-up-your-home-network/l-intro-1792590096.jpg</image:loc>
+      <image:title>Common mistakes you should avoid when setting up your home network</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/why-your-ev-battery-still-loses-charge-while-its-parked</loc>
     <news:news>
       <news:publication>
