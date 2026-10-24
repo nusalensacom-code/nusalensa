@@ -2,6 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/iphone-duo-teardowns-reveal-two-batteries-and-more</loc>
+    <lastmod>2026-10-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Outer-Display-Hand-scaled.jpg</image:loc>
+      <image:title>iPhone Duo Teardowns Reveal Two Batteries and More</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/oneplus-shows-the-ace-7-and-ace-7-pro-in-all-colors</loc>
+    <lastmod>2026-10-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/oneplus-ace-7-ace-7-pro-all-colors/gsmarena_000.jpg</image:loc>
+      <image:title>OnePlus shows the Ace 7 and Ace 7 Pro in all colors</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/heres-how-to-test-a-cr2032-battery-to-see-if-its-good</loc>
+    <lastmod>2026-10-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/heres-how-to-test-a-cr2032-battery-to-see-if-its-good/l-intro-1792489885.jpg</image:loc>
+      <image:title>Here&apos;s how to test a CR2032 battery to see if it&apos;s good</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/why-your-ring-camera-is-still-useful-without-a-subscription</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>daily</changefreq>

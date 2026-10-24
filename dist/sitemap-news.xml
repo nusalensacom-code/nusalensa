@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/iphone-duo-teardowns-reveal-two-batteries-and-more</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T15:02:56Z</news:publication_date>
+      <news:title>iPhone Duo Teardowns Reveal Two Batteries and More</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Outer-Display-Hand-scaled.jpg</image:loc>
+      <image:title>iPhone Duo Teardowns Reveal Two Batteries and More</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/oneplus-shows-the-ace-7-and-ace-7-pro-in-all-colors</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T15:01:02Z</news:publication_date>
+      <news:title>OnePlus shows the Ace 7 and Ace 7 Pro in all colors</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/oneplus-ace-7-ace-7-pro-all-colors/gsmarena_000.jpg</image:loc>
+      <image:title>OnePlus shows the Ace 7 and Ace 7 Pro in all colors</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/heres-how-to-test-a-cr2032-battery-to-see-if-its-good</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T15:00:00Z</news:publication_date>
+      <news:title>Here&apos;s how to test a CR2032 battery to see if it&apos;s good</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/heres-how-to-test-a-cr2032-battery-to-see-if-its-good/l-intro-1792489885.jpg</image:loc>
+      <image:title>Here&apos;s how to test a CR2032 battery to see if it&apos;s good</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/why-your-ring-camera-is-still-useful-without-a-subscription</loc>
     <news:news>
       <news:publication>
@@ -4215,81 +4260,6 @@
     <image:image>
       <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2022/03/internet-routing-1000x648.jpeg</image:loc>
       <image:title>Hackers got a four-day head start on epic PHP2Shell vulnerability</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/apples-magic-keyboards-for-ipad-are-about-half-off-with-a-small-catch</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T15:14:20Z</news:publication_date>
-      <news:title>Apple’s Magic Keyboards for iPad are about half off, with a small catch</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25446222/247111_iPad_Pro_2024_AKrales_0615.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Apple’s Magic Keyboards for iPad are about half off, with a small catch</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/php-the-three-little-letters-wreaking-havoc-across-the-web</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T15:12:27Z</news:publication_date>
-      <news:title>PHP: The three little letters wreaking havoc across the web</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/VRG_ILLO_STK001_carlo_cadenas_cybersecurity_virus.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>PHP: The three little letters wreaking havoc across the web</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/save-279-on-this-highly-rated-1080p-smart-projector-52-off</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T15:02:30Z</news:publication_date>
-      <news:title>Save $279 on this highly-rated 1080p smart projector (52% off)</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Jimveo-J62-Pro-Projector-Press-Image.jpg</image:loc>
-      <image:title>Save $279 on this highly-rated 1080p smart projector (52% off)</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/youtube-music-is-now-available-on-garmin8217s-latest-fenix-watches</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T14:58:21Z</news:publication_date>
-      <news:title>YouTube Music is now available on Garmin&amp;#8217;s latest Fenix watches</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/06/Garmin-YouTube-Music-App-scaled.jpg</image:loc>
-      <image:title>YouTube Music is now available on Garmin&amp;#8217;s latest Fenix watches</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-must-allow-third-party-app-stores-on-the-iphone-the-federal-court-of-australia-rules</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T14:58:01Z</news:publication_date>
-      <news:title>Apple must allow third-party app stores on the iPhone, the Federal Court of Australia rules</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/apple-sideloading-austrlia/gsmarena_000.jpg</image:loc>
-      <image:title>Apple must allow third-party app stores on the iPhone, the Federal Court of Australia rules</image:title>
     </image:image>
   </url>
 </urlset>
