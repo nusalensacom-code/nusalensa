@@ -468,6 +468,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://nusalensa.com/technology/capcom-confirms-data-breach-that-affected-117-million-users</loc>
+    <lastmod>2026-10-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/capcom-confirms-data-breach-that-affected-11-7-million-users/l-intro-1792859616.jpg</image:loc>
+      <image:title>Capcom confirms data breach that affected 11.7 million users</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/theres-a-chance-your-playstation-5-is-plugged-into-the-wrong-hdmi-port</loc>
+    <lastmod>2026-10-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/theres-a-chance-your-playstation-5-is-plugged-into-the-wrong-hdmi-port/l-intro-1792510070.jpg</image:loc>
+      <image:title>There&apos;s a chance your PlayStation 5 is plugged into the wrong HDMI port</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/the-uk-is-investing-134-million-into-an-ai-biosecurity-lab</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>daily</changefreq>

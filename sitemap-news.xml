@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/capcom-confirms-data-breach-that-affected-117-million-users</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T16:40:45Z</news:publication_date>
+      <news:title>Capcom confirms data breach that affected 11.7 million users</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/capcom-confirms-data-breach-that-affected-11-7-million-users/l-intro-1792859616.jpg</image:loc>
+      <image:title>Capcom confirms data breach that affected 11.7 million users</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/theres-a-chance-your-playstation-5-is-plugged-into-the-wrong-hdmi-port</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T16:30:00Z</news:publication_date>
+      <news:title>There&apos;s a chance your PlayStation 5 is plugged into the wrong HDMI port</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/theres-a-chance-your-playstation-5-is-plugged-into-the-wrong-hdmi-port/l-intro-1792510070.jpg</image:loc>
+      <image:title>There&apos;s a chance your PlayStation 5 is plugged into the wrong HDMI port</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/the-uk-is-investing-134-million-into-an-ai-biosecurity-lab</loc>
     <news:news>
       <news:publication>
@@ -3990,141 +4020,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-12.56.25-PM.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Arc browser is shutting down</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-disastrous-php-vulnerabilities-were-exploited-days-before-the-patch</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T16:49:48Z</news:publication_date>
-      <news:title>The disastrous PHP vulnerabilities were exploited days before the patch</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318435/akrales_220309_4977_0232.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>The disastrous PHP vulnerabilities were exploited days before the patch</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/deal-drops-the-samsung-galaxy-tab-s10-fe-to-its-lowest-price-in-months</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T16:48:15Z</news:publication_date>
-      <news:title>Deal drops the Samsung Galaxy Tab S10 FE to its lowest price in months</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/05/Samsung-Galaxy-Tab-S10-FE-with-S-Pen.jpg</image:loc>
-      <image:title>Deal drops the Samsung Galaxy Tab S10 FE to its lowest price in months</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/someone-built-iphone-duo8217s-tent-mode-for-android-foldables-but-made-it-even-better</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T16:45:00Z</news:publication_date>
-      <news:title>Someone built iPhone Duo&amp;#8217;s tent mode for Android foldables, but made it even better</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/galaxy-z-fold-8-standby-copy-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Someone built iPhone Duo&amp;#8217;s tent mode for Android foldables, but made it even better</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iphone-duo-isn8217t-even-out-yet-and-it-already-has-better-foldable-apps-than-your-android</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T16:43:26Z</news:publication_date>
-      <news:title>iPhone Duo isn&amp;#8217;t even out yet and it already has better foldable apps than your Android</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-iPhone-Duo-Hands-On-Outer-Display-Cover-Display-in-hand.jpg</image:loc>
-      <image:title>iPhone Duo isn&amp;#8217;t even out yet and it already has better foldable apps than your Android</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/us-backed-vaccine-trial-on-babies-canceled-after-international-outcry</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T16:37:00Z</news:publication_date>
-      <news:title>US-backed vaccine trial on babies canceled after international outcry</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-629400903-1152x648.jpg</image:loc>
-      <image:title>US-backed vaccine trial on babies canceled after international outcry</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/put-down-your-pitchforks-google8217s-not-hiding-youtube8217s-dislike-button</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T16:30:33Z</news:publication_date>
-      <news:title>Put down your pitchforks — Google&amp;#8217;s not hiding YouTube&amp;#8217;s dislike button</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2022/04/YouTube-on-smartphone-stock-photo-6.jpg</image:loc>
-      <image:title>Put down your pitchforks — Google&amp;#8217;s not hiding YouTube&amp;#8217;s dislike button</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/android-handhelds-are-running-ps5-games-now</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T16:30:30Z</news:publication_date>
-      <news:title>Android handhelds are running PS5 games now</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/07/Playstation-controller.jpg</image:loc>
-      <image:title>Android handhelds are running PS5 games now</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/sundar-pichai-allegedly-draws-the-line-at-oceans</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T16:22:50Z</news:publication_date>
-      <news:title>Sundar Pichai (allegedly) draws the line at oceans</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/sundar-pichai-allegedly-draws-the-line-at-oceans/l-intro-1792685934.jpg</image:loc>
-      <image:title>Sundar Pichai (allegedly) draws the line at oceans</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/score-91-off-the-tp-link-deco-7-be5000-whole-home-wi-fi-7-system</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T16:21:31Z</news:publication_date>
-      <news:title>Score $91 off the TP-Link Deco 7 BE5000 whole-home Wi-Fi 7 system</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/TP-Link-Deco-7-BE5000-Wi-Fi-7-system-Press-Image.jpg</image:loc>
-      <image:title>Score $91 off the TP-Link Deco 7 BE5000 whole-home Wi-Fi 7 system</image:title>
     </image:image>
   </url>
 </urlset>
