@@ -468,6 +468,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/apple-closes-french-stores-ahead-of-further-protests</loc>
+    <lastmod>2026-10-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/Apple-Champs-Elysees-Paris-France.jpg</image:loc>
+      <image:title>Apple Closes French Stores Ahead of Further Protests</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/redmagic-reveals-when-its-phones-are-getting-redmagic-os-12-based-on-android-17</loc>
+    <lastmod>2026-10-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/redmagic-android-17-rollout-schedule/gsmarena_000.jpg</image:loc>
+      <image:title>RedMagic reveals when its phones are getting RedMagic OS 12 based on Android 17</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/apple-pushes-back-on-doj-request-for-more-evidence</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>daily</changefreq>

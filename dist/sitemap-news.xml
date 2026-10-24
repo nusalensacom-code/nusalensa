@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/apple-closes-french-stores-ahead-of-further-protests</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T04:51:16Z</news:publication_date>
+      <news:title>Apple Closes French Stores Ahead of Further Protests</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/Apple-Champs-Elysees-Paris-France.jpg</image:loc>
+      <image:title>Apple Closes French Stores Ahead of Further Protests</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/redmagic-reveals-when-its-phones-are-getting-redmagic-os-12-based-on-android-17</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T04:31:02Z</news:publication_date>
+      <news:title>RedMagic reveals when its phones are getting RedMagic OS 12 based on Android 17</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/redmagic-android-17-rollout-schedule/gsmarena_000.jpg</image:loc>
+      <image:title>RedMagic reveals when its phones are getting RedMagic OS 12 based on Android 17</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/apple-pushes-back-on-doj-request-for-more-evidence</loc>
     <news:news>
       <news:publication>
@@ -4935,66 +4965,6 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2023/04/Apple-Environment-Feature.jpg</image:loc>
       <image:title>Apple Suppliers Face Hurdles Cutting Circuit Board Emissions</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/things-updated-for-iphone-duo-with-adaptive-layout</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T04:52:10Z</news:publication_date>
-      <news:title>Things Updated for iPhone Duo With Adaptive Layout</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/things-3-for-iphone-duo.jpg</image:loc>
-      <image:title>Things Updated for iPhone Duo With Adaptive Layout</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-docs-on-android-is-getting-a-gemini-live-like-upgrade-for-more-users</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T04:47:59Z</news:publication_date>
-      <news:title>Google Docs on Android is getting a Gemini Live-like upgrade for more users</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2022/02/Google-Docs-logo-on-smartphone-next-to-office-gear-stock-photo-4.jpg</image:loc>
-      <image:title>Google Docs on Android is getting a Gemini Live-like upgrade for more users</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/skullcandy8217s-got-a-new-8216bose8217-to-answer-to</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T04:41:14Z</news:publication_date>
-      <news:title>Skullcandy&amp;#8217;s got a new &amp;#8216;Bose&amp;#8217; to answer to</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/12/Bose-QuietComfort-Ultra-2nd-Gen-next-to-other-headphones.jpg</image:loc>
-      <image:title>Skullcandy&amp;#8217;s got a new &amp;#8216;Bose&amp;#8217; to answer to</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/simplicity-and-siri-ai-are-homeview039s-killer-features-apple-says</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T04:28:25Z</news:publication_date>
-      <news:title>Simplicity and Siri AI Are HomeView&amp;#039;s Killer Features, Apple Says</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/homeview-calendar.jpg</image:loc>
-      <image:title>Simplicity and Siri AI Are HomeView&amp;#039;s Killer Features, Apple Says</image:title>
     </image:image>
   </url>
 </urlset>
