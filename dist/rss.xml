@@ -5,8 +5,17 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 24 Oct 2026 00:28:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 01:20:13 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Upcoming Realme 17 Pro series phone&apos;s key specs leak</title>
+      <link>https://nusalensa.com/phones/upcoming-realme-17-pro-series-phones-key-specs-leak</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/upcoming-realme-17-pro-series-phones-key-specs-leak</guid>
+      <description>Realme launched the Realme 16 Pro+ and the 16 Pro back in January, and now the first details about their successors are starting to show up. Today, a tipster on</description>
+      <category>Smartphones</category>
+      <pubDate>Sat, 24 Oct 2026 01:01:02 GMT</pubDate>
+      <enclosure url="https://fdn.gsmarena.com/imgroot/news/26/10/realme-17-pro-specs-leak/gsmarena_000.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>The iPhone Duo Can Be a Tiny Mac, a Toaster, and a Nintendo DS</title>
       <link>https://nusalensa.com/phones/the-iphone-duo-can-be-a-tiny-mac-a-toaster-and-a-nintendo-ds</link>
@@ -267,15 +276,6 @@
       <category>Smartphones</category>
       <pubDate>Fri, 23 Oct 2026 19:28:10 GMT</pubDate>
       <enclosure url="https://images.macrumors.com/article-new/2026/06/watchos-27.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Samsung extends its Certified Re-Newed program to Amazon US</title>
-      <link>https://nusalensa.com/phones/samsung-extends-its-certified-re-newed-program-to-amazon-us</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/samsung-extends-its-certified-re-newed-program-to-amazon-us</guid>
-      <description>Samsung has put a new twist on its Certified Re-Newed program – the refurbished phones are now also available on Amazon.com in the US. Previously, you could onl</description>
-      <category>Smartphones</category>
-      <pubDate>Fri, 23 Oct 2026 19:21:02 GMT</pubDate>
-      <enclosure url="https://fdn.gsmarena.com/imgroot/news/26/10/amazon-us-samsung-certified-re-newed-program/gsmarena_000.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
