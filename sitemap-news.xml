@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/i-finally-made-google-photos-less-annoying-with-these-tweaks</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T10:30:48Z</news:publication_date>
+      <news:title>I finally made Google Photos less annoying with these tweaks</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/06/Google-Photos-app-icon-on-Google-Pixel-10a.jpg</image:loc>
+      <image:title>I finally made Google Photos less annoying with these tweaks</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/meta-is-delaying-its-controversial-new-business-terms-amid-scraping-concerns</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T10:18:15Z</news:publication_date>
+      <news:title>Meta is delaying its controversial new business terms amid scraping concerns</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/meta-is-delaying-its-controversial-new-business-terms-amid-scraping-concerns/l-intro-1792836885.jpg</image:loc>
+      <image:title>Meta is delaying its controversial new business terms amid scraping concerns</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/5-streaming-boxes-you-should-buy-instead-of-the-new-apple-tv-4k</loc>
     <news:news>
       <news:publication>
@@ -4620,81 +4650,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-012.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Eiliko maker says it&amp;#8217;s hiring an ‘&amp;#8217;independent security firm’ after Verge report on its insecure robots</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iphone-duo-2-prototypes-include-under-display-face-id</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T10:46:15Z</news:publication_date>
-      <news:title>iPhone Duo 2 Prototypes Include Under-Display Face ID</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/09/iPhone-Duo-Open-large-scaled.png</image:loc>
-      <image:title>iPhone Duo 2 Prototypes Include Under-Display Face ID</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/sony-quietly-killed-a-key-5g-workaround-for-xperia-phones</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T10:43:44Z</news:publication_date>
-      <news:title>Sony quietly killed a key 5G workaround for Xperia phones</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/08/sony-xperia-1-vi-review-front-handheld-scaled.jpg</image:loc>
-      <image:title>Sony quietly killed a key 5G workaround for Xperia phones</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/exclusive-this-is-samsung8217s-galaxy-fit-4-in-three-colors</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T10:37:44Z</news:publication_date>
-      <news:title>Exclusive: This is Samsung&amp;#8217;s Galaxy Fit 4 in three colors</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Galaxy-Fit-4-first-look-1.jpg</image:loc>
-      <image:title>Exclusive: This is Samsung&amp;#8217;s Galaxy Fit 4 in three colors</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/i8217ve-never-owned-smart-glasses-but-samsung8217s-android-xr-glasses-may-change-that</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T10:30:34Z</news:publication_date>
-      <news:title>I&amp;#8217;ve never owned smart glasses, but Samsung&amp;#8217;s Android XR glasses may change that</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/01/Samsung-logo-sign-CES-2025.jpg</image:loc>
-      <image:title>I&amp;#8217;ve never owned smart glasses, but Samsung&amp;#8217;s Android XR glasses may change that</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/bose-acquires-skullcandy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T10:24:03Z</news:publication_date>
-      <news:title>Bose acquires Skullcandy</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/bose-acquires-skullcandy/gsmarena_00.jpg</image:loc>
-      <image:title>Bose acquires Skullcandy</image:title>
     </image:image>
   </url>
 </urlset>
