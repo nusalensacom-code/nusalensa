@@ -2,6 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/why-your-ev-battery-still-loses-charge-while-its-parked</loc>
+    <lastmod>2026-10-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/why-your-ev-battery-still-loses-charge-while-its-parked/l-intro-1792579754.jpg</image:loc>
+      <image:title>Why your EV battery still loses charge while it&apos;s parked</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/what-kind-of-cooling-system-do-ev-batteries-use-and-how-does-it-work</loc>
+    <lastmod>2026-10-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/what-kind-of-cooling-system-do-ev-batteries-use-and-how-does-it-work/l-intro-1792571941.jpg</image:loc>
+      <image:title>What kind of cooling system do EV batteries use and how does it work?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/what-are-the-different-types-of-digital-wallets</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>daily</changefreq>

@@ -5,8 +5,26 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 24 Oct 2026 22:53:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 23:17:31 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why your EV battery still loses charge while it&apos;s parked</title>
+      <link>https://nusalensa.com/technology/why-your-ev-battery-still-loses-charge-while-its-parked</link>
+      <guid isPermaLink="true">https://nusalensa.com/technology/why-your-ev-battery-still-loses-charge-while-its-parked</guid>
+      <description>Electric vehicles lose battery when they&apos;re left unused for long periods. There are a number of reasons why, and some might be totally out of your control.</description>
+      <category>Technology</category>
+      <pubDate>Sat, 24 Oct 2026 23:00:00 GMT</pubDate>
+      <enclosure url="https://www.engadget.com/img/gallery/why-your-ev-battery-still-loses-charge-while-its-parked/l-intro-1792579754.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>What kind of cooling system do EV batteries use and how does it work?</title>
+      <link>https://nusalensa.com/technology/what-kind-of-cooling-system-do-ev-batteries-use-and-how-does-it-work</link>
+      <guid isPermaLink="true">https://nusalensa.com/technology/what-kind-of-cooling-system-do-ev-batteries-use-and-how-does-it-work</guid>
+      <description>Electric cars need incredibly large batteries that offer long driving ranges and charge quickly, but remain cool when under load. This is how they do so.</description>
+      <category>Technology</category>
+      <pubDate>Sat, 24 Oct 2026 22:45:00 GMT</pubDate>
+      <enclosure url="https://www.engadget.com/img/gallery/what-kind-of-cooling-system-do-ev-batteries-use-and-how-does-it-work/l-intro-1792571941.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>What are the different types of digital wallets?</title>
       <link>https://nusalensa.com/technology/what-are-the-different-types-of-digital-wallets</link>
@@ -258,24 +276,6 @@
       <category>Technology</category>
       <pubDate>Sat, 24 Oct 2026 14:30:00 GMT</pubDate>
       <enclosure url="https://www.engadget.com/img/gallery/why-your-ring-camera-is-still-useful-without-a-subscription/l-intro-1791283019.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>M5 MacBook Air Returns to Prime Day Low With &amp;#36;200 Amazon Discount</title>
-      <link>https://nusalensa.com/phones/m5-macbook-air-returns-to-prime-day-low-with-36200-amazon-discount</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/m5-macbook-air-returns-to-prime-day-low-with-36200-amazon-discount</guid>
-      <description>Amazon this weekend has a few of the best post-hike prices we&apos;ve seen on the M5 MacBook Air so far, with prices starting at &amp;#36;1,399.00 for the 16GB RAM/1TB S</description>
-      <category>Smartphones</category>
-      <pubDate>Sat, 24 Oct 2026 14:27:30 GMT</pubDate>
-      <enclosure url="https://images.macrumors.com/article-new/2026/06/m5-macbook-air-prime-day.jpeg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>The Boox Palma 2 Pro finally got me to stop reading on my phone</title>
-      <link>https://nusalensa.com/phones/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone</guid>
-      <description>The $400 Boox Palma 2 Pro is a smartphone-sized e-reader designed for people who want to read books, articles, and documents on a small E Ink display.</description>
-      <category>Smartphones</category>
-      <pubDate>Sat, 24 Oct 2026 14:15:00 GMT</pubDate>
-      <enclosure url="https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&amp;fit=crop&amp;w=1200&amp;q=80" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
