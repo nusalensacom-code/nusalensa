@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/steam-rolls-out-personal-calendar-feature-that-constantly-updates-recommended-games</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T18:09:54Z</news:publication_date>
+      <news:title>Steam rolls out Personal Calendar feature that constantly updates recommended games</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/steam-rolls-out-personal-calendar-feature-that-constantly-updates-recommended-games/l-intro-1792865304.jpg</image:loc>
+      <image:title>Steam rolls out Personal Calendar feature that constantly updates recommended games</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/xbox-game-pass-could-let-you-pick-which-features-you-pay-for</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T18:00:00Z</news:publication_date>
+      <news:title>Xbox Game Pass could let you pick which features you pay for</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/xbox-game-pass-could-let-you-pick-which-features-you-pay-for/l-intro-1792860193.jpg</image:loc>
+      <image:title>Xbox Game Pass could let you pick which features you pay for</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/youtube-streams-may-look-better-and-buffer-less-as-soon-as-early-2027</loc>
     <news:news>
       <news:publication>
@@ -3735,141 +3765,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/bluesky-adds-ipad-support-in-latest-feature-update/l-intro-1792692851.jpg</image:loc>
       <image:title>Bluesky adds iPad support in latest feature update</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-sounds-like-it8217s-had-enough-of-the-us-renaming-bodies-of-water</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T18:17:36Z</news:publication_date>
-      <news:title>Google sounds like it&amp;#8217;s had enough of the US renaming bodies of water</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/09/google-maps-my-maps-custom-map-example-2.jpg</image:loc>
-      <image:title>Google sounds like it&amp;#8217;s had enough of the US renaming bodies of water</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/in-metas-version-of-the-future-ill-have-my-muse-call-your-muse</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T18:15:00Z</news:publication_date>
-      <news:title>In Meta’s version of the future, I’ll have my Muse call your Muse</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>In Meta’s version of the future, I’ll have my Muse call your Muse</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/mass-effect-5-trailer-leaks-following-bioware-shutdown</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T18:14:24Z</news:publication_date>
-      <news:title>Mass Effect 5 trailer leaks following BioWare shutdown</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-11.12.28-AM.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Mass Effect 5 trailer leaks following BioWare shutdown</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/amazon-rebrands-kindle-unlimited-to-kindle</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T18:10:00Z</news:publication_date>
-      <news:title>Amazon rebrands Kindle Unlimited to Kindle+</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/amazon-rebrands-kindle-unlimited-to-kindle/l-intro-1792692263.jpg</image:loc>
-      <image:title>Amazon rebrands Kindle Unlimited to Kindle+</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/tesla-driver-using-full-self-driving-struck-and-killed-a-man-crossing-i-80</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T18:07:02Z</news:publication_date>
-      <news:title>Tesla driver using Full Self-Driving struck and killed a man crossing I-80</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23986646/acastro_STK086_01.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Tesla driver using Full Self-Driving struck and killed a man crossing I-80</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/unauthorized-ai-agents-are-reportedly-already-accessing-us-bank-accounts</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T18:02:04Z</news:publication_date>
-      <news:title>Unauthorized AI agents are reportedly already accessing US bank accounts</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/unauthorized-ai-agents-are-reportedly-already-accessing-us-bank-accounts/l-intro-1792692008.jpg</image:loc>
-      <image:title>Unauthorized AI agents are reportedly already accessing US bank accounts</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-pulls-keynote-pages-and-numbers-from-app-store</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T18:01:29Z</news:publication_date>
-      <news:title>Apple Pulls Keynote, Pages and Numbers From App Store</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/01/Apple-Creator-Studio-iWork-suite.jpg</image:loc>
-      <image:title>Apple Pulls Keynote, Pages and Numbers From App Store</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/microsoft-says-its-ai-tool-is-better-than-doctors-at-diagnosing-conditions</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T18:00:00Z</news:publication_date>
-      <news:title>Microsoft says its AI tool is better than doctors at diagnosing conditions</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2207866106.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Microsoft says its AI tool is better than doctors at diagnosing conditions</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/nba-2k27-drops-below-50-on-amazon-saving-you-20</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T17:55:55Z</news:publication_date>
-      <news:title>NBA 2K27 drops below $50 on Amazon, saving you $20</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/NBA-2K27-Gameplay.jpg</image:loc>
-      <image:title>NBA 2K27 drops below $50 on Amazon, saving you $20</image:title>
     </image:image>
   </url>
 </urlset>
