@@ -5,8 +5,17 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 24 Oct 2026 21:18:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 21:54:18 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blue Planet III is keeping the rough edges in the age of AI</title>
+      <link>https://nusalensa.com/technology/blue-planet-iii-is-keeping-the-rough-edges-in-the-age-of-ai</link>
+      <guid isPermaLink="true">https://nusalensa.com/technology/blue-planet-iii-is-keeping-the-rough-edges-in-the-age-of-ai</guid>
+      <description>BBC&apos;s Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by</description>
+      <category>Technology</category>
+      <pubDate>Sat, 24 Oct 2026 21:29:12 GMT</pubDate>
+      <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/blue_planet_iii_episode_03_051_screengrab.avif?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Google is quietly linking your phone number to other Android accounts</title>
       <link>https://nusalensa.com/technology/google-is-quietly-linking-your-phone-number-to-other-android-accounts</link>
@@ -267,15 +276,6 @@
       <category>Smartphones</category>
       <pubDate>Sat, 24 Oct 2026 14:00:00 GMT</pubDate>
       <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_HP_Lenovo_Yoga_9n_ADiBenedetto_0001.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>How to get better iPhone battery life without closing any apps</title>
-      <link>https://nusalensa.com/phones/how-to-get-better-iphone-battery-life-without-closing-any-apps</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/how-to-get-better-iphone-battery-life-without-closing-any-apps</guid>
-      <description>Apple has added a host of battery-management features to the iPhone over the years.</description>
-      <category>Smartphones</category>
-      <pubDate>Sat, 24 Oct 2026 13:45:00 GMT</pubDate>
-      <enclosure url="https://www.engadget.com/img/gallery/how-to-get-better-iphone-battery-life-without-closing-any-apps/l-intro-1792433821.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
