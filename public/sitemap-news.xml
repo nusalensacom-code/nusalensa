@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/tablets/oppo-find-x10-and-x10-pro-max-go-global-oled-macbook-coming-on-oct-28</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T15:31:02Z</news:publication_date>
+      <news:title>Oppo Find X10 and X10 Pro Max go global, OLED MacBook coming on Oct 28</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/week-44-in-review/gsmarena_000.jpg</image:loc>
+      <image:title>Oppo Find X10 and X10 Pro Max go global, OLED MacBook coming on Oct 28</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/what-is-theater-mode-on-your-apple-watch-and-when-should-you-use-it</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T15:30:00Z</news:publication_date>
+      <news:title>What is Theater Mode on your Apple Watch and when should you use it?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/what-is-theater-mode-on-your-apple-watch-and-when-should-you-use-it/l-intro-1792501458.jpg</image:loc>
+      <image:title>What is Theater Mode on your Apple Watch and when should you use it?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/iphone-duo-teardowns-reveal-two-batteries-and-more</loc>
     <news:news>
       <news:publication>
@@ -30,6 +60,36 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/oneplus-ace-7-ace-7-pro-all-colors/gsmarena_000.jpg</image:loc>
       <image:title>OnePlus shows the Ace 7 and Ace 7 Pro in all colors</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/lgs-brilliant-c6-oled-tv-is-already-400-off-ahead-of-black-friday</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T15:00:00Z</news:publication_date>
+      <news:title>LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/TV-OLED55C6PUA-Brilliant-oled-pictures_features_900x600.avif?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/fielded-is-obsessed-with-scammers-and-unhinged-japanese-cyberpunk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T15:00:00Z</news:publication_date>
+      <news:title>Fielded is obsessed with scammers and unhinged Japanese cyberpunk</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/fielded_pressphoto_6-Fielded.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Fielded is obsessed with scammers and unhinged Japanese cyberpunk</image:title>
     </image:image>
   </url>
   <url>
@@ -4110,156 +4170,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/pc-shipments-are-in-the-toilet-plunging-over-20-percent-from-last-year/l-intro-1792684457.jpg</image:loc>
       <image:title>PC shipments are in the toilet, plunging over 20 percent from last year</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/deals-pixel-11-pro-fold-up-to-419-off-s26-ultra-420-off-hp-oled-copilot-pc-all-time-low-more</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T15:52:36Z</news:publication_date>
-      <news:title>Deals: Pixel 11 Pro Fold up to $419 off, S26 Ultra $420 off, HP OLED Copilot+ PC all-time low, more</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/9to5Google-Oct-22.webp?w=1600</image:loc>
-      <image:title>Deals: Pixel 11 Pro Fold up to $419 off, S26 Ultra $420 off, HP OLED Copilot+ PC all-time low, more</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/openai-anthropic-and-nvidia-had-record-lobbying-quarters</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T15:50:30Z</news:publication_date>
-      <news:title>OpenAI, Anthropic, and Nvidia had record lobbying quarters</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>OpenAI, Anthropic, and Nvidia had record lobbying quarters</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsungs-2025-flagship-soundbar-package-is-1000-off-right-now</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T15:47:59Z</news:publication_date>
-      <news:title>Samsung’s 2025 flagship soundbar package is $1,000 off right now</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Samsung-HW-Q990F-Q-Series-Soundbar-Product-Image.jpg</image:loc>
-      <image:title>Samsung’s 2025 flagship soundbar package is $1,000 off right now</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/spotify-confirms-it-won8217t-stop-family-plan-sharing-verification-but-it8217s-not-a-8216crackdown8217</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T15:45:00Z</news:publication_date>
-      <news:title>Spotify confirms it won&amp;#8217;t stop Family Plan sharing verification, but it&amp;#8217;s not a &amp;#8216;crackdown&amp;#8217;</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2024/05/spotify-android-app-icon-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Spotify confirms it won&amp;#8217;t stop Family Plan sharing verification, but it&amp;#8217;s not a &amp;#8216;crackdown&amp;#8217;</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/kindle-unlimited-is-dropping-the-unlimited-to-go-plus</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T15:41:16Z</news:publication_date>
-      <news:title>Kindle Unlimited is dropping the Unlimited to go Plus</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/11/Assorted-Kindle-models-scaled.jpg</image:loc>
-      <image:title>Kindle Unlimited is dropping the Unlimited to go Plus</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/lexar-es3-512gb-ssd-offers-fast-storage-at-an-all-time-low-price</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T15:33:38Z</news:publication_date>
-      <news:title>Lexar ES3 512GB SSD offers fast storage at an all-time low price</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Lexar-ES3-512GB-Portable-SSD-Press-Image.jpg</image:loc>
-      <image:title>Lexar ES3 512GB SSD offers fast storage at an all-time low price</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/garmin-cirqa-adds-vibration-alerts-for-calls-and-texts-in-latest-update</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T15:32:55Z</news:publication_date>
-      <news:title>Garmin CIRQA adds vibration alerts for calls and texts in latest update</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/cirqa-smart-band.jpg</image:loc>
-      <image:title>Garmin CIRQA adds vibration alerts for calls and texts in latest update</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/galaxy-watch-user-reports-burn-overnight-this-isn8217t-the-first-time</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T15:31:29Z</news:publication_date>
-      <news:title>Galaxy Watch user reports burn overnight; this isn&amp;#8217;t the first time</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2022/08/Samsung-Galaxy-Watch-5-Pro-11.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1500</image:loc>
-      <image:title>Galaxy Watch user reports burn overnight; this isn&amp;#8217;t the first time</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-galaxy-z-fold-8-just-keeps-riding-iphone-duo-momentum-to-new-sales-heights</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T15:30:09Z</news:publication_date>
-      <news:title>Samsung Galaxy Z Fold 8 just keeps riding iPhone Duo momentum to new sales heights</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/z-fold-8-launch-day-1.jpg</image:loc>
-      <image:title>Samsung Galaxy Z Fold 8 just keeps riding iPhone Duo momentum to new sales heights</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T15:25:02Z</news:publication_date>
-      <news:title>Hackers got a four-day head start on epic PHP2Shell vulnerability</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2022/03/internet-routing-1000x648.jpeg</image:loc>
-      <image:title>Hackers got a four-day head start on epic PHP2Shell vulnerability</image:title>
     </image:image>
   </url>
 </urlset>
