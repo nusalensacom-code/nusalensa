@@ -5,8 +5,26 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 25 Oct 2026 10:23:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 10:57:22 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Which phone has the best portrait camera mode? I tested the big three to find out</title>
+      <link>https://nusalensa.com/phones/which-phone-has-the-best-portrait-camera-mode-i-tested-the-big-three-to-find-out</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/which-phone-has-the-best-portrait-camera-mode-i-tested-the-big-three-to-find-out</guid>
+      <description>Let&apos;s find out whether Galaxy, iPhone, or Pixel has the best portrait quality and features.</description>
+      <category>Smartphones</category>
+      <pubDate>Sun, 25 Oct 2026 10:30:56 GMT</pubDate>
+      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/10/Galaxy-vs-iPhone-vs-Pixel-in-hand-scaled.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Google TV Streamer is now two years old: is it still worth getting?</title>
+      <link>https://nusalensa.com/phones/google-tv-streamer-is-now-two-years-old-is-it-still-worth-getting</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/google-tv-streamer-is-now-two-years-old-is-it-still-worth-getting</guid>
+      <description>Google&apos;s streaming box has had two years to make its case, but is it still the best Android TV player?</description>
+      <category>Smartphones</category>
+      <pubDate>Sun, 25 Oct 2026 10:30:35 GMT</pubDate>
+      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2025/04/google-tv-streamer-box-and-remote-scaled.jpeg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Deals: Oppo Find X10 series gets pre-order discounts, iPhone Duo goes on sale</title>
       <link>https://nusalensa.com/phones/deals-oppo-find-x10-series-gets-pre-order-discounts-iphone-duo-goes-on-sale</link>
@@ -258,24 +276,6 @@
       <category>Smartphones</category>
       <pubDate>Sat, 24 Oct 2026 17:23:57 GMT</pubDate>
       <enclosure url="https://www.androidauthority.com/wp-content/uploads/2022/04/YouTube-on-smartphone-stock-photo-18.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Capcom confirms data breach that affected 11.7 million users</title>
-      <link>https://nusalensa.com/technology/capcom-confirms-data-breach-that-affected-117-million-users</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/capcom-confirms-data-breach-that-affected-117-million-users</guid>
-      <description>Capcom ID is still available to use, but users may see more phishing scam emails.</description>
-      <category>Technology</category>
-      <pubDate>Sat, 24 Oct 2026 16:40:45 GMT</pubDate>
-      <enclosure url="https://www.engadget.com/img/gallery/capcom-confirms-data-breach-that-affected-11-7-million-users/l-intro-1792859616.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>There&apos;s a chance your PlayStation 5 is plugged into the wrong HDMI port</title>
-      <link>https://nusalensa.com/technology/theres-a-chance-your-playstation-5-is-plugged-into-the-wrong-hdmi-port</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/theres-a-chance-your-playstation-5-is-plugged-into-the-wrong-hdmi-port</guid>
-      <description>Your PS5 will look great plugged into any HDMI port on a modern TV, but only some unlock its full suite of display features.</description>
-      <category>Technology</category>
-      <pubDate>Sat, 24 Oct 2026 16:30:00 GMT</pubDate>
-      <enclosure url="https://www.engadget.com/img/gallery/theres-a-chance-your-playstation-5-is-plugged-into-the-wrong-hdmi-port/l-intro-1792510070.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>

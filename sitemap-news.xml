@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/which-phone-has-the-best-portrait-camera-mode-i-tested-the-big-three-to-find-out</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T10:30:56Z</news:publication_date>
+      <news:title>Which phone has the best portrait camera mode? I tested the big three to find out</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Galaxy-vs-iPhone-vs-Pixel-in-hand-scaled.jpg</image:loc>
+      <image:title>Which phone has the best portrait camera mode? I tested the big three to find out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-tv-streamer-is-now-two-years-old-is-it-still-worth-getting</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T10:30:35Z</news:publication_date>
+      <news:title>Google TV Streamer is now two years old: is it still worth getting?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/04/google-tv-streamer-box-and-remote-scaled.jpeg</image:loc>
+      <image:title>Google TV Streamer is now two years old: is it still worth getting?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/deals-oppo-find-x10-series-gets-pre-order-discounts-iphone-duo-goes-on-sale</loc>
     <news:news>
       <news:publication>
@@ -2805,36 +2835,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Warhound-Palmer-Luckey-startup-hero.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Startup equips genetically enhanced dogs with Palmer Luckey&amp;#8217;s military tech</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/your-pixel-might-be-recording-something-completely-different-from-what-you-see</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T10:41:43Z</news:publication_date>
-      <news:title>Your Pixel might be recording something completely different from what you see</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Pixel-11-Pro-XL-with-game-controller-in-background.jpg</image:loc>
-      <image:title>Your Pixel might be recording something completely different from what you see</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/pixels-and-galaxies-aside-these-are-the-phones-that-are-worth-your-money</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T10:30:08Z</news:publication_date>
-      <news:title>Pixels and Galaxies aside, these are the phones that are worth your money</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/motorola-razr-fold-review-open-back-cover-screen-scaled.jpg</image:loc>
-      <image:title>Pixels and Galaxies aside, these are the phones that are worth your money</image:title>
     </image:image>
   </url>
 </urlset>
