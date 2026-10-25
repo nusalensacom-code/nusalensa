@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/i-canceled-google-ai-plus-after-the-downgrade-but-im-still-using-gemini</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T11:30:12Z</news:publication_date>
+      <news:title>I canceled Google AI Plus after the downgrade, but I’m still using Gemini</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Nothing-Phone-1-showing-welcome-screen-of-Gemini-Android-app-2-scaled.jpg</image:loc>
+      <image:title>I canceled Google AI Plus after the downgrade, but I’m still using Gemini</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/fitbit-edge-vs-fitbit-air-which-health-features-do-you-actually-get</loc>
     <news:news>
       <news:publication>
@@ -2730,66 +2745,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK465_VIDEO_GAMES_EMULATOR__CVirginia_D.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Retro gaming is being overrun with AI</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/goodbye-oxygen-os-hello-color-os-oneplus-15-is-now-getting-stable-android-17</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T11:54:35Z</news:publication_date>
-      <news:title>Goodbye Oxygen OS, hello Color OS: OnePlus 15 is now getting stable Android 17</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/11/OnePlus-15-hero-image-scaled.jpg</image:loc>
-      <image:title>Goodbye Oxygen OS, hello Color OS: OnePlus 15 is now getting stable Android 17</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T11:30:22Z</news:publication_date>
-      <news:title>Ukraine learns to fight without Starlink as Musk plays politics with satellites</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/Starlink-terminal-in-Ukraine-1152x648.jpg</image:loc>
-      <image:title>Ukraine learns to fight without Starlink as Musk plays politics with satellites</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/gulikit-tt-pro-review-the-ideal-switch-2-controller-for-players-on-the-go</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T11:30:00Z</news:publication_date>
-      <news:title>GuliKit TT Pro review: The ideal Switch 2 controller for players on the go</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/gulikit-tt-pro-review-the-ideal-switch-2-controller-for-players-on-the-go/l-intro-1792685476.jpg</image:loc>
-      <image:title>GuliKit TT Pro review: The ideal Switch 2 controller for players on the go</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/tesla-says-it-will-no-longer-release-the-cybertruck-in-australia-and-new-zealand</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T11:26:04Z</news:publication_date>
-      <news:title>Tesla says it will no longer release the Cybertruck in Australia and New Zealand</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/tesla-says-it-will-no-longer-release-the-cybertruck-in-australia-and-new-zealand/l-intro-1792754657.jpg</image:loc>
-      <image:title>Tesla says it will no longer release the Cybertruck in Australia and New Zealand</image:title>
     </image:image>
   </url>
 </urlset>
