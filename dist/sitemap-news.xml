@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/apple-stores-reportedly-rolling-out-new-anti-theft-system-for-iphones</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T15:18:08Z</news:publication_date>
+      <news:title>Apple Stores Reportedly Rolling Out New Anti-Theft System for iPhones</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2025/01/2024-iPhone-Boxes-Feature.jpg</image:loc>
+      <image:title>Apple Stores Reportedly Rolling Out New Anti-Theft System for iPhones</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/4-ray-ban-meta-privacy-settings-you-should-change-before-wearing-them</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T15:15:00Z</news:publication_date>
+      <news:title>4 Ray-Ban Meta privacy settings you should change before wearing them</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/4-ray-ban-meta-privacy-settings-you-should-change-before-wearing-them/l-intro-1792599800.jpg</image:loc>
+      <image:title>4 Ray-Ban Meta privacy settings you should change before wearing them</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/get-the-ultimate-security-for-your-macbook-by-changing-these-privacy-settings</loc>
     <news:news>
       <news:publication>
@@ -30,6 +60,21 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/08/airtag-2-blue.jpeg</image:loc>
       <image:title>AirTag 2 Drops to New Low Price of &amp;#36;23 on Amazon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/new-imac-and-14-inch-macbook-pro-with-m6-chip-expected-this-week</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T14:30:49Z</news:publication_date>
+      <news:title>New iMac and 14-Inch MacBook Pro With M6 Chip Expected This Week</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2024/10/Apple-iMac-M4-hero-feature.jpg</image:loc>
+      <image:title>New iMac and 14-Inch MacBook Pro With M6 Chip Expected This Week</image:title>
     </image:image>
   </url>
   <url>
@@ -2535,51 +2580,6 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/09/iphone-duo-split-screen-scaled-e1789143118947.jpg</image:loc>
       <image:title>iPhone Duo: Open Two Apps Side by Side and Lock Them As an App Pair</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/spacexs-mobile-carrier-push-reportedly-involves-tapping-into-80000-cell-sites</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T15:16:24Z</news:publication_date>
-      <news:title>SpaceX’s mobile carrier push reportedly involves tapping into 80,000 cell sites</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-1187777086.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>SpaceX’s mobile carrier push reportedly involves tapping into 80,000 cell sites</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iphone-duo8217s-software-restricts-an-already-small-display-galaxy-z-fold-8-doesn8217t</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T15:13:53Z</news:publication_date>
-      <news:title>iPhone Duo&amp;#8217;s software restricts an already-small display; Galaxy Z Fold 8 doesn&amp;#8217;t</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/iPhone-Duo-9to5mac-2.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1400</image:loc>
-      <image:title>iPhone Duo&amp;#8217;s software restricts an already-small display; Galaxy Z Fold 8 doesn&amp;#8217;t</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/oura-sues-ultrahuman-in-the-us-once-again-threatening-the-new-ring-pro</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T15:01:03Z</news:publication_date>
-      <news:title>Oura sues Ultrahuman in the US once again, threatening the new Ring Pro</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/03/ultrahuman-ring-pro-pre-orders-in-the-us/gsmarena_000.jpg</image:loc>
-      <image:title>Oura sues Ultrahuman in the US once again, threatening the new Ring Pro</image:title>
     </image:image>
   </url>
 </urlset>
