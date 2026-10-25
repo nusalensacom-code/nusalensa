@@ -2,6 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/apple-wants-to-fix-safari039s-cramped-layout-on-iphone-duo</loc>
+    <lastmod>2026-10-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/safari-iphone-duo-webkit.jpg</image:loc>
+      <image:title>Apple Wants to Fix Safari&amp;#039;s Cramped Layout on iPhone Duo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/instagram-launches-apple-tv-app-with-reels-and-more</loc>
+    <lastmod>2026-10-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2021/03/Instagram-Feature-1.jpg</image:loc>
+      <image:title>Instagram Launches Apple TV App With Reels and More</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/reviews/apple039s-039servant039-copyright-lawsuit-win-upheld-on-appeal</loc>
     <lastmod>2026-10-25</lastmod>
     <changefreq>daily</changefreq>

@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/apple-wants-to-fix-safari039s-cramped-layout-on-iphone-duo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T04:58:09Z</news:publication_date>
+      <news:title>Apple Wants to Fix Safari&amp;#039;s Cramped Layout on iPhone Duo</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/safari-iphone-duo-webkit.jpg</image:loc>
+      <image:title>Apple Wants to Fix Safari&amp;#039;s Cramped Layout on iPhone Duo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/instagram-launches-apple-tv-app-with-reels-and-more</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T04:27:08Z</news:publication_date>
+      <news:title>Instagram Launches Apple TV App With Reels and More</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2021/03/Instagram-Feature-1.jpg</image:loc>
+      <image:title>Instagram Launches Apple TV App With Reels and More</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/reviews/apple039s-039servant039-copyright-lawsuit-win-upheld-on-appeal</loc>
     <news:news>
       <news:publication>
@@ -3030,36 +3060,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/samsung-galaxy-s27-ultra-s27-pro-battery-images/gsmarena_000.jpg</image:loc>
       <image:title>Samsung Galaxy S27 Ultra and S27 Pro batteries pictured in a new certification</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-vivo-x500-ultra-could-get-a-downgraded-main-rear-sensor</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T04:39:02Z</news:publication_date>
-      <news:title>The vivo X500 Ultra could get a downgraded main rear sensor</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/vivo-x500-ultra-main-camera/gsmarena_00.jpg</image:loc>
-      <image:title>The vivo X500 Ultra could get a downgraded main rear sensor</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iphone-duo-demand-reportedly-exceeds-apple039s-expectations</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T04:24:18Z</news:publication_date>
-      <news:title>iPhone Duo Demand Reportedly Exceeds Apple&amp;#039;s Expectations</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Hinge-Feature-3.jpg</image:loc>
-      <image:title>iPhone Duo Demand Reportedly Exceeds Apple&amp;#039;s Expectations</image:title>
     </image:image>
   </url>
 </urlset>
