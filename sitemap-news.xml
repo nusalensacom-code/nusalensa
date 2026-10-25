@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/fitbit-edge-vs-fitbit-air-which-health-features-do-you-actually-get</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T11:00:48Z</news:publication_date>
+      <news:title>Fitbit Edge vs Fitbit Air: Which health features do you actually get?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/fitbit-edge-hands-on-2-scaled.jpg</image:loc>
+      <image:title>Fitbit Edge vs Fitbit Air: Which health features do you actually get?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-7-tech-products-that-truly-improved-my-life</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T11:00:09Z</news:publication_date>
+      <news:title>The 7 tech products that truly improved my life</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/10/Synology-DS925-Plus-on-a-desk-scaled.jpg</image:loc>
+      <image:title>The 7 tech products that truly improved my life</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-messages-sucks-at-sms-but-this-open-source-app-has-the-one-feature-i-need</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T11:00:03Z</news:publication_date>
+      <news:title>Google Messages sucks at SMS, but this open source app has the one feature I need</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/quik-sms-app-google-messages-spam-1.jpg</image:loc>
+      <image:title>Google Messages sucks at SMS, but this open source app has the one feature I need</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/which-phone-has-the-best-portrait-camera-mode-i-tested-the-big-three-to-find-out</loc>
     <news:news>
       <news:publication>
@@ -2745,96 +2790,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/tesla-says-it-will-no-longer-release-the-cybertruck-in-australia-and-new-zealand/l-intro-1792754657.jpg</image:loc>
       <image:title>Tesla says it will no longer release the Cybertruck in Australia and New Zealand</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/heres-your-first-look-at-samsungs-upcoming-galaxy-fit4</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T11:19:02Z</news:publication_date>
-      <news:title>Here&apos;s your first look at Samsung&apos;s upcoming Galaxy Fit4</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/samsung-galaxy-fit4-leaked-renders/gsmarena_00.jpg</image:loc>
-      <image:title>Here&apos;s your first look at Samsung&apos;s upcoming Galaxy Fit4</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/review-crystal-lake-suffers-a-bit-from-its-obsession-with-pam-voorhees</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T11:15:03Z</news:publication_date>
-      <news:title>Review: Crystal Lake suffers a bit from its obsession with Pam Voorhees</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/Crystal-Lake-via-Peacock-Matt-Infante-1000x648.webp</image:loc>
-      <image:title>Review: Crystal Lake suffers a bit from its obsession with Pam Voorhees</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/samsung-confirms-a-list-of-galaxy-phones-and-tablets-getting-android-17-updates</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T11:15:00Z</news:publication_date>
-      <news:title>Samsung confirms a list of Galaxy phones and tablets getting Android 17 updates</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/samsung-galaxy-tab-s10-fe-s23-flip-6.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Samsung confirms a list of Galaxy phones and tablets getting Android 17 updates</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/where-to-buy-iphone-duo-today-stores-pickup-and-wait-times</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T11:10:06Z</news:publication_date>
-      <news:title>Where to Buy iPhone Duo Today: Stores, Pickup, and Wait Times</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Open-large-scaled-feature.jpg</image:loc>
-      <image:title>Where to Buy iPhone Duo Today: Stores, Pickup, and Wait Times</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T11:00:57Z</news:publication_date>
-      <news:title>Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/reaction-dynamics-1152x648.jpg</image:loc>
-      <image:title>Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/startup-equips-genetically-enhanced-dogs-with-palmer-luckey8217s-military-tech</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T10:58:03Z</news:publication_date>
-      <news:title>Startup equips genetically enhanced dogs with Palmer Luckey&amp;#8217;s military tech</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Warhound-Palmer-Luckey-startup-hero.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Startup equips genetically enhanced dogs with Palmer Luckey&amp;#8217;s military tech</image:title>
     </image:image>
   </url>
 </urlset>

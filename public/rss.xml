@@ -5,8 +5,35 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 25 Oct 2026 10:57:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 11:20:30 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fitbit Edge vs Fitbit Air: Which health features do you actually get?</title>
+      <link>https://nusalensa.com/phones/fitbit-edge-vs-fitbit-air-which-health-features-do-you-actually-get</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/fitbit-edge-vs-fitbit-air-which-health-features-do-you-actually-get</guid>
+      <description>All that Edge, yet Air wins?</description>
+      <category>Smartphones</category>
+      <pubDate>Sun, 25 Oct 2026 11:00:48 GMT</pubDate>
+      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/10/fitbit-edge-hands-on-2-scaled.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>The 7 tech products that truly improved my life</title>
+      <link>https://nusalensa.com/phones/the-7-tech-products-that-truly-improved-my-life</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/the-7-tech-products-that-truly-improved-my-life</guid>
+      <description>From my Sony headphones to Synology NAS, these are the 7 tech products that have genuinely improved my everyday life.</description>
+      <category>Smartphones</category>
+      <pubDate>Sun, 25 Oct 2026 11:00:09 GMT</pubDate>
+      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2025/10/Synology-DS925-Plus-on-a-desk-scaled.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Google Messages sucks at SMS, but this open source app has the one feature I need</title>
+      <link>https://nusalensa.com/phones/google-messages-sucks-at-sms-but-this-open-source-app-has-the-one-feature-i-need</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/google-messages-sucks-at-sms-but-this-open-source-app-has-the-one-feature-i-need</guid>
+      <description>By focusing on RCS, Google Messages has neglected the practical SMS features I want.</description>
+      <category>Smartphones</category>
+      <pubDate>Sun, 25 Oct 2026 11:00:03 GMT</pubDate>
+      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/10/quik-sms-app-google-messages-spam-1.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Which phone has the best portrait camera mode? I tested the big three to find out</title>
       <link>https://nusalensa.com/phones/which-phone-has-the-best-portrait-camera-mode-i-tested-the-big-three-to-find-out</link>
@@ -249,33 +276,6 @@
       <category>Smartphones</category>
       <pubDate>Sat, 24 Oct 2026 18:27:42 GMT</pubDate>
       <enclosure url="https://images.macrumors.com/article-new/2026/10/jerryrigeverything-iphone-duo-dust.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Steam rolls out Personal Calendar feature that constantly updates recommended games</title>
-      <link>https://nusalensa.com/technology/steam-rolls-out-personal-calendar-feature-that-constantly-updates-recommended-games</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/steam-rolls-out-personal-calendar-feature-that-constantly-updates-recommended-games</guid>
-      <description>You can try out the new feature on the Steam store&apos;s homepage.</description>
-      <category>Technology</category>
-      <pubDate>Sat, 24 Oct 2026 18:09:54 GMT</pubDate>
-      <enclosure url="https://www.engadget.com/img/gallery/steam-rolls-out-personal-calendar-feature-that-constantly-updates-recommended-games/l-intro-1792865304.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Xbox Game Pass could let you pick which features you pay for</title>
-      <link>https://nusalensa.com/technology/xbox-game-pass-could-let-you-pick-which-features-you-pay-for</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/xbox-game-pass-could-let-you-pick-which-features-you-pay-for</guid>
-      <description>Microsoft is reportedly planning to let subscribers build their own Game Pass bundle rather than pay for set tiers.</description>
-      <category>Technology</category>
-      <pubDate>Sat, 24 Oct 2026 18:00:00 GMT</pubDate>
-      <enclosure url="https://www.engadget.com/img/gallery/xbox-game-pass-could-let-you-pick-which-features-you-pay-for/l-intro-1792860193.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>YouTube streams may look better and buffer less as soon as early 2027</title>
-      <link>https://nusalensa.com/phones/youtube-streams-may-look-better-and-buffer-less-as-soon-as-early-2027</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/youtube-streams-may-look-better-and-buffer-less-as-soon-as-early-2027</guid>
-      <description>AV2 is coming to YouTube in the not too distant future.</description>
-      <category>Smartphones</category>
-      <pubDate>Sat, 24 Oct 2026 17:23:57 GMT</pubDate>
-      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2022/04/YouTube-on-smartphone-stock-photo-18.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
