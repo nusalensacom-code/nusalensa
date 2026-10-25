@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/why-are-earbuds-usually-cheaper-than-headphones</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T14:15:00Z</news:publication_date>
+      <news:title>Why are earbuds usually cheaper than headphones?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/why-are-earbuds-usually-cheaper-than-headphones/l-intro-1792596068.jpg</image:loc>
+      <image:title>Why are earbuds usually cheaper than headphones?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-hottest-ai-wearables-and-gadgets-you-should-know-about</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T14:10:00Z</news:publication_date>
+      <news:title>The hottest AI wearables and gadgets you should know about</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
+      <image:title>The hottest AI wearables and gadgets you should know about</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/samsung-probably-isnt-rebranding-one-ui-as-galaxy-os</loc>
     <news:news>
       <news:publication>
@@ -2565,111 +2595,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/sigmafp2_1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>The Sigma FP2 brings significant upgrades to the ‘world’s smallest’ full-frame camera</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-just-made-your-gemini-built-web-apps-a-lot-easier-to-share</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T14:18:41Z</news:publication_date>
-      <news:title>Google just made your Gemini-built web apps a lot easier to share</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-2-scaled.jpg</image:loc>
-      <image:title>Google just made your Gemini-built web apps a lot easier to share</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/this-vibecoded-image-editor-cost-2000-to-build-was-it-worth-it</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T14:15:07Z</news:publication_date>
-      <news:title>This vibecoded image editor cost $2,000 to build — was it worth it?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/new-ai-apps-photon-studio-1.jpg</image:loc>
-      <image:title>This vibecoded image editor cost $2,000 to build — was it worth it?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/oneplus-starts-rolling-out-stable-android-17-updates-early-marking-the-end-of-oxygenos</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T14:15:00Z</news:publication_date>
-      <news:title>OnePlus starts rolling out stable Android 17 updates early, marking the end of OxygenOS</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2025/11/oneplus-15-review-02.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>OnePlus starts rolling out stable Android 17 updates early, marking the end of OxygenOS</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-music-has-a-hidden-ipod-you-can-play-with</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T14:11:16Z</news:publication_date>
-      <news:title>Apple Music Has a Hidden iPod You Can Play With</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/Apple-Music-iPod-Page-Not-Found.jpeg</image:loc>
-      <image:title>Apple Music Has a Hidden iPod You Can Play With</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/tired-of-rebuilding-patched-apks-these-morphe-community-projects-handle-them-for-you</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T14:00:33Z</news:publication_date>
-      <news:title>Tired of rebuilding patched APKs? These Morphe community projects handle them for you</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/01/Morphe-app-for-YouTube-on-phone-scaled.jpg</image:loc>
-      <image:title>Tired of rebuilding patched APKs? These Morphe community projects handle them for you</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/our-best-tips-for-using-the-iphone-duo</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T14:00:00Z</news:publication_date>
-      <news:title>Our best tips for using the iPhone Duo</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1057.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Our best tips for using the iPhone Duo</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/apple-revives-the-original-ipod-as-an-apple-music-easter-egg</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T13:58:43Z</news:publication_date>
-      <news:title>Apple revives the original iPod as an Apple Music easter egg</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-23-at-9.37.49-AM.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Apple revives the original iPod as an Apple Music easter egg</image:title>
     </image:image>
   </url>
 </urlset>
