@@ -5,8 +5,44 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 25 Oct 2026 13:07:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 13:58:11 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Samsung probably isn&apos;t rebranding One UI as Galaxy OS</title>
+      <link>https://nusalensa.com/phones/samsung-probably-isnt-rebranding-one-ui-as-galaxy-os</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/samsung-probably-isnt-rebranding-one-ui-as-galaxy-os</guid>
+      <description>A bunch of recent rumors have suggested Samsung has some changes in store for its smartphone interface.</description>
+      <category>Smartphones</category>
+      <pubDate>Sun, 25 Oct 2026 13:45:00 GMT</pubDate>
+      <enclosure url="https://www.engadget.com/img/gallery/samsung-probably-isnt-rebranding-one-ui-as-galaxy-os/l-intro-1792594756.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Quantum computers can get colder than deep space — Here&apos;s how they stay running</title>
+      <link>https://nusalensa.com/technology/quantum-computers-can-get-colder-than-deep-space-heres-how-they-stay-running</link>
+      <guid isPermaLink="true">https://nusalensa.com/technology/quantum-computers-can-get-colder-than-deep-space-heres-how-they-stay-running</guid>
+      <description>Heat disrupts the accuracy of a quantum computer, so the computer needs to be kept as cold as possible. Which is extremely cold, it turns out.</description>
+      <category>Technology</category>
+      <pubDate>Sun, 25 Oct 2026 13:30:00 GMT</pubDate>
+      <enclosure url="https://www.engadget.com/img/gallery/quantum-computers-can-get-colder-than-deep-space-heres-how-they-stay-running/l-intro-1792594079.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>r/opensource just banned AI, non-English speakers, and more</title>
+      <link>https://nusalensa.com/technology/ropensource-just-banned-ai-non-english-speakers-and-more</link>
+      <guid isPermaLink="true">https://nusalensa.com/technology/ropensource-just-banned-ai-non-english-speakers-and-more</guid>
+      <description>The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, &quot;If </description>
+      <category>Technology</category>
+      <pubDate>Sun, 25 Oct 2026 13:25:32 GMT</pubDate>
+      <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Don&apos;t throw away your old Chromebook (even if you&apos;re getting a Googlebook)</title>
+      <link>https://nusalensa.com/technology/dont-throw-away-your-old-chromebook-even-if-youre-getting-a-googlebook</link>
+      <guid isPermaLink="true">https://nusalensa.com/technology/dont-throw-away-your-old-chromebook-even-if-youre-getting-a-googlebook</guid>
+      <description>There&apos;s plenty an old Chromebook can do, even if it&apos;s not your main computer.</description>
+      <category>Technology</category>
+      <pubDate>Sun, 25 Oct 2026 13:15:00 GMT</pubDate>
+      <enclosure url="https://www.engadget.com/img/gallery/dont-throw-away-your-old-chromebook-even-if-youre-getting-a-googlebook/l-intro-1792593842.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Weekly poll results: the OnePlus 16 could have been a global hit</title>
       <link>https://nusalensa.com/phones/weekly-poll-results-the-oneplus-16-could-have-been-a-global-hit</link>
@@ -15,6 +51,15 @@
       <category>Smartphones</category>
       <pubDate>Sun, 25 Oct 2026 13:02:02 GMT</pubDate>
       <enclosure url="https://fdn.gsmarena.com/imgroot/news/26/10/weekly-poll-results-oneplus-16/gsmarena_000.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>What tech is making you happy?</title>
+      <link>https://nusalensa.com/phones/what-tech-is-making-you-happy</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/what-tech-is-making-you-happy</guid>
+      <description>Tech is in a weird place right now. There are plenty of exciting developments in AI, tons of new hardware, and rapidly growing ideas, but it’s all surrounded by</description>
+      <category>Smartphones</category>
+      <pubDate>Sun, 25 Oct 2026 13:00:00 GMT</pubDate>
+      <enclosure url="https://9to5google.com/wp-content/uploads/sites/4/2026/10/Fitbit-Edge-vs-Fitbit-Air-3.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>When AI glasses could be a worthy headphones replacement</title>
@@ -231,51 +276,6 @@
       <category>Technology</category>
       <pubDate>Sat, 24 Oct 2026 23:00:00 GMT</pubDate>
       <enclosure url="https://www.engadget.com/img/gallery/why-your-ev-battery-still-loses-charge-while-its-parked/l-intro-1792579754.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>What kind of cooling system do EV batteries use and how does it work?</title>
-      <link>https://nusalensa.com/technology/what-kind-of-cooling-system-do-ev-batteries-use-and-how-does-it-work</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/what-kind-of-cooling-system-do-ev-batteries-use-and-how-does-it-work</guid>
-      <description>Electric cars need incredibly large batteries that offer long driving ranges and charge quickly, but remain cool when under load. This is how they do so.</description>
-      <category>Technology</category>
-      <pubDate>Sat, 24 Oct 2026 22:45:00 GMT</pubDate>
-      <enclosure url="https://www.engadget.com/img/gallery/what-kind-of-cooling-system-do-ev-batteries-use-and-how-does-it-work/l-intro-1792571941.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>What are the different types of digital wallets?</title>
-      <link>https://nusalensa.com/technology/what-are-the-different-types-of-digital-wallets</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/what-are-the-different-types-of-digital-wallets</guid>
-      <description>Digital wallets can completely remove the need to carry cards and cash, but there&apos;s a lot more to them than just your usual Apple, Samsung and Google offerings.</description>
-      <category>Technology</category>
-      <pubDate>Sat, 24 Oct 2026 22:30:00 GMT</pubDate>
-      <enclosure url="https://www.engadget.com/img/gallery/what-are-the-different-types-of-digital-wallets/l-intro-1792568656.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>The pros and cons of using an eSIM over a physical SIM card</title>
-      <link>https://nusalensa.com/technology/the-pros-and-cons-of-using-an-esim-over-a-physical-sim-card</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/the-pros-and-cons-of-using-an-esim-over-a-physical-sim-card</guid>
-      <description>eSIMs are more convenient than physical SIM cards in many ways, but they aren&apos;t a 100 percent upgrade.</description>
-      <category>Technology</category>
-      <pubDate>Sat, 24 Oct 2026 22:00:00 GMT</pubDate>
-      <enclosure url="https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-an-esim-over-a-physical-sim-card/l-intro-1792520369.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>CMF Speaker S unboxing and hands-on</title>
-      <link>https://nusalensa.com/reviews/cmf-speaker-s-unboxing-and-hands-on</link>
-      <guid isPermaLink="true">https://nusalensa.com/reviews/cmf-speaker-s-unboxing-and-hands-on</guid>
-      <description>Portable Bluetooth speakers are among the most diverse product groups nowadays. They come in all shapes and sizes, materials, colors, and pack different feature</description>
-      <category>Reviews</category>
-      <pubDate>Sat, 24 Oct 2026 21:59:01 GMT</pubDate>
-      <enclosure url="https://fdn.gsmarena.com/imgroot/news/26/10/cmf-speaker-s-hands-on/gsmarena_000.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Blue Planet III is keeping the rough edges in the age of AI</title>
-      <link>https://nusalensa.com/technology/blue-planet-iii-is-keeping-the-rough-edges-in-the-age-of-ai</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/blue-planet-iii-is-keeping-the-rough-edges-in-the-age-of-ai</guid>
-      <description>BBC&apos;s Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by</description>
-      <category>Technology</category>
-      <pubDate>Sat, 24 Oct 2026 21:29:12 GMT</pubDate>
-      <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/blue_planet_iii_episode_03_051_screengrab.avif?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>

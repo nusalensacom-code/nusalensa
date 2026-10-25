@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/samsung-probably-isnt-rebranding-one-ui-as-galaxy-os</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T13:45:00Z</news:publication_date>
+      <news:title>Samsung probably isn&apos;t rebranding One UI as Galaxy OS</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/samsung-probably-isnt-rebranding-one-ui-as-galaxy-os/l-intro-1792594756.jpg</image:loc>
+      <image:title>Samsung probably isn&apos;t rebranding One UI as Galaxy OS</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/quantum-computers-can-get-colder-than-deep-space-heres-how-they-stay-running</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T13:30:00Z</news:publication_date>
+      <news:title>Quantum computers can get colder than deep space — Here&apos;s how they stay running</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/quantum-computers-can-get-colder-than-deep-space-heres-how-they-stay-running/l-intro-1792594079.jpg</image:loc>
+      <image:title>Quantum computers can get colder than deep space — Here&apos;s how they stay running</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/ropensource-just-banned-ai-non-english-speakers-and-more</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T13:25:32Z</news:publication_date>
+      <news:title>r/opensource just banned AI, non-English speakers, and more</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>r/opensource just banned AI, non-English speakers, and more</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/dont-throw-away-your-old-chromebook-even-if-youre-getting-a-googlebook</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T13:15:00Z</news:publication_date>
+      <news:title>Don&apos;t throw away your old Chromebook (even if you&apos;re getting a Googlebook)</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/dont-throw-away-your-old-chromebook-even-if-youre-getting-a-googlebook/l-intro-1792593842.jpg</image:loc>
+      <image:title>Don&apos;t throw away your old Chromebook (even if you&apos;re getting a Googlebook)</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/weekly-poll-results-the-oneplus-16-could-have-been-a-global-hit</loc>
     <news:news>
       <news:publication>
@@ -15,6 +75,21 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/weekly-poll-results-oneplus-16/gsmarena_000.jpg</image:loc>
       <image:title>Weekly poll results: the OnePlus 16 could have been a global hit</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/what-tech-is-making-you-happy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T13:00:00Z</news:publication_date>
+      <news:title>What tech is making you happy?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Fitbit-Edge-vs-Fitbit-Air-3.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>What tech is making you happy?</image:title>
     </image:image>
   </url>
   <url>
@@ -2595,96 +2670,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-23-at-9.37.49-AM.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Apple revives the original iPod as an Apple Music easter egg</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/vivo-y600-carrier-listing-reveals-key-specs-ahead-of-launch</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T13:56:02Z</news:publication_date>
-      <news:title>vivo Y600 carrier listing reveals key specs ahead of launch</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/vivo-y600-carrier-listing/gsmarena_000.jpg</image:loc>
-      <image:title>vivo Y600 carrier listing reveals key specs ahead of launch</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/it8217s-not-just-you-galaxy-s24-and-s25-owners-report-excess-battery-drain-after-one-ui-9</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T13:47:05Z</news:publication_date>
-      <news:title>It&amp;#8217;s not just you: Galaxy S24 and S25 owners report excess battery drain after One UI 9</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/01/Samsung-Galaxy-S24-Ultra-Battery-Life-angled.jpg</image:loc>
-      <image:title>It&amp;#8217;s not just you: Galaxy S24 and S25 owners report excess battery drain after One UI 9</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-reactor-meant-to-showcase-nuclears-comeback-keeps-hitting-problems</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T13:43:21Z</news:publication_date>
-      <news:title>The reactor meant to showcase nuclear’s comeback keeps hitting problems</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/palisades-nuke-1024x648.jpg</image:loc>
-      <image:title>The reactor meant to showcase nuclear’s comeback keeps hitting problems</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/you-can-score-a-pixel-watch-5-with-lte-for-100-off-right-now</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T13:35:00Z</news:publication_date>
-      <news:title>You can score a Pixel Watch 5 with LTE for $100 off right now</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-Watch-5-and-Pixel-11.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>You can score a Pixel Watch 5 with LTE for $100 off right now</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iphone-duo-says-039hello039-to-you-personally</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T13:15:15Z</news:publication_date>
-      <news:title>iPhone Duo Says &amp;#039;Hello&amp;#039; to You Personally</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Hello-Aaron.jpg</image:loc>
-      <image:title>iPhone Duo Says &amp;#039;Hello&amp;#039; to You Personally</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/greece-enacts-social-media-ban-for-kids-under-15</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T13:12:47Z</news:publication_date>
-      <news:title>Greece enacts social media ban for kids under 15</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/greece-enacts-social-media-ban-for-kids-under-15/l-intro-1792761065.jpg</image:loc>
-      <image:title>Greece enacts social media ban for kids under 15</image:title>
     </image:image>
   </url>
 </urlset>
