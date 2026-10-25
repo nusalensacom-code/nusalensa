@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/scott-walkers-the-drift-will-get-under-your-skin</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T21:08:09Z</news:publication_date>
+      <news:title>Scott Walker’s The Drift will get under your skin</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/a1635465713_10.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Scott Walker’s The Drift will get under your skin</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/a-youtuber-dissected-an-iphone-duo-and-thinks-he-found-the-cause-of-crackgate</loc>
     <news:news>
       <news:publication>
@@ -1830,51 +1845,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-iPhone-Duo-Hands-On-Facetime-on-inner-display-in-flex-mode.jpg</image:loc>
       <image:title>Some iPhone Duo screens aren’t making it through day one</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/this-launcher-was-made-for-your-dual-screen-android-handheld</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T21:14:18Z</news:publication_date>
-      <news:title>This launcher was made for your dual-screen Android handheld</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/12/ANBERNIC-RG-in-hand-DS-Meteos.jpg</image:loc>
-      <image:title>This launcher was made for your dual-screen Android handheld</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/openai-now-trains-its-frontier-ai-models-with-no-internet-access</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T21:11:07Z</news:publication_date>
-      <news:title>OpenAI now trains its frontier AI models with no internet access</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>OpenAI now trains its frontier AI models with no internet access</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-health-511-rolling-out-with-fitbit-air-health-guardian-improved-sleep-tracking-038-more</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T21:00:10Z</news:publication_date>
-      <news:title>Google Health 5.11 rolling out with Fitbit Air Health Guardian, improved sleep tracking, &amp;#038; more</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/05/google-fitbit-air-hands-on-13.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Google Health 5.11 rolling out with Fitbit Air Health Guardian, improved sleep tracking, &amp;#038; more</image:title>
     </image:image>
   </url>
 </urlset>
