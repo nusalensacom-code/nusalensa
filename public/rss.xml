@@ -5,8 +5,35 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 25 Oct 2026 18:21:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 19:02:11 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What does the bell icon mean on your CarPlay screen?</title>
+      <link>https://nusalensa.com/technology/what-does-the-bell-icon-mean-on-your-carplay-screen</link>
+      <guid isPermaLink="true">https://nusalensa.com/technology/what-does-the-bell-icon-mean-on-your-carplay-screen</guid>
+      <description>Even as a simplified interface, CarPlay has a few icons that aren&apos;t so obvious, like its bell that appears on the app switcher.</description>
+      <category>Technology</category>
+      <pubDate>Sun, 25 Oct 2026 18:45:00 GMT</pubDate>
+      <enclosure url="https://www.engadget.com/img/gallery/what-does-the-bell-icon-mean-on-your-carplay-screen/l-intro-1792672048.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Early iPhone Duo buyers report inner display damage caused by a potential hinge defect</title>
+      <link>https://nusalensa.com/phones/early-iphone-duo-buyers-report-inner-display-damage-caused-by-a-potential-hinge-defect</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/early-iphone-duo-buyers-report-inner-display-damage-caused-by-a-potential-hinge-defect</guid>
+      <description>Buyers of Apple&apos;s first foldable, the iPhone Duo, are reporting a serious issue online with their purchase. All reports demonstrate a common pattern of a vertic</description>
+      <category>Smartphones</category>
+      <pubDate>Sun, 25 Oct 2026 18:42:50 GMT</pubDate>
+      <enclosure url="https://fdn.gsmarena.com/imgroot/news/26/10/iphone-duo-display-crack/gsmarena_000.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>The most unexpected everyday tool can be found on your phone</title>
+      <link>https://nusalensa.com/phones/the-most-unexpected-everyday-tool-can-be-found-on-your-phone</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/the-most-unexpected-everyday-tool-can-be-found-on-your-phone</guid>
+      <description>If you have an iPhone, that is.</description>
+      <category>Smartphones</category>
+      <pubDate>Sun, 25 Oct 2026 18:30:00 GMT</pubDate>
+      <enclosure url="https://www.engadget.com/img/gallery/the-most-unexpected-everyday-tool-can-be-found-on-your-phone/l-intro-1792514406.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Even the best mesh Wi-Fi system can be easily improved with a simple cable</title>
       <link>https://nusalensa.com/technology/even-the-best-mesh-wi-fi-system-can-be-easily-improved-with-a-simple-cable</link>
@@ -249,33 +276,6 @@
       <category>Smartphones</category>
       <pubDate>Sun, 25 Oct 2026 11:30:12 GMT</pubDate>
       <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/10/Nothing-Phone-1-showing-welcome-screen-of-Gemini-Android-app-2-scaled.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Fitbit Edge vs Fitbit Air: Which health features do you actually get?</title>
-      <link>https://nusalensa.com/phones/fitbit-edge-vs-fitbit-air-which-health-features-do-you-actually-get</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/fitbit-edge-vs-fitbit-air-which-health-features-do-you-actually-get</guid>
-      <description>All that Edge, yet Air wins?</description>
-      <category>Smartphones</category>
-      <pubDate>Sun, 25 Oct 2026 11:00:48 GMT</pubDate>
-      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/10/fitbit-edge-hands-on-2-scaled.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>The 7 tech products that truly improved my life</title>
-      <link>https://nusalensa.com/phones/the-7-tech-products-that-truly-improved-my-life</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/the-7-tech-products-that-truly-improved-my-life</guid>
-      <description>From my Sony headphones to Synology NAS, these are the 7 tech products that have genuinely improved my everyday life.</description>
-      <category>Smartphones</category>
-      <pubDate>Sun, 25 Oct 2026 11:00:09 GMT</pubDate>
-      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2025/10/Synology-DS925-Plus-on-a-desk-scaled.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Google Messages sucks at SMS, but this open source app has the one feature I need</title>
-      <link>https://nusalensa.com/phones/google-messages-sucks-at-sms-but-this-open-source-app-has-the-one-feature-i-need</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/google-messages-sucks-at-sms-but-this-open-source-app-has-the-one-feature-i-need</guid>
-      <description>By focusing on RCS, Google Messages has neglected the practical SMS features I want.</description>
-      <category>Smartphones</category>
-      <pubDate>Sun, 25 Oct 2026 11:00:03 GMT</pubDate>
-      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/10/quik-sms-app-google-messages-spam-1.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
