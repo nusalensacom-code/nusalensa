@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/apple-addresses-web-security-threat-working-on-macos-update-with-additional-fix</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T23:07:28Z</news:publication_date>
+      <news:title>Apple Addresses Web Security Threat, Working on macOS Update With Additional Fix</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/Switch-to-Safari.jpg</image:loc>
+      <image:title>Apple Addresses Web Security Threat, Working on macOS Update With Additional Fix</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/most-windows-users-are-seriously-underusing-this-powerful-desktop-feature</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T23:00:00Z</news:publication_date>
+      <news:title>Most Windows users are seriously underusing this powerful desktop feature</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/most-windows-users-are-seriously-underusing-this-powerful-desktop-feature/l-intro-1792683535.jpg</image:loc>
+      <image:title>Most Windows users are seriously underusing this powerful desktop feature</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/does-tsa-actually-allow-airtags-in-your-luggage-heres-what-the-rules-say</loc>
     <news:news>
       <news:publication>

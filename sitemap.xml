@@ -468,6 +468,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/apple-addresses-web-security-threat-working-on-macos-update-with-additional-fix</loc>
+    <lastmod>2026-10-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/Switch-to-Safari.jpg</image:loc>
+      <image:title>Apple Addresses Web Security Threat, Working on macOS Update With Additional Fix</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/most-windows-users-are-seriously-underusing-this-powerful-desktop-feature</loc>
+    <lastmod>2026-10-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/most-windows-users-are-seriously-underusing-this-powerful-desktop-feature/l-intro-1792683535.jpg</image:loc>
+      <image:title>Most Windows users are seriously underusing this powerful desktop feature</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/does-tsa-actually-allow-airtags-in-your-luggage-heres-what-the-rules-say</loc>
     <lastmod>2026-10-25</lastmod>
     <changefreq>daily</changefreq>
