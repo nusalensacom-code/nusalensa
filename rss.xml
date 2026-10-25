@@ -5,8 +5,17 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 25 Oct 2026 09:25:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 09:58:24 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deals: Oppo Find X10 series gets pre-order discounts, iPhone Duo goes on sale</title>
+      <link>https://nusalensa.com/phones/deals-oppo-find-x10-series-gets-pre-order-discounts-iphone-duo-goes-on-sale</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/deals-oppo-find-x10-series-gets-pre-order-discounts-iphone-duo-goes-on-sale</guid>
+      <description>Oppo recently launched the Find X10 and Find X10 Pro Max in global markets, and both phones are now available for pre-order in the UK. Meanwhile, Apple’s iPhone</description>
+      <category>Smartphones</category>
+      <pubDate>Sun, 25 Oct 2026 09:31:02 GMT</pubDate>
+      <enclosure url="https://fdn.gsmarena.com/imgroot/news/26/10/deals-23/gsmarena_uk.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>One UI 9 could have caught up to Google, but Samsung is still missing one thing</title>
       <link>https://nusalensa.com/phones/one-ui-9-could-have-caught-up-to-google-but-samsung-is-still-missing-one-thing</link>
@@ -267,15 +276,6 @@
       <category>Technology</category>
       <pubDate>Sat, 24 Oct 2026 16:30:00 GMT</pubDate>
       <enclosure url="https://www.engadget.com/img/gallery/theres-a-chance-your-playstation-5-is-plugged-into-the-wrong-hdmi-port/l-intro-1792510070.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>The UK is investing $134 million into an AI Biosecurity Lab</title>
-      <link>https://nusalensa.com/technology/the-uk-is-investing-134-million-into-an-ai-biosecurity-lab</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/the-uk-is-investing-134-million-into-an-ai-biosecurity-lab</guid>
-      <description>The UK has established the AI Biosecurity Lab, which will help it detect biological threats and develop vaccines with AI.</description>
-      <category>Technology</category>
-      <pubDate>Sat, 24 Oct 2026 16:11:53 GMT</pubDate>
-      <enclosure url="https://www.engadget.com/img/gallery/the-uk-is-investing-134-million-into-an-ai-biosecurity-lab/l-intro-1792858052.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>

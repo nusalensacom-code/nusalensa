@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/deals-oppo-find-x10-series-gets-pre-order-discounts-iphone-duo-goes-on-sale</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T09:31:02Z</news:publication_date>
+      <news:title>Deals: Oppo Find X10 series gets pre-order discounts, iPhone Duo goes on sale</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/deals-23/gsmarena_uk.jpg</image:loc>
+      <image:title>Deals: Oppo Find X10 series gets pre-order discounts, iPhone Duo goes on sale</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/one-ui-9-could-have-caught-up-to-google-but-samsung-is-still-missing-one-thing</loc>
     <news:news>
       <news:publication>
@@ -2895,21 +2910,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/oura-sues-ultrahuman-again-to-block-its-latest-smart-ring-from-the-us-market/l-intro-1792749492.jpg</image:loc>
       <image:title>Oura sues Ultrahuman (again) to block its latest smart ring from the US market</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/want-to-make-ai-ringtones-for-your-android-phone-here-are-my-favorite-prompts-and-tips</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T09:30:32Z</news:publication_date>
-      <news:title>Want to make AI ringtones for your Android phone? Here are my favorite prompts and tips</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/pickupandrun-scaled.jpeg</image:loc>
-      <image:title>Want to make AI ringtones for your Android phone? Here are my favorite prompts and tips</image:title>
     </image:image>
   </url>
 </urlset>
