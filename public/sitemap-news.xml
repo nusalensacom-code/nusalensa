@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/this-switch-2-sequel-accessory-was-a-few-millimeters-away-from-being-good</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T17:00:00Z</news:publication_date>
+      <news:title>This Switch 2 sequel accessory was a few millimeters away from being good</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/crkd1_56c540.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>This Switch 2 sequel accessory was a few millimeters away from being good</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/what-features-do-you-lose-if-you-use-apple-airpods-with-a-samsung-galaxy-phone</loc>
     <news:news>
       <news:publication>
@@ -2280,66 +2295,6 @@
     <image:image>
       <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1472974929-1152x648.jpg</image:loc>
       <image:title>Crows can evaluate visual info twice as fast as mammals</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/fitbit-versa-4-bundle-hits-its-lowest-price-since-february</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T17:23:04Z</news:publication_date>
-      <news:title>Fitbit Versa 4 bundle hits its lowest price since February</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2022/09/Fitbit-Versa-4-home-screen-scaled.jpg</image:loc>
-      <image:title>Fitbit Versa 4 bundle hits its lowest price since February</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T17:18:31Z</news:publication_date>
-      <news:title>Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/Intel-fab-interior-1152x648.jpg</image:loc>
-      <image:title>Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-iphone-duo-should-have-been-an-ipad</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T17:00:18Z</news:publication_date>
-      <news:title>The iPhone Duo should have been an iPad</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_102326_Site_attempt.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>The iPhone Duo should have been an iPad</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/save-over-360-on-klipsch-flexus-core-300-512-dolby-atmos-soundbar</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T16:59:35Z</news:publication_date>
-      <news:title>Save over $360 on Klipsch Flexus CORE 300 5.1.2 Dolby Atmos soundbar</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Klipsch-Flexus-CORE-300-Sound-Bar-Press-Image.jpg</image:loc>
-      <image:title>Save over $360 on Klipsch Flexus CORE 300 5.1.2 Dolby Atmos soundbar</image:title>
     </image:image>
   </url>
 </urlset>
