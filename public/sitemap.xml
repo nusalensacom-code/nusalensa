@@ -468,6 +468,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/oneplus-15-starts-receiving-the-stable-coloros-17-update-based-on-android-17</loc>
+    <lastmod>2026-10-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/oneplus-15-coloros-17-update/gsmarena_000.jpg</image:loc>
+      <image:title>OnePlus 15 starts receiving the stable ColorOS 17 update based on Android 17</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/zen-browser-is-the-arc-replacement-i-was-looking-for</loc>
     <lastmod>2026-10-25</lastmod>
     <changefreq>daily</changefreq>

@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/oneplus-15-starts-receiving-the-stable-coloros-17-update-based-on-android-17</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T20:02:02Z</news:publication_date>
+      <news:title>OnePlus 15 starts receiving the stable ColorOS 17 update based on Android 17</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/oneplus-15-coloros-17-update/gsmarena_000.jpg</image:loc>
+      <image:title>OnePlus 15 starts receiving the stable ColorOS 17 update based on Android 17</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/zen-browser-is-the-arc-replacement-i-was-looking-for</loc>
     <news:news>
       <news:publication>
@@ -1950,66 +1965,6 @@
     <image:image>
       <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-grooves-1152x648.jpg</image:loc>
       <image:title>Updated Google privacy policy says your Gmail might be used for advertising</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-store-pickup-for-iphone-duo-starting-to-resume-but-very-limited</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T20:16:18Z</news:publication_date>
-      <news:title>Apple Store Pickup for iPhone Duo Starting to Resume But Very Limited</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/hero_medium_2x-feature1.jpg</image:loc>
-      <image:title>Apple Store Pickup for iPhone Duo Starting to Resume But Very Limited</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/your-pixel-watch-is-getting-smarter-about-tracking-activity-with-google-health-511</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T20:06:16Z</news:publication_date>
-      <news:title>Your Pixel Watch is getting smarter about tracking activity with Google Health 5.11</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/fitbit-edge-hands-on-6-scaled.jpg</image:loc>
-      <image:title>Your Pixel Watch is getting smarter about tracking activity with Google Health 5.11</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/fridays-android-app-deals-and-freebies-dredge-slaps-and-beans-thronefall-more</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T19:55:20Z</news:publication_date>
-      <news:title>Friday’s Android app deals and freebies: DREDGE, Slaps And Beans, Thronefall, more</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Google-Play-collage-b282d1.png?w=1600</image:loc>
-      <image:title>Friday’s Android app deals and freebies: DREDGE, Slaps And Beans, Thronefall, more</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iphone-duo-jailbroken-on-launch-day</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T19:53:55Z</news:publication_date>
-      <news:title>iPhone Duo Jailbroken on Launch Day</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/iPhone-Duo-AAAAAAAHHHHHPP-Icons-Feature.jpg</image:loc>
-      <image:title>iPhone Duo Jailbroken on Launch Day</image:title>
     </image:image>
   </url>
 </urlset>
