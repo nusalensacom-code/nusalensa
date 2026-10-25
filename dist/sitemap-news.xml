@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/heres-how-much-playstation-plus-cost-in-2010-vs-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T15:45:00Z</news:publication_date>
+      <news:title>Here&apos;s how much PlayStation Plus cost in 2010 vs. 2026</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/heres-how-much-playstation-plus-cost-in-2010-vs-2026/l-intro-1792603440.jpg</image:loc>
+      <image:title>Here&apos;s how much PlayStation Plus cost in 2010 vs. 2026</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/apple-stores-reportedly-rolling-out-new-anti-theft-system-for-iphones</loc>
     <news:news>
       <news:publication>
@@ -2445,141 +2460,6 @@
     <image:image>
       <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2025/03/Id-pass-Google-Wallet-how-to-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
       <image:title>Google Wallet rolling out notifications feed, support for more digital passports [U]</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/deals-pixel-watch-5-up-to-150-off-pixel-11-pro-fold-420-off-lenovo-tab-plus-gen-2-ring8217s-2026-doorbell-at-45-more</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T15:54:03Z</news:publication_date>
-      <news:title>Deals: Pixel Watch 5 up to $150 off, Pixel 11 Pro Fold $420 off, Lenovo Tab Plus Gen 2, Ring&amp;#8217;s 2026 Doorbell at $45, more</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/9to5Google-Oct-23.png?w=1600</image:loc>
-      <image:title>Deals: Pixel Watch 5 up to $150 off, Pixel 11 Pro Fold $420 off, Lenovo Tab Plus Gen 2, Ring&amp;#8217;s 2026 Doorbell at $45, more</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/garmin-quatix-7-pro-drops-to-record-low-on-amazon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T15:51:16Z</news:publication_date>
-      <news:title>Garmin quatix 7 Pro drops to record low on Amazon</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Garmin-quatix-7-Pro-Press-Image.jpg</image:loc>
-      <image:title>Garmin quatix 7 Pro drops to record low on Amazon</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-macrumors-show-iphone-duo-arrives-touchscreen-macbooks-next</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T15:48:22Z</news:publication_date>
-      <news:title>The MacRumors Show: iPhone Duo Arrives, Touchscreen MacBooks Next</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
-      <image:title>The MacRumors Show: iPhone Duo Arrives, Touchscreen MacBooks Next</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/apple-music-has-a-fun-easter-egg-for-the-ipods-25th-anniversary</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T15:47:03Z</news:publication_date>
-      <news:title>Apple Music has a fun Easter egg for the iPod&apos;s 25th anniversary</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/apple-music-has-a-fun-easter-egg-for-the-ipods-25th-anniversary/l-intro-1792770156.jpg</image:loc>
-      <image:title>Apple Music has a fun Easter egg for the iPod&apos;s 25th anniversary</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/i-needed-a-dashcam-while-out-running-meta-glasses-turned-out-to-be-the-answer</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T15:45:44Z</news:publication_date>
-      <news:title>I needed a dashcam while out running. Meta glasses turned out to be the answer</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/meta-nova-glasses-camera-01.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>I needed a dashcam while out running. Meta glasses turned out to be the answer</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-released-ios-271-for-iphone-duo-only</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T15:35:00Z</news:publication_date>
-      <news:title>Apple Released iOS 27.1 for iPhone Duo Only</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/iOS-27-1.jpg</image:loc>
-      <image:title>Apple Released iOS 27.1 for iPhone Duo Only</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/amazon-cuts-85-off-the-razer-usb-4-dock</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T15:32:25Z</news:publication_date>
-      <news:title>Amazon cuts $85 off the Razer USB 4 Dock</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Razer-USB-4-Dock-Press-Image.jpg</image:loc>
-      <image:title>Amazon cuts $85 off the Razer USB 4 Dock</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/feds-want-robotaxis-to-signal-im-driving-with-cyan-colored-lights</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T15:24:45Z</news:publication_date>
-      <news:title>Feds want robotaxis to signal ‘I’m driving’ with cyan-colored lights</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24390349/22C0157_053.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Feds want robotaxis to signal ‘I’m driving’ with cyan-colored lights</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iphone-duo-open-two-apps-side-by-side-and-lock-them-as-an-app-pair</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T15:24:38Z</news:publication_date>
-      <news:title>iPhone Duo: Open Two Apps Side by Side and Lock Them As an App Pair</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/09/iphone-duo-split-screen-scaled-e1789143118947.jpg</image:loc>
-      <image:title>iPhone Duo: Open Two Apps Side by Side and Lock Them As an App Pair</image:title>
     </image:image>
   </url>
 </urlset>
