@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/adjust-iphone-duo039s-outer-display-to-accommodate-your-case</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T22:00:02Z</news:publication_date>
+      <news:title>Adjust iPhone Duo&amp;#039;s Outer Display to Accommodate Your Case</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/09/shift-left-edge-iphone-duo@2x-scaled.jpg</image:loc>
+      <image:title>Adjust iPhone Duo&amp;#039;s Outer Display to Accommodate Your Case</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/your-devices-could-be-on-the-wrong-wi-fi-band-and-its-slowing-them-down</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T22:00:00Z</news:publication_date>
+      <news:title>Your devices could be on the wrong Wi-Fi band, and it&apos;s slowing them down</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/your-devices-could-be-on-the-wrong-wi-fi-band-and-its-slowing-them-down/l-intro-1792677053.jpg</image:loc>
+      <image:title>Your devices could be on the wrong Wi-Fi band, and it&apos;s slowing them down</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/ifixit-iphone-duo-teardown-points-to-possible-cause-of-screen-cracks</loc>
     <news:news>
       <news:publication>
@@ -1800,51 +1830,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/openai-says-its-cutting-off-internet-access-for-frontier-model-training/l-intro-1792794862.jpg</image:loc>
       <image:title>OpenAI says it&apos;s cutting off internet access for frontier model training</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/gemini-for-android-rolls-out-side-panel-and-settings-redesign</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T22:02:00Z</news:publication_date>
-      <news:title>Gemini for Android rolls out side panel and settings redesign</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-2.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Gemini for Android rolls out side panel and settings redesign</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T21:59:19Z</news:publication_date>
-      <news:title>Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
-      <image:title>Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/deal-the-samsung-galaxy-z-fold8-is-300-cheaper-than-the-iphone-duo</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T21:54:02Z</news:publication_date>
-      <news:title>Deal: the Samsung Galaxy Z Fold8 is $300 cheaper than the iPhone Duo</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/samsung-galaxy-z-fold8-us-deal/gsmarena_000.jpg</image:loc>
-      <image:title>Deal: the Samsung Galaxy Z Fold8 is $300 cheaper than the iPhone Duo</image:title>
     </image:image>
   </url>
 </urlset>
