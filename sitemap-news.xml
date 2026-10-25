@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/even-the-best-mesh-wi-fi-system-can-be-easily-improved-with-a-simple-cable</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T18:00:00Z</news:publication_date>
+      <news:title>Even the best mesh Wi-Fi system can be easily improved with a simple cable</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/even-the-best-mesh-wi-fi-system-can-be-easily-improved-with-a-simple-cable/l-intro-1792611196.jpg</image:loc>
+      <image:title>Even the best mesh Wi-Fi system can be easily improved with a simple cable</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/this-switch-2-sequel-accessory-was-a-few-millimeters-away-from-being-good</loc>
     <news:news>
       <news:publication>
@@ -2145,51 +2160,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/google-messages-logo-pixel-11-pro-close-scaled.jpg</image:loc>
       <image:title>Google Messages is working to finally clean up its messy settings menu</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/ugreens-45w-world-travel-adapter-is-back-to-its-prime-day-low</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T18:06:23Z</news:publication_date>
-      <news:title>UGREEN’s 45W world travel adapter is back to its Prime Day low</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/UGREEN-45W-6-Port-Universal-Travel-Plug-Adapter-Press-Image.jpg</image:loc>
-      <image:title>UGREEN’s 45W world travel adapter is back to its Prime Day low</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/crackgate-iphone-duo-owners-report-screens-breaking-along-the-hinge</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T18:05:41Z</news:publication_date>
-      <news:title>Crackgate? iPhone Duo Owners Report Screens Breaking Along the Hinge</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/iphone-duo-screen-crack.jpg</image:loc>
-      <image:title>Crackgate? iPhone Duo Owners Report Screens Breaking Along the Hinge</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iphone-duo-brings-back-long-lines-at-apple-stores</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T17:56:01Z</news:publication_date>
-      <news:title>iPhone Duo Brings Back Long Lines at Apple Stores</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/Apple-Store-Austin-Texas-iPhone-Duo-Launch-Day.jpg</image:loc>
-      <image:title>iPhone Duo Brings Back Long Lines at Apple Stores</image:title>
     </image:image>
   </url>
 </urlset>

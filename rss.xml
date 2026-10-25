@@ -5,8 +5,17 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 25 Oct 2026 17:55:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 18:21:11 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Even the best mesh Wi-Fi system can be easily improved with a simple cable</title>
+      <link>https://nusalensa.com/technology/even-the-best-mesh-wi-fi-system-can-be-easily-improved-with-a-simple-cable</link>
+      <guid isPermaLink="true">https://nusalensa.com/technology/even-the-best-mesh-wi-fi-system-can-be-easily-improved-with-a-simple-cable</guid>
+      <description>Mesh systems generally provide better Wi-Fi coverage than standalone routers, but you can make the mesh signal even stronger.</description>
+      <category>Technology</category>
+      <pubDate>Sun, 25 Oct 2026 18:00:00 GMT</pubDate>
+      <enclosure url="https://www.engadget.com/img/gallery/even-the-best-mesh-wi-fi-system-can-be-easily-improved-with-a-simple-cable/l-intro-1792611196.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>This Switch 2 sequel accessory was a few millimeters away from being good</title>
       <link>https://nusalensa.com/technology/this-switch-2-sequel-accessory-was-a-few-millimeters-away-from-being-good</link>
@@ -267,15 +276,6 @@
       <category>Smartphones</category>
       <pubDate>Sun, 25 Oct 2026 11:00:03 GMT</pubDate>
       <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/10/quik-sms-app-google-messages-spam-1.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Which phone has the best portrait camera mode? I tested the big three to find out</title>
-      <link>https://nusalensa.com/phones/which-phone-has-the-best-portrait-camera-mode-i-tested-the-big-three-to-find-out</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/which-phone-has-the-best-portrait-camera-mode-i-tested-the-big-three-to-find-out</guid>
-      <description>Let&apos;s find out whether Galaxy, iPhone, or Pixel has the best portrait quality and features.</description>
-      <category>Smartphones</category>
-      <pubDate>Sun, 25 Oct 2026 10:30:56 GMT</pubDate>
-      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/10/Galaxy-vs-iPhone-vs-Pixel-in-hand-scaled.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
