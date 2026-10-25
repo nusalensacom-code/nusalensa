@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/get-the-ultimate-security-for-your-macbook-by-changing-these-privacy-settings</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T14:45:00Z</news:publication_date>
+      <news:title>Get the ultimate security for your MacBook by changing these privacy settings</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/get-the-ultimate-security-for-your-macbook-by-changing-these-privacy-settings/l-intro-1792599428.jpg</image:loc>
+      <image:title>Get the ultimate security for your MacBook by changing these privacy settings</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/airtag-2-drops-to-new-low-price-of-3623-on-amazon</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T14:31:28Z</news:publication_date>
+      <news:title>AirTag 2 Drops to New Low Price of &amp;#36;23 on Amazon</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/08/airtag-2-blue.jpeg</image:loc>
+      <image:title>AirTag 2 Drops to New Low Price of &amp;#36;23 on Amazon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-reportedly-announcing-new-macbook-pro-with-oled-touchscreen-on-wednesday</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T14:30:34Z</news:publication_date>
+      <news:title>Apple Reportedly Announcing New MacBook Pro With OLED Touchscreen on Wednesday</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/MacBook-Pro-Dynamic-Island-multicolor.jpg</image:loc>
+      <image:title>Apple Reportedly Announcing New MacBook Pro With OLED Touchscreen on Wednesday</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/why-are-earbuds-usually-cheaper-than-headphones</loc>
     <news:news>
       <news:publication>
@@ -2535,66 +2580,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/03/ultrahuman-ring-pro-pre-orders-in-the-us/gsmarena_000.jpg</image:loc>
       <image:title>Oura sues Ultrahuman in the US once again, threatening the new Ring Pro</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/meta-delays-new-business-terms-after-publisher-pushback-on-ai-scraping</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T14:47:41Z</news:publication_date>
-      <news:title>Meta delays new business terms after publisher pushback on AI scraping</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951350/STK043_VRG_Illo_N_Barclay_6_Meta.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Meta delays new business terms after publisher pushback on AI scraping</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-pixel-watch-5-deal-saves-you-100-on-the-lte-model</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T14:45:55Z</news:publication_date>
-      <news:title>Google Pixel Watch 5 deal saves you $100 on the LTE model</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-8-scaled-e1786466755516-500w-260h.jpg</image:loc>
-      <image:title>Google Pixel Watch 5 deal saves you $100 on the LTE model</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iphone-duo-launches-with-carrier-and-accessory-discounts-available</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T14:43:38Z</news:publication_date>
-      <news:title>iPhone Duo Launches With Carrier and Accessory Discounts Available</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/new-best-apple-deals-dark-mode.jpeg</image:loc>
-      <image:title>iPhone Duo Launches With Carrier and Accessory Discounts Available</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-sigma-fp2-brings-significant-upgrades-to-the-worlds-smallest-full-frame-camera</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T14:42:46Z</news:publication_date>
-      <news:title>The Sigma FP2 brings significant upgrades to the ‘world’s smallest’ full-frame camera</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/sigmafp2_1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>The Sigma FP2 brings significant upgrades to the ‘world’s smallest’ full-frame camera</image:title>
     </image:image>
   </url>
 </urlset>
