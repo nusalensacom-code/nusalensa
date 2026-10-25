@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/ifixit-iphone-duo-teardown-points-to-possible-cause-of-screen-cracks</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T21:44:03Z</news:publication_date>
+      <news:title>iFixit iPhone Duo Teardown Points to Possible Cause of Screen Cracks</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/ifixit-iphone-duo-teardown.jpg</image:loc>
+      <image:title>iFixit iPhone Duo Teardown Points to Possible Cause of Screen Cracks</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/ifixit8217s-look-inside-the-iphone-duo-may-explain-those-broken-screens-and-hinges</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T21:40:27Z</news:publication_date>
+      <news:title>iFixit&amp;#8217;s look inside the iPhone Duo may explain those broken screens and hinges</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iPhone-Duo-layout01.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>iFixit&amp;#8217;s look inside the iPhone Duo may explain those broken screens and hinges</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/scott-walkers-the-drift-will-get-under-your-skin</loc>
     <news:news>
       <news:publication>
@@ -1815,36 +1845,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/samsung-galaxy-z-fold8-us-deal/gsmarena_000.jpg</image:loc>
       <image:title>Deal: the Samsung Galaxy Z Fold8 is $300 cheaper than the iPhone Duo</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/xboxs-first-chief-operating-officer-is-out-after-just-a-few-months</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T21:39:26Z</news:publication_date>
-      <news:title>Xbox’s first chief operating officer is out after just a few months</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485116/STK048_XBOX2__B.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Xbox’s first chief operating officer is out after just a few months</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/some-iphone-duo-screens-arent-making-it-through-day-one</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T21:26:00Z</news:publication_date>
-      <news:title>Some iPhone Duo screens aren’t making it through day one</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-iPhone-Duo-Hands-On-Facetime-on-inner-display-in-flex-mode.jpg</image:loc>
-      <image:title>Some iPhone Duo screens aren’t making it through day one</image:title>
     </image:image>
   </url>
 </urlset>
