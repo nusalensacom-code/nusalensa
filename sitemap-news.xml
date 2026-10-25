@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/a-youtuber-dissected-an-iphone-duo-and-thinks-he-found-the-cause-of-crackgate</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T20:16:19Z</news:publication_date>
+      <news:title>A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/20ruxzn728xh1.jpeg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/oneplus-15-starts-receiving-the-stable-coloros-17-update-based-on-android-17</loc>
     <news:news>
       <news:publication>
@@ -1860,111 +1875,6 @@
     <image:image>
       <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/05/google-fitbit-air-hands-on-13.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
       <image:title>Google Health 5.11 rolling out with Fitbit Air Health Guardian, improved sleep tracking, &amp;#038; more</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/oneplus-nord-buds-3-pro-hit-their-lowest-price-in-months</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T20:54:49Z</news:publication_date>
-      <news:title>OnePlus Nord Buds 3 Pro hit their lowest price in months</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/07/OnePlus-Nord-Buds-3-Pro-scaled.jpg</image:loc>
-      <image:title>OnePlus Nord Buds 3 Pro hit their lowest price in months</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/using-an-apple-pencil-with-the-iphone-duo-what-to-know</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T20:49:57Z</news:publication_date>
-      <news:title>Using an Apple Pencil With the iPhone Duo: What to Know</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
-      <image:title>Using an Apple Pencil With the iPhone Duo: What to Know</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-messages-rolling-out-enhanced-protection-mode-against-spam-and-scams</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T20:47:00Z</news:publication_date>
-      <news:title>Google Messages rolling out Enhanced Protection mode against spam and scams</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2023/03/google-messages-logo-circle-3.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Google Messages rolling out Enhanced Protection mode against spam and scams</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/pixelated-122-seven-years-late-same-foldable-problems</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T20:30:00Z</news:publication_date>
-      <news:title>Pixelated 122: Seven years late, same foldable problems</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2024/03/Pixelated-cover.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Pixelated 122: Seven years late, same foldable problems</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/hegseth-warns-prediction-market-bets-warp-military-judgment-endanger-troops</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T20:28:43Z</news:publication_date>
-      <news:title>Hegseth warns prediction market bets warp military judgment, endanger troops</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/06/polymarket-1152x648.jpg</image:loc>
-      <image:title>Hegseth warns prediction market bets warp military judgment, endanger troops</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/gemini-notebook-now-available-as-connected-app-for-deeper-integration</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T20:21:15Z</news:publication_date>
-      <news:title>Gemini Notebook now available as Connected App for deeper integration</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/07/gemini-notebook.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Gemini Notebook now available as Connected App for deeper integration</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T20:19:55Z</news:publication_date>
-      <news:title>Updated Google privacy policy says your Gmail might be used for advertising</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-grooves-1152x648.jpg</image:loc>
-      <image:title>Updated Google privacy policy says your Gmail might be used for advertising</image:title>
     </image:image>
   </url>
 </urlset>
