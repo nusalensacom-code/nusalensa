@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/weekly-poll-results-the-oneplus-16-could-have-been-a-global-hit</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T13:02:02Z</news:publication_date>
+      <news:title>Weekly poll results: the OnePlus 16 could have been a global hit</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/weekly-poll-results-oneplus-16/gsmarena_000.jpg</image:loc>
+      <image:title>Weekly poll results: the OnePlus 16 could have been a global hit</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/when-ai-glasses-could-be-a-worthy-headphones-replacement</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T12:45:00Z</news:publication_date>
+      <news:title>When AI glasses could be a worthy headphones replacement</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/when-ai-glasses-could-be-a-worthy-headphones-replacement/l-intro-1792519044.jpg</image:loc>
+      <image:title>When AI glasses could be a worthy headphones replacement</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/dont-throw-away-your-old-speakers-use-them-for-your-tv-instead</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T12:30:00Z</news:publication_date>
+      <news:title>Don&apos;t throw away your old speakers — Use them for your TV instead</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/dont-throw-away-your-old-speakers-use-them-for-your-tv-instead/l-intro-1792506662.jpg</image:loc>
+      <image:title>Don&apos;t throw away your old speakers — Use them for your TV instead</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/smart-bulbs-are-easy-to-install-but-this-smart-home-upgrade-is-more-inclusive</loc>
     <news:news>
       <news:publication>
@@ -2640,111 +2685,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/greece-enacts-social-media-ban-for-kids-under-15/l-intro-1792761065.jpg</image:loc>
       <image:title>Greece enacts social media ban for kids under 15</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iphone-duo-how-to-skip-the-swipe-up-after-touch-id</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T13:00:39Z</news:publication_date>
-      <news:title>iPhone Duo: How to Skip the Swipe Up After Touch ID</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/iphone-duo-blue.jpeg</image:loc>
-      <image:title>iPhone Duo: How to Skip the Swipe Up After Touch ID</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/netflix-cant-fire-its-way-out-of-this-downward-spiral</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T13:00:00Z</news:publication_date>
-      <news:title>Netflix can’t fire its way out of this downward spiral</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK072_VRG_Illo_N_Barclay_1_netflix.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Netflix can’t fire its way out of this downward spiral</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/people-are-vibe-coding-their-way-to-better-tvs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T13:00:00Z</news:publication_date>
-      <news:title>People are vibe coding their way to better TVs</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/cleanyourtv-home-page.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>People are vibe coding their way to better TVs</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/huawei-enjoy-100-series-launch-date-confirmed-pre-orders-open</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T12:54:02Z</news:publication_date>
-      <news:title>Huawei Enjoy 100 series launch date confirmed, pre-orders open</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/huawei-enjoy-100-series-launch-date-teaser/gsmarena_000.jpg</image:loc>
-      <image:title>Huawei Enjoy 100 series launch date confirmed, pre-orders open</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/someone-put-apple-carplay-on-an-amazon-echo-show-running-android-and-it-actually-works</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T12:53:32Z</news:publication_date>
-      <news:title>Someone put Apple CarPlay on an Amazon Echo Show running Android, and it actually works</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/01/echo-show-5-clock-android-scaled.jpg</image:loc>
-      <image:title>Someone put Apple CarPlay on an Amazon Echo Show running Android, and it actually works</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/spacex-is-getting-more-serious-about-becoming-the-fourth-carrier-the-us-needs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T12:51:42Z</news:publication_date>
-      <news:title>SpaceX is getting more serious about becoming the fourth carrier the US needs</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/5G-network-indicator-status-bar-resized.jpg</image:loc>
-      <image:title>SpaceX is getting more serious about becoming the fourth carrier the US needs</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/bricks-new-app-blocker-is-designed-for-bedtime-doomscrolling</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T12:50:17Z</news:publication_date>
-      <news:title>Brick’s new app blocker is designed for bedtime doomscrolling</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Brick-Night-app-blocker-hero.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Brick’s new app blocker is designed for bedtime doomscrolling</image:title>
     </image:image>
   </url>
 </urlset>
