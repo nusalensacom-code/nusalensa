@@ -3062,19 +3062,4 @@
       <image:title>YouTube&amp;#8217;s latest trick lets you build a custom feed for every viewing mood</image:title>
     </image:image>
   </url>
-  <url>
-    <loc>https://nusalensa.com/phones/this-is-samsungs-next-foldable-and-its-launching-in-just-a-few-days</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T02:11:01Z</news:publication_date>
-      <news:title>This is Samsung&apos;s next foldable and it&apos;s launching in just a few days</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/samsung-w27-live-image/gsmarena_000.jpg</image:loc>
-      <image:title>This is Samsung&apos;s next foldable and it&apos;s launching in just a few days</image:title>
-    </image:image>
-  </url>
 </urlset>
