@@ -5,8 +5,17 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 25 Oct 2026 08:58:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 09:25:43 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>One UI 9 could have caught up to Google, but Samsung is still missing one thing</title>
+      <link>https://nusalensa.com/phones/one-ui-9-could-have-caught-up-to-google-but-samsung-is-still-missing-one-thing</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/one-ui-9-could-have-caught-up-to-google-but-samsung-is-still-missing-one-thing</guid>
+      <description>Samsung needs to do more to make One UI&apos;s selling point more robust.</description>
+      <category>Smartphones</category>
+      <pubDate>Sun, 25 Oct 2026 09:00:07 GMT</pubDate>
+      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/10/one-ui-9-frowning-plush-scaled.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Weekly poll: are you interested in the Oppo Find X10 or the Oppo Find X10 Pro Max?</title>
       <link>https://nusalensa.com/phones/weekly-poll-are-you-interested-in-the-oppo-find-x10-or-the-oppo-find-x10-pro-max</link>
@@ -267,15 +276,6 @@
       <category>Technology</category>
       <pubDate>Sat, 24 Oct 2026 16:11:53 GMT</pubDate>
       <enclosure url="https://www.engadget.com/img/gallery/the-uk-is-investing-134-million-into-an-ai-biosecurity-lab/l-intro-1792858052.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Make iPhone Duo Volume Buttons Follow Screen Rotation</title>
-      <link>https://nusalensa.com/phones/make-iphone-duo-volume-buttons-follow-screen-rotation</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/make-iphone-duo-volume-buttons-follow-screen-rotation</guid>
-      <description>Because of the iPhone Duo&apos;s foldable design, you tend to switch the orientation of the device more often than you would a regular iPhone. This makes the volume </description>
-      <category>Smartphones</category>
-      <pubDate>Sat, 24 Oct 2026 16:07:36 GMT</pubDate>
-      <enclosure url="https://images.macrumors.com/article-new/2026/10/hero_medium_2x-feature2.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
