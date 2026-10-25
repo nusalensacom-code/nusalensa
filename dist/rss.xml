@@ -5,8 +5,17 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 25 Oct 2026 02:28:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 03:02:33 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Huawei Pura 90 Plus appears in live images ahead of launch, chipset revealed</title>
+      <link>https://nusalensa.com/phones/huawei-pura-90-plus-appears-in-live-images-ahead-of-launch-chipset-revealed</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/huawei-pura-90-plus-appears-in-live-images-ahead-of-launch-chipset-revealed</guid>
+      <description>Huawei officially confirmed the Pura 90 Plus earlier today and opened pre-orders for it in China ahead of its October 28 launch. The company hasn&apos;t revealed any</description>
+      <category>Smartphones</category>
+      <pubDate>Sun, 25 Oct 2026 02:33:02 GMT</pubDate>
+      <enclosure url="https://fdn.gsmarena.com/imgroot/news/26/10/huawei-pura-90-plus-hands-on-live-images/gsmarena_000.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Here&apos;s what you need to know before buying a wireless CarPlay adapter</title>
       <link>https://nusalensa.com/technology/heres-what-you-need-to-know-before-buying-a-wireless-carplay-adapter</link>
@@ -267,15 +276,6 @@
       <category>Smartphones</category>
       <pubDate>Sat, 24 Oct 2026 15:30:00 GMT</pubDate>
       <enclosure url="https://www.engadget.com/img/gallery/what-is-theater-mode-on-your-apple-watch-and-when-should-you-use-it/l-intro-1792501458.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>iPhone Duo Teardowns Reveal Two Batteries and More</title>
-      <link>https://nusalensa.com/phones/iphone-duo-teardowns-reveal-two-batteries-and-more</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/iphone-duo-teardowns-reveal-two-batteries-and-more</guid>
-      <description>The first iPhone Duo teardown videos have been shared by YouTube channels Phone Repair Guru and REWA Technology , providing us with a look inside the device. iP</description>
-      <category>Smartphones</category>
-      <pubDate>Sat, 24 Oct 2026 15:02:56 GMT</pubDate>
-      <enclosure url="https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Outer-Display-Hand-scaled.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
