@@ -5,8 +5,17 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 25 Oct 2026 00:20:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 01:08:57 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Here&apos;s what you need to know before buying a wireless CarPlay adapter</title>
+      <link>https://nusalensa.com/technology/heres-what-you-need-to-know-before-buying-a-wireless-carplay-adapter</link>
+      <guid isPermaLink="true">https://nusalensa.com/technology/heres-what-you-need-to-know-before-buying-a-wireless-carplay-adapter</guid>
+      <description>Wireless CarPlay doesn&apos;t require a new car or head unit; with the right adapter, you can enjoy a cable-free connection.</description>
+      <category>Technology</category>
+      <pubDate>Sun, 25 Oct 2026 00:30:00 GMT</pubDate>
+      <enclosure url="https://www.engadget.com/img/gallery/heres-what-you-need-to-know-before-buying-a-wireless-carplay-adapter/l-intro-1792599334.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>What is the cheapest new gaming console you can buy in 2026?</title>
       <link>https://nusalensa.com/technology/what-is-the-cheapest-new-gaming-console-you-can-buy-in-2026</link>
@@ -267,15 +276,6 @@
       <category>Smartphones</category>
       <pubDate>Sat, 24 Oct 2026 15:02:56 GMT</pubDate>
       <enclosure url="https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Outer-Display-Hand-scaled.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>OnePlus shows the Ace 7 and Ace 7 Pro in all colors</title>
-      <link>https://nusalensa.com/phones/oneplus-shows-the-ace-7-and-ace-7-pro-in-all-colors</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/oneplus-shows-the-ace-7-and-ace-7-pro-in-all-colors</guid>
-      <description>OnePlus is launching the Ace 7 and Ace 7 Pro in China on October 29. Ahead of that, today the company has shown both of them in all the colors in which they wil</description>
-      <category>Smartphones</category>
-      <pubDate>Sat, 24 Oct 2026 15:01:02 GMT</pubDate>
-      <enclosure url="https://fdn.gsmarena.com/imgroot/news/26/10/oneplus-ace-7-ace-7-pro-all-colors/gsmarena_000.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>

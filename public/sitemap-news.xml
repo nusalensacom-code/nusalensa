@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/heres-what-you-need-to-know-before-buying-a-wireless-carplay-adapter</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T00:30:00Z</news:publication_date>
+      <news:title>Here&apos;s what you need to know before buying a wireless CarPlay adapter</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/heres-what-you-need-to-know-before-buying-a-wireless-carplay-adapter/l-intro-1792599334.jpg</image:loc>
+      <image:title>Here&apos;s what you need to know before buying a wireless CarPlay adapter</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/what-is-the-cheapest-new-gaming-console-you-can-buy-in-2026</loc>
     <news:news>
       <news:publication>
@@ -3060,21 +3075,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/samsung-w27-live-image/gsmarena_000.jpg</image:loc>
       <image:title>This is Samsung&apos;s next foldable and it&apos;s launching in just a few days</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-is-testing-iphone-duo-2-prototype-with-this-key-upgrade</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T00:41:02Z</news:publication_date>
-      <news:title>Apple is testing iPhone Duo 2 prototype with this key upgrade</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/apple-iphone-duo-2-prototype-key-upgrade/gsmarena_000.jpg</image:loc>
-      <image:title>Apple is testing iPhone Duo 2 prototype with this key upgrade</image:title>
     </image:image>
   </url>
 </urlset>
