@@ -3002,49 +3002,4 @@
       <image:title>Google is tackling three Googlebook headaches before they become migraines</image:title>
     </image:image>
   </url>
-  <url>
-    <loc>https://nusalensa.com/phones/macbook-neo-helps-apple-outpace-rivals-as-market-declines</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T07:30:09Z</news:publication_date>
-      <news:title>MacBook Neo Helps Apple Outpace Rivals as Market Declines</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/08/macbook-neo-blue.jpeg</image:loc>
-      <image:title>MacBook Neo Helps Apple Outpace Rivals as Market Declines</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/vivo-x500-ultra-may-launch-globally</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T07:01:02Z</news:publication_date>
-      <news:title>vivo X500 Ultra may launch globally</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/vivo-x500-ultra-global/gsmarena_000.jpg</image:loc>
-      <image:title>vivo X500 Ultra may launch globally</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/happy-25th-anniversary-ipod</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T07:00:11Z</news:publication_date>
-      <news:title>Happy 25th Anniversary, iPod</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/ipod.jpg</image:loc>
-      <image:title>Happy 25th Anniversary, iPod</image:title>
-    </image:image>
-  </url>
 </urlset>
