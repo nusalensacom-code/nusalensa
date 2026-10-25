@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/what-is-the-cheapest-new-gaming-console-you-can-buy-in-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T00:00:00Z</news:publication_date>
+      <news:title>What is the cheapest new gaming console you can buy in 2026?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/what-is-the-cheapest-new-gaming-console-you-can-buy-in-2026/l-intro-1792596898.jpg</image:loc>
+      <image:title>What is the cheapest new gaming console you can buy in 2026?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/039arguably-better-than-face-id039-the-iphone-duo-touch-id-tip-to-try</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T23:48:55Z</news:publication_date>
+      <news:title>&amp;#039;Arguably Better Than Face ID&amp;#039;: the iPhone Duo Touch ID Tip to Try</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/touch-id-tip-duo.jpg</image:loc>
+      <image:title>&amp;#039;Arguably Better Than Face ID&amp;#039;: the iPhone Duo Touch ID Tip to Try</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/how-to-extend-the-battery-life-of-your-apple-airtags</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T23:45:00Z</news:publication_date>
+      <news:title>How to extend the battery life of your Apple AirTags</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/how-to-extend-the-battery-life-of-your-apple-airtags/l-intro-1792593493.jpg</image:loc>
+      <image:title>How to extend the battery life of your Apple AirTags</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/common-mistakes-you-should-avoid-when-setting-up-your-home-network</loc>
     <news:news>
       <news:publication>
@@ -3030,21 +3075,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/apple-iphone-duo-2-prototype-key-upgrade/gsmarena_000.jpg</image:loc>
       <image:title>Apple is testing iPhone Duo 2 prototype with this key upgrade</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/etsy-is-cracking-down-on-ai-slop-listings</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T00:09:58Z</news:publication_date>
-      <news:title>Etsy is cracking down on AI slop listings</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
-      <image:title>Etsy is cracking down on AI slop listings</image:title>
     </image:image>
   </url>
 </urlset>
