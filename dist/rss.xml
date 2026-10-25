@@ -5,8 +5,26 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 25 Oct 2026 23:17:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 23:50:05 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Which Android phone is the closest equivalent to the iPhone Duo?</title>
+      <link>https://nusalensa.com/phones/which-android-phone-is-the-closest-equivalent-to-the-iphone-duo</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/which-android-phone-is-the-closest-equivalent-to-the-iphone-duo</guid>
+      <description>Can we find the iPhone Duo&apos;s perfect Android match?</description>
+      <category>Smartphones</category>
+      <pubDate>Sun, 25 Oct 2026 23:45:00 GMT</pubDate>
+      <enclosure url="https://www.engadget.com/img/gallery/which-android-phone-is-the-closest-equivalent-to-the-iphone-duo/l-intro-1791823946.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Why Google chrome is always using so much RAM</title>
+      <link>https://nusalensa.com/technology/why-google-chrome-is-always-using-so-much-ram</link>
+      <guid isPermaLink="true">https://nusalensa.com/technology/why-google-chrome-is-always-using-so-much-ram</guid>
+      <description>Chrome is known for being a memory hog, but it may be more urban myth than reality. Here&apos;s how Google Chrome manages RAM.</description>
+      <category>Technology</category>
+      <pubDate>Sun, 25 Oct 2026 23:30:00 GMT</pubDate>
+      <enclosure url="https://www.engadget.com/img/gallery/why-google-chrome-is-always-using-so-much-ram/l-intro-1792684467.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Apple Addresses Web Security Threat, Working on macOS Update With Additional Fix</title>
       <link>https://nusalensa.com/phones/apple-addresses-web-security-threat-working-on-macos-update-with-additional-fix</link>
@@ -258,24 +276,6 @@
       <category>Smartphones</category>
       <pubDate>Sun, 25 Oct 2026 14:30:49 GMT</pubDate>
       <enclosure url="https://images.macrumors.com/article-new/2024/10/Apple-iMac-M4-hero-feature.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Apple Reportedly Announcing New MacBook Pro With OLED Touchscreen on Wednesday</title>
-      <link>https://nusalensa.com/phones/apple-reportedly-announcing-new-macbook-pro-with-oled-touchscreen-on-wednesday</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/apple-reportedly-announcing-new-macbook-pro-with-oled-touchscreen-on-wednesday</guid>
-      <description>Apple plans to unveil 14-inch and 16-inch MacBook Pro models with touch-enabled OLED displays on Wednesday, October 28, according to Bloomberg &apos;s Mark Gurman. T</description>
-      <category>Smartphones</category>
-      <pubDate>Sun, 25 Oct 2026 14:30:34 GMT</pubDate>
-      <enclosure url="https://images.macrumors.com/article-new/2026/10/MacBook-Pro-Dynamic-Island-multicolor.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Why are earbuds usually cheaper than headphones?</title>
-      <link>https://nusalensa.com/technology/why-are-earbuds-usually-cheaper-than-headphones</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/why-are-earbuds-usually-cheaper-than-headphones</guid>
-      <description>Earbuds tend to be smaller and less complex to build than headphones.</description>
-      <category>Technology</category>
-      <pubDate>Sun, 25 Oct 2026 14:15:00 GMT</pubDate>
-      <enclosure url="https://www.engadget.com/img/gallery/why-are-earbuds-usually-cheaper-than-headphones/l-intro-1792596068.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>

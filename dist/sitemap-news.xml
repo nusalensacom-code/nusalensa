@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/which-android-phone-is-the-closest-equivalent-to-the-iphone-duo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T23:45:00Z</news:publication_date>
+      <news:title>Which Android phone is the closest equivalent to the iPhone Duo?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/which-android-phone-is-the-closest-equivalent-to-the-iphone-duo/l-intro-1791823946.jpg</image:loc>
+      <image:title>Which Android phone is the closest equivalent to the iPhone Duo?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/why-google-chrome-is-always-using-so-much-ram</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T23:30:00Z</news:publication_date>
+      <news:title>Why Google chrome is always using so much RAM</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/why-google-chrome-is-always-using-so-much-ram/l-intro-1792684467.jpg</image:loc>
+      <image:title>Why Google chrome is always using so much RAM</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/apple-addresses-web-security-threat-working-on-macos-update-with-additional-fix</loc>
     <news:news>
       <news:publication>
@@ -1860,21 +1890,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/realme-17-pro-specs-leak/gsmarena_000.jpg</image:loc>
       <image:title>Upcoming Realme 17 Pro series phone&apos;s key specs leak</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-iphone-duo-can-be-a-tiny-mac-a-toaster-and-a-nintendo-ds</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T23:22:55Z</news:publication_date>
-      <news:title>The iPhone Duo Can Be a Tiny Mac, a Toaster, and a Nintendo DS</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/tiny-computer-iphone-duo.jpg</image:loc>
-      <image:title>The iPhone Duo Can Be a Tiny Mac, a Toaster, and a Nintendo DS</image:title>
     </image:image>
   </url>
 </urlset>
