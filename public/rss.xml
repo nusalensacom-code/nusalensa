@@ -5,8 +5,17 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 25 Oct 2026 15:56:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 16:21:36 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The internet needs IPv6 and so does your home network</title>
+      <link>https://nusalensa.com/technology/the-internet-needs-ipv6-and-so-does-your-home-network</link>
+      <guid isPermaLink="true">https://nusalensa.com/technology/the-internet-needs-ipv6-and-so-does-your-home-network</guid>
+      <description>IPv6 has more available addresses than we could ever hope to use, but not all devices are taking advantage yet.</description>
+      <category>Technology</category>
+      <pubDate>Sun, 25 Oct 2026 16:15:00 GMT</pubDate>
+      <enclosure url="https://www.engadget.com/img/gallery/the-internet-needs-ipv6-and-so-does-your-home-network/l-intro-1792604641.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Here&apos;s how much PlayStation Plus cost in 2010 vs. 2026</title>
       <link>https://nusalensa.com/technology/heres-how-much-playstation-plus-cost-in-2010-vs-2026</link>
@@ -267,15 +276,6 @@
       <category>Smartphones</category>
       <pubDate>Sun, 25 Oct 2026 06:01:02 GMT</pubDate>
       <enclosure url="https://fdn.gsmarena.com/imgroot/news/26/10/weekly-poll-oppo-find-x10-x10-pro-max/gsmarena_000.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Apple Wants to Fix Safari&amp;#039;s Cramped Layout on iPhone Duo</title>
-      <link>https://nusalensa.com/phones/apple-wants-to-fix-safari039s-cramped-layout-on-iphone-duo</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/apple-wants-to-fix-safari039s-cramped-layout-on-iphone-duo</guid>
-      <description>Apple is considering changes to Safari on the iPhone Duo that would give websites access to more of the outer display, although the company has yet to settle on</description>
-      <category>Smartphones</category>
-      <pubDate>Sun, 25 Oct 2026 04:58:09 GMT</pubDate>
-      <enclosure url="https://images.macrumors.com/article-new/2026/10/safari-iphone-duo-webkit.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>

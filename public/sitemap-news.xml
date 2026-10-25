@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/the-internet-needs-ipv6-and-so-does-your-home-network</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T16:15:00Z</news:publication_date>
+      <news:title>The internet needs IPv6 and so does your home network</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/the-internet-needs-ipv6-and-so-does-your-home-network/l-intro-1792604641.jpg</image:loc>
+      <image:title>The internet needs IPv6 and so does your home network</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/heres-how-much-playstation-plus-cost-in-2010-vs-2026</loc>
     <news:news>
       <news:publication>
@@ -2385,81 +2400,6 @@
     <image:image>
       <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2017/08/024-1152x648-1740609184.jpg</image:loc>
       <image:title>Everybody panic: A Valve developer said &quot;HLX&quot; in public</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-celebrates-ipods-25th-anniversary-with-fun-easter-egg</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T16:18:02Z</news:publication_date>
-      <news:title>Apple celebrates iPod&apos;s 25th anniversary with fun easter egg</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/apple-celebrates-ipod-25th-anniversary/gsmarena_000.jpg</image:loc>
-      <image:title>Apple celebrates iPod&apos;s 25th anniversary with fun easter egg</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/garmin-third-party-smartwatch-apps-are-about-to-get-more-useful</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T16:13:08Z</news:publication_date>
-      <news:title>Garmin third-party smartwatch apps are about to get more useful</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/09/Garmin-Venu-4-During-Call-Press-Image-scaled.jpg</image:loc>
-      <image:title>Garmin third-party smartwatch apps are about to get more useful</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/meta-is-charging-government-and-nonprofit-pages-to-post-links-on-facebook</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T16:09:39Z</news:publication_date>
-      <news:title>Meta is charging government and nonprofit pages to post links on Facebook</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/meta-is-charging-government-and-nonprofit-pages-to-post-links-on-facebook/l-intro-1792771543.jpg</image:loc>
-      <image:title>Meta is charging government and nonprofit pages to post links on Facebook</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/amazon-drops-govee-smart-light-bulbs-to-3399-with-a-46-star-rating</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T16:03:34Z</news:publication_date>
-      <news:title>Amazon drops Govee smart light bulbs to $33.99 with a 4.6-star rating</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Govee-LED-Smart-Light-Bulbs-Press-Image.jpg</image:loc>
-      <image:title>Amazon drops Govee smart light bulbs to $33.99 with a 4.6-star rating</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-wallet-rolling-out-notifications-feed-support-for-more-digital-passports-u</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T15:58:00Z</news:publication_date>
-      <news:title>Google Wallet rolling out notifications feed, support for more digital passports [U]</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2025/03/Id-pass-Google-Wallet-how-to-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Google Wallet rolling out notifications feed, support for more digital passports [U]</image:title>
     </image:image>
   </url>
 </urlset>
