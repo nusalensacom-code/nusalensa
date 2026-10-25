@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/weekly-poll-are-you-interested-in-the-oppo-find-x10-or-the-oppo-find-x10-pro-max</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T06:01:02Z</news:publication_date>
+      <news:title>Weekly poll: are you interested in the Oppo Find X10 or the Oppo Find X10 Pro Max?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/weekly-poll-oppo-find-x10-x10-pro-max/gsmarena_000.jpg</image:loc>
+      <image:title>Weekly poll: are you interested in the Oppo Find X10 or the Oppo Find X10 Pro Max?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/apple-wants-to-fix-safari039s-cramped-layout-on-iphone-duo</loc>
     <news:news>
       <news:publication>
@@ -3030,21 +3045,6 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/10/ipod.jpg</image:loc>
       <image:title>Happy 25th Anniversary, iPod</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/it8217s-official-samsung8217s-next-foldable-phone-is-coming-soon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T06:28:59Z</news:publication_date>
-      <news:title>It&amp;#8217;s official: Samsung&amp;#8217;s next foldable phone is coming soon</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Samsung-W27-W2026-official-image-website-resized.jpg</image:loc>
-      <image:title>It&amp;#8217;s official: Samsung&amp;#8217;s next foldable phone is coming soon</image:title>
     </image:image>
   </url>
 </urlset>
