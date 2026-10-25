@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/smart-bulbs-are-easy-to-install-but-this-smart-home-upgrade-is-more-inclusive</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T12:15:00Z</news:publication_date>
+      <news:title>Smart bulbs are easy to install, but this smart home upgrade is more inclusive</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/smart-bulbs-are-easy-to-install-but-this-smart-home-upgrade-is-more-inclusive/l-intro-1792502749.jpg</image:loc>
+      <image:title>Smart bulbs are easy to install, but this smart home upgrade is more inclusive</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/5-wearables-you-should-buy-instead-of-the-fitbit-edge</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T12:00:17Z</news:publication_date>
+      <news:title>5 wearables you should buy instead of the Fitbit Edge</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/fitbit-edge-hands-on-9-scaled.jpg</image:loc>
+      <image:title>5 wearables you should buy instead of the Fitbit Edge</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/googles-ai-search-changes-upended-online-publishing</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T12:00:00Z</news:publication_date>
+      <news:title>Google’s AI search changes upended online publishing</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK414_STK480_AI_DIS_MISINFO_CVIRGINIA_D.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Google’s AI search changes upended online publishing</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/i-canceled-google-ai-plus-after-the-downgrade-but-im-still-using-gemini</loc>
     <news:news>
       <news:publication>
@@ -2700,51 +2745,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Brick-Night-app-blocker-hero.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Brick’s new app blocker is designed for bedtime doomscrolling</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-is-releasing-a-new-foldable-next-week-and-it-just-leaked</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T12:15:00Z</news:publication_date>
-      <news:title>Samsung is releasing a new foldable next week, and it just leaked</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/07/Galaxy-Z-Fold-8-Ultra-6-2.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Samsung is releasing a new foldable next week, and it just leaked</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/asus-proart-p16-review-a-sleek-showcase-for-nvidias-rtx-spark</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T12:00:00Z</news:publication_date>
-      <news:title>ASUS ProArt P16 review: A sleek showcase for NVIDIA&apos;s RTX Spark</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/asus-proart-p16-review-a-sleek-showcase-for-nvidias-rtx-spark/l-intro-1792702282.jpg</image:loc>
-      <image:title>ASUS ProArt P16 review: A sleek showcase for NVIDIA&apos;s RTX Spark</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/retro-gaming-is-being-overrun-with-ai</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T12:00:00Z</news:publication_date>
-      <news:title>Retro gaming is being overrun with AI</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK465_VIDEO_GAMES_EMULATOR__CVirginia_D.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Retro gaming is being overrun with AI</image:title>
     </image:image>
   </url>
 </urlset>
