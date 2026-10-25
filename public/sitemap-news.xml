@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/zen-browser-is-the-arc-replacement-i-was-looking-for</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T19:24:50Z</news:publication_date>
+      <news:title>Zen Browser is the Arc replacement I was looking for</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_4433.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Zen Browser is the Arc replacement I was looking for</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/what-does-the-bell-icon-mean-on-your-carplay-screen</loc>
     <news:news>
       <news:publication>
@@ -2100,66 +2115,6 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/06/watchos-27.jpg</image:loc>
       <image:title>Apple Seeds Updated watchOS 27.2 Release Candidate</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-extends-its-certified-re-newed-program-to-amazon-us</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T19:21:02Z</news:publication_date>
-      <news:title>Samsung extends its Certified Re-Newed program to Amazon US</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/amazon-us-samsung-certified-re-newed-program/gsmarena_000.jpg</image:loc>
-      <image:title>Samsung extends its Certified Re-Newed program to Amazon US</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/spotify-ramps-up-policy-enforcement-on-family-plans</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T19:20:27Z</news:publication_date>
-      <news:title>Spotify ramps up policy enforcement on family plans</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2016/07/spotify-1152x648.png</image:loc>
-      <image:title>Spotify ramps up policy enforcement on family plans</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/galaxy-buds-on-leak-gives-us-a-360-degree-look-at-samsung8217s-upcoming-earbuds</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T19:18:04Z</news:publication_date>
-      <news:title>Galaxy Buds On leak gives us a 360-degree look at Samsung&amp;#8217;s upcoming earbuds</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Galaxy-Budson-3.jpg</image:loc>
-      <image:title>Galaxy Buds On leak gives us a 360-degree look at Samsung&amp;#8217;s upcoming earbuds</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-store-in-uk-reopens-with-new-design-on-iphone-duo-launch-day</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T19:10:52Z</news:publication_date>
-      <news:title>Apple Store in UK Reopens With New Design on iPhone Duo Launch Day</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2025/07/Apple-Store-Wallpaper-Basic-Apple-Guy.jpg</image:loc>
-      <image:title>Apple Store in UK Reopens With New Design on iPhone Duo Launch Day</image:title>
     </image:image>
   </url>
 </urlset>
