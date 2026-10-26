@@ -3,6 +3,141 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/tablets/airpods-pro-hearing-aid-feature-launching-in-these-canadian-provinces</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T16:26:03Z</news:publication_date>
+      <news:title>AirPods Pro Hearing Aid Feature Launching in These Canadian Provinces</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2024/09/airpods-pro-2-hearing-aids.jpg</image:loc>
+      <image:title>AirPods Pro Hearing Aid Feature Launching in These Canadian Provinces</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/new-ipad-mini-announced-today-has-more-than-12-new-features</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T16:18:32Z</news:publication_date>
+      <news:title>New iPad Mini Announced Today Has More Than 12 New Features</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/iPad-mini-OLED-feature-1.jpg</image:loc>
+      <image:title>New iPad Mini Announced Today Has More Than 12 New Features</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-wait-is-over-t-mobile-formally-announces-t-mix</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T16:06:49Z</news:publication_date>
+      <news:title>The wait is over: T-Mobile formally announces T-Mix</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/10/t-mobile-logo-pixel-hero-1-scaled.jpg</image:loc>
+      <image:title>The wait is over: T-Mobile formally announces T-Mix</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/instagram-chases-youtube-with-a-push-for-longer-widescreen-videos</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T16:05:44Z</news:publication_date>
+      <news:title>Instagram chases YouTube with a push for longer, widescreen videos</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Features-on-PhoneTV-1_1-reorder.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,20.1046875,100,74.7703125</image:loc>
+      <image:title>Instagram chases YouTube with a push for longer, widescreen videos</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/microsoft-offers-buyouts-to-60000-employees</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T15:58:27Z</news:publication_date>
+      <news:title>Microsoft offers buyouts to 60,000 employees</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832915/STK095_MICROSOFT_2_CVirginia_D.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Microsoft offers buyouts to 60,000 employees</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-oled-ipad-mini-is-here-with-a20-pro-chip-and-acoustic-display-speakers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T15:52:02Z</news:publication_date>
+      <news:title>The OLED iPad mini is here with A20 Pro chip and acoustic display speakers</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/ipad-mini-2026-ofic/gsmarena_002.jpg</image:loc>
+      <image:title>The OLED iPad mini is here with A20 Pro chip and acoustic display speakers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/galaxy-s26-ultra-512gb-deal-cuts-400-off-samsungs-flagship</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T15:44:19Z</news:publication_date>
+      <news:title>Galaxy S26 Ultra 512GB deal cuts $400 off Samsung’s flagship</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Samsung-Galaxy-S26-Ultras-design-and-camera-module.jpg</image:loc>
+      <image:title>Galaxy S26 Ultra 512GB deal cuts $400 off Samsung’s flagship</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/deals-lenovo-yoga-tab-gen-2-160-off-nest-thermostat-up-to-92-off-cmf-buds-neo-20-tcl-android-tabs-from-150-more</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T15:43:18Z</news:publication_date>
+      <news:title>Deals: Lenovo Yoga Tab Gen 2 $160 off, Nest Thermostat up to $92 off, CMF Buds Neo $20, TCL Android tabs from $150, more</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/9to5Google-Oct-26.png?w=1600</image:loc>
+      <image:title>Deals: Lenovo Yoga Tab Gen 2 $160 off, Nest Thermostat up to $92 off, CMF Buds Neo $20, TCL Android tabs from $150, more</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/t-mobiles-new-plans-include-swappable-subscription-perks</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T15:39:54Z</news:publication_date>
+      <news:title>T-Mobile’s new plans include swappable subscription perks</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23962441/acastro_STK067__02.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>T-Mobile’s new plans include swappable subscription perks</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/t-mobile8217s-new-plans-give-away-youtube-premium-xbox-game-pass-and-14-more-for-free</loc>
     <news:news>
       <news:publication>
@@ -60,6 +195,21 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/07/iPad-mini-7-Review-Thumb-1-sans-text.jpg</image:loc>
       <image:title>Apple Raises iPad and Mac Trade-In Values</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/oppo-find-x10-ultras-full-camera-setup-leaks</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T15:11:02Z</news:publication_date>
+      <news:title>Oppo Find X10 Ultra&apos;s full camera setup leaks</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/oppo-find-x10-ultra-more-details/gsmarena_000.jpg</image:loc>
+      <image:title>Oppo Find X10 Ultra&apos;s full camera setup leaks</image:title>
     </image:image>
   </url>
   <url>
@@ -138,6 +288,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/quickly-silence-iphone-duo-without-a-ringmute-switch</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T14:36:49Z</news:publication_date>
+      <news:title>Quickly Silence iPhone Duo Without a Ring/Mute Switch</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/iphone-duo-silent-mode.jpeg</image:loc>
+      <image:title>Quickly Silence iPhone Duo Without a Ring/Mute Switch</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/tesla-gave-up-the-ev-crown-now-it-wants-to-win-the-autonomy-race</loc>
     <news:news>
       <news:publication>
@@ -150,6 +315,21 @@
     <image:image>
       <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/roadster-1152x648.jpg</image:loc>
       <image:title>Tesla gave up the EV crown. Now it wants to win the autonomy race</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/anker-launches-halloween-sale-with-sitewide-discounts-and-labubu-bundles</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T14:29:48Z</news:publication_date>
+      <news:title>Anker Launches Halloween Sale With Sitewide Discounts and Labubu Bundles</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/anker-halloween.jpeg</image:loc>
+      <image:title>Anker Launches Halloween Sale With Sitewide Discounts and Labubu Bundles</image:title>
     </image:image>
   </url>
   <url>
@@ -168,6 +348,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/tablets/oled-ipad-mini-fast-charge-needs-a-35w-adapter-sold-separately</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T14:14:41Z</news:publication_date>
+      <news:title>OLED iPad Mini Fast Charge Needs a 35W Adapter, Sold Separately</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/ipad-mini-8-display.jpg</image:loc>
+      <image:title>OLED iPad Mini Fast Charge Needs a 35W Adapter, Sold Separately</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/google8217s-health-connect-could-support-multiple-user-profiles-on-your-device</loc>
     <news:news>
       <news:publication>
@@ -180,6 +375,36 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/04/android-health-connect.jpg</image:loc>
       <image:title>Google&amp;#8217;s Health Connect could support multiple user profiles on your device</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/apple-brings-techwoven-to-ipad-with-all-new-3679-ipad-mini-smart-folio</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T14:07:43Z</news:publication_date>
+      <news:title>Apple Brings TechWoven to iPad With All-New &amp;#36;79 iPad Mini Smart Folio</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/ipad-mini-techwoven-folio.jpg</image:loc>
+      <image:title>Apple Brings TechWoven to iPad With All-New &amp;#36;79 iPad Mini Smart Folio</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/iphone-duo-bend-test-doesnt-end-well</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T14:07:02Z</news:publication_date>
+      <news:title>iPhone Duo bend test doesn&apos;t end well</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/iphone-duo-bend-test/gsmarena_000.jpg</image:loc>
+      <image:title>iPhone Duo bend test doesn&apos;t end well</image:title>
     </image:image>
   </url>
   <url>
@@ -2025,66 +2250,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/theres-a-chance-your-playstation-5-is-plugged-into-the-wrong-hdmi-port/l-intro-1792510070.jpg</image:loc>
       <image:title>There&apos;s a chance your PlayStation 5 is plugged into the wrong HDMI port</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-uk-is-investing-134-million-into-an-ai-biosecurity-lab</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T16:11:53Z</news:publication_date>
-      <news:title>The UK is investing $134 million into an AI Biosecurity Lab</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/the-uk-is-investing-134-million-into-an-ai-biosecurity-lab/l-intro-1792858052.jpg</image:loc>
-      <image:title>The UK is investing $134 million into an AI Biosecurity Lab</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/make-iphone-duo-volume-buttons-follow-screen-rotation</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T16:07:36Z</news:publication_date>
-      <news:title>Make iPhone Duo Volume Buttons Follow Screen Rotation</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/hero_medium_2x-feature2.jpg</image:loc>
-      <image:title>Make iPhone Duo Volume Buttons Follow Screen Rotation</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/you-can-now-manage-gemini-notebooks-directly-from-your-gemini-chats</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T16:00:39Z</news:publication_date>
-      <news:title>You can now manage Gemini Notebooks directly from your Gemini chats</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-1-scaled.jpg</image:loc>
-      <image:title>You can now manage Gemini Notebooks directly from your Gemini chats</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/your-smart-tvs-wi-fi-is-probably-faster-than-its-ethernet-but-speed-isnt-everything</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T16:00:00Z</news:publication_date>
-      <news:title>Your smart TV&apos;s Wi-Fi is probably faster than its Ethernet, but speed isn&apos;t everything</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/your-smart-tvs-wi-fi-is-probably-faster-than-its-ethernet-but-speed-isnt-everything/l-intro-1792505372.jpg</image:loc>
-      <image:title>Your smart TV&apos;s Wi-Fi is probably faster than its Ethernet, but speed isn&apos;t everything</image:title>
     </image:image>
   </url>
 </urlset>

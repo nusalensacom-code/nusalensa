@@ -2,6 +2,96 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/tablets/airpods-pro-hearing-aid-feature-launching-in-these-canadian-provinces</loc>
+    <lastmod>2026-10-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2024/09/airpods-pro-2-hearing-aids.jpg</image:loc>
+      <image:title>AirPods Pro Hearing Aid Feature Launching in These Canadian Provinces</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/new-ipad-mini-announced-today-has-more-than-12-new-features</loc>
+    <lastmod>2026-10-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/iPad-mini-OLED-feature-1.jpg</image:loc>
+      <image:title>New iPad Mini Announced Today Has More Than 12 New Features</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-wait-is-over-t-mobile-formally-announces-t-mix</loc>
+    <lastmod>2026-10-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/10/t-mobile-logo-pixel-hero-1-scaled.jpg</image:loc>
+      <image:title>The wait is over: T-Mobile formally announces T-Mix</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/instagram-chases-youtube-with-a-push-for-longer-widescreen-videos</loc>
+    <lastmod>2026-10-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Features-on-PhoneTV-1_1-reorder.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,20.1046875,100,74.7703125</image:loc>
+      <image:title>Instagram chases YouTube with a push for longer, widescreen videos</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/microsoft-offers-buyouts-to-60000-employees</loc>
+    <lastmod>2026-10-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832915/STK095_MICROSOFT_2_CVirginia_D.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Microsoft offers buyouts to 60,000 employees</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-oled-ipad-mini-is-here-with-a20-pro-chip-and-acoustic-display-speakers</loc>
+    <lastmod>2026-10-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/ipad-mini-2026-ofic/gsmarena_002.jpg</image:loc>
+      <image:title>The OLED iPad mini is here with A20 Pro chip and acoustic display speakers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/galaxy-s26-ultra-512gb-deal-cuts-400-off-samsungs-flagship</loc>
+    <lastmod>2026-10-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Samsung-Galaxy-S26-Ultras-design-and-camera-module.jpg</image:loc>
+      <image:title>Galaxy S26 Ultra 512GB deal cuts $400 off Samsung’s flagship</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/deals-lenovo-yoga-tab-gen-2-160-off-nest-thermostat-up-to-92-off-cmf-buds-neo-20-tcl-android-tabs-from-150-more</loc>
+    <lastmod>2026-10-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/9to5Google-Oct-26.png?w=1600</image:loc>
+      <image:title>Deals: Lenovo Yoga Tab Gen 2 $160 off, Nest Thermostat up to $92 off, CMF Buds Neo $20, TCL Android tabs from $150, more</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/t-mobiles-new-plans-include-swappable-subscription-perks</loc>
+    <lastmod>2026-10-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23962441/acastro_STK067__02.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>T-Mobile’s new plans include swappable subscription perks</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/t-mobile8217s-new-plans-give-away-youtube-premium-xbox-game-pass-and-14-more-for-free</loc>
     <lastmod>2026-10-26</lastmod>
     <changefreq>daily</changefreq>
@@ -39,6 +129,16 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/07/iPad-mini-7-Review-Thumb-1-sans-text.jpg</image:loc>
       <image:title>Apple Raises iPad and Mac Trade-In Values</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/oppo-find-x10-ultras-full-camera-setup-leaks</loc>
+    <lastmod>2026-10-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/oppo-find-x10-ultra-more-details/gsmarena_000.jpg</image:loc>
+      <image:title>Oppo Find X10 Ultra&apos;s full camera setup leaks</image:title>
     </image:image>
   </url>
   <url>
@@ -92,6 +192,16 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/quickly-silence-iphone-duo-without-a-ringmute-switch</loc>
+    <lastmod>2026-10-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/iphone-duo-silent-mode.jpeg</image:loc>
+      <image:title>Quickly Silence iPhone Duo Without a Ring/Mute Switch</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/tesla-gave-up-the-ev-crown-now-it-wants-to-win-the-autonomy-race</loc>
     <lastmod>2026-10-26</lastmod>
     <changefreq>daily</changefreq>
@@ -99,6 +209,16 @@
     <image:image>
       <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/roadster-1152x648.jpg</image:loc>
       <image:title>Tesla gave up the EV crown. Now it wants to win the autonomy race</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/anker-launches-halloween-sale-with-sitewide-discounts-and-labubu-bundles</loc>
+    <lastmod>2026-10-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/anker-halloween.jpeg</image:loc>
+      <image:title>Anker Launches Halloween Sale With Sitewide Discounts and Labubu Bundles</image:title>
     </image:image>
   </url>
   <url>
@@ -112,6 +232,16 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/tablets/oled-ipad-mini-fast-charge-needs-a-35w-adapter-sold-separately</loc>
+    <lastmod>2026-10-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/ipad-mini-8-display.jpg</image:loc>
+      <image:title>OLED iPad Mini Fast Charge Needs a 35W Adapter, Sold Separately</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/google8217s-health-connect-could-support-multiple-user-profiles-on-your-device</loc>
     <lastmod>2026-10-26</lastmod>
     <changefreq>daily</changefreq>
@@ -119,6 +249,26 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/04/android-health-connect.jpg</image:loc>
       <image:title>Google&amp;#8217;s Health Connect could support multiple user profiles on your device</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/apple-brings-techwoven-to-ipad-with-all-new-3679-ipad-mini-smart-folio</loc>
+    <lastmod>2026-10-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/ipad-mini-techwoven-folio.jpg</image:loc>
+      <image:title>Apple Brings TechWoven to iPad With All-New &amp;#36;79 iPad Mini Smart Folio</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/iphone-duo-bend-test-doesnt-end-well</loc>
+    <lastmod>2026-10-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/iphone-duo-bend-test/gsmarena_000.jpg</image:loc>
+      <image:title>iPhone Duo bend test doesn&apos;t end well</image:title>
     </image:image>
   </url>
   <url>
