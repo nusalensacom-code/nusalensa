@@ -3,6 +3,141 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/the-mistake-iphone-duo-buyers-can-easily-avoid</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T22:00:00Z</news:publication_date>
+      <news:title>The mistake iPhone Duo buyers can easily avoid</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/the-mistake-iphone-duo-buyers-can-easily-avoid/l-intro-1792692793.jpg</image:loc>
+      <image:title>The mistake iPhone Duo buyers can easily avoid</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/samsungs-switch-2-ready-microsd-express-card-is-on-sale-for-less-than-50</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T21:56:36Z</news:publication_date>
+      <news:title>Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Samsung-P9-MicroSD-Express-Card.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/ios-272-fixes-over-160-security-vulnerabilities</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T21:55:32Z</news:publication_date>
+      <news:title>iOS 27.2 Fixes Over 160 Security Vulnerabilities</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/03/apple-lock-security-bug-vulnerability-fix-privacy.jpg</image:loc>
+      <image:title>iOS 27.2 Fixes Over 160 Security Vulnerabilities</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/anthropic-is-burning-gas-to-feed-the-ai-boom</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T21:45:31Z</news:publication_date>
+      <news:title>Anthropic is burning gas to feed the AI boom</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Anthropic is burning gas to feed the AI boom</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/t-mobiles-new-t-mix-plans-let-you-pick-your-own-perks</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T21:41:02Z</news:publication_date>
+      <news:title>T-Mobile&apos;s new T-Mix plans let you pick your own perks</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/t-mobile-t-mix-plans-live/gsmarena_000.jpg</image:loc>
+      <image:title>T-Mobile&apos;s new T-Mix plans let you pick your own perks</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/gpt-61-terra-makes-a-strong-case-for-being-openai8217s-best-bang-for-your-ai-buck</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T21:25:03Z</news:publication_date>
+      <news:title>GPT-6.1 Terra makes a strong case for being OpenAI&amp;#8217;s best bang for your AI buck</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/Open-AI-ChatGPT-logo-on-phone-stock-photo-7.jpg</image:loc>
+      <image:title>GPT-6.1 Terra makes a strong case for being OpenAI&amp;#8217;s best bang for your AI buck</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/iphone-ai-images-and-edits-now-have-a-hidden-watermark</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T21:15:14Z</news:publication_date>
+      <news:title>iPhone AI Images and Edits Now Have a Hidden Watermark</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/google-synthid.jpg</image:loc>
+      <image:title>iPhone AI Images and Edits Now Have a Hidden Watermark</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/this-emulator-just-cut-off-support-to-anbernic8217s-upcoming-nintendo-3ds-clone</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T21:15:14Z</news:publication_date>
+      <news:title>This emulator just cut off support to Anbernic&amp;#8217;s upcoming Nintendo 3DS clone</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/ANBERNIC-RG-DDS-YouTube-Still.jpg</image:loc>
+      <image:title>This emulator just cut off support to Anbernic&amp;#8217;s upcoming Nintendo 3DS clone</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/worms-mate-in-mans-eyes-get-plucked-out-right-before-larvae-burst-out</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T20:27:00Z</news:publication_date>
+      <news:title>Worms mate in man&apos;s eyes, get plucked out right before larvae burst out</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/larvae-released-1152x648.jpg</image:loc>
+      <image:title>Worms mate in man&apos;s eyes, get plucked out right before larvae burst out</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/amazon-cuts-35-off-the-elephas-roku-tv-smart-projector</loc>
     <news:news>
       <news:publication>
@@ -15,6 +150,21 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/ELEPHAS-Roku-TV-Smart-Projector-Press-Image.jpg</image:loc>
       <image:title>Amazon cuts 35% off the ELEPHAS Roku TV smart projector</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/meet-the-real-life-scottish-surgeon-who-inspired-sherlock-holmes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T20:15:07Z</news:publication_date>
+      <news:title>Meet the real-life Scottish surgeon who inspired Sherlock Holmes</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/sleuthTOP-1152x648-1792956138.jpg</image:loc>
+      <image:title>Meet the real-life Scottish surgeon who inspired Sherlock Holmes</image:title>
     </image:image>
   </url>
   <url>
@@ -45,6 +195,21 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/motorola-edge-70-neo-specs-leak/gsmarena_00.jpg</image:loc>
       <image:title>Motorola Edge 70 Neo key specifications leak</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-releases-ios-and-macos-272-with-new-siri-ai-features-new-music-logo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T20:04:16Z</news:publication_date>
+      <news:title>Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/Siri-AI-1152x648.png</image:loc>
+      <image:title>Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo</image:title>
     </image:image>
   </url>
   <url>
@@ -240,6 +405,21 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/ghost-of-ytei-studio-sucker-punch-lays-off-24-workers/l-intro-1793042059.jpg</image:loc>
       <image:title>Ghost of Yōtei studio Sucker Punch reportedly lays off 24 workers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T19:04:40Z</news:publication_date>
+      <news:title>Apple reveals updated iPad mini with a bigger OLED screen for $700</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-iPad-mini-hero-1152x648.jpg</image:loc>
+      <image:title>Apple reveals updated iPad mini with a bigger OLED screen for $700</image:title>
     </image:image>
   </url>
   <url>
@@ -3060,51 +3240,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/what-are-the-different-types-of-digital-wallets/l-intro-1792568656.jpg</image:loc>
       <image:title>What are the different types of digital wallets?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-pros-and-cons-of-using-an-esim-over-a-physical-sim-card</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T22:00:00Z</news:publication_date>
-      <news:title>The pros and cons of using an eSIM over a physical SIM card</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-an-esim-over-a-physical-sim-card/l-intro-1792520369.jpg</image:loc>
-      <image:title>The pros and cons of using an eSIM over a physical SIM card</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/cmf-speaker-s-unboxing-and-hands-on</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T21:59:01Z</news:publication_date>
-      <news:title>CMF Speaker S unboxing and hands-on</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/cmf-speaker-s-hands-on/gsmarena_000.jpg</image:loc>
-      <image:title>CMF Speaker S unboxing and hands-on</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/blue-planet-iii-is-keeping-the-rough-edges-in-the-age-of-ai</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T21:29:12Z</news:publication_date>
-      <news:title>Blue Planet III is keeping the rough edges in the age of AI</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/blue_planet_iii_episode_03_051_screengrab.avif?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Blue Planet III is keeping the rough edges in the age of AI</image:title>
     </image:image>
   </url>
 </urlset>
