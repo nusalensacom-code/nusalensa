@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/apple-display-veterans-step-back-as-new-leaders-take-over</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T04:14:12Z</news:publication_date>
+      <news:title>Apple Display Veterans Step Back as New Leaders Take Over</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/03/Apple-Park-PR-Handout.jpg</image:loc>
+      <image:title>Apple Display Veterans Step Back as New Leaders Take Over</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/oled-macbook-air-and-imac-remain-in-testing</loc>
     <news:news>
       <news:publication>
@@ -1905,36 +1920,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/deals-23/gsmarena_de.jpg</image:loc>
       <image:title>Deals: the Oppo Find X10 series and the iPhone Duo launch, here are some alternatives too</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-closes-french-stores-ahead-of-further-protests</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T04:51:16Z</news:publication_date>
-      <news:title>Apple Closes French Stores Ahead of Further Protests</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/Apple-Champs-Elysees-Paris-France.jpg</image:loc>
-      <image:title>Apple Closes French Stores Ahead of Further Protests</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/redmagic-reveals-when-its-phones-are-getting-redmagic-os-12-based-on-android-17</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T04:31:02Z</news:publication_date>
-      <news:title>RedMagic reveals when its phones are getting RedMagic OS 12 based on Android 17</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/redmagic-android-17-rollout-schedule/gsmarena_000.jpg</image:loc>
-      <image:title>RedMagic reveals when its phones are getting RedMagic OS 12 based on Android 17</image:title>
     </image:image>
   </url>
 </urlset>
