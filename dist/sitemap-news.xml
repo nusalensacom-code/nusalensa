@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/openai-announces-three-big-science-discoveries-and-a-new-way-to-work-with-academics</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T23:34:58Z</news:publication_date>
+      <news:title>OpenAI announces three big science discoveries and a new way to work with academics</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_2.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>OpenAI announces three big science discoveries and a new way to work with academics</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-most-popular-streaming-platforms-in-the-us-might-not-be-what-you-think</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T23:30:00Z</news:publication_date>
+      <news:title>The most popular streaming platforms in the US might not be what you think</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/the-most-popular-streaming-platforms-in-the-us-might-not-be-what-you-think/l-intro-1792763480.jpg</image:loc>
+      <image:title>The most popular streaming platforms in the US might not be what you think</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/samsungs-exynos-2700-reportedly-outpaces-the-xiaomi-18-pro-maxs-snapdragon-by-up-to-20</loc>
     <news:news>
       <news:publication>
@@ -3270,51 +3300,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/what-is-the-cheapest-new-gaming-console-you-can-buy-in-2026/l-intro-1792596898.jpg</image:loc>
       <image:title>What is the cheapest new gaming console you can buy in 2026?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/039arguably-better-than-face-id039-the-iphone-duo-touch-id-tip-to-try</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T23:48:55Z</news:publication_date>
-      <news:title>&amp;#039;Arguably Better Than Face ID&amp;#039;: the iPhone Duo Touch ID Tip to Try</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/touch-id-tip-duo.jpg</image:loc>
-      <image:title>&amp;#039;Arguably Better Than Face ID&amp;#039;: the iPhone Duo Touch ID Tip to Try</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/how-to-extend-the-battery-life-of-your-apple-airtags</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T23:45:00Z</news:publication_date>
-      <news:title>How to extend the battery life of your Apple AirTags</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/how-to-extend-the-battery-life-of-your-apple-airtags/l-intro-1792593493.jpg</image:loc>
-      <image:title>How to extend the battery life of your Apple AirTags</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/common-mistakes-you-should-avoid-when-setting-up-your-home-network</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T23:30:00Z</news:publication_date>
-      <news:title>Common mistakes you should avoid when setting up your home network</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/common-mistakes-you-should-avoid-when-setting-up-your-home-network/l-intro-1792590096.jpg</image:loc>
-      <image:title>Common mistakes you should avoid when setting up your home network</image:title>
     </image:image>
   </url>
 </urlset>
