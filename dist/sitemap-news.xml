@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/after-day-one-screen-failures-the-iphone-duo-is-facing-more-durability-questions</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T01:28:34Z</news:publication_date>
+      <news:title>After day-one screen failures, the iPhone Duo is facing more durability questions</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-iPhone-Duo-Hands-On-Inner-Display-with-iOS-27-home-screen.jpg</image:loc>
+      <image:title>After day-one screen failures, the iPhone Duo is facing more durability questions</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/fitbit-air-vs-whoop-which-screenless-fitness-tracker-is-better-for-you</loc>
     <news:news>
       <news:publication>
