@@ -3,6 +3,126 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/macbook-pro039s-switch-to-oled-could-spell-trouble-for-mini-led-industry</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T10:10:07Z</news:publication_date>
+      <news:title>MacBook Pro&amp;#039;s Switch to OLED Could Spell Trouble for Mini-LED Industry</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2023/04/Oled-MackBook-Pros-23.jpg</image:loc>
+      <image:title>MacBook Pro&amp;#039;s Switch to OLED Could Spell Trouble for Mini-LED Industry</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-finally-made-pixel-vips-useful-but-it8217s-missing-these-5-features</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T10:00:06Z</news:publication_date>
+      <news:title>Google finally made Pixel VIPs useful, but it&amp;#8217;s missing these 5 features</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-vips-features-1.jpg</image:loc>
+      <image:title>Google finally made Pixel VIPs useful, but it&amp;#8217;s missing these 5 features</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-city-that-fought-flock</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T10:00:00Z</news:publication_date>
+      <news:title>The city that fought Flock</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268752_Flock_camera_photos_CAlo_25.jpeg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>The city that fought Flock</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/iphone-duo-teardown-reveals-it-is-fairly-repairable-but-its-complex-hinge-is-worrying</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T09:58:02Z</news:publication_date>
+      <news:title>iPhone Duo teardown reveals it is fairly repairable but its complex hinge is worrying</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/iphone-duo-teardown-ifixit/gsmarena_000.jpg</image:loc>
+      <image:title>iPhone Duo teardown reveals it is fairly repairable but its complex hinge is worrying</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/polled-readers-say-this-core-google-feature-matters-most-to-android-tablet-buyers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T09:53:34Z</news:publication_date>
+      <news:title>Polled readers say this core Google feature matters most to Android tablet buyers</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Amazon-Alexa-tablets-12-11-8.jpeg</image:loc>
+      <image:title>Polled readers say this core Google feature matters most to Android tablet buyers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/ifixits-teardown-of-the-iphone-duo-shows-potential-causes-for-cracked-screens</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T09:31:44Z</news:publication_date>
+      <news:title>iFixit&apos;s teardown of the iPhone Duo shows potential causes for cracked screens</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/ifixit-teardown-of-iphone-duo-shows-potential-causes-for-cracked-screens/l-intro-1793008492.jpg</image:loc>
+      <image:title>iFixit&apos;s teardown of the iPhone Duo shows potential causes for cracked screens</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/chrome-without-google-these-are-the-9-best-chromium-browsers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T09:30:56Z</news:publication_date>
+      <news:title>Chrome without Google: These are the 9 best Chromium browsers</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/solipsism-browser-android-app-side-rail-1.jpg</image:loc>
+      <image:title>Chrome without Google: These are the 9 best Chromium browsers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/android8217s-sideloading-experience-is-getting-stricter-but-it-still-can8217t-do-this-one-basic-thing</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T09:30:00Z</news:publication_date>
+      <news:title>Android&amp;#8217;s sideloading experience is getting stricter, but it still can&amp;#8217;t do this one basic thing</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/11/Sideloading-an-Android-app-hero-image-scaled.jpg</image:loc>
+      <image:title>Android&amp;#8217;s sideloading experience is getting stricter, but it still can&amp;#8217;t do this one basic thing</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/android-auto-could-finally-remember-which-number-you-actually-want-to-call</loc>
     <news:news>
       <news:publication>
@@ -1965,36 +2085,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/meta-is-delaying-its-controversial-new-business-terms-amid-scraping-concerns/l-intro-1792836885.jpg</image:loc>
       <image:title>Meta is delaying its controversial new business terms amid scraping concerns</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/5-streaming-boxes-you-should-buy-instead-of-the-new-apple-tv-4k</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T10:00:49Z</news:publication_date>
-      <news:title>5 streaming boxes you should buy instead of the new Apple TV 4K</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/walmart-onn-4k-pro-2026-streaming-box-hands-on-8-scaled.jpg</image:loc>
-      <image:title>5 streaming boxes you should buy instead of the new Apple TV 4K</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/i-compared-this-year8217s-two-best-camera-phones-to-crown-an-ultimate-champion</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T09:30:02Z</news:publication_date>
-      <news:title>I compared this year&amp;#8217;s two best camera phones to crown an ultimate champion</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Google-Pixel-11-Pro-XL-vs-OPPO-Find-X10-Pro-Max-cameras.jpg</image:loc>
-      <image:title>I compared this year&amp;#8217;s two best camera phones to crown an ultimate champion</image:title>
     </image:image>
   </url>
 </urlset>
