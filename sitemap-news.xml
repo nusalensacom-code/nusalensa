@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/android-auto-could-finally-remember-which-number-you-actually-want-to-call</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T09:08:36Z</news:publication_date>
+      <news:title>Android Auto could finally remember which number you actually want to call</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/android-auto-launcher-app-drawer-scaled.jpg</image:loc>
+      <image:title>Android Auto could finally remember which number you actually want to call</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/7-features-i-want-next-from-google-wallet-after-the-apple-inspired-refresh</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T09:00:07Z</news:publication_date>
+      <news:title>7 features I want next from Google Wallet after the Apple-inspired refresh</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/04/google-wallet-2026-redesign-new-passes-hero-2-scaled.jpg</image:loc>
+      <image:title>7 features I want next from Google Wallet after the Apple-inspired refresh</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-sequel-to-one-of-20268217s-best-camera-phones-could-put-s27-ultra-pixel-12-pro-to-shame</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T08:46:01Z</news:publication_date>
+      <news:title>The sequel to one of 2026&amp;#8217;s best camera phones could put S27 Ultra, Pixel 12 Pro to shame</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/04/OPPO-Find-X9-Ultra-camera-housing.jpg</image:loc>
+      <image:title>The sequel to one of 2026&amp;#8217;s best camera phones could put S27 Ultra, Pixel 12 Pro to shame</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/oneplus-reveals-clip-style-earbuds-that-you-can-wear-in-either-ear</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T08:24:02Z</news:publication_date>
+      <news:title>OnePlus reveals clip-style earbuds that you can wear in either ear</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/OnePlus-Buds-Clip_2.jpg</image:loc>
+      <image:title>OnePlus reveals clip-style earbuds that you can wear in either ear</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/galaxy-s278217s-exynos-chip-reportedly-beats-snapdragon-in-tests-but-we-have-many-questions</loc>
     <news:news>
       <news:publication>
@@ -1935,21 +1995,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Google-Pixel-11-Pro-XL-vs-OPPO-Find-X10-Pro-Max-cameras.jpg</image:loc>
       <image:title>I compared this year&amp;#8217;s two best camera phones to crown an ultimate champion</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/i-got-gemini-and-chatgpt-to-argue-about-which-is-the-best-phone-and-the-results-are-in</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T09:00:24Z</news:publication_date>
-      <news:title>I got Gemini and ChatGPT to argue about which is the best phone, and the results are in</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/10/android-phones-holding-googe-samsung-oneplus-hero-scaled.jpg</image:loc>
-      <image:title>I got Gemini and ChatGPT to argue about which is the best phone, and the results are in</image:title>
     </image:image>
   </url>
 </urlset>
