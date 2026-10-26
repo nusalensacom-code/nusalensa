@@ -5,8 +5,17 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 26 Oct 2026 00:29:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 01:24:53 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fitbit Air vs. Whoop: Which screenless fitness tracker is better for you?</title>
+      <link>https://nusalensa.com/phones/fitbit-air-vs-whoop-which-screenless-fitness-tracker-is-better-for-you</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/fitbit-air-vs-whoop-which-screenless-fitness-tracker-is-better-for-you</guid>
+      <description>How locked in do you want to be?</description>
+      <category>Smartphones</category>
+      <pubDate>Mon, 26 Oct 2026 00:30:00 GMT</pubDate>
+      <enclosure url="https://www.engadget.com/img/gallery/fitbit-air-vs-whoop-which-screenless-fitness-tracker-is-better-for-you/l-intro-1792526649.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Can you run regular Ethernet cables outside?</title>
       <link>https://nusalensa.com/technology/can-you-run-regular-ethernet-cables-outside</link>
@@ -267,15 +276,6 @@
       <category>Technology</category>
       <pubDate>Sun, 25 Oct 2026 14:45:00 GMT</pubDate>
       <enclosure url="https://www.engadget.com/img/gallery/get-the-ultimate-security-for-your-macbook-by-changing-these-privacy-settings/l-intro-1792599428.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>AirTag 2 Drops to New Low Price of &amp;#36;23 on Amazon</title>
-      <link>https://nusalensa.com/phones/airtag-2-drops-to-new-low-price-of-3623-on-amazon</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/airtag-2-drops-to-new-low-price-of-3623-on-amazon</guid>
-      <description>Apple&apos;s AirTag 2 has hit &amp;#36;23.00 this week on Amazon, down from &amp;#36;29.00. This deal is on the 1-Pack of the AirTag 2, and it&apos;s a new record low price for t</description>
-      <category>Smartphones</category>
-      <pubDate>Sun, 25 Oct 2026 14:31:28 GMT</pubDate>
-      <enclosure url="https://images.macrumors.com/article-new/2026/08/airtag-2-blue.jpeg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>

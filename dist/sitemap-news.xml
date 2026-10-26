@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/fitbit-air-vs-whoop-which-screenless-fitness-tracker-is-better-for-you</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T00:30:00Z</news:publication_date>
+      <news:title>Fitbit Air vs. Whoop: Which screenless fitness tracker is better for you?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/fitbit-air-vs-whoop-which-screenless-fitness-tracker-is-better-for-you/l-intro-1792526649.jpg</image:loc>
+      <image:title>Fitbit Air vs. Whoop: Which screenless fitness tracker is better for you?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/can-you-run-regular-ethernet-cables-outside</loc>
     <news:news>
       <news:publication>
@@ -1890,21 +1905,6 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2024/03/Apple-vs-DOJ-Feature.jpg</image:loc>
       <image:title>Apple Pushes Back on DOJ Request for More Evidence</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/upcoming-realme-17-pro-series-phones-key-specs-leak</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T01:01:02Z</news:publication_date>
-      <news:title>Upcoming Realme 17 Pro series phone&apos;s key specs leak</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/realme-17-pro-specs-leak/gsmarena_000.jpg</image:loc>
-      <image:title>Upcoming Realme 17 Pro series phone&apos;s key specs leak</image:title>
     </image:image>
   </url>
 </urlset>
