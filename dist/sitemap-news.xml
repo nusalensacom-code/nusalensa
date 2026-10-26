@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/oled-macbook-air-and-imac-remain-in-testing</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T03:41:01Z</news:publication_date>
+      <news:title>OLED MacBook Air and iMac Remain in Testing</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2025/11/imac-holiday.jpeg</image:loc>
+      <image:title>OLED MacBook Air and iMac Remain in Testing</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/long-time-pixel-users-reveal-why-they8217re-still-loyal-to-google-and-what-keeps-them-from-switching</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T03:36:40Z</news:publication_date>
+      <news:title>Long-time Pixel users reveal why they&amp;#8217;re still loyal to Google and what keeps them from switching</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/08/Google-Pixel-9-family-lined-up-face-down-on-a-table-in-multiple-colors.jpg</image:loc>
+      <image:title>Long-time Pixel users reveal why they&amp;#8217;re still loyal to Google and what keeps them from switching</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/after-day-one-screen-failures-the-iphone-duo-is-facing-more-durability-questions</loc>
     <news:news>
       <news:publication>
@@ -1905,21 +1935,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/redmagic-android-17-rollout-schedule/gsmarena_000.jpg</image:loc>
       <image:title>RedMagic reveals when its phones are getting RedMagic OS 12 based on Android 17</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-pushes-back-on-doj-request-for-more-evidence</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T04:02:07Z</news:publication_date>
-      <news:title>Apple Pushes Back on DOJ Request for More Evidence</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2024/03/Apple-vs-DOJ-Feature.jpg</image:loc>
-      <image:title>Apple Pushes Back on DOJ Request for More Evidence</image:title>
     </image:image>
   </url>
 </urlset>
