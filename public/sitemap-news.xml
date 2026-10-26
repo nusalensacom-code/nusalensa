@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/poco-x8s-debuts-with-a-635-inch-oled-display-snapdragon-7-gen-4-chipset</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T10:59:02Z</news:publication_date>
+      <news:title>Poco X8s debuts with a 6.35-inch OLED display, Snapdragon 7 Gen 4 chipset</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/poco-x8s-ofic/gsmarena_00.jpg</image:loc>
+      <image:title>Poco X8s debuts with a 6.35-inch OLED display, Snapdragon 7 Gen 4 chipset</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/samsung-slices-into-apple8217s-iphone-duo-troubles-with-a-cheeky-new-ad</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T10:44:33Z</news:publication_date>
+      <news:title>Samsung slices into Apple&amp;#8217;s iPhone Duo troubles with a cheeky new ad</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/iPhone-Duo-Z-Fold-8-Cover-dispay.jpg</image:loc>
+      <image:title>Samsung slices into Apple&amp;#8217;s iPhone Duo troubles with a cheeky new ad</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/this-free-app-adds-one-of-my-favorite-iphone-features-to-my-galaxy-phone</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T10:30:56Z</news:publication_date>
+      <news:title>This free app adds one of my favorite iPhone features to my Galaxy phone</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/bubble-level-android-app-6.jpg</image:loc>
+      <image:title>This free app adds one of my favorite iPhone features to my Galaxy phone</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/6-gboard-settings-i-change-the-moment-i-get-a-new-android-phone</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T10:30:11Z</news:publication_date>
+      <news:title>6 Gboard settings I change the moment I get a new Android phone</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/gboard-settings-i-always-change-1.jpg</image:loc>
+      <image:title>6 Gboard settings I change the moment I get a new Android phone</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/macbook-pro039s-switch-to-oled-could-spell-trouble-for-mini-led-industry</loc>
     <news:news>
       <news:publication>
@@ -2040,51 +2100,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/ai-hub-ai-app-1.jpg</image:loc>
       <image:title>I dumped 8 popular Android apps for these better open-source alternatives</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/ice-sheet-expansion-may-have-started-2000-years-ago-but-we-canceled-that</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T11:00:09Z</news:publication_date>
-      <news:title>Ice sheet expansion may have started 2,000 years ago, but we canceled that</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1458824614-1152x648.jpg</image:loc>
-      <image:title>Ice sheet expansion may have started 2,000 years ago, but we canceled that</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/i-finally-made-google-photos-less-annoying-with-these-tweaks</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T10:30:48Z</news:publication_date>
-      <news:title>I finally made Google Photos less annoying with these tweaks</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/06/Google-Photos-app-icon-on-Google-Pixel-10a.jpg</image:loc>
-      <image:title>I finally made Google Photos less annoying with these tweaks</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/meta-is-delaying-its-controversial-new-business-terms-amid-scraping-concerns</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T10:18:15Z</news:publication_date>
-      <news:title>Meta is delaying its controversial new business terms amid scraping concerns</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/meta-is-delaying-its-controversial-new-business-terms-amid-scraping-concerns/l-intro-1792836885.jpg</image:loc>
-      <image:title>Meta is delaying its controversial new business terms amid scraping concerns</image:title>
     </image:image>
   </url>
 </urlset>
