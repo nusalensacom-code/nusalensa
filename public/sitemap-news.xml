@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/samsung8217s-first-clip-on-galaxy-buds-launch-tomorrow-and-there8217s-good-news-for-global-buyers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T05:40:39Z</news:publication_date>
+      <news:title>Samsung&amp;#8217;s first clip-on Galaxy Buds launch tomorrow, and there&amp;#8217;s good news for global buyers</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Galaxy-Budson-3.jpg</image:loc>
+      <image:title>Samsung&amp;#8217;s first clip-on Galaxy Buds launch tomorrow, and there&amp;#8217;s good news for global buyers</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/apple-display-veterans-step-back-as-new-leaders-take-over</loc>
     <news:news>
       <news:publication>
