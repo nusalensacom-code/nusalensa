@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/apple-shares-new-apple-watch-survival-stories</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T23:20:22Z</news:publication_date>
+      <news:title>Apple Shares New Apple Watch Survival Stories</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
+      <image:title>Apple Shares New Apple Watch Survival Stories</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-shares-tvos-272-release-notes-with-list-of-new-features</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T23:16:30Z</news:publication_date>
+      <news:title>Apple Shares tvOS 27.2 Release Notes With List of New Features</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/Apple-TV-4K-4th-Generation-Top-View5.jpg</image:loc>
+      <image:title>Apple Shares tvOS 27.2 Release Notes With List of New Features</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/discord-public-server-messages-may-be-soon-searchable-on-google-but-you-can-opt-out</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T23:04:49Z</news:publication_date>
+      <news:title>Discord public server messages may be soon searchable on Google, but you can opt out</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/discord-public-server-messages-may-be-soon-searchable-on-google-but-you-can-opt-out/l-intro-1793141144.jpg</image:loc>
+      <image:title>Discord public server messages may be soon searchable on Google, but you can opt out</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/how-to-change-and-customize-your-android-auto-display</loc>
     <news:news>
       <news:publication>
@@ -5115,36 +5160,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/which-android-phone-is-the-closest-equivalent-to-the-iphone-duo/l-intro-1791823946.jpg</image:loc>
       <image:title>Which Android phone is the closest equivalent to the iPhone Duo?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/why-google-chrome-is-always-using-so-much-ram</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T23:30:00Z</news:publication_date>
-      <news:title>Why Google chrome is always using so much RAM</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/why-google-chrome-is-always-using-so-much-ram/l-intro-1792684467.jpg</image:loc>
-      <image:title>Why Google chrome is always using so much RAM</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-addresses-web-security-threat-working-on-macos-update-with-additional-fix</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T23:07:28Z</news:publication_date>
-      <news:title>Apple Addresses Web Security Threat, Working on macOS Update With Additional Fix</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/Switch-to-Safari.jpg</image:loc>
-      <image:title>Apple Addresses Web Security Threat, Working on macOS Update With Additional Fix</image:title>
     </image:image>
   </url>
 </urlset>
