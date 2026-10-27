@@ -3,6 +3,141 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/how-to-change-and-customize-your-android-auto-display</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T23:00:00Z</news:publication_date>
+      <news:title>How to change and customize your Android Auto display</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/how-to-change-and-customize-your-android-auto-display/l-intro-1792678996.jpg</image:loc>
+      <image:title>How to change and customize your Android Auto display</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/heres-why-the-iphone-duos-hinge-could-be-cracking-the-screen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T22:55:05Z</news:publication_date>
+      <news:title>Here’s why the iPhone Duo’s hinge could be cracking the screen</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iPhone-Duo_208.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Here’s why the iPhone Duo’s hinge could be cracking the screen</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/gemini-notebook-for-android-ios-adds-built-in-audio-recorder</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T22:44:07Z</news:publication_date>
+      <news:title>Gemini Notebook for Android, iOS adds built-in audio recorder</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/07/gemini-notebook-fold-8-5.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Gemini Notebook for Android, iOS adds built-in audio recorder</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/new-iphone-18e-leak-covers-its-chip-cameras-and-display</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T22:44:02Z</news:publication_date>
+      <news:title>New iPhone 18e leak covers its chip, cameras, and display</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/iphone-18e-specs-leak/gsmarena_000.jpg</image:loc>
+      <image:title>New iPhone 18e leak covers its chip, cameras, and display</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T22:37:30Z</news:publication_date>
+      <news:title>Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/M6-iMac-1152x648.jpg</image:loc>
+      <image:title>Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-best-ways-to-tell-if-someone-is-using-ai-glasses</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T22:30:00Z</news:publication_date>
+      <news:title>The best ways to tell if someone is using AI glasses</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/the-best-ways-to-tell-if-someone-is-using-ai-glasses/l-intro-1792775168.jpg</image:loc>
+      <image:title>The best ways to tell if someone is using AI glasses</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/oled-touchscreen-macbook-pro-could-start-at-362899</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T22:29:50Z</news:publication_date>
+      <news:title>OLED Touchscreen MacBook Pro Could Start at &amp;#36;2,899</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/MacBook-Pro-Dynamic-Island-multicolor.jpg</image:loc>
+      <image:title>OLED Touchscreen MacBook Pro Could Start at &amp;#36;2,899</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/south-carolinas-measles-outbreak-jumped-to-washington-state-5-times-in-2-weeks</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T22:22:32Z</news:publication_date>
+      <news:title>South Carolina&apos;s measles outbreak jumped to Washington state 5 times in 2 weeks</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-930111236-1152x648.jpeg</image:loc>
+      <image:title>South Carolina&apos;s measles outbreak jumped to Washington state 5 times in 2 weeks</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T22:04:50Z</news:publication_date>
+      <news:title>China&apos;s top-secret spaceplane can&apos;t hide in low-Earth orbit</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/shenlong_maxar-1152x648.jpg</image:loc>
+      <image:title>China&apos;s top-secret spaceplane can&apos;t hide in low-Earth orbit</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/what-are-wrong-number-text-scams-and-how-can-you-avoid-them</loc>
     <news:news>
       <news:publication>
@@ -33,6 +168,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/technology/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T21:50:04Z</news:publication_date>
+      <news:title>&quot;No human at the helm&quot;: Delaware plan would let AI agents run entire businesses</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-1152x648.jpg</image:loc>
+      <image:title>&quot;No human at the helm&quot;: Delaware plan would let AI agents run entire businesses</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/why-is-there-a-random-arm-taking-over-the-x-composer</loc>
     <news:news>
       <news:publication>
@@ -45,6 +195,21 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/why-is-there-a-random-arm-taking-over-the-x-composer/l-intro-1793136636.jpg</image:loc>
       <image:title>Why is there a random arm taking over the X composer?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T21:31:14Z</news:publication_date>
+      <news:title>Anthropic IPO warns its AI could blackmail people, become sentient, end humanity</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/anthropic-crystal-ball-1152x648.jpg</image:loc>
+      <image:title>Anthropic IPO warns its AI could blackmail people, become sentient, end humanity</image:title>
     </image:image>
   </url>
   <url>
@@ -4980,66 +5145,6 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/10/Switch-to-Safari.jpg</image:loc>
       <image:title>Apple Addresses Web Security Threat, Working on macOS Update With Additional Fix</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/most-windows-users-are-seriously-underusing-this-powerful-desktop-feature</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T23:00:00Z</news:publication_date>
-      <news:title>Most Windows users are seriously underusing this powerful desktop feature</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/most-windows-users-are-seriously-underusing-this-powerful-desktop-feature/l-intro-1792683535.jpg</image:loc>
-      <image:title>Most Windows users are seriously underusing this powerful desktop feature</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/does-tsa-actually-allow-airtags-in-your-luggage-heres-what-the-rules-say</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T22:45:00Z</news:publication_date>
-      <news:title>Does TSA actually allow AirTags in your luggage? Here&apos;s what the rules say</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/does-tsa-actually-allow-airtags-in-your-luggage-heres-what-the-rules-say/l-intro-1792679956.jpg</image:loc>
-      <image:title>Does TSA actually allow AirTags in your luggage? Here&apos;s what the rules say</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/dont-throw-away-your-old-unsupported-nest-gadgets-do-this-instead</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T22:30:00Z</news:publication_date>
-      <news:title>Don&apos;t throw away your old, unsupported Nest gadgets — Do this instead</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/dont-throw-away-your-old-unsupported-nest-gadgets-do-this-instead/l-intro-1792679877.jpg</image:loc>
-      <image:title>Don&apos;t throw away your old, unsupported Nest gadgets — Do this instead</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iphone-duo-can-run-automations-when-you-open-or-close-it</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T22:26:58Z</news:publication_date>
-      <news:title>iPhone Duo Can Run Automations When You Open or Close It</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/duo-opened-closed-automation.jpeg</image:loc>
-      <image:title>iPhone Duo Can Run Automations When You Open or Close It</image:title>
     </image:image>
   </url>
 </urlset>
