@@ -3,6 +3,171 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/the-super-mouse-puts-a-touchscreen-macro-pad-under-your-hand</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T17:00:00Z</news:publication_date>
+      <news:title>The Super Mouse puts a touchscreen macro pad under your hand</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/supermouse1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>The Super Mouse puts a touchscreen macro pad under your hand</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/amazon-cuts-lenovos-8-port-usb-c-slim-travel-dock-by-23</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T16:56:16Z</news:publication_date>
+      <news:title>Amazon cuts Lenovo’s 8-port USB-C Slim Travel Dock by 23%</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Lenovo-USB-C-Slim-Travel-Dock-Press-Image.jpg</image:loc>
+      <image:title>Amazon cuts Lenovo’s 8-port USB-C Slim Travel Dock by 23%</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/anthropics-elaborate-plan-to-keep-wall-street-at-bay</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T16:51:22Z</news:publication_date>
+      <news:title>Anthropic’s elaborate plan to keep Wall Street at bay</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2280291188.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Anthropic’s elaborate plan to keep Wall Street at bay</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/save-20-as-the-cmf-buds-2-fall-41-back-to-their-record-low-price</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T16:47:46Z</news:publication_date>
+      <news:title>Save $20 as the CMF Buds 2 fall 41% back to their record low price</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/07/CMF-Buds-2-SoundGuys-scaled.jpg</image:loc>
+      <image:title>Save $20 as the CMF Buds 2 fall 41% back to their record low price</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/metas-25-billion-legal-loss-just-put-blood-in-the-water</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T16:44:40Z</news:publication_date>
+      <news:title>Meta’s $25 billion legal loss just put blood in the water</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_4_D.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Meta’s $25 billion legal loss just put blood in the water</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/here-are-the-latest-samsung-galaxy-phones-getting-android-17-updates</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T16:43:20Z</news:publication_date>
+      <news:title>Here are the latest Samsung Galaxy phones getting Android 17 updates</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/07/Welcome-to-One-UI-9-screen-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Here are the latest Samsung Galaxy phones getting Android 17 updates</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-reportedly-plans-to-release-macbook-neo-2-in-first-half-of-2027</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T16:34:34Z</news:publication_date>
+      <news:title>Apple Reportedly Plans to Release MacBook Neo 2 in First Half of 2027</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/06/MacBook-Neo-on-Yellow-Feature.jpg</image:loc>
+      <image:title>Apple Reportedly Plans to Release MacBook Neo 2 in First Half of 2027</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/these-might-be-the-best-phones-for-video-capture-and-they8217ve-just-gone-global</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T16:30:57Z</news:publication_date>
+      <news:title>These might be the best phones for video capture, and they&amp;#8217;ve just gone global</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/vivo-X500-Pro-Max-rear-cover-and-cameras.jpg</image:loc>
+      <image:title>These might be the best phones for video capture, and they&amp;#8217;ve just gone global</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/sony-ult-wear-noise-canceling-headphones-get-a-40-amazon-discount</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T16:28:20Z</news:publication_date>
+      <news:title>Sony ULT Wear noise-canceling headphones get a 40% Amazon discount</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/02/Sony-ULT-WEAR-headphones-from-Sound-Guys.jpg</image:loc>
+      <image:title>Sony ULT Wear noise-canceling headphones get a 40% Amazon discount</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/even-the-pixel-11-series-may-not-be-immune-to-google8217s-missed-calls-bug</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T16:24:03Z</news:publication_date>
+      <news:title>Even the Pixel 11 series may not be immune to Google&amp;#8217;s missed calls bug</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/google-pixel-11-pro-pixel-11-pro-xl-canyon-obsidian-7-scaled.jpg</image:loc>
+      <image:title>Even the Pixel 11 series may not be immune to Google&amp;#8217;s missed calls bug</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/firefoxs-smart-window-adds-ai-form-filling-and-webpage-monitoring</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T16:14:18Z</news:publication_date>
+      <news:title>Firefox’s Smart Window adds AI form filling and webpage monitoring</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/firefox-fill.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Firefox’s Smart Window adds AI form filling and webpage monitoring</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/case-makers-are-already-selling-galaxy-s27-pro-and-ultra-covers</loc>
     <news:news>
       <news:publication>
@@ -45,6 +210,21 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2301861042.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Major League Baseball is looking for a new kind of fan</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-updates-14-inch-macbook-pro-and-imac-with-the-m6-processor</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T16:01:02Z</news:publication_date>
+      <news:title>Apple updates 14-inch MacBook Pro and iMac with the M6 processor</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/macbook-pro-imac-m6/gsmarena_000.jpg</image:loc>
+      <image:title>Apple updates 14-inch MacBook Pro and iMac with the M6 processor</image:title>
     </image:image>
   </url>
   <url>
@@ -153,6 +333,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/new-imac-available-with-25-gigabit-ethernet-port-on-power-adapter</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T15:34:55Z</news:publication_date>
+      <news:title>New iMac Available With 2.5 Gigabit Ethernet Port on Power Adapter</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/iMac-Ethernet-Port-Power-Adapter.jpg</image:loc>
+      <image:title>New iMac Available With 2.5 Gigabit Ethernet Port on Power Adapter</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/apple8217s-latest-airtag-is-the-cheapest-its-ever-been</loc>
     <news:news>
       <news:publication>
@@ -165,6 +360,36 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/AirTagVergeDailyDeals.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Apple&amp;#8217;s latest AirTag is the cheapest it’s ever been</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/m4-vs-m6-imac-buyer039s-guide-should-you-upgrade</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T15:30:15Z</news:publication_date>
+      <news:title>M4 vs. M6 iMac Buyer&amp;#039;s Guide: Should You Upgrade?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/M6-iMac-Feature-2.jpg</image:loc>
+      <image:title>M4 vs. M6 iMac Buyer&amp;#039;s Guide: Should You Upgrade?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/vivo-x500-x500-pro-and-x500-pro-max-go-global</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T15:30:02Z</news:publication_date>
+      <news:title>vivo X500, X500 Pro and X500 Pro Max go global</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/vivo-x500-series-goes-global/gsmarena_000.jpg</image:loc>
+      <image:title>vivo X500, X500 Pro and X500 Pro Max go global</image:title>
     </image:image>
   </url>
   <url>
@@ -4170,81 +4395,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/even-the-best-mesh-wi-fi-system-can-be-easily-improved-with-a-simple-cable/l-intro-1792611196.jpg</image:loc>
       <image:title>Even the best mesh Wi-Fi system can be easily improved with a simple cable</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/this-switch-2-sequel-accessory-was-a-few-millimeters-away-from-being-good</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T17:00:00Z</news:publication_date>
-      <news:title>This Switch 2 sequel accessory was a few millimeters away from being good</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/crkd1_56c540.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>This Switch 2 sequel accessory was a few millimeters away from being good</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/what-features-do-you-lose-if-you-use-apple-airpods-with-a-samsung-galaxy-phone</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T16:45:00Z</news:publication_date>
-      <news:title>What features do you lose if you use Apple AirPods with a Samsung Galaxy phone?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/what-features-do-you-lose-if-you-use-apple-airpods-with-a-samsung-galaxy-phone/l-intro-1792607815.jpg</image:loc>
-      <image:title>What features do you lose if you use Apple AirPods with a Samsung Galaxy phone?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/8bitdos-latest-button-only-arcade-controller-is-now-up-for-pre-order</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T16:42:46Z</news:publication_date>
-      <news:title>8BitDo&apos;s latest button-only arcade controller is now up for pre-order</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/8bitdos-latest-button-only-arcade-controller-is-now-up-for-pre-order/l-intro-1792946449.jpg</image:loc>
-      <image:title>8BitDo&apos;s latest button-only arcade controller is now up for pre-order</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/now-you-can-watch-instagram-reels-on-your-apple-tv</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T16:20:17Z</news:publication_date>
-      <news:title>Now you can watch Instagram Reels on your Apple TV</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/1286x724bb.webp?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Now you can watch Instagram Reels on your Apple TV</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-internet-needs-ipv6-and-so-does-your-home-network</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T16:15:00Z</news:publication_date>
-      <news:title>The internet needs IPv6 and so does your home network</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/the-internet-needs-ipv6-and-so-does-your-home-network/l-intro-1792604641.jpg</image:loc>
-      <image:title>The internet needs IPv6 and so does your home network</image:title>
     </image:image>
   </url>
 </urlset>
