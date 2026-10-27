@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/new-imac-and-14-inch-macbook-pro-with-m6-chip-expected-tomorrow</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T02:30:00Z</news:publication_date>
+      <news:title>New iMac and 14-Inch MacBook Pro With M6 Chip Expected Tomorrow</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2024/10/Apple-iMac-M4-hero-feature.jpg</image:loc>
+      <image:title>New iMac and 14-Inch MacBook Pro With M6 Chip Expected Tomorrow</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/ja-z-to-headline-2027-apple-music-super-bowl-lxi-halftime-show</loc>
     <news:news>
       <news:publication>
@@ -3330,21 +3345,6 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2020/12/servant-tv-show.jpg</image:loc>
       <image:title>Apple&amp;#039;s &amp;#039;Servant&amp;#039; Copyright Lawsuit Win Upheld on Appeal</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/huawei-pura-90-plus-appears-in-live-images-ahead-of-launch-chipset-revealed</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T02:33:02Z</news:publication_date>
-      <news:title>Huawei Pura 90 Plus appears in live images ahead of launch, chipset revealed</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/huawei-pura-90-plus-hands-on-live-images/gsmarena_000.jpg</image:loc>
-      <image:title>Huawei Pura 90 Plus appears in live images ahead of launch, chipset revealed</image:title>
     </image:image>
   </url>
 </urlset>

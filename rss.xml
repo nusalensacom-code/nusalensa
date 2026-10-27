@@ -5,8 +5,17 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 27 Oct 2026 02:07:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 03:05:26 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New iMac and 14-Inch MacBook Pro With M6 Chip Expected Tomorrow</title>
+      <link>https://nusalensa.com/phones/new-imac-and-14-inch-macbook-pro-with-m6-chip-expected-tomorrow</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/new-imac-and-14-inch-macbook-pro-with-m6-chip-expected-tomorrow</guid>
+      <description>After announcing a new iPad mini today, Apple is expected to introduce updated iMac and 14-inch MacBook Pro models on Tuesday, both with the M6 chip that debute</description>
+      <category>Smartphones</category>
+      <pubDate>Tue, 27 Oct 2026 02:30:00 GMT</pubDate>
+      <enclosure url="https://images.macrumors.com/article-new/2024/10/Apple-iMac-M4-hero-feature.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>JAŸ-Z to Headline 2027 Apple Music Super Bowl LXI Halftime Show</title>
       <link>https://nusalensa.com/phones/ja-z-to-headline-2027-apple-music-super-bowl-lxi-halftime-show</link>
@@ -267,15 +276,6 @@
       <category>Smartphones</category>
       <pubDate>Mon, 26 Oct 2026 20:04:16 GMT</pubDate>
       <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Siri-AI-1152x648.png" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>iOS 27.2 Lets You Watch Four Live Sports Streams on iPhone</title>
-      <link>https://nusalensa.com/phones/ios-272-lets-you-watch-four-live-sports-streams-on-iphone</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/ios-272-lets-you-watch-four-live-sports-streams-on-iphone</guid>
-      <description>iOS 27.2 expands Multiview to the iPhone, so users can watch up to four live sports streams simultaneously. Multiview works for sports events included in an App</description>
-      <category>Smartphones</category>
-      <pubDate>Mon, 26 Oct 2026 20:03:24 GMT</pubDate>
-      <enclosure url="https://images.macrumors.com/article-new/2026/02/Apple-Sports-Feature.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
