@@ -3,6 +3,126 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/rockstar-workers-in-the-uk-will-hold-a-union-vote-just-as-gta-6-is-released</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T19:55:04Z</news:publication_date>
+      <news:title>Rockstar workers in the UK will hold a union vote just as GTA 6 is released</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/rockstar-workers-in-the-uk-will-hold-a-union-vote-just-as-gta-6-is-released/l-intro-1793130818.jpg</image:loc>
+      <image:title>Rockstar workers in the UK will hold a union vote just as GTA 6 is released</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/chatgpt-can-now-access-your-icloud-mail-and-calendar</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T19:51:25Z</news:publication_date>
+      <news:title>ChatGPT Can Now Access Your iCloud Mail and Calendar</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2023/06/General-macOS-Mail-Feature.jpg</image:loc>
+      <image:title>ChatGPT Can Now Access Your iCloud Mail and Calendar</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/whatsapp-is-bringing-its-media-hub-to-iphones</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T19:47:02Z</news:publication_date>
+      <news:title>WhatsApp is bringing its media hub to iPhones</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/whatsapp-ios-media-hub/gsmarena_000.jpg</image:loc>
+      <image:title>WhatsApp is bringing its media hub to iPhones</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/grand-theft-auto-vi-reportedly-requires-a-210gb-download</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T19:39:37Z</news:publication_date>
+      <news:title>Grand Theft Auto VI reportedly requires a 210GB download</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/grand-theft-auto-vi-is-reportedly-a-210gb-download/l-intro-1793129615.jpg</image:loc>
+      <image:title>Grand Theft Auto VI reportedly requires a 210GB download</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/android-opens-enrollment-for-program-that-brings-one-tap-sideloading-for-app-stores</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T19:38:19Z</news:publication_date>
+      <news:title>Android opens enrollment for program that brings one-tap sideloading for app stores</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/04/aurora-store-google-play-store-alternative-1.jpg</image:loc>
+      <image:title>Android opens enrollment for program that brings one-tap sideloading for app stores</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/score-150-off-samsungs-ultra-slim-s700d-soundbar-in-fresh-deal</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T19:32:18Z</news:publication_date>
+      <news:title>Score $150 off Samsung’s ultra-slim S700D soundbar in fresh deal</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Samsung-S700D-3.1ch-Soundbar-Press-Image.jpg</image:loc>
+      <image:title>Score $150 off Samsung’s ultra-slim S700D soundbar in fresh deal</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T19:32:07Z</news:publication_date>
+      <news:title>Google&apos;s Android Registered App Stores program launches Dec. 1, applications now open</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-floating-1152x648.jpg</image:loc>
+      <image:title>Google&apos;s Android Registered App Stores program launches Dec. 1, applications now open</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/elon-musk-says-ukraine8217s-military-violated-starlink8217s-terms-of-service</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T19:24:06Z</news:publication_date>
+      <news:title>Elon Musk says Ukraine&amp;#8217;s military violated Starlink&amp;#8217;s terms of service</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_I.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Elon Musk says Ukraine&amp;#8217;s military violated Starlink&amp;#8217;s terms of service</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/this-amazon-basics-68w-2-port-gan-charger-is-just-21-right-now</loc>
     <news:news>
       <news:publication>
@@ -30,6 +150,21 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/11/Single-contact-picker-UI-in-Google-Contacts-for-Android-scaled.jpg</image:loc>
       <image:title>Android is locking down permissions to keep apps from messing with your contacts</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/vibe-genes-naturalish-language-comes-to-protein-genome-design-software</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T18:49:08Z</news:publication_date>
+      <news:title>Vibe genes? Natural(ish) language comes to protein, genome design software</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-615307388-832x648.jpg</image:loc>
+      <image:title>Vibe genes? Natural(ish) language comes to protein, genome design software</image:title>
     </image:image>
   </url>
   <url>
@@ -135,6 +270,21 @@
     <image:image>
       <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2019/12/google_nest_wifi_5.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
       <image:title>Google Nest Wifi router and point get October 2026 update</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/warner-bros-drops-final-trailer-for-dune-part-three</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T18:05:55Z</news:publication_date>
+      <news:title>Warner Bros. drops final trailer for Dune: Part Three</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/dune1-1152x648-1793122985.jpg</image:loc>
+      <image:title>Warner Bros. drops final trailer for Dune: Part Three</image:title>
     </image:image>
   </url>
   <url>
@@ -4680,36 +4830,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/20ruxzn728xh1.jpeg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/oneplus-15-starts-receiving-the-stable-coloros-17-update-based-on-android-17</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T20:02:02Z</news:publication_date>
-      <news:title>OnePlus 15 starts receiving the stable ColorOS 17 update based on Android 17</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/oneplus-15-coloros-17-update/gsmarena_000.jpg</image:loc>
-      <image:title>OnePlus 15 starts receiving the stable ColorOS 17 update based on Android 17</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/zen-browser-is-the-arc-replacement-i-was-looking-for</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T19:24:50Z</news:publication_date>
-      <news:title>Zen Browser is the Arc replacement I was looking for</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_4433.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Zen Browser is the Arc replacement I was looking for</image:title>
     </image:image>
   </url>
 </urlset>
