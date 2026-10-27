@@ -3,6 +3,216 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/m6-14-inch-macbook-pro-pre-orders-and-release-date-announced</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T13:21:07Z</news:publication_date>
+      <news:title>M6 14-Inch MacBook Pro: Pre-Orders and Release Date Announced</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/Apple-MacBook-Pro-14-in-with-M6-Pixelmator-Pro-261027-scaled.jpg</image:loc>
+      <image:title>M6 14-Inch MacBook Pro: Pre-Orders and Release Date Announced</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/a-jailbroken-playstation-5-can-play-ps2-discs-but-sony-is-giving-users-a-tough-choice</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T13:15:00Z</news:publication_date>
+      <news:title>A jailbroken PlayStation 5 can play PS2 discs, but Sony is giving users a tough choice</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/a-jailbroken-playstation-5-can-play-ps2-discs-but-sony-is-giving-users-a-tough-choice/l-intro-1792777805.jpg</image:loc>
+      <image:title>A jailbroken PlayStation 5 can play PS2 discs, but Sony is giving users a tough choice</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-announces-new-imac-with-m6-chip-and-more</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T13:11:17Z</news:publication_date>
+      <news:title>Apple Announces New iMac With M6 Chip and More</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2024/10/Apple-iMac-M4-hero-feature.jpg</image:loc>
+      <image:title>Apple Announces New iMac With M6 Chip and More</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/apple-refreshes-the-imac-with-m6-chips</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T13:05:26Z</news:publication_date>
+      <news:title>Apple refreshes the iMac with M6 chips</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-iMac-with-M6-hero-261027.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Apple refreshes the iMac with M6 chips</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/apple-updates-the-macbook-pro-with-m6-chips</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T13:04:28Z</news:publication_date>
+      <news:title>Apple updates the MacBook Pro with M6 chips</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/apple1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Apple updates the MacBook Pro with M6 chips</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-announces-new-14-inch-macbook-pro-with-m6-chip</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T13:01:00Z</news:publication_date>
+      <news:title>Apple Announces New 14-Inch MacBook Pro With M6 Chip</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/Apple-MacBook-Pro-14-in-with-M6-hero-scaled.jpg</image:loc>
+      <image:title>Apple Announces New 14-Inch MacBook Pro With M6 Chip</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/palmer-luckeys-anduril-is-getting-into-laptops-and-claims-they8217ll-be-american-made</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T13:00:00Z</news:publication_date>
+      <news:title>Palmer Luckey’s Anduril is getting into laptops — and claims they&amp;#8217;ll be American-made</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/2026-BlueChip-InField-11-Web.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Palmer Luckey’s Anduril is getting into laptops — and claims they&amp;#8217;ll be American-made</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/fords-sub-30k-electric-truck-puts-the-home-backup-inverter-right-inside-the-vehicle</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T13:00:00Z</news:publication_date>
+      <news:title>Ford’s sub-$30K electric truck puts the home backup inverter right inside the vehicle</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Ford-Fathom-Camo.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Ford’s sub-$30K electric truck puts the home backup inverter right inside the vehicle</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/airflys-wireless-headphone-dongle-adds-a-screen-to-guide-you-through-the-pairing-process</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T13:00:00Z</news:publication_date>
+      <news:title>AirFly’s wireless headphone dongle adds a screen to guide you through the pairing process</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/airfly1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>AirFly’s wireless headphone dongle adds a screen to guide you through the pairing process</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/4-drawbacks-you-should-know-before-buying-an-xbox-series-x</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T12:45:00Z</news:publication_date>
+      <news:title>4 drawbacks you should know before buying an Xbox Series X</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/4-drawbacks-you-should-know-before-buying-an-xbox-series-x/l-intro-1792781267.jpg</image:loc>
+      <image:title>4 drawbacks you should know before buying an Xbox Series X</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/fujifilms-instax-mini-evo-2-adds-a-touchscreen-and-video-recording</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T12:31:33Z</news:publication_date>
+      <news:title>Fujifilm’s Instax Mini Evo 2 adds a touchscreen and video recording</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Fujifilm-Instax-Mini-Evo-2.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Fujifilm’s Instax Mini Evo 2 adds a touchscreen and video recording</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/galaxy-watch-ultra-2-is-glitching-out-on-this-health-metric-but-a-fix-is-on-the-way</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T12:29:51Z</news:publication_date>
+      <news:title>Galaxy Watch Ultra 2 is glitching out on this health metric, but a fix is on the way</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Watch-Ultra-2-titanium-grey.jpg</image:loc>
+      <image:title>Galaxy Watch Ultra 2 is glitching out on this health metric, but a fix is on the way</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-fixes-possibly-exploited-coregraphics-flaw-on-older-iphones</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T12:16:22Z</news:publication_date>
+      <news:title>Apple Fixes Possibly Exploited CoreGraphics Flaw on Older iPhones</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2023/05/bug-security-vulnerability-issue-fix-larry.jpg</image:loc>
+      <image:title>Apple Fixes Possibly Exploited CoreGraphics Flaw on Older iPhones</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/heres-how-much-your-older-samsung-phones-are-actually-worth</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T12:15:00Z</news:publication_date>
+      <news:title>Here&apos;s how much your older Samsung phones are actually worth</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/heres-how-much-your-older-samsung-phones-are-actually-worth/l-intro-1792776180.jpg</image:loc>
+      <image:title>Here&apos;s how much your older Samsung phones are actually worth</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/i-tried-the-soulog-sense-and-now-it8217s-staying-attached-to-my-phone-until-further-notice</loc>
     <news:news>
       <news:publication>
@@ -3630,96 +3840,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>r/opensource just banned AI, non-English speakers, and more</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/dont-throw-away-your-old-chromebook-even-if-youre-getting-a-googlebook</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T13:15:00Z</news:publication_date>
-      <news:title>Don&apos;t throw away your old Chromebook (even if you&apos;re getting a Googlebook)</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/dont-throw-away-your-old-chromebook-even-if-youre-getting-a-googlebook/l-intro-1792593842.jpg</image:loc>
-      <image:title>Don&apos;t throw away your old Chromebook (even if you&apos;re getting a Googlebook)</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/weekly-poll-results-the-oneplus-16-could-have-been-a-global-hit</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T13:02:02Z</news:publication_date>
-      <news:title>Weekly poll results: the OnePlus 16 could have been a global hit</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/weekly-poll-results-oneplus-16/gsmarena_000.jpg</image:loc>
-      <image:title>Weekly poll results: the OnePlus 16 could have been a global hit</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/what-tech-is-making-you-happy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T13:00:00Z</news:publication_date>
-      <news:title>What tech is making you happy?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Fitbit-Edge-vs-Fitbit-Air-3.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>What tech is making you happy?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/when-ai-glasses-could-be-a-worthy-headphones-replacement</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T12:45:00Z</news:publication_date>
-      <news:title>When AI glasses could be a worthy headphones replacement</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/when-ai-glasses-could-be-a-worthy-headphones-replacement/l-intro-1792519044.jpg</image:loc>
-      <image:title>When AI glasses could be a worthy headphones replacement</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/dont-throw-away-your-old-speakers-use-them-for-your-tv-instead</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T12:30:00Z</news:publication_date>
-      <news:title>Don&apos;t throw away your old speakers — Use them for your TV instead</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/dont-throw-away-your-old-speakers-use-them-for-your-tv-instead/l-intro-1792506662.jpg</image:loc>
-      <image:title>Don&apos;t throw away your old speakers — Use them for your TV instead</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/smart-bulbs-are-easy-to-install-but-this-smart-home-upgrade-is-more-inclusive</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T12:15:00Z</news:publication_date>
-      <news:title>Smart bulbs are easy to install, but this smart home upgrade is more inclusive</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/smart-bulbs-are-easy-to-install-but-this-smart-home-upgrade-is-more-inclusive/l-intro-1792502749.jpg</image:loc>
-      <image:title>Smart bulbs are easy to install, but this smart home upgrade is more inclusive</image:title>
     </image:image>
   </url>
 </urlset>
