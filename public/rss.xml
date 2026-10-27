@@ -5,8 +5,26 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 27 Oct 2026 06:03:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 07:21:32 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acer&amp;#8217;s Intel Arc-powered Steam Deck rival finally gets a price and release date</title>
+      <link>https://nusalensa.com/phones/acer8217s-intel-arc-powered-steam-deck-rival-finally-gets-a-price-and-release-date</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/acer8217s-intel-arc-powered-steam-deck-rival-finally-gets-a-price-and-release-date</guid>
+      <description>Acer&apos;s new gaming beast is almost ready to leave its cage.</description>
+      <category>Smartphones</category>
+      <pubDate>Tue, 27 Oct 2026 07:00:18 GMT</pubDate>
+      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/05/ACER-Predator-Atlas-8-Front-view.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>The best PS2 emulator on Android can now make performance tweaks for you</title>
+      <link>https://nusalensa.com/phones/the-best-ps2-emulator-on-android-can-now-make-performance-tweaks-for-you</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/the-best-ps2-emulator-on-android-can-now-make-performance-tweaks-for-you</guid>
+      <description>ARMSX2 on Android can automatically change settings, one at a time, to find the best performance.</description>
+      <category>Smartphones</category>
+      <pubDate>Tue, 27 Oct 2026 06:44:20 GMT</pubDate>
+      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/07/ARMSX2-PS2-emulator-on-Retroid-handheld.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Xiaomi&amp;#8217;s latest fitness tracker makes its way to more countries</title>
       <link>https://nusalensa.com/phones/xiaomi8217s-latest-fitness-tracker-makes-its-way-to-more-countries</link>
@@ -258,24 +276,6 @@
       <category>Smartphones</category>
       <pubDate>Mon, 26 Oct 2026 21:15:14 GMT</pubDate>
       <enclosure url="https://images.macrumors.com/article-new/2026/10/google-synthid.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>This emulator just cut off support to Anbernic&amp;#8217;s upcoming Nintendo 3DS clone</title>
-      <link>https://nusalensa.com/phones/this-emulator-just-cut-off-support-to-anbernic8217s-upcoming-nintendo-3ds-clone</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/this-emulator-just-cut-off-support-to-anbernic8217s-upcoming-nintendo-3ds-clone</guid>
-      <description>Anbernic&apos;s RG DDS gets some bad news before launch.</description>
-      <category>Smartphones</category>
-      <pubDate>Mon, 26 Oct 2026 21:15:14 GMT</pubDate>
-      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/10/ANBERNIC-RG-DDS-YouTube-Still.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Worms mate in man&apos;s eyes, get plucked out right before larvae burst out</title>
-      <link>https://nusalensa.com/technology/worms-mate-in-mans-eyes-get-plucked-out-right-before-larvae-burst-out</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/worms-mate-in-mans-eyes-get-plucked-out-right-before-larvae-burst-out</guid>
-      <description>Case study gives a whole new meaning to &quot;bedroom eyes.&quot;</description>
-      <category>Technology</category>
-      <pubDate>Mon, 26 Oct 2026 20:27:00 GMT</pubDate>
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/larvae-released-1152x648.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>

@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/acer8217s-intel-arc-powered-steam-deck-rival-finally-gets-a-price-and-release-date</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T07:00:18Z</news:publication_date>
+      <news:title>Acer&amp;#8217;s Intel Arc-powered Steam Deck rival finally gets a price and release date</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/ACER-Predator-Atlas-8-Front-view.jpg</image:loc>
+      <image:title>Acer&amp;#8217;s Intel Arc-powered Steam Deck rival finally gets a price and release date</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-best-ps2-emulator-on-android-can-now-make-performance-tweaks-for-you</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T06:44:20Z</news:publication_date>
+      <news:title>The best PS2 emulator on Android can now make performance tweaks for you</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/ARMSX2-PS2-emulator-on-Retroid-handheld.jpg</image:loc>
+      <image:title>The best PS2 emulator on Android can now make performance tweaks for you</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/xiaomi8217s-latest-fitness-tracker-makes-its-way-to-more-countries</loc>
     <news:news>
       <news:publication>
