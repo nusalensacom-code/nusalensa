@@ -5,8 +5,26 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 27 Oct 2026 07:21:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 08:13:03 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple responds to the iPhone Duo inner display cracking issue</title>
+      <link>https://nusalensa.com/phones/apple-responds-to-the-iphone-duo-inner-display-cracking-issue</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/apple-responds-to-the-iphone-duo-inner-display-cracking-issue</guid>
+      <description>Apple has responded to the reports regarding the iPhone Duo inner display cracking. In a statement to 9to5Mac, the company acknowledged that it is aware of the </description>
+      <category>Smartphones</category>
+      <pubDate>Tue, 27 Oct 2026 07:24:02 GMT</pubDate>
+      <enclosure url="https://fdn.gsmarena.com/imgroot/news/26/10/iphone-duo-apple-response/gsmarena_000.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Instagram is coming for YouTube&amp;#8217;s crown with long-form videos</title>
+      <link>https://nusalensa.com/phones/instagram-is-coming-for-youtube8217s-crown-with-long-form-videos</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/instagram-is-coming-for-youtube8217s-crown-with-long-form-videos</guid>
+      <description>YouTube has ruled long-form video practically unchallenged. Now Instagram wants a seat at the table.</description>
+      <category>Smartphones</category>
+      <pubDate>Tue, 27 Oct 2026 07:22:49 GMT</pubDate>
+      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-fold-8-instagram-closed-scaled.jpeg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Acer&amp;#8217;s Intel Arc-powered Steam Deck rival finally gets a price and release date</title>
       <link>https://nusalensa.com/phones/acer8217s-intel-arc-powered-steam-deck-rival-finally-gets-a-price-and-release-date</link>
@@ -258,24 +276,6 @@
       <category>Smartphones</category>
       <pubDate>Mon, 26 Oct 2026 21:41:02 GMT</pubDate>
       <enclosure url="https://fdn.gsmarena.com/imgroot/news/26/10/t-mobile-t-mix-plans-live/gsmarena_000.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>GPT-6.1 Terra makes a strong case for being OpenAI&amp;#8217;s best bang for your AI buck</title>
-      <link>https://nusalensa.com/phones/gpt-61-terra-makes-a-strong-case-for-being-openai8217s-best-bang-for-your-ai-buck</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/gpt-61-terra-makes-a-strong-case-for-being-openai8217s-best-bang-for-your-ai-buck</guid>
-      <description>OpenAI&apos;s latest model promises big savings without compromising on performance</description>
-      <category>Smartphones</category>
-      <pubDate>Mon, 26 Oct 2026 21:25:03 GMT</pubDate>
-      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/05/Open-AI-ChatGPT-logo-on-phone-stock-photo-7.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>iPhone AI Images and Edits Now Have a Hidden Watermark</title>
-      <link>https://nusalensa.com/phones/iphone-ai-images-and-edits-now-have-a-hidden-watermark</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/iphone-ai-images-and-edits-now-have-a-hidden-watermark</guid>
-      <description>Images generated with Image Playground and some photos edited with Apple Intelligence will now include a SynthID watermark. Apple announced plans to add SynthID</description>
-      <category>Smartphones</category>
-      <pubDate>Mon, 26 Oct 2026 21:15:14 GMT</pubDate>
-      <enclosure url="https://images.macrumors.com/article-new/2026/10/google-synthid.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
