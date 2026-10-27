@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/google-photos-rolls-out-customizable-redesign-of-your-collections-tab</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T01:18:33Z</news:publication_date>
+      <news:title>Google Photos rolls out customizable redesign of your ‘Collections’ tab</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/03/google-photos-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Google Photos rolls out customizable redesign of your ‘Collections’ tab</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/xiaomi-18-pro-and-18-pro-max-get-listed-by-european-retailer-before-their-global-launch</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T01:09:02Z</news:publication_date>
+      <news:title>Xiaomi 18 Pro and 18 Pro Max get listed by European retailer before their global launch</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/xiaomi-18-pro-18-pro-max-listed-in-europe/gsmarena_000.jpg</image:loc>
+      <image:title>Xiaomi 18 Pro and 18 Pro Max get listed by European retailer before their global launch</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/iphone-lockdown-mode-the-pros-and-cons-of-enabling-apples-security-feature</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T00:30:00Z</news:publication_date>
+      <news:title>iPhone Lockdown Mode: The pros and cons of enabling Apple&apos;s security feature</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/iphone-lockdown-mode-the-pros-and-cons-of-enabling-apples-security-feature/l-intro-1792766868.jpg</image:loc>
+      <image:title>iPhone Lockdown Mode: The pros and cons of enabling Apple&apos;s security feature</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/older-siri-remotes-now-show-up-in-find-my-with-ios-272</loc>
     <news:news>
       <news:publication>
@@ -3285,21 +3330,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/huawei-pura-90-plus-hands-on-live-images/gsmarena_000.jpg</image:loc>
       <image:title>Huawei Pura 90 Plus appears in live images ahead of launch, chipset revealed</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/heres-what-you-need-to-know-before-buying-a-wireless-carplay-adapter</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T00:30:00Z</news:publication_date>
-      <news:title>Here&apos;s what you need to know before buying a wireless CarPlay adapter</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/heres-what-you-need-to-know-before-buying-a-wireless-carplay-adapter/l-intro-1792599334.jpg</image:loc>
-      <image:title>Here&apos;s what you need to know before buying a wireless CarPlay adapter</image:title>
     </image:image>
   </url>
 </urlset>
