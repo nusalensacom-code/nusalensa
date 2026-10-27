@@ -3,6 +3,171 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/reviews/vivo-x500-pro-max-review</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T15:11:10Z</news:publication_date>
+      <news:title>vivo X500 Pro Max review</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/reviews/26/vivo-x500-pro-max/-347x151/gsmarena_004.jpg</image:loc>
+      <image:title>vivo X500 Pro Max review</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/nintendo-sets-an-indie-world-showcase-for-october-28</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T15:06:04Z</news:publication_date>
+      <news:title>Nintendo sets an Indie World showcase for October 28</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/nintendo-sets-an-indie-world-showcase-for-october-28/l-intro-1793113525.jpg</image:loc>
+      <image:title>Nintendo sets an Indie World showcase for October 28</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-infinix-gt-50-pro-goes-official-in-india</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T15:01:02Z</news:publication_date>
+      <news:title>The Infinix GT 50 Pro goes official in India</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/infinix-gt-50-pro-india-launch/gsmarena_00.jpg</image:loc>
+      <image:title>The Infinix GT 50 Pro goes official in India</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/cmf-watch-3-pro-falls-to-59-its-lowest-price-yet</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T15:00:33Z</news:publication_date>
+      <news:title>CMF Watch 3 Pro falls to $59, its lowest price yet</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/10/Woman-wearing-a-CMF-Watch-3-Pro-scaled.jpg</image:loc>
+      <image:title>CMF Watch 3 Pro falls to $59, its lowest price yet</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-expected-to-announce-macbook-pro-with-touchscreen-tomorrow</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T14:55:51Z</news:publication_date>
+      <news:title>Apple Expected to Announce MacBook Pro With Touchscreen Tomorrow</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/MacBook-Pro-Dynamic-Island-multicolor.jpg</image:loc>
+      <image:title>Apple Expected to Announce MacBook Pro With Touchscreen Tomorrow</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/why-some-iphone-apps-dont-appear-in-apple-carplay</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T14:45:00Z</news:publication_date>
+      <news:title>Why some iPhone apps don&apos;t appear in Apple CarPlay</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/why-some-iphone-apps-dont-appear-in-apple-carplay/l-intro-1792786994.jpg</image:loc>
+      <image:title>Why some iPhone apps don&apos;t appear in Apple CarPlay</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/amazon-cuts-sony-wh-ch730n-by-51-to-a-new-low</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T14:42:28Z</news:publication_date>
+      <news:title>Amazon cuts Sony WH-CH730N by $51 to a new low</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Sony-WH-CH730N-Wireless-Over-Ear-Headphones-Press-Image.jpg</image:loc>
+      <image:title>Amazon cuts Sony WH-CH730N by $51 to a new low</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/android-find-hub-app-reveals-how-8216left-behind8217-and-8216ring-your-phone8217-alerts-work-on-pixel-tag</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T14:40:00Z</news:publication_date>
+      <news:title>Android Find Hub app reveals how &amp;#8216;Left Behind&amp;#8217; and &amp;#8216;Ring your phone&amp;#8217; alerts work on Pixel Tag</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/08/google-pixel-tag-2.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Android Find Hub app reveals how &amp;#8216;Left Behind&amp;#8217; and &amp;#8216;Ring your phone&amp;#8217; alerts work on Pixel Tag</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/banktivity-offers-30-off-first-year-subscriptions-for-macrumors-readers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T14:25:46Z</news:publication_date>
+      <news:title>Banktivity Offers 30% Off First Year Subscriptions for MacRumors Readers</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/banktivity-new-app.jpeg</image:loc>
+      <image:title>Banktivity Offers 30% Off First Year Subscriptions for MacRumors Readers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-unveils-new-14-inch-macbook-pro-with-m6-chip</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T14:25:11Z</news:publication_date>
+      <news:title>Apple unveils new 14-inch MacBook Pro with M6 chip</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
+      <image:title>Apple unveils new 14-inch MacBook Pro with M6 chip</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/everything-apple-announced-this-week-so-far-new-ipad-and-macbooks</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T14:23:09Z</news:publication_date>
+      <news:title>Everything Apple announced this week so far: New iPad and MacBooks</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/everything-apple-announced-this-week/l-intro-1793108609.jpg</image:loc>
+      <image:title>Everything Apple announced this week so far: New iPad and MacBooks</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/anthropics-political-problem-will-get-worse-before-it-gets-better</loc>
     <news:news>
       <news:publication>
@@ -30,6 +195,21 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/Split-screen-view-on-the-Galaxy-Z-Fold-8-Ultra.jpg</image:loc>
       <image:title>Here&amp;#8217;s an early look at Samsung&amp;#8217;s next foldable from practically all angles</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/oneplus-rolling-out-coloros-to-oneplus-13-others-as-android-17-update-expands</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T14:00:00Z</news:publication_date>
+      <news:title>OnePlus rolling out ColorOS to OnePlus 13, others as Android 17 update expands</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2025/07/OnePlus-13-design-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>OnePlus rolling out ColorOS to OnePlus 13, others as Android 17 update expands</image:title>
     </image:image>
   </url>
   <url>
@@ -3870,81 +4050,6 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2025/01/2024-iPhone-Boxes-Feature.jpg</image:loc>
       <image:title>Apple Stores Reportedly Rolling Out New Anti-Theft System for iPhones</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/4-ray-ban-meta-privacy-settings-you-should-change-before-wearing-them</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T15:15:00Z</news:publication_date>
-      <news:title>4 Ray-Ban Meta privacy settings you should change before wearing them</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/4-ray-ban-meta-privacy-settings-you-should-change-before-wearing-them/l-intro-1792599800.jpg</image:loc>
-      <image:title>4 Ray-Ban Meta privacy settings you should change before wearing them</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/get-the-ultimate-security-for-your-macbook-by-changing-these-privacy-settings</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T14:45:00Z</news:publication_date>
-      <news:title>Get the ultimate security for your MacBook by changing these privacy settings</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/get-the-ultimate-security-for-your-macbook-by-changing-these-privacy-settings/l-intro-1792599428.jpg</image:loc>
-      <image:title>Get the ultimate security for your MacBook by changing these privacy settings</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/airtag-2-drops-to-new-low-price-of-3623-on-amazon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T14:31:28Z</news:publication_date>
-      <news:title>AirTag 2 Drops to New Low Price of &amp;#36;23 on Amazon</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/08/airtag-2-blue.jpeg</image:loc>
-      <image:title>AirTag 2 Drops to New Low Price of &amp;#36;23 on Amazon</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/new-imac-and-14-inch-macbook-pro-with-m6-chip-expected-this-week</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T14:30:49Z</news:publication_date>
-      <news:title>New iMac and 14-Inch MacBook Pro With M6 Chip Expected This Week</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2024/10/Apple-iMac-M4-hero-feature.jpg</image:loc>
-      <image:title>New iMac and 14-Inch MacBook Pro With M6 Chip Expected This Week</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-reportedly-announcing-new-macbook-pro-with-oled-touchscreen-on-wednesday</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T14:30:34Z</news:publication_date>
-      <news:title>Apple Reportedly Announcing New MacBook Pro With OLED Touchscreen on Wednesday</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/MacBook-Pro-Dynamic-Island-multicolor.jpg</image:loc>
-      <image:title>Apple Reportedly Announcing New MacBook Pro With OLED Touchscreen on Wednesday</image:title>
     </image:image>
   </url>
 </urlset>
