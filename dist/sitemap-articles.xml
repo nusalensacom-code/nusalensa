@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/older-siri-remotes-now-show-up-in-find-my-with-ios-272</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/ios-27-2-apple-tv-remote.jpg</image:loc>
+      <image:title>Older Siri Remotes Now Show Up in Find My With iOS 27.2</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/openai-announces-three-big-science-discoveries-and-a-new-way-to-work-with-academics</loc>
     <lastmod>2026-10-26</lastmod>
     <changefreq>daily</changefreq>

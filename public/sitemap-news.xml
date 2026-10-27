@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/older-siri-remotes-now-show-up-in-find-my-with-ios-272</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T00:13:44Z</news:publication_date>
+      <news:title>Older Siri Remotes Now Show Up in Find My With iOS 27.2</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/ios-27-2-apple-tv-remote.jpg</image:loc>
+      <image:title>Older Siri Remotes Now Show Up in Find My With iOS 27.2</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/openai-announces-three-big-science-discoveries-and-a-new-way-to-work-with-academics</loc>
     <news:news>
       <news:publication>
@@ -3285,21 +3300,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/heres-what-you-need-to-know-before-buying-a-wireless-carplay-adapter/l-intro-1792599334.jpg</image:loc>
       <image:title>Here&apos;s what you need to know before buying a wireless CarPlay adapter</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/what-is-the-cheapest-new-gaming-console-you-can-buy-in-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T00:00:00Z</news:publication_date>
-      <news:title>What is the cheapest new gaming console you can buy in 2026?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/what-is-the-cheapest-new-gaming-console-you-can-buy-in-2026/l-intro-1792596898.jpg</image:loc>
-      <image:title>What is the cheapest new gaming console you can buy in 2026?</image:title>
     </image:image>
   </url>
 </urlset>
