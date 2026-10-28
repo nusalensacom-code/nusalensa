@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/hate-setting-up-esims-gemini-might-soon-do-it-for-you-apk-teardown</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T04:09:54Z</news:publication_date>
+      <news:title>Hate setting up eSIMs? Gemini might soon do it for you (APK teardown)</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/10/visible-esim-transfer-app-hero-scaled.jpg</image:loc>
+      <image:title>Hate setting up eSIMs? Gemini might soon do it for you (APK teardown)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/ios-272-brings-two-new-features-to-apples-carplay</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T03:51:54Z</news:publication_date>
+      <news:title>iOS 27.2 brings two new features to Apple&apos;s CarPlay</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/ios-27-2-brings-two-new-features-to-apples-carplay/l-intro-1793159234.jpg</image:loc>
+      <image:title>iOS 27.2 brings two new features to Apple&apos;s CarPlay</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/redmi-k100-debuts-with-snapdragon-8-elite-chipset-10000mah-battery</loc>
     <news:news>
       <news:publication>
@@ -45,6 +75,21 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/24/09/galaxy-s22-fold4-flip4-one-ui-611/gsmarena_000.jpg</image:loc>
       <image:title>Samsung is being fined in South Korea over Galaxy S21 and S22&apos;s gaming performance</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/dont-throw-away-your-old-kindle-repurpose-it-instead</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T00:00:00Z</news:publication_date>
+      <news:title>Don&apos;t throw away your old Kindle — repurpose it instead</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/dont-throw-away-your-old-kindle-repurpose-it-instead/l-intro-1792793145.jpg</image:loc>
+      <image:title>Don&apos;t throw away your old Kindle — repurpose it instead</image:title>
     </image:image>
   </url>
   <url>
@@ -5115,51 +5160,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Galaxy-Budson-3.jpg</image:loc>
       <image:title>Samsung&amp;#8217;s first clip-on Galaxy Buds launch tomorrow, and there&amp;#8217;s good news for global buyers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-display-veterans-step-back-as-new-leaders-take-over</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T04:14:12Z</news:publication_date>
-      <news:title>Apple Display Veterans Step Back as New Leaders Take Over</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/03/Apple-Park-PR-Handout.jpg</image:loc>
-      <image:title>Apple Display Veterans Step Back as New Leaders Take Over</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/oled-macbook-air-and-imac-remain-in-testing</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T03:41:01Z</news:publication_date>
-      <news:title>OLED MacBook Air and iMac Remain in Testing</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2025/11/imac-holiday.jpeg</image:loc>
-      <image:title>OLED MacBook Air and iMac Remain in Testing</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/long-time-pixel-users-reveal-why-they8217re-still-loyal-to-google-and-what-keeps-them-from-switching</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T03:36:40Z</news:publication_date>
-      <news:title>Long-time Pixel users reveal why they&amp;#8217;re still loyal to Google and what keeps them from switching</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/08/Google-Pixel-9-family-lined-up-face-down-on-a-table-in-multiple-colors.jpg</image:loc>
-      <image:title>Long-time Pixel users reveal why they&amp;#8217;re still loyal to Google and what keeps them from switching</image:title>
     </image:image>
   </url>
 </urlset>
