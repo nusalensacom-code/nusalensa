@@ -3,6 +3,126 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/how-accurate-were-rumors-about-apple039s-oled-touchscreen-macbook-pro</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T22:04:52Z</news:publication_date>
+      <news:title>How Accurate Were Rumors About Apple&amp;#039;s OLED Touchscreen MacBook Pro?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/oled-macbook-pro-display.jpg</image:loc>
+      <image:title>How Accurate Were Rumors About Apple&amp;#039;s OLED Touchscreen MacBook Pro?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/price-hikes-can8217t-stop-youtube-premium-from-hitting-new-subscriber-records</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T22:03:41Z</news:publication_date>
+      <news:title>Price hikes can&amp;#8217;t stop YouTube Premium from hitting new subscriber records</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2022/04/YouTube-on-smartphone-stock-photo-6.jpg</image:loc>
+      <image:title>Price hikes can&amp;#8217;t stop YouTube Premium from hitting new subscriber records</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/a-hacker-stole-more-than-40000-dhs-employee-records</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T21:57:45Z</news:publication_date>
+      <news:title>A hacker stole more than 40,000 DHS employee records</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2200388904.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>A hacker stole more than 40,000 DHS employee records</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/soundcore-liberty-4-pro-gets-a-40-amazon-discount</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T21:52:31Z</news:publication_date>
+      <news:title>Soundcore Liberty 4 Pro gets a $40 Amazon discount</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Anker-Soundcore-Liberty-4-Pro-SoundGuys.jpg</image:loc>
+      <image:title>Soundcore Liberty 4 Pro gets a $40 Amazon discount</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/logitech-g309-lightspeed-deal-brings-hero-25k-mouse-to-4999</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T21:38:48Z</news:publication_date>
+      <news:title>Logitech G309 Lightspeed deal brings HERO 25K mouse to $49.99</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/Logitech-G309-Lightspeed-Wireless-Gaming-Mouse-Press-Image.jpg</image:loc>
+      <image:title>Logitech G309 Lightspeed deal brings HERO 25K mouse to $49.99</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/akai-is-embracing-vibe-coded-mods-with-an-open-source-mpc</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T21:34:04Z</news:publication_date>
+      <news:title>Akai is embracing vibe-coded mods with an open-source MPC</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai-MPC-Sample-Key.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Akai is embracing vibe-coded mods with an open-source MPC</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/galaxy-watch-ultra-deal-knocks-184-off-samsungs-rugged-lte-watch</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T21:21:39Z</news:publication_date>
+      <news:title>Galaxy Watch Ultra deal knocks $184 off Samsung’s rugged LTE watch</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/07/Samsung-Galaxy-Watch-Ultra-2025-Titanium-Blue-flat-on-table.jpg</image:loc>
+      <image:title>Galaxy Watch Ultra deal knocks $184 off Samsung’s rugged LTE watch</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/readwise-is-taking-on-kindle-and-kobo-for-ebook-supremacy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T21:16:18Z</news:publication_date>
+      <news:title>Readwise is taking on Kindle and Kobo for ebook supremacy</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Readwise-Books-2.jpeg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Readwise is taking on Kindle and Kobo for ebook supremacy</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/gemini-4-carbon-is-google8217s-second-new-frontier-model-this-month</loc>
     <news:news>
       <news:publication>
@@ -870,6 +990,21 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/app1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Apple ‘Pro and Tell’ event: everything announced this week</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-launches-its-new-touchscreen-macbook-pro</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T17:26:10Z</news:publication_date>
+      <news:title>Apple launches its new touchscreen MacBook Pro</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
+      <image:title>Apple launches its new touchscreen MacBook Pro</image:title>
     </image:image>
   </url>
   <url>
@@ -5625,111 +5760,6 @@
     <image:image>
       <image:loc>https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
       <image:title>What are the leading causes of EV battery damage?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-says-gemini-4-argon-ranks-well-behind-claude-and-gpt-6-for-android-coding</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T22:00:00Z</news:publication_date>
-      <news:title>Google says Gemini 4 Argon ranks well behind Claude and GPT-6 for Android coding</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/03/android-figures-mwc-2026-2.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Google says Gemini 4 Argon ranks well behind Claude and GPT-6 for Android coding</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-mistake-iphone-duo-buyers-can-easily-avoid</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T22:00:00Z</news:publication_date>
-      <news:title>The mistake iPhone Duo buyers can easily avoid</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/the-mistake-iphone-duo-buyers-can-easily-avoid/l-intro-1792692793.jpg</image:loc>
-      <image:title>The mistake iPhone Duo buyers can easily avoid</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/samsungs-switch-2-ready-microsd-express-card-is-on-sale-for-less-than-50</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T21:56:36Z</news:publication_date>
-      <news:title>Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Samsung-P9-MicroSD-Express-Card.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/ios-272-fixes-over-160-security-vulnerabilities</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T21:55:32Z</news:publication_date>
-      <news:title>iOS 27.2 Fixes Over 160 Security Vulnerabilities</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/03/apple-lock-security-bug-vulnerability-fix-privacy.jpg</image:loc>
-      <image:title>iOS 27.2 Fixes Over 160 Security Vulnerabilities</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/anthropic-is-burning-gas-to-feed-the-ai-boom</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T21:45:31Z</news:publication_date>
-      <news:title>Anthropic is burning gas to feed the AI boom</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Anthropic is burning gas to feed the AI boom</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/t-mobiles-new-t-mix-plans-let-you-pick-your-own-perks</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T21:41:02Z</news:publication_date>
-      <news:title>T-Mobile&apos;s new T-Mix plans let you pick your own perks</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/t-mobile-t-mix-plans-live/gsmarena_000.jpg</image:loc>
-      <image:title>T-Mobile&apos;s new T-Mix plans let you pick your own perks</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/gpt-61-terra-makes-a-strong-case-for-being-openai8217s-best-bang-for-your-ai-buck</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T21:25:03Z</news:publication_date>
-      <news:title>GPT-6.1 Terra makes a strong case for being OpenAI&amp;#8217;s best bang for your AI buck</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/Open-AI-ChatGPT-logo-on-phone-stock-photo-7.jpg</image:loc>
-      <image:title>GPT-6.1 Terra makes a strong case for being OpenAI&amp;#8217;s best bang for your AI buck</image:title>
     </image:image>
   </url>
 </urlset>
