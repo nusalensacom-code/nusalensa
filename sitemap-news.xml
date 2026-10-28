@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/metas-waddle-world-is-a-tamagotchi-like-ai-pet-app</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T08:40:19Z</news:publication_date>
+      <news:title>Meta&apos;s Waddle World is a Tamagotchi-like AI pet app</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/metas-waddle-world-is-a-tamagotchi-like-ai-digital-pet-app/l-intro-1793176733.jpg</image:loc>
+      <image:title>Meta&apos;s Waddle World is a Tamagotchi-like AI pet app</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/sony-announces-new-lytia-720-50mp-1156-inch-sensor-for-mobile</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T08:06:02Z</news:publication_date>
+      <news:title>Sony announces new LYTIA 720 50MP 1/1.56-inch sensor for mobile</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/sony-lytia-720-announced/gsmarena_00.jpg</image:loc>
+      <image:title>Sony announces new LYTIA 720 50MP 1/1.56-inch sensor for mobile</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/psa-your-discord-messages-could-soon-show-up-on-google-but-here8217s-how-to-opt-out</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T07:55:24Z</news:publication_date>
+      <news:title>PSA: Your Discord messages could soon show up on Google, but here&amp;#8217;s how to opt out</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Discord-on-a-smartphone.jpg</image:loc>
+      <image:title>PSA: Your Discord messages could soon show up on Google, but here&amp;#8217;s how to opt out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/researcher-raises-alarming-privacy-concerns-about-samsung-tvs-even-those-without-mics</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T07:48:45Z</news:publication_date>
+      <news:title>Researcher raises alarming privacy concerns about Samsung TVs, even those without mics</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/10/Samsung-TV-Trackpad-Remote-for-Smartphones-3-of-3-e1785843366549-500w-260h.jpg</image:loc>
+      <image:title>Researcher raises alarming privacy concerns about Samsung TVs, even those without mics</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/pokemon-unite-is-shutting-down-ending-one-of-mobile8217s-biggest-mobas</loc>
     <news:news>
       <news:publication>
@@ -5205,21 +5265,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/04/OPPO-Find-X9-Ultra-camera-housing.jpg</image:loc>
       <image:title>The sequel to one of 2026&amp;#8217;s best camera phones could put S27 Ultra, Pixel 12 Pro to shame</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/oneplus-reveals-clip-style-earbuds-that-you-can-wear-in-either-ear</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T08:24:02Z</news:publication_date>
-      <news:title>OnePlus reveals clip-style earbuds that you can wear in either ear</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/OnePlus-Buds-Clip_2.jpg</image:loc>
-      <image:title>OnePlus reveals clip-style earbuds that you can wear in either ear</image:title>
     </image:image>
   </url>
 </urlset>
