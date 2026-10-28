@@ -3,6 +3,111 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/ive-been-a-t-mobile-subscriber-for-years-and-the-carrier-just-gave-me-a-big-reason-to-stay</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T11:30:59Z</news:publication_date>
+      <news:title>I’ve been a T-Mobile subscriber for years, and the carrier just gave me a big reason to stay</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/t-life-app-main-screen-scaled.jpg</image:loc>
+      <image:title>I’ve been a T-Mobile subscriber for years, and the carrier just gave me a big reason to stay</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/meta-considered-a-whisper-strategy-to-turn-academics-against-jonathan-haidt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T11:30:00Z</news:publication_date>
+      <news:title>Meta considered a ‘whisper strategy’ to turn academics against Jonathan Haidt</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_4_E.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Meta considered a ‘whisper strategy’ to turn academics against Jonathan Haidt</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/pill-shaped-macos-27-assets-hint-at-dynamic-island-for-macbook-pro</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T11:28:48Z</news:publication_date>
+      <news:title>Pill-Shaped macOS 27 Assets Hint at Dynamic Island for MacBook Pro</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/dynamic-island-views-macos-27@2x-scaled.jpg</image:loc>
+      <image:title>Pill-Shaped macOS 27 Assets Hint at Dynamic Island for MacBook Pro</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/meta-quietly-launched-an-8216ai-pet-journal8217-app</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T11:27:30Z</news:publication_date>
+      <news:title>Meta quietly launched an &amp;#8216;AI pet journal&amp;#8217; app</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Waddle-World-meta-app-hero.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Meta quietly launched an &amp;#8216;AI pet journal&amp;#8217; app</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/can8217t-get-pixel-vips-here8217s-how-to-create-a-similar-experience-on-your-android-phone</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T11:00:52Z</news:publication_date>
+      <news:title>Can&amp;#8217;t get Pixel VIPs? Here&amp;#8217;s how to create a similar experience on your Android phone</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/a-google-contacts-widgets-on-an-android-phone-scaled.jpg</image:loc>
+      <image:title>Can&amp;#8217;t get Pixel VIPs? Here&amp;#8217;s how to create a similar experience on your Android phone</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/chinas-snooping-around-pacific-undersea-cables-raises-risks-for-big-tech</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T11:00:49Z</news:publication_date>
+      <news:title>China’s snooping around Pacific undersea cables raises risks for Big Tech</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/Trans-Pacific-cables-at-risk-1071x648.jpg</image:loc>
+      <image:title>China’s snooping around Pacific undersea cables raises risks for Big Tech</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/huawei-pura-90-plus-launched-with-kirin-9025-and-1-inch-type-main-sensor-with-variable-aperture</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T11:00:02Z</news:publication_date>
+      <news:title>Huawei Pura 90 Plus launched with Kirin 9025 and 1-inch type main sensor with variable aperture</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/huawei-pura-90-plus-ofic/gsmarena_000.jpg</image:loc>
+      <image:title>Huawei Pura 90 Plus launched with Kirin 9025 and 1-inch type main sensor with variable aperture</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/cooling-fans-are-the-next-big-android-phone-trend-you-should-avoid</loc>
     <news:news>
       <news:publication>
@@ -5190,81 +5295,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/asus-rog-xbox-ally-x20-desk.jpg</image:loc>
       <image:title>The ASUS ROG Xbox Ally X20 is the best (and priciest) Ally yet</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/snapseed-is-prepping-a-major-upgrade-for-long-exposure-photography</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T11:34:24Z</news:publication_date>
-      <news:title>Snapseed is prepping a major upgrade for long exposure photography</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/snapseed-40-google-pixel-10-pro-xl-scaled.jpg</image:loc>
-      <image:title>Snapseed is prepping a major upgrade for long exposure photography</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/this-open-source-app-lets-you-run-practically-any-phone-app-on-your-android-auto-car-screen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T11:16:34Z</news:publication_date>
-      <news:title>This open-source app lets you run practically any phone app on your Android Auto car screen</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/android-auto-weather-icon-1.jpg</image:loc>
-      <image:title>This open-source app lets you run practically any phone app on your Android Auto car screen</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T11:00:15Z</news:publication_date>
-      <news:title>From impulse purchase to pocket studio: The M-Vave FM-1</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/PXL_20261020_212659503.PORTRAIT-1152x648.jpg</image:loc>
-      <image:title>From impulse purchase to pocket studio: The M-Vave FM-1</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/poco-x8s-debuts-with-a-635-inch-oled-display-snapdragon-7-gen-4-chipset</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T10:59:02Z</news:publication_date>
-      <news:title>Poco X8s debuts with a 6.35-inch OLED display, Snapdragon 7 Gen 4 chipset</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/poco-x8s-ofic/gsmarena_00.jpg</image:loc>
-      <image:title>Poco X8s debuts with a 6.35-inch OLED display, Snapdragon 7 Gen 4 chipset</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-slices-into-apple8217s-iphone-duo-troubles-with-a-cheeky-new-ad</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T10:44:33Z</news:publication_date>
-      <news:title>Samsung slices into Apple&amp;#8217;s iPhone Duo troubles with a cheeky new ad</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/iPhone-Duo-Z-Fold-8-Cover-dispay.jpg</image:loc>
-      <image:title>Samsung slices into Apple&amp;#8217;s iPhone Duo troubles with a cheeky new ad</image:title>
     </image:image>
   </url>
 </urlset>
