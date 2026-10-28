@@ -3,6 +3,156 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/microsoft-is-ending-copilot-support-on-smart-tvs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T18:36:26Z</news:publication_date>
+      <news:title>Microsoft is ending Copilot support on smart TVs</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/copilot.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Microsoft is ending Copilot support on smart TVs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/surprise-the-google-xreal-glasses-debut-at-a-meta-beating-1099</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T18:14:11Z</news:publication_date>
+      <news:title>Surprise: The Google Xreal glasses debut at a Meta-beating $1,099</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Aura_4_TAS_XR_-Nov-06-2025_113.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Surprise: The Google Xreal glasses debut at a Meta-beating $1,099</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/mint-mobile-reworks-family-plans-with-new-discounts</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T18:11:40Z</news:publication_date>
+      <news:title>Mint Mobile reworks family plans with new discounts</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/Mint-Mobile-logo-on-phone-with-money-in-background-stock-photo-4.jpg</image:loc>
+      <image:title>Mint Mobile reworks family plans with new discounts</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/heres-where-to-preorder-the-latest-macbook-pros</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T18:10:23Z</news:publication_date>
+      <news:title>Here’s where to preorder the latest MacBook Pros</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/MacBook-Pro-M6-2026-preorder-3_5144c7.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Here’s where to preorder the latest MacBook Pros</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/amazon-turns-its-most-capable-smart-speaker-into-a-smart-camera-too</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T18:05:22Z</news:publication_date>
+      <news:title>Amazon turns its most capable smart speaker into a smart camera, too</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1152x648.png</image:loc>
+      <image:title>Amazon turns its most capable smart speaker into a smart camera, too</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/you-can-see-every-red-flag-in-theranos-20</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T18:00:00Z</news:publication_date>
+      <news:title>You can see every red flag in Theranos 2.0</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-1248465318.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>You can see every red flag in Theranos 2.0</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/cadillac-escalade-iq-review-huge-battery-huge-range-huge-suv</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T17:55:45Z</news:publication_date>
+      <news:title>Cadillac Escalade IQ review: Huge battery, huge range, huge SUV</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/2026-Cadillac-Escalade-IQ-1-of-26-1152x648.jpg</image:loc>
+      <image:title>Cadillac Escalade IQ review: Huge battery, huge range, huge SUV</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/anker-prime-3-in-1-charger-drops-under-100-in-amazon-deal</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T17:52:02Z</news:publication_date>
+      <news:title>Anker Prime 3-in-1 charger drops under $100 in Amazon deal</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/Anker-Prime-25W-3-in-1-Foldable-MagSafe-Charger-Press-Image.jpg</image:loc>
+      <image:title>Anker Prime 3-in-1 charger drops under $100 in Amazon deal</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/heres-how-macos-is-changing-for-touchscreens</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T17:48:28Z</news:publication_date>
+      <news:title>Here’s how macOS is changing for touchscreens</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-28-at-10.31.37-AM.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Here’s how macOS is changing for touchscreens</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/google-ai-gets-cagey-when-asked-who-won-the-2020-elections</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T17:46:32Z</news:publication_date>
+      <news:title>Google AI gets cagey when asked who won the 2020 elections</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2181827335-1152x648.jpg</image:loc>
+      <image:title>Google AI gets cagey when asked who won the 2020 elections</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/samsung-75-inch-m80h-tv-hits-its-lowest-price-yet-on-amazon</loc>
     <news:news>
       <news:publication>
@@ -18,6 +168,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/technology/florida-county-wont-investigate-sketchy-flock-cameras-removed-by-mystery-owners</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T17:37:49Z</news:publication_date>
+      <news:title>Florida county won’t investigate sketchy Flock cameras removed by mystery owners</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2290773984-1024x648.jpg</image:loc>
+      <image:title>Florida county won’t investigate sketchy Flock cameras removed by mystery owners</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/apple-pro-and-tell-event-everything-announced-this-week</loc>
     <news:news>
       <news:publication>
@@ -30,6 +195,21 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/app1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Apple ‘Pro and Tell’ event: everything announced this week</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-announces-touchscreen-macbook-pro-with-oled-display</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T17:25:04Z</news:publication_date>
+      <news:title>Apple announces touchscreen MacBook Pro with OLED display</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/2026-MacBook-Pro-1152x648-1793208150.jpg</image:loc>
+      <image:title>Apple announces touchscreen MacBook Pro with OLED display</image:title>
     </image:image>
   </url>
   <url>
@@ -75,6 +255,21 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/06/Oura-Ring-5-app-scaled.jpg</image:loc>
       <image:title>Oura confirms Ring 4 sync bug, but the fix is simple</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/amazon-drops-tapo-magcam-2k-security-camera-below-its-prime-day-price</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T17:14:18Z</news:publication_date>
+      <news:title>Amazon drops Tapo MagCam 2K+ Security Camera below its Prime Day price</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Tapo-MagCam-4K-Outdoor-Wireless-Security-Camera-Press-Image.jpg</image:loc>
+      <image:title>Amazon drops Tapo MagCam 2K+ Security Camera below its Prime Day price</image:title>
     </image:image>
   </url>
   <url>
@@ -150,6 +345,36 @@
     <image:image>
       <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/xreal-aura-lifestyle-01.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
       <image:title>XREAL Aura debuts with 150 made-for-XR experiences, including Project Hail Mary, NBA, Fallout, and more</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/chrome-can-now-pull-autofill-suggestions-straight-from-gmail</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T17:00:57Z</news:publication_date>
+      <news:title>Chrome can now pull autofill suggestions straight from Gmail</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/Chrome-logo-on-phone-stock-photo-1.jpg</image:loc>
+      <image:title>Chrome can now pull autofill suggestions straight from Gmail</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-opens-the-floodgates-for-more-connected-apps-in-gemini-and-search</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T17:00:49Z</news:publication_date>
+      <news:title>Google opens the floodgates for more connected apps in Gemini and Search</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Nothing-Phone-1-showing-welcome-screen-of-Gemini-Android-app-1-scaled.jpg</image:loc>
+      <image:title>Google opens the floodgates for more connected apps in Gemini and Search</image:title>
     </image:image>
   </url>
   <url>
@@ -5265,276 +5490,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/apple-teases-more-launches-this-week/gsmarena_000.jpg</image:loc>
       <image:title>Apple teases more launches this week after the new iPad mini</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/apple-releases-ios-272-with-new-siri-ai-languages</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T18:32:32Z</news:publication_date>
-      <news:title>Apple Releases iOS 27.2 With New Siri AI Languages</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/09/iOS-27.2-Next-to-iPhone.jpg</image:loc>
-      <image:title>Apple Releases iOS 27.2 With New Siri AI Languages</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/your-apple-tv-remote-has-handy-shortcuts-most-people-never-use</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T18:30:00Z</news:publication_date>
-      <news:title>Your Apple TV remote has handy shortcuts most people never use</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/your-apple-tv-remote-has-handy-shortcuts-most-people-never-use/l-intro-1792761117.jpg</image:loc>
-      <image:title>Your Apple TV remote has handy shortcuts most people never use</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-is-building-a-home-for-everything-you8217ve-asked-gemini-to-remember</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T18:27:22Z</news:publication_date>
-      <news:title>Google is building a home for everything you&amp;#8217;ve asked Gemini to remember</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/06/Google-Gemini-autocomplete-for-AI-queries-scaled.jpg</image:loc>
-      <image:title>Google is building a home for everything you&amp;#8217;ve asked Gemini to remember</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-nbas-response-to-gambling-scandals-is-to-add-more-gambling-partnerships</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T18:22:06Z</news:publication_date>
-      <news:title>The NBA’s response to gambling scandals is to add more gambling partnerships</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB383_KALSHI_D.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>The NBA’s response to gambling scandals is to add more gambling partnerships</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/survey-shows-most-readers-stand-by-android-but-a-good-number-are-ios-curious</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T18:18:42Z</news:publication_date>
-      <news:title>Survey shows most readers stand by Android, but a good number are iOS-curious</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/iphone-18-pro-max-pixel-11-pro-xl-scaled.jpg</image:loc>
-      <image:title>Survey shows most readers stand by Android, but a good number are iOS-curious</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/moto-tag-2-brings-its-uwb-and-android-find-hub-integration-back-to-20</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T18:15:00Z</news:publication_date>
-      <news:title>Moto Tag 2 brings its UWB and Android Find Hub integration back to $20</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/01/moto-tag-2-.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Moto Tag 2 brings its UWB and Android Find Hub integration back to $20</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/musk-accuses-ukraine-of-violating-starlink-terms-with-deadly-drone-strikes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T18:09:08Z</news:publication_date>
-      <news:title>Musk accuses Ukraine of violating Starlink terms with deadly drone strikes</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/ukraine-starlink-1152x648-1793037272.jpg</image:loc>
-      <image:title>Musk accuses Ukraine of violating Starlink terms with deadly drone strikes</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/gemini-could-soon-make-it-easier-to-purge-old-unwanted-conversations</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T18:08:03Z</news:publication_date>
-      <news:title>Gemini could soon make it easier to purge old, unwanted conversations</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/11/Gemini-3.0-Pro-hero-image-scaled.jpg</image:loc>
-      <image:title>Gemini could soon make it easier to purge old, unwanted conversations</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/amazon-cuts-cmf-headphone-pro-by-30-to-an-all-time-low</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T18:06:08Z</news:publication_date>
-      <news:title>Amazon cuts CMF Headphone Pro by 30% to an all-time low</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/09/nothing-cmf-headphone-pro-colors-scaled.jpeg</image:loc>
-      <image:title>Amazon cuts CMF Headphone Pro by 30% to an all-time low</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/how-to-use-your-samsung-galaxy-phone-to-wirelessly-charge-other-devices</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T18:00:00Z</news:publication_date>
-      <news:title>How to use your Samsung Galaxy phone to wirelessly charge other devices</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/how-to-use-your-samsung-galaxy-phone-to-wirelessly-charge-other-devices/l-intro-1792690102.jpg</image:loc>
-      <image:title>How to use your Samsung Galaxy phone to wirelessly charge other devices</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google8217s-new-metal-mesh-fitbit-air-band-is-more-versatile-than-you-think</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T17:59:20Z</news:publication_date>
-      <news:title>Google&amp;#8217;s new Metal Mesh Fitbit Air band is more versatile than you think</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Fitbit-Air-Metal-Mesh-band-3.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Google&amp;#8217;s new Metal Mesh Fitbit Air band is more versatile than you think</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-releases-macos-golden-gate-272</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T17:48:44Z</news:publication_date>
-      <news:title>Apple Releases macOS Golden Gate 27.2</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/06/macOS-27-next-to-MacBook-Pro-Running-macOS-27.jpg</image:loc>
-      <image:title>Apple Releases macOS Golden Gate 27.2</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-releases-watchos-272-with-siri-ai-enhancements</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T17:48:05Z</news:publication_date>
-      <news:title>Apple Releases watchOS 27.2 With Siri AI Enhancements</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/06/watchos-27.jpg</image:loc>
-      <image:title>Apple Releases watchOS 27.2 With Siri AI Enhancements</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-releases-homepod-272-software-with-sound-glow-for-existing-homepods</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T17:47:17Z</news:publication_date>
-      <news:title>Apple Releases HomePod 27.2 Software With Sound Glow for Existing HomePods</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/homepod-mini-2-feature5.jpg</image:loc>
-      <image:title>Apple Releases HomePod 27.2 Software With Sound Glow for Existing HomePods</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-releases-tvos-272-with-homepod-surround-sound-support</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T17:46:59Z</news:publication_date>
-      <news:title>Apple Releases tvOS 27.2 With HomePod Surround Sound Support</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/surround_mixed_16x9.jpg</image:loc>
-      <image:title>Apple Releases tvOS 27.2 With HomePod Surround Sound Support</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-releases-visionos-272</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T17:46:19Z</news:publication_date>
-      <news:title>Apple Releases visionOS 27.2</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2024/03/apple-vision-pro-orange.jpg</image:loc>
-      <image:title>Apple Releases visionOS 27.2</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/ipad-mini-2024-vs-2026-buyer039s-guide-should-you-upgrade</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T17:45:11Z</news:publication_date>
-      <news:title>iPad Mini 2024 vs. 2026 Buyer&amp;#039;s Guide: Should You Upgrade?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/iPad-mini-24-v-26-Feature.jpg</image:loc>
-      <image:title>iPad Mini 2024 vs. 2026 Buyer&amp;#039;s Guide: Should You Upgrade?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/t-mobile8217s-new-freebie-is-perfect-for-a-dark-halloween-night</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T17:40:48Z</news:publication_date>
-      <news:title>T-Mobile&amp;#8217;s new freebie is perfect for a dark Halloween night</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/05/t-mobile-logo-android-phone-hero-1-scaled.jpg</image:loc>
-      <image:title>T-Mobile&amp;#8217;s new freebie is perfect for a dark Halloween night</image:title>
     </image:image>
   </url>
 </urlset>
