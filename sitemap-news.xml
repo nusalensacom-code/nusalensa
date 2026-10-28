@@ -3,6 +3,216 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/samsung-75-inch-m80h-tv-hits-its-lowest-price-yet-on-amazon</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T17:39:18Z</news:publication_date>
+      <news:title>Samsung 75-inch M80H TV hits its lowest price yet on Amazon</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Samsung-75-Inch-Class-M80H-Series-Mini-LED-4K-Smart-TV-2026-Model-Press-Image.jpg</image:loc>
+      <image:title>Samsung 75-inch M80H TV hits its lowest price yet on Amazon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/apple-pro-and-tell-event-everything-announced-this-week</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T17:27:38Z</news:publication_date>
+      <news:title>Apple ‘Pro and Tell’ event: everything announced this week</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/app1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Apple ‘Pro and Tell’ event: everything announced this week</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/watch-apples-reveal-video-for-the-touchscreen-macbook-pro</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T17:19:23Z</news:publication_date>
+      <news:title>Watch Apple’s reveal video for the touchscreen MacBook Pro</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/apple-macbook-pro-touch-video-1.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Watch Apple’s reveal video for the touchscreen MacBook Pro</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/hands-on-with-apples-touchscreen-macbook-pro</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T17:16:55Z</news:publication_date>
+      <news:title>Hands-on with Apple’s touchscreen MacBook Pro</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0001.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Hands-on with Apple’s touchscreen MacBook Pro</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/oura-confirms-ring-4-sync-bug-but-the-fix-is-simple</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T17:16:08Z</news:publication_date>
+      <news:title>Oura confirms Ring 4 sync bug, but the fix is simple</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/06/Oura-Ring-5-app-scaled.jpg</image:loc>
+      <image:title>Oura confirms Ring 4 sync bug, but the fix is simple</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/heres-where-you-can-preorder-the-new-oled-equipped-ipad-mini</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T17:12:47Z</news:publication_date>
+      <news:title>Here’s where you can preorder the new OLED-equipped iPad Mini</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/2026-iPad-Mini-Press-Image.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Here’s where you can preorder the new OLED-equipped iPad Mini</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/instagram-doesn8217t-have-a-plan-to-pay-long-form-video-creators</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T17:10:46Z</news:publication_date>
+      <news:title>Instagram doesn&amp;#8217;t have a plan to pay long-form video creators</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK070_INSTAGRAM__A.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Instagram doesn&amp;#8217;t have a plan to pay long-form video creators</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-announces-gemini-4-carbon-with-significant-gains-across-coding-and-agentic-tasks</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T17:08:32Z</news:publication_date>
+      <news:title>Google announces Gemini 4 Carbon with ‘significant gains across coding and agentic tasks’</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-4-Carbon-cover.webp?w=1600</image:loc>
+      <image:title>Google announces Gemini 4 Carbon with ‘significant gains across coding and agentic tasks’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/apple-announces-its-first-touchscreen-macbook-pro</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T17:05:56Z</news:publication_date>
+      <news:title>Apple announces its first touchscreen MacBook Pro</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-MacBook-Pro-with-PROLED-XDR-Display-lifestyle-remote-work-261028.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Apple announces its first touchscreen MacBook Pro</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/xreal-aura-debuts-with-150-made-for-xr-experiences-including-project-hail-mary-nba-fallout-and-more</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T17:05:00Z</news:publication_date>
+      <news:title>XREAL Aura debuts with 150 made-for-XR experiences, including Project Hail Mary, NBA, Fallout, and more</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/xreal-aura-lifestyle-01.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>XREAL Aura debuts with 150 made-for-XR experiences, including Project Hail Mary, NBA, Fallout, and more</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-chrome-rolling-out-suggested-by-gemini-autofill</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T17:00:00Z</news:publication_date>
+      <news:title>Google Chrome rolling out ‘Suggested by Gemini’ autofill</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/08/google-chrome-navigation-gemini-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Google Chrome rolling out ‘Suggested by Gemini’ autofill</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/xreal-aura-is-coming-in-november-with-a-special-200-off-launch-discount</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T17:00:00Z</news:publication_date>
+      <news:title>XREAL Aura is coming in November with a special $200-off launch discount</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/xreal-aura-official-render-launch.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>XREAL Aura is coming in November with a special $200-off launch discount</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-adding-more-connected-apps-to-gemini-038-search-with-new-dev-platform</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T17:00:00Z</news:publication_date>
+      <news:title>Google adding more Connected Apps to Gemini &amp;#038; Search with new dev platform</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Pixel-11-Pro-Gemini-Splashscreen.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Google adding more Connected Apps to Gemini &amp;#038; Search with new dev platform</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/chromes-enhanced-autofill-can-now-pull-info-from-gmail-to-help-you-fill-out-forms</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T17:00:00Z</news:publication_date>
+      <news:title>Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/chrome.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/apple-store-down-ahead-of-039pro-and-tell039-launch-today</loc>
     <news:news>
       <news:publication>
@@ -210,6 +420,21 @@
     <image:image>
       <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/9to5Google-Oct-28-3.webp?w=1600</image:loc>
       <image:title>Deals: Galaxy S25 Ultra at $799 ($600 under S26), new Echo Show 16 $100 off, 2026 Chromebook M 52% off, more</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/buckle-up-for-more-body-swapping-hijinks-in-jumanji-open-world-trailer</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T15:48:12Z</news:publication_date>
+      <news:title>Buckle up for more body-swapping hijinks in Jumanji: Open World trailer</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/jumanji1-1152x648.jpg</image:loc>
+      <image:title>Buckle up for more body-swapping hijinks in Jumanji: Open World trailer</image:title>
     </image:image>
   </url>
   <url>
@@ -5310,306 +5535,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/05/t-mobile-logo-android-phone-hero-1-scaled.jpg</image:loc>
       <image:title>T-Mobile&amp;#8217;s new freebie is perfect for a dark Halloween night</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/amazon-drops-roborock-s8-max-ultra-by-350-in-rare-deal</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T17:39:56Z</news:publication_date>
-      <news:title>Amazon drops Roborock S8 Max Ultra by $350 in rare deal</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/11/S8-MaxV-Ultra.jpg</image:loc>
-      <image:title>Amazon drops Roborock S8 Max Ultra by $350 in rare deal</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/instagram-wants-you-to-watch-90-minute-videos-on-your-tv</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T17:36:39Z</news:publication_date>
-      <news:title>Instagram wants you to watch 90-minute videos on your TV</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/instagram-wants-you-to-watch-90-minute-videos-on-your-tv/l-intro-1793036153.jpg</image:loc>
-      <image:title>Instagram wants you to watch 90-minute videos on your TV</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-realreal-wont-let-ai-agents-hog-designer-clothing</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T17:30:55Z</news:publication_date>
-      <news:title>The RealReal won’t let AI agents hog designer clothing</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>The RealReal won’t let AI agents hog designer clothing</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-acknowledges-iphone-duo-display-8216issue8217-after-reports-of-cracked-screens</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T17:28:07Z</news:publication_date>
-      <news:title>Apple acknowledges iPhone Duo display &amp;#8216;issue&amp;#8217; after reports of cracked screens</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1230.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Apple acknowledges iPhone Duo display &amp;#8216;issue&amp;#8217; after reports of cracked screens</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T17:26:36Z</news:publication_date>
-      <news:title>Highway thieves are spoofing GPS to steal millions in data center-bound cargo</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/via-Cook-County-Sheriffs-Office-X-1152x648-1793033307.jpeg</image:loc>
-      <image:title>Highway thieves are spoofing GPS to steal millions in data center-bound cargo</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/nothing8217s-eye-catching-ear-3a-earbuds-are-matching-their-best-price-to-date</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T17:25:34Z</news:publication_date>
-      <news:title>Nothing&amp;#8217;s eye-catching Ear 3A earbuds are matching their best price to date</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268654_Nothing_Ear_3A_JHiggins_0014.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Nothing&amp;#8217;s eye-catching Ear 3A earbuds are matching their best price to date</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/instagram-tests-8216features8217-long-form-videos-but-missing-youtube8217s-ad-share-for-now</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T17:25:00Z</news:publication_date>
-      <news:title>Instagram tests &amp;#8216;Features&amp;#8217; long-form videos, but missing YouTube&amp;#8217;s ad share for now</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2023/09/instagram-04.webp?w=1600</image:loc>
-      <image:title>Instagram tests &amp;#8216;Features&amp;#8217; long-form videos, but missing YouTube&amp;#8217;s ad share for now</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-responds-to-iphone-duo-display-cracking-reports</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T17:20:37Z</news:publication_date>
-      <news:title>Apple Responds to iPhone Duo Display Cracking Reports</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/iphone-duo-screen-crack.jpg</image:loc>
-      <image:title>Apple Responds to iPhone Duo Display Cracking Reports</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/dutch-government-to-cut-16-percent-of-workforce-as-part-of-ai-efficiency-push</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T17:13:20Z</news:publication_date>
-      <news:title>Dutch government to cut 16 percent of workforce as part of AI efficiency push</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/dutch-government-to-cut-16-percent-of-workforce-as-part-of-ai-efficiency-push/l-intro-1793034748.jpg</image:loc>
-      <image:title>Dutch government to cut 16 percent of workforce as part of AI efficiency push</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-is-reportedly-making-20-fewer-galaxy-a-phones-this-quarter</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T17:11:02Z</news:publication_date>
-      <news:title>Samsung is reportedly making 20% fewer Galaxy A phones this quarter</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/samsung-to-make-less-a-series-phones/gsmarena_000.jpg</image:loc>
-      <image:title>Samsung is reportedly making 20% fewer Galaxy A phones this quarter</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/five-weird-details-from-anthropics-ipo-filing</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T17:10:23Z</news:publication_date>
-      <news:title>Five weird details from Anthropic’s IPO filing</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK202_DARIO_AMODEI_CVIRGINIA_C.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Five weird details from Anthropic’s IPO filing</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/microsoft-reportedly-offers-voluntary-buyouts-to-60000-employees-as-an-attempt-to-trim-costs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T17:10:23Z</news:publication_date>
-      <news:title>Microsoft reportedly offers voluntary buyouts to 60,000 employees as an attempt to trim costs</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/microsoft-reportedly-offers-voluntary-buyouts-to-60000-employees-as-an-attempt-to-trim-costs/l-intro-1793034359.jpg</image:loc>
-      <image:title>Microsoft reportedly offers voluntary buyouts to 60,000 employees as an attempt to trim costs</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iphone-duo-watch-video-above-an-app-in-portrait-mode</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T17:05:32Z</news:publication_date>
-      <news:title>iPhone Duo: Watch Video Above an App in Portrait Mode</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/iphone-duo-pip-video-trick.jpeg</image:loc>
-      <image:title>iPhone Duo: Watch Video Above an App in Portrait Mode</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/i-thought-i8217d-love-the-180-fitbit-edge-7-days-later-i8217m-just-disappointed</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T17:00:50Z</news:publication_date>
-      <news:title>I thought I&amp;#8217;d love the $180 Fitbit Edge. 7 days later, I&amp;#8217;m just disappointed.</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/fitbit-edge-review-hero-photo-4-scaled.jpg</image:loc>
-      <image:title>I thought I&amp;#8217;d love the $180 Fitbit Edge. 7 days later, I&amp;#8217;m just disappointed.</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/fitbit-edge-review-google-strikes-the-right-balance</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T17:00:00Z</news:publication_date>
-      <news:title>Fitbit Edge review: Google strikes the right balance</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/fitbit-edge-review-google-strikes-the-right-balance/l-intro-1793021088.jpg</image:loc>
-      <image:title>Fitbit Edge review: Google strikes the right balance</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/fitbit-edge-review-too-much-and-too-little-at-the-same-time</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T17:00:00Z</news:publication_date>
-      <news:title>Fitbit Edge Review: Too much and too little at the same time</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/fitbit-edge-4_53a7c8.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Fitbit Edge Review: Too much and too little at the same time</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/everything-old-is-new-again-with-the-fitbit-edge</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T17:00:00Z</news:publication_date>
-      <news:title>Everything old is new again with the Fitbit Edge</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268783_Fitbit_edge_AKrales_0057.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Everything old is new again with the Fitbit Edge</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/some-iphone-duo-screens-are-already-failing</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T16:51:49Z</news:publication_date>
-      <news:title>Some iPhone Duo screens are already failing</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/iphone-duo-oops-1152x648.jpg</image:loc>
-      <image:title>Some iPhone Duo screens are already failing</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/amazon-knocks-150-off-ugreens-17-in-1-thunderbolt-5-dock</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T16:50:15Z</news:publication_date>
-      <news:title>Amazon knocks $150 off UGREEN’s 17-in-1 Thunderbolt 5 dock</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/UGREEN-Maxidok-Thunderbolt-5-Docking-Station-Press-Image.jpg</image:loc>
-      <image:title>Amazon knocks $150 off UGREEN’s 17-in-1 Thunderbolt 5 dock</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/ultrahuman-pushes-back-against-oura8217s-bid-to-ban-the-ring-pro</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T16:49:16Z</news:publication_date>
-      <news:title>Ultrahuman pushes back against Oura&amp;#8217;s bid to ban the Ring Pro</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/08/Ultrahuman-Ring-Air-Hand-scaled.jpg</image:loc>
-      <image:title>Ultrahuman pushes back against Oura&amp;#8217;s bid to ban the Ring Pro</image:title>
     </image:image>
   </url>
 </urlset>
