@@ -5,8 +5,17 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 28 Oct 2026 00:04:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 01:33:31 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Samsung is being fined in South Korea over Galaxy S21 and S22&apos;s gaming performance</title>
+      <link>https://nusalensa.com/phones/samsung-is-being-fined-in-south-korea-over-galaxy-s21-and-s22s-gaming-performance</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/samsung-is-being-fined-in-south-korea-over-galaxy-s21-and-s22s-gaming-performance</guid>
+      <description>The Korean Fair Trade Commission (FTC) sued Samsung over misleading marketing regarding the Galaxy S21 series, S22 series, and the Galaxy Tab S8 series, and the</description>
+      <category>Smartphones</category>
+      <pubDate>Wed, 28 Oct 2026 00:02:02 GMT</pubDate>
+      <enclosure url="https://fdn.gsmarena.com/imgroot/news/24/09/galaxy-s22-fold4-flip4-one-ui-611/gsmarena_000.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Apple Shares New Apple Watch Survival Stories</title>
       <link>https://nusalensa.com/phones/apple-shares-new-apple-watch-survival-stories</link>
@@ -267,15 +276,6 @@
       <category>Smartphones</category>
       <pubDate>Tue, 27 Oct 2026 20:37:19 GMT</pubDate>
       <enclosure url="https://www.androidauthority.com/wp-content/uploads/2025/09/duolingo-missions-on-a-smartphone-screen-scaled.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>M6 iMac Sticks With Its Five-Year-Old Color Lineup</title>
-      <link>https://nusalensa.com/phones/m6-imac-sticks-with-its-five-year-old-color-lineup</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/m6-imac-sticks-with-its-five-year-old-color-lineup</guid>
-      <description>The new M6 iMac models come in the same color options as the 2024 model, despite reports suggesting we could see new shades. You can buy the M6 iMac in green, y</description>
-      <category>Smartphones</category>
-      <pubDate>Tue, 27 Oct 2026 20:36:33 GMT</pubDate>
-      <enclosure url="https://images.macrumors.com/article-new/2024/10/Apple-iMac-M4-hero-feature.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>

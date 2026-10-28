@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/samsung-is-being-fined-in-south-korea-over-galaxy-s21-and-s22s-gaming-performance</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T00:02:02Z</news:publication_date>
+      <news:title>Samsung is being fined in South Korea over Galaxy S21 and S22&apos;s gaming performance</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/24/09/galaxy-s22-fold4-flip4-one-ui-611/gsmarena_000.jpg</image:loc>
+      <image:title>Samsung is being fined in South Korea over Galaxy S21 and S22&apos;s gaming performance</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/apple-shares-new-apple-watch-survival-stories</loc>
     <news:news>
       <news:publication>
@@ -5100,36 +5115,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/08/Google-Pixel-9-family-lined-up-face-down-on-a-table-in-multiple-colors.jpg</image:loc>
       <image:title>Long-time Pixel users reveal why they&amp;#8217;re still loyal to Google and what keeps them from switching</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/after-day-one-screen-failures-the-iphone-duo-is-facing-more-durability-questions</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T01:28:34Z</news:publication_date>
-      <news:title>After day-one screen failures, the iPhone Duo is facing more durability questions</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-iPhone-Duo-Hands-On-Inner-Display-with-iOS-27-home-screen.jpg</image:loc>
-      <image:title>After day-one screen failures, the iPhone Duo is facing more durability questions</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/fitbit-air-vs-whoop-which-screenless-fitness-tracker-is-better-for-you</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T00:30:00Z</news:publication_date>
-      <news:title>Fitbit Air vs. Whoop: Which screenless fitness tracker is better for you?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/fitbit-air-vs-whoop-which-screenless-fitness-tracker-is-better-for-you/l-intro-1792526649.jpg</image:loc>
-      <image:title>Fitbit Air vs. Whoop: Which screenless fitness tracker is better for you?</image:title>
     </image:image>
   </url>
 </urlset>
