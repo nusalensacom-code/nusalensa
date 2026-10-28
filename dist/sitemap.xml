@@ -468,6 +468,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/redmi-k100-debuts-with-snapdragon-8-elite-chipset-10000mah-battery</loc>
+    <lastmod>2026-10-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/redmi-k100-ofic/gsmarena_00.jpg</image:loc>
+      <image:title>Redmi K100 debuts with Snapdragon 8 Elite chipset, 10,000mAh battery</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/vivo-x500s-screen-details-leak-testing-is-already-underway</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>daily</changefreq>
