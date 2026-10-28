@@ -5,8 +5,26 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 28 Oct 2026 05:14:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 06:10:38 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Samsung Galaxy A08 launched in India with a 6,000mAh battery</title>
+      <link>https://nusalensa.com/phones/samsung-galaxy-a08-launched-in-india-with-a-6000mah-battery</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/samsung-galaxy-a08-launched-in-india-with-a-6000mah-battery</guid>
+      <description>Samsung has brought its affordable A08 4G phone to India after it went official in select global markets last month. The Galaxy A08 comes with a 6,000mAh batter</description>
+      <category>Smartphones</category>
+      <pubDate>Wed, 28 Oct 2026 06:05:02 GMT</pubDate>
+      <enclosure url="https://fdn.gsmarena.com/imgroot/news/26/10/samsung-galaxy-a08-india-launch/gsmarena_00.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Motorola&amp;#8217;s big US flagship comeback could come with an even bigger price tag</title>
+      <link>https://nusalensa.com/phones/motorola8217s-big-us-flagship-comeback-could-come-with-an-even-bigger-price-tag</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/motorola8217s-big-us-flagship-comeback-could-come-with-an-even-bigger-price-tag</guid>
+      <description>One price raises eyebrows. The other raises questions.</description>
+      <category>Smartphones</category>
+      <pubDate>Wed, 28 Oct 2026 05:41:04 GMT</pubDate>
+      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/09/Motorola-Signature-27-6-of-6.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Here&apos;s when the vivo X500 series could launch in India</title>
       <link>https://nusalensa.com/phones/heres-when-the-vivo-x500-series-could-launch-in-india</link>
@@ -258,24 +276,6 @@
       <category>Smartphones</category>
       <pubDate>Tue, 27 Oct 2026 21:25:27 GMT</pubDate>
       <enclosure url="https://www.androidauthority.com/wp-content/uploads/2025/09/XGIMI-Mogo-4-2-scaled.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Google&amp;#8217;s working on a new look for Gemini Live, and we have a sneak peek for you</title>
-      <link>https://nusalensa.com/phones/google8217s-working-on-a-new-look-for-gemini-live-and-we-have-a-sneak-peek-for-you</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/google8217s-working-on-a-new-look-for-gemini-live-and-we-have-a-sneak-peek-for-you</guid>
-      <description>Gemini Live could be getting a Neural Expressive glow-up.</description>
-      <category>Smartphones</category>
-      <pubDate>Tue, 27 Oct 2026 21:24:12 GMT</pubDate>
-      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2025/08/IMG_20250820_175549-scaled.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>ChatGPT can work with your iCloud Mail and Calendar thanks to new plugin support</title>
-      <link>https://nusalensa.com/phones/chatgpt-can-work-with-your-icloud-mail-and-calendar-thanks-to-new-plugin-support</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/chatgpt-can-work-with-your-icloud-mail-and-calendar-thanks-to-new-plugin-support</guid>
-      <description>You can use the AI assistant to update calendar events and search your inbox, among other things.</description>
-      <category>Smartphones</category>
-      <pubDate>Tue, 27 Oct 2026 21:13:59 GMT</pubDate>
-      <enclosure url="https://www.engadget.com/img/gallery/chatgpt-can-work-with-your-icloud-mail-and-calendar-thanks-to-new-plugin-support/l-intro-1793135485.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>

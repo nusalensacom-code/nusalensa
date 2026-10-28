@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/samsung-galaxy-a08-launched-in-india-with-a-6000mah-battery</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T06:05:02Z</news:publication_date>
+      <news:title>Samsung Galaxy A08 launched in India with a 6,000mAh battery</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/samsung-galaxy-a08-india-launch/gsmarena_00.jpg</image:loc>
+      <image:title>Samsung Galaxy A08 launched in India with a 6,000mAh battery</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/motorola8217s-big-us-flagship-comeback-could-come-with-an-even-bigger-price-tag</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T05:41:04Z</news:publication_date>
+      <news:title>Motorola&amp;#8217;s big US flagship comeback could come with an even bigger price tag</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Motorola-Signature-27-6-of-6.jpg</image:loc>
+      <image:title>Motorola&amp;#8217;s big US flagship comeback could come with an even bigger price tag</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/heres-when-the-vivo-x500-series-could-launch-in-india</loc>
     <news:news>
       <news:publication>
@@ -5160,21 +5190,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/vivo-y600-ofic/gsmarena_000.jpg</image:loc>
       <image:title>vivo Y600 is official with a 10,000mAh battery and 6.83-inch display</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung8217s-first-clip-on-galaxy-buds-launch-tomorrow-and-there8217s-good-news-for-global-buyers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T05:40:39Z</news:publication_date>
-      <news:title>Samsung&amp;#8217;s first clip-on Galaxy Buds launch tomorrow, and there&amp;#8217;s good news for global buyers</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Galaxy-Budson-3.jpg</image:loc>
-      <image:title>Samsung&amp;#8217;s first clip-on Galaxy Buds launch tomorrow, and there&amp;#8217;s good news for global buyers</image:title>
     </image:image>
   </url>
 </urlset>
