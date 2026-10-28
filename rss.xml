@@ -5,8 +5,17 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 28 Oct 2026 01:33:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 02:22:29 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>vivo X500s screen details leak, testing is already underway</title>
+      <link>https://nusalensa.com/phones/vivo-x500s-screen-details-leak-testing-is-already-underway</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/vivo-x500s-screen-details-leak-testing-is-already-underway</guid>
+      <description>Today the vivo X500, X500 Pro, and X500 Pro Max went global, over a month after they debuted in China. But the company is apparently already busy with the next </description>
+      <category>Smartphones</category>
+      <pubDate>Wed, 28 Oct 2026 01:31:02 GMT</pubDate>
+      <enclosure url="https://fdn.gsmarena.com/imgroot/news/26/10/vivo-x500s-screen-details/gsmarena_000.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Samsung is being fined in South Korea over Galaxy S21 and S22&apos;s gaming performance</title>
       <link>https://nusalensa.com/phones/samsung-is-being-fined-in-south-korea-over-galaxy-s21-and-s22s-gaming-performance</link>
@@ -15,6 +24,15 @@
       <category>Smartphones</category>
       <pubDate>Wed, 28 Oct 2026 00:02:02 GMT</pubDate>
       <enclosure url="https://fdn.gsmarena.com/imgroot/news/24/09/galaxy-s22-fold4-flip4-one-ui-611/gsmarena_000.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>This one missing feature from the Slate truck might be a dealbreaker for truck enthusiasts</title>
+      <link>https://nusalensa.com/tablets/this-one-missing-feature-from-the-slate-truck-might-be-a-dealbreaker-for-truck-enthusiasts</link>
+      <guid isPermaLink="true">https://nusalensa.com/tablets/this-one-missing-feature-from-the-slate-truck-might-be-a-dealbreaker-for-truck-enthusiasts</guid>
+      <description>The Slate Truck is known for offering hundreds of customization options, but one common truck option isn&apos;t available (yet.)</description>
+      <category>Tablets</category>
+      <pubDate>Tue, 27 Oct 2026 23:30:00 GMT</pubDate>
+      <enclosure url="https://www.engadget.com/img/gallery/this-one-missing-feature-from-the-slate-truck-might-be-a-dealbreaker-for-truck-enthusiasts/l-intro-1792419663.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Apple Shares New Apple Watch Survival Stories</title>
@@ -258,24 +276,6 @@
       <category>Technology</category>
       <pubDate>Tue, 27 Oct 2026 20:48:58 GMT</pubDate>
       <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_7.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Soundcore P30i deal knocks $23 off these ANC earbuds</title>
-      <link>https://nusalensa.com/phones/soundcore-p30i-deal-knocks-23-off-these-anc-earbuds</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/soundcore-p30i-deal-knocks-23-off-these-anc-earbuds</guid>
-      <description>The earbuds drop to $26.99 on Amazon with ANC, 45-hour battery life, and a charging case that doubles as a phone stand.</description>
-      <category>Smartphones</category>
-      <pubDate>Tue, 27 Oct 2026 20:46:10 GMT</pubDate>
-      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/09/Anker-Soundcore-P30i-Noise-Cancelling-Earbuds-Press-Image.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Is Duolingo down for you? Here&amp;#8217;s what&amp;#8217;s going on</title>
-      <link>https://nusalensa.com/phones/is-duolingo-down-for-you-here8217s-what8217s-going-on-1</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/is-duolingo-down-for-you-here8217s-what8217s-going-on-1</guid>
-      <description>Let&apos;s just hope Duolingo sorts this out before you break your streak.</description>
-      <category>Smartphones</category>
-      <pubDate>Tue, 27 Oct 2026 20:37:19 GMT</pubDate>
-      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2025/09/duolingo-missions-on-a-smartphone-screen-scaled.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>

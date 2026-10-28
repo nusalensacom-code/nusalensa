@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/vivo-x500s-screen-details-leak-testing-is-already-underway</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T01:31:02Z</news:publication_date>
+      <news:title>vivo X500s screen details leak, testing is already underway</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/vivo-x500s-screen-details/gsmarena_000.jpg</image:loc>
+      <image:title>vivo X500s screen details leak, testing is already underway</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/samsung-is-being-fined-in-south-korea-over-galaxy-s21-and-s22s-gaming-performance</loc>
     <news:news>
       <news:publication>
@@ -15,6 +30,21 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/24/09/galaxy-s22-fold4-flip4-one-ui-611/gsmarena_000.jpg</image:loc>
       <image:title>Samsung is being fined in South Korea over Galaxy S21 and S22&apos;s gaming performance</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/this-one-missing-feature-from-the-slate-truck-might-be-a-dealbreaker-for-truck-enthusiasts</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T23:30:00Z</news:publication_date>
+      <news:title>This one missing feature from the Slate truck might be a dealbreaker for truck enthusiasts</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/this-one-missing-feature-from-the-slate-truck-might-be-a-dealbreaker-for-truck-enthusiasts/l-intro-1792419663.jpg</image:loc>
+      <image:title>This one missing feature from the Slate truck might be a dealbreaker for truck enthusiasts</image:title>
     </image:image>
   </url>
   <url>
