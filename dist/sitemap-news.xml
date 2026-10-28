@@ -3,6 +3,141 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/cooling-fans-are-the-next-big-android-phone-trend-you-should-avoid</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T10:30:44Z</news:publication_date>
+      <news:title>Cooling fans are the next big Android phone trend you should avoid</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2023/12/Redmagic-9-Pro-buttons-and-triggers.jpg</image:loc>
+      <image:title>Cooling fans are the next big Android phone trend you should avoid</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/galaxy-ring-and-these-galaxy-watches-will-get-improved-sleep-apnea-detection</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T10:24:03Z</news:publication_date>
+      <news:title>Galaxy Ring and these Galaxy Watches will get improved sleep apnea detection</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/10/Samsung-Galaxy-Ring-removal-scaled.jpg</image:loc>
+      <image:title>Galaxy Ring and these Galaxy Watches will get improved sleep apnea detection</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/touchscreen-macbook-pro-to-debut-today-with-these-5-features</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T10:18:04Z</news:publication_date>
+      <news:title>Touchscreen MacBook Pro to Debut Today With These 5 Features</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/MacBook-Pro-Ultra-Feature-1.jpg</image:loc>
+      <image:title>Touchscreen MacBook Pro to Debut Today With These 5 Features</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/vivo-x500-unboxing-and-hands-on</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T10:04:02Z</news:publication_date>
+      <news:title>vivo X500 unboxing and hands-on</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/vivo-x500-unboxing/gsmarena_000.jpg</image:loc>
+      <image:title>vivo X500 unboxing and hands-on</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/bank-of-america-is-begging-customers-not-to-hand-their-passwords-to-ai-assistants</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T10:03:17Z</news:publication_date>
+      <news:title>Bank of America is begging customers not to hand their passwords to AI assistants</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/Gemini-Claude-ChatGPT-on-home-screen-scaled.jpg</image:loc>
+      <image:title>Bank of America is begging customers not to hand their passwords to AI assistants</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/that-super-mario-galaxy-android-port-is-dead-but-you-have-a-few-hours-to-download-it</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T10:00:48Z</news:publication_date>
+      <news:title>That Super Mario Galaxy Android port is dead, but you have a few hours to download it</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Super-Mario-Galaxy-unofficial-port-on-Android-scaled-e1792062758423-500w-260h.jpg</image:loc>
+      <image:title>That Super Mario Galaxy Android port is dead, but you have a few hours to download it</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/samsung8217s-android-xr-smart-glasses-are-doomed-to-fail</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T10:00:23Z</news:publication_date>
+      <news:title>Samsung&amp;#8217;s Android XR smart glasses are doomed to fail</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/ray-ban-meta-camera-scaled.jpg</image:loc>
+      <image:title>Samsung&amp;#8217;s Android XR smart glasses are doomed to fail</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-galaxy-a37-is-dependable-in-all-the-right-ways-if-you-can-find-it-at-the-right-price</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T10:00:15Z</news:publication_date>
+      <news:title>The Galaxy A37 is dependable in all the right ways, if you can find it at the right price</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Samsung-Galaxy-A37-5G-review-image-1.jpg</image:loc>
+      <image:title>The Galaxy A37 is dependable in all the right ways, if you can find it at the right price</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-to-open-pre-orders-for-five-new-products-today</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T09:49:42Z</news:publication_date>
+      <news:title>Apple to Open Pre-Orders for Five New Products Today</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/apple-pro-tell-logo.jpg</image:loc>
+      <image:title>Apple to Open Pre-Orders for Five New Products Today</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/samsung-may-add-a-second-wide-foldable-alongside-the-galaxy-z-fold-9</loc>
     <news:news>
       <news:publication>
@@ -5130,111 +5265,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/iPhone-Duo-Z-Fold-8-Cover-dispay.jpg</image:loc>
       <image:title>Samsung slices into Apple&amp;#8217;s iPhone Duo troubles with a cheeky new ad</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/this-free-app-adds-one-of-my-favorite-iphone-features-to-my-galaxy-phone</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T10:30:56Z</news:publication_date>
-      <news:title>This free app adds one of my favorite iPhone features to my Galaxy phone</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/bubble-level-android-app-6.jpg</image:loc>
-      <image:title>This free app adds one of my favorite iPhone features to my Galaxy phone</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/6-gboard-settings-i-change-the-moment-i-get-a-new-android-phone</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T10:30:11Z</news:publication_date>
-      <news:title>6 Gboard settings I change the moment I get a new Android phone</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/gboard-settings-i-always-change-1.jpg</image:loc>
-      <image:title>6 Gboard settings I change the moment I get a new Android phone</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/macbook-pro039s-switch-to-oled-could-spell-trouble-for-mini-led-industry</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T10:10:07Z</news:publication_date>
-      <news:title>MacBook Pro&amp;#039;s Switch to OLED Could Spell Trouble for Mini-LED Industry</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2023/04/Oled-MackBook-Pros-23.jpg</image:loc>
-      <image:title>MacBook Pro&amp;#039;s Switch to OLED Could Spell Trouble for Mini-LED Industry</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-finally-made-pixel-vips-useful-but-it8217s-missing-these-5-features</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T10:00:06Z</news:publication_date>
-      <news:title>Google finally made Pixel VIPs useful, but it&amp;#8217;s missing these 5 features</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-vips-features-1.jpg</image:loc>
-      <image:title>Google finally made Pixel VIPs useful, but it&amp;#8217;s missing these 5 features</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-city-that-fought-flock</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T10:00:00Z</news:publication_date>
-      <news:title>The city that fought Flock</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268752_Flock_camera_photos_CAlo_25.jpeg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>The city that fought Flock</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iphone-duo-teardown-reveals-it-is-fairly-repairable-but-its-complex-hinge-is-worrying</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T09:58:02Z</news:publication_date>
-      <news:title>iPhone Duo teardown reveals it is fairly repairable but its complex hinge is worrying</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/iphone-duo-teardown-ifixit/gsmarena_000.jpg</image:loc>
-      <image:title>iPhone Duo teardown reveals it is fairly repairable but its complex hinge is worrying</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/polled-readers-say-this-core-google-feature-matters-most-to-android-tablet-buyers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T09:53:34Z</news:publication_date>
-      <news:title>Polled readers say this core Google feature matters most to Android tablet buyers</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Amazon-Alexa-tablets-12-11-8.jpeg</image:loc>
-      <image:title>Polled readers say this core Google feature matters most to Android tablet buyers</image:title>
     </image:image>
   </url>
 </urlset>
