@@ -3,6 +3,171 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/macbook-studio</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T13:41:05Z</news:publication_date>
+      <news:title>MacBook Studio?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/Apple-Logo-Teaser-Video-John-Ternus.jpg</image:loc>
+      <image:title>MacBook Studio?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-samsung-galaxy-s25-ultra-is-at-its-lowest-price-for-a-while</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T13:30:28Z</news:publication_date>
+      <news:title>The Samsung Galaxy S25 Ultra is at its lowest price for a while</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2025/02/samsung-galaxy-s25-ultra-7.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>The Samsung Galaxy S25 Ultra is at its lowest price for a while</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/this-is-how-badly-x-wants-you-to-pay-to-promote-your-posts</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T13:26:39Z</news:publication_date>
+      <news:title>This is how badly X wants you to pay to promote your posts</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/xarm.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>This is how badly X wants you to pay to promote your posts</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-ceo-john-ternus-teases-touchscreen-macbooks-12-final-rumors</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T13:21:53Z</news:publication_date>
+      <news:title>Apple CEO John Ternus Teases Touchscreen MacBooks: 12 Final Rumors</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/MacBook-Pro-Dynamic-Island-multicolor.jpg</image:loc>
+      <image:title>Apple CEO John Ternus Teases Touchscreen MacBooks: 12 Final Rumors</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-maps-is-bringing-fall-colors-to-your-dashboard</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T13:21:39Z</news:publication_date>
+      <news:title>Google Maps is bringing fall colors to your dashboard</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Google-Maps-autumn-trees.jpg</image:loc>
+      <image:title>Google Maps is bringing fall colors to your dashboard</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/fcc-clears-amazon-leo-to-acquire-mobile-satellite-operator-globalstar</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T13:13:19Z</news:publication_date>
+      <news:title>FCC clears Amazon Leo to acquire mobile-satellite operator Globalstar</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/fcc-clears-amazon-leo-to-acquire-mobile-satellite-operator-globalstar/l-intro-1793193078.jpg</image:loc>
+      <image:title>FCC clears Amazon Leo to acquire mobile-satellite operator Globalstar</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/huawei-enjoy-100-pro-max-and-enjoy-100-pro-are-official</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T13:02:02Z</news:publication_date>
+      <news:title>Huawei Enjoy 100 Pro Max and Enjoy 100 Pro are official</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/huawei-enjoy-100-pro-max-ofic/gsmarena_00.jpg</image:loc>
+      <image:title>Huawei Enjoy 100 Pro Max and Enjoy 100 Pro are official</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/kindle-paperwhite-signature-edition-2026-review-updated-in-all-the-right-places</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T13:00:00Z</news:publication_date>
+      <news:title>Kindle Paperwhite Signature Edition (2026) review: Updated in all the right places</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/kindle-paperwhite-signature-edition-2026-review-updated-in-all-the-right-places/l-intro-1793129474.jpg</image:loc>
+      <image:title>Kindle Paperwhite Signature Edition (2026) review: Updated in all the right places</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/kindle-colorsoft-signature-edition-2026-review-nice-but-doesnt-justify-the-price</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T13:00:00Z</news:publication_date>
+      <news:title>Kindle Colorsoft Signature Edition 2026 review: Nice, but doesn&apos;t justify the price</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/kindle-colorsoft-signature-edition-2026-review-nice-but-doesnt-justify-the-price/l-intro-1793191346.jpg</image:loc>
+      <image:title>Kindle Colorsoft Signature Edition 2026 review: Nice, but doesn&apos;t justify the price</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/tiktok-is-going-after-yelp-and-google-maps-with-an-in-app-restaurant-guide</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T13:00:00Z</news:publication_date>
+      <news:title>TikTok is going after Yelp and Google Maps with an in-app restaurant guide</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Must-Eat-Asset.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>TikTok is going after Yelp and Google Maps with an in-app restaurant guide</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/inside-amazons-echo-hardware-event</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T12:46:42Z</news:publication_date>
+      <news:title>Inside Amazon’s Echo hardware event</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268832_Amazon_Echo_Fall_2026_OGrove_0045.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Inside Amazon’s Echo hardware event</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/apples-pro-and-tell-event-live-updates-as-we-wait-to-see-a-macbook-pro-with-a-touch-screen</loc>
     <news:news>
       <news:publication>
@@ -15,6 +180,21 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/apples-pro-and-tell-event-live-updates-as-we-wait-to-see-a-macbook-pro-with-touch-screen/l-intro-1793153611.jpg</image:loc>
       <image:title>Apple&apos;s Pro and Tell event: Live updates as we wait to see a MacBook Pro with a touch screen</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/almost-all-of-amazons-new-echo-gear-is-available-now</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T12:29:52Z</news:publication_date>
+      <news:title>Almost all of Amazon’s new Echo gear is available now</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268832_Amazon_Echo_Time_JTuohy_0012.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Almost all of Amazon’s new Echo gear is available now</image:title>
     </image:image>
   </url>
   <url>
@@ -105,6 +285,51 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/samsung-galaxy-buds-on-us/gsmarena_000.jpg</image:loc>
       <image:title>Samsung launches the Galaxy Buds On clip-on earbuds in the US, here&apos;s the price</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/amazons-new-echo-time-smart-alarm-clock-tries-to-make-waking-up-less-painful</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T12:00:00Z</news:publication_date>
+      <news:title>Amazon&apos;s new Echo Time smart alarm clock tries to make waking up less painful</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/amazons-new-echo-time-smart-alarm-clock-comes-with-science-backed-wake-up-features/l-intro-1793183183.jpg</image:loc>
+      <image:title>Amazon&apos;s new Echo Time smart alarm clock tries to make waking up less painful</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/amazon-launches-its-first-digital-photo-frame-with-built-in-alexa</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T12:00:00Z</news:publication_date>
+      <news:title>Amazon launches its first digital photo frame with built-in Alexa</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/amazon-launches-its-first-photo-frame-with-built-in-alexa/l-intro-1793179679.jpg</image:loc>
+      <image:title>Amazon launches its first digital photo frame with built-in Alexa</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/all-the-amazon-echo-devices-announced-today-echo-time-alexa-photo-frame-and-more</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T12:00:00Z</news:publication_date>
+      <news:title>All the Amazon Echo devices announced today: Echo Time, Alexa Photo Frame and more</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/all-amazon-echo-news-october-2026/l-intro-1793194825.jpg</image:loc>
+      <image:title>All the Amazon Echo devices announced today: Echo Time, Alexa Photo Frame and more</image:title>
     </image:image>
   </url>
   <url>
@@ -5310,171 +5535,6 @@
     <image:image>
       <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-a17-6.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
       <image:title>Samsung reportedly slashes production plans for millions of Galaxy phones</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/new-ipad-mini-available-in-just-two-colors</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T13:52:17Z</news:publication_date>
-      <news:title>New iPad Mini Available in Just Two Colors</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/ipad-mini-8-colors.jpg</image:loc>
-      <image:title>New iPad Mini Available in Just Two Colors</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-just-eliminated-android8217s-biggest-advantages-in-compact-tablets-with-the-new-ipad-mini</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T13:48:43Z</news:publication_date>
-      <news:title>Apple just eliminated Android&amp;#8217;s biggest advantages in compact tablets with the new iPad mini</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Apple-iPad-mini-2026_2.jpg</image:loc>
-      <image:title>Apple just eliminated Android&amp;#8217;s biggest advantages in compact tablets with the new iPad mini</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/anthropics-ipo-filing-lays-out-a-plan-to-8216revolutionize-every-area-of-human-endeavor8217-with-ai</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T13:32:49Z</news:publication_date>
-      <news:title>Anthropic’s IPO filing lays out a plan to &amp;#8216;revolutionize every area of human endeavor&amp;#8217; with AI</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Anthropic’s IPO filing lays out a plan to &amp;#8216;revolutionize every area of human endeavor&amp;#8217; with AI</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/512gb-oled-ipad-mini-gets-extra-cpu-core-and-dual-neural-engine</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T13:30:02Z</news:publication_date>
-      <news:title>512GB OLED iPad Mini Gets Extra CPU Core and Dual Neural Engine</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/Apple-iPad-mini-midnight-261026-scaled.jpg</image:loc>
-      <image:title>512GB OLED iPad Mini Gets Extra CPU Core and Dual Neural Engine</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/can-ai-help-solve-the-cobol-code-crisis</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T13:15:00Z</news:publication_date>
-      <news:title>Can AI help solve the COBOL code crisis?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-1246435991.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Can AI help solve the COBOL code crisis?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-updates-the-ipad-mini-with-a-larger-oled-display</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T13:05:03Z</news:publication_date>
-      <news:title>Apple updates the iPad Mini with a larger OLED display</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ipadmini.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Apple updates the iPad Mini with a larger OLED display</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/oneplus-ace-7-pro-camera-specs-and-samples-revealed-ahead-of-launch</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T13:04:02Z</news:publication_date>
-      <news:title>OnePlus Ace 7 Pro camera specs and samples revealed ahead of launch</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/oneplus-ace-7-pro-camera/gsmarena_00.jpg</image:loc>
-      <image:title>OnePlus Ace 7 Pro camera specs and samples revealed ahead of launch</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-beam-3d-meeting-booths-will-expand-access-for-military-families</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T13:00:00Z</news:publication_date>
-      <news:title>Google Beam 3D meeting booths will expand access for military families</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Google-Beam-military-5.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1400</image:loc>
-      <image:title>Google Beam 3D meeting booths will expand access for military families</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/googlebooks-could-soon-get-much-better-at-letting-you-pick-up-where-you-left-off</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T12:59:46Z</news:publication_date>
-      <news:title>Googlebooks could soon get much better at letting you pick up where you left off</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Googlebook-Acer-8.jpg</image:loc>
-      <image:title>Googlebooks could soon get much better at letting you pick up where you left off</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/dont-buy-the-pro-just-yet-this-smaller-metal-flagship-could-be-worth-the-wait</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T12:58:05Z</news:publication_date>
-      <news:title>Don’t buy the Pro just yet: This smaller, metal flagship could be worth the wait</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/02/Xiaomi-17-in-hand-showing-back.jpg</image:loc>
-      <image:title>Don’t buy the Pro just yet: This smaller, metal flagship could be worth the wait</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-ai-pro-upgrades-are-turning-into-a-costly-headache-for-some-students</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T12:44:16Z</news:publication_date>
-      <news:title>Google AI Pro upgrades are turning into a costly headache for some students</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/Google-Gemini-Student-back-to-school-offers.jpg</image:loc>
-      <image:title>Google AI Pro upgrades are turning into a costly headache for some students</image:title>
     </image:image>
   </url>
 </urlset>
