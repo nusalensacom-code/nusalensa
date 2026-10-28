@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/pokemon-unite-is-shutting-down-ending-one-of-mobile8217s-biggest-mobas</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T07:31:00Z</news:publication_date>
+      <news:title>Pokémon Unite is shutting down, ending one of mobile&amp;#8217;s biggest MOBAs</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/pokemon-unite-shutdown-notice-featured-image.jpg</image:loc>
+      <image:title>Pokémon Unite is shutting down, ending one of mobile&amp;#8217;s biggest MOBAs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/gemini-notebook-gets-voice-recorder-but-it8217s-a-mess-compared-to-pixel-recorder</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T07:18:06Z</news:publication_date>
+      <news:title>Gemini Notebook gets voice recorder, but it&amp;#8217;s a mess compared to Pixel Recorder</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Gemini-notebook-recorder-feature.jpg</image:loc>
+      <image:title>Gemini Notebook gets voice recorder, but it&amp;#8217;s a mess compared to Pixel Recorder</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/moto-g47-power-arrives-with-a-7000-mah-battery-and-faster-charging</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T07:05:02Z</news:publication_date>
+      <news:title>Moto G47 Power arrives with a 7,000 mAh battery and faster charging</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/moto-g47-power-official/gsmarena_000.jpg</image:loc>
+      <image:title>Moto G47 Power arrives with a 7,000 mAh battery and faster charging</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/this-android-brand-put-a-10000mah-battery-in-its-latest-phone-and-samsung-needs-to-up-its-game</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T06:44:00Z</news:publication_date>
+      <news:title>This Android brand put a 10,000mAh battery in its latest phone, and Samsung needs to up its game</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/redmi-k100-featured-image.jpg</image:loc>
+      <image:title>This Android brand put a 10,000mAh battery in its latest phone, and Samsung needs to up its game</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/samsung-galaxy-a08-launched-in-india-with-a-6000mah-battery</loc>
     <news:news>
       <news:publication>
@@ -5160,36 +5220,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/OnePlus-Buds-Clip_2.jpg</image:loc>
       <image:title>OnePlus reveals clip-style earbuds that you can wear in either ear</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/galaxy-s278217s-exynos-chip-reportedly-beats-snapdragon-in-tests-but-we-have-many-questions</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T07:22:03Z</news:publication_date>
-      <news:title>Galaxy S27&amp;#8217;s Exynos chip reportedly beats Snapdragon in tests, but we have many questions</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/02/Samsung-Galaxy-S26-Plus-Home-Screen.jpg</image:loc>
-      <image:title>Galaxy S27&amp;#8217;s Exynos chip reportedly beats Snapdragon in tests, but we have many questions</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/vivo-y600-is-official-with-a-10000mah-battery-and-683-inch-display</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T07:00:01Z</news:publication_date>
-      <news:title>vivo Y600 is official with a 10,000mAh battery and 6.83-inch display</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/vivo-y600-ofic/gsmarena_000.jpg</image:loc>
-      <image:title>vivo Y600 is official with a 10,000mAh battery and 6.83-inch display</image:title>
     </image:image>
   </url>
 </urlset>
