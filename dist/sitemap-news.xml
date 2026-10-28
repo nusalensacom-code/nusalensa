@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/samsung-may-add-a-second-wide-foldable-alongside-the-galaxy-z-fold-9</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T09:13:29Z</news:publication_date>
+      <news:title>Samsung may add a second wide foldable alongside the Galaxy Z Fold 9</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/samsung-z-fold-8-vs-ultra-main.jpg</image:loc>
+      <image:title>Samsung may add a second wide foldable alongside the Galaxy Z Fold 9</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/infinix-note-70-pro-visits-geekbench-with-a-mysterious-snapdragon-chipset</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T09:07:03Z</news:publication_date>
+      <news:title>Infinix Note 70 Pro visits Geekbench with a mysterious Snapdragon chipset</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/infinix-note-70-pro-geekbench/gsmarena_000.jpg</image:loc>
+      <image:title>Infinix Note 70 Pro visits Geekbench with a mysterious Snapdragon chipset</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-anbernic-nintendo-clone-i-would-recommend-you-buy-isn8217t-the-one-i-use-the-most</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T09:00:53Z</news:publication_date>
+      <news:title>The ANBERNIC Nintendo clone I would recommend you buy isn&amp;#8217;t the one I use the most</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/anbernic-Nintendo-clones-RG-55G1-RG-DS-Plus-scaled.jpg</image:loc>
+      <image:title>The ANBERNIC Nintendo clone I would recommend you buy isn&amp;#8217;t the one I use the most</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google8217s-genie-4-lets-you-build-worlds-that-sound-and-move-like-real-life</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T08:42:35Z</news:publication_date>
+      <news:title>Google&amp;#8217;s Genie 4 lets you build worlds that sound and move like real life</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/google-genie-4-featured-image-google-deepmind-blog.jpg</image:loc>
+      <image:title>Google&amp;#8217;s Genie 4 lets you build worlds that sound and move like real life</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/metas-waddle-world-is-a-tamagotchi-like-ai-pet-app</loc>
     <news:news>
       <news:publication>
@@ -5175,96 +5235,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Amazon-Alexa-tablets-12-11-8.jpeg</image:loc>
       <image:title>Polled readers say this core Google feature matters most to Android tablet buyers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/ifixits-teardown-of-the-iphone-duo-shows-potential-causes-for-cracked-screens</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T09:31:44Z</news:publication_date>
-      <news:title>iFixit&apos;s teardown of the iPhone Duo shows potential causes for cracked screens</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/ifixit-teardown-of-iphone-duo-shows-potential-causes-for-cracked-screens/l-intro-1793008492.jpg</image:loc>
-      <image:title>iFixit&apos;s teardown of the iPhone Duo shows potential causes for cracked screens</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/chrome-without-google-these-are-the-9-best-chromium-browsers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T09:30:56Z</news:publication_date>
-      <news:title>Chrome without Google: These are the 9 best Chromium browsers</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/solipsism-browser-android-app-side-rail-1.jpg</image:loc>
-      <image:title>Chrome without Google: These are the 9 best Chromium browsers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/android8217s-sideloading-experience-is-getting-stricter-but-it-still-can8217t-do-this-one-basic-thing</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T09:30:00Z</news:publication_date>
-      <news:title>Android&amp;#8217;s sideloading experience is getting stricter, but it still can&amp;#8217;t do this one basic thing</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/11/Sideloading-an-Android-app-hero-image-scaled.jpg</image:loc>
-      <image:title>Android&amp;#8217;s sideloading experience is getting stricter, but it still can&amp;#8217;t do this one basic thing</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/android-auto-could-finally-remember-which-number-you-actually-want-to-call</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T09:08:36Z</news:publication_date>
-      <news:title>Android Auto could finally remember which number you actually want to call</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/android-auto-launcher-app-drawer-scaled.jpg</image:loc>
-      <image:title>Android Auto could finally remember which number you actually want to call</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/7-features-i-want-next-from-google-wallet-after-the-apple-inspired-refresh</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T09:00:07Z</news:publication_date>
-      <news:title>7 features I want next from Google Wallet after the Apple-inspired refresh</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/04/google-wallet-2026-redesign-new-passes-hero-2-scaled.jpg</image:loc>
-      <image:title>7 features I want next from Google Wallet after the Apple-inspired refresh</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-sequel-to-one-of-20268217s-best-camera-phones-could-put-s27-ultra-pixel-12-pro-to-shame</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T08:46:01Z</news:publication_date>
-      <news:title>The sequel to one of 2026&amp;#8217;s best camera phones could put S27 Ultra, Pixel 12 Pro to shame</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/04/OPPO-Find-X9-Ultra-camera-housing.jpg</image:loc>
-      <image:title>The sequel to one of 2026&amp;#8217;s best camera phones could put S27 Ultra, Pixel 12 Pro to shame</image:title>
     </image:image>
   </url>
 </urlset>
