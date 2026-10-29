@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/honor-x8e-4g-quietly-launches-with-a-108mp-camera-and-a-7700mah-battery</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T02:33:02Z</news:publication_date>
+      <news:title>Honor X8e 4G quietly launches with a 108MP camera and a 7,700mAh battery</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/honor-x8e-announced/gsmarena_000.jpg</image:loc>
+      <image:title>Honor X8e 4G quietly launches with a 108MP camera and a 7,700mAh battery</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/anduril-now-says-its-bluechip-laptop-will-meet-buy-american-standards-at-launch</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T02:22:46Z</news:publication_date>
+      <news:title>Anduril now says its BlueChip laptop will meet Buy American standards at launch</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/2026-BlueChip-InField-5-Web.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Anduril now says its BlueChip laptop will meet Buy American standards at launch</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/sk-hynix-reports-record-q3-numbers-warns-that-the-memory-shortage-will-last-through-2030</loc>
     <news:news>
       <news:publication>
@@ -5670,51 +5700,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/counterpoint-india-q3-smartphone-shipments/gsmarena_000.jpg</image:loc>
       <image:title>India&apos;s smartphone market just had its worst quarter in a decade, Counterpoint says</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/new-imac-and-14-inch-macbook-pro-with-m6-chip-expected-tomorrow</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T02:30:00Z</news:publication_date>
-      <news:title>New iMac and 14-Inch MacBook Pro With M6 Chip Expected Tomorrow</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2024/10/Apple-iMac-M4-hero-feature.jpg</image:loc>
-      <image:title>New iMac and 14-Inch MacBook Pro With M6 Chip Expected Tomorrow</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/ja-z-to-headline-2027-apple-music-super-bowl-lxi-halftime-show</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T01:58:05Z</news:publication_date>
-      <news:title>JAŸ-Z to Headline 2027 Apple Music Super Bowl LXI Halftime Show</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
-      <image:title>JAŸ-Z to Headline 2027 Apple Music Super Bowl LXI Halftime Show</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/macos-272-stops-upgrades-from-removing-rosetta</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T01:55:00Z</news:publication_date>
-      <news:title>macOS 27.2 Stops Upgrades From Removing Rosetta</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2020/07/rosetta-2.jpg</image:loc>
-      <image:title>macOS 27.2 Stops Upgrades From Removing Rosetta</image:title>
     </image:image>
   </url>
 </urlset>

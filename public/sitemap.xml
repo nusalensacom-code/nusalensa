@@ -468,6 +468,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/honor-x8e-4g-quietly-launches-with-a-108mp-camera-and-a-7700mah-battery</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/honor-x8e-announced/gsmarena_000.jpg</image:loc>
+      <image:title>Honor X8e 4G quietly launches with a 108MP camera and a 7,700mAh battery</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/anduril-now-says-its-bluechip-laptop-will-meet-buy-american-standards-at-launch</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/2026-BlueChip-InField-5-Web.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Anduril now says its BlueChip laptop will meet Buy American standards at launch</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/sk-hynix-reports-record-q3-numbers-warns-that-the-memory-shortage-will-last-through-2030</loc>
     <lastmod>2026-10-29</lastmod>
     <changefreq>daily</changefreq>
