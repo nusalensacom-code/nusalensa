@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/huaweis-starlight-brand-to-debut-with-a-wide-screen-phone-leak-claims</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T05:01:02Z</news:publication_date>
+      <news:title>Huawei&apos;s Starlight brand to debut with a wide-screen phone, leak claims</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/huawei-starlight-first-phone-rumor/gsmarena_00.jpg</image:loc>
+      <image:title>Huawei&apos;s Starlight brand to debut with a wide-screen phone, leak claims</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/the-new-redmi-clip-neo-buds-cost-half-as-much-as-the-xiaomi-clip-on</loc>
     <news:news>
       <news:publication>
@@ -5685,36 +5700,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2022/02/Google-Docs-logo-on-smartphone-next-to-office-gear-stock-photo-4.jpg</image:loc>
       <image:title>Google Docs finally fixes a frustrating problem with Markdown files</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/t-mobile8217s-new-t-mix-plans-are-getting-roasted-by-customers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T05:24:52Z</news:publication_date>
-      <news:title>T-Mobile&amp;#8217;s new T-Mix plans are getting roasted by customers</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/10/t-mobile-logo-pixel-hero-4-scaled.jpg</image:loc>
-      <image:title>T-Mobile&amp;#8217;s new T-Mix plans are getting roasted by customers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/ios-272-update-rolling-out-with-these-new-features</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T05:00:02Z</news:publication_date>
-      <news:title>iOS 27.2 update rolling out with these new features</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/ios-27-2-update/gsmarena_00.jpg</image:loc>
-      <image:title>iOS 27.2 update rolling out with these new features</image:title>
     </image:image>
   </url>
 </urlset>
