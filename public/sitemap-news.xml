@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/iqoo-pad-pro-brings-the-ultras-165hz-screen-and-big-battery-for-less</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T06:02:02Z</news:publication_date>
+      <news:title>iQOO Pad Pro brings the Ultra&apos;s 165Hz screen and big battery for less</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/iqoo-pad-pro-official/gsmarena_000.jpg</image:loc>
+      <image:title>iQOO Pad Pro brings the Ultra&apos;s 165Hz screen and big battery for less</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/your-google-messages-chats-are-getting-a-chatgpt-upgrade</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T05:59:53Z</news:publication_date>
+      <news:title>Your Google Messages chats are getting a ChatGPT upgrade</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/ChatGPT-Dots.jpg</image:loc>
+      <image:title>Your Google Messages chats are getting a ChatGPT upgrade</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/huaweis-starlight-brand-to-debut-with-a-wide-screen-phone-leak-claims</loc>
     <news:news>
       <news:publication>
@@ -5670,36 +5700,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/ARMSX2-PS2-emulator-on-Retroid-handheld.jpg</image:loc>
       <image:title>The best PS2 emulator on Android can now make performance tweaks for you</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/xiaomi8217s-latest-fitness-tracker-makes-its-way-to-more-countries</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T06:01:42Z</news:publication_date>
-      <news:title>Xiaomi&amp;#8217;s latest fitness tracker makes its way to more countries</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Xiaomi-Smart-Band-11.jpg</image:loc>
-      <image:title>Xiaomi&amp;#8217;s latest fitness tracker makes its way to more countries</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-docs-finally-fixes-a-frustrating-problem-with-markdown-files</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T05:55:13Z</news:publication_date>
-      <news:title>Google Docs finally fixes a frustrating problem with Markdown files</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2022/02/Google-Docs-logo-on-smartphone-next-to-office-gear-stock-photo-4.jpg</image:loc>
-      <image:title>Google Docs finally fixes a frustrating problem with Markdown files</image:title>
     </image:image>
   </url>
 </urlset>
