@@ -3,6 +3,81 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/meta-is-testing-threads-friends-for-sharing-posts-with-smaller-groups</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T22:05:39Z</news:publication_date>
+      <news:title>Meta is testing &apos;Threads Friends&apos; for sharing posts with smaller groups</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/meta-is-testing-threads-friends-for-sharing-posts-with-smaller-groups/l-intro-1793307612.jpg</image:loc>
+      <image:title>Meta is testing &apos;Threads Friends&apos; for sharing posts with smaller groups</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/vrchat-says-its-not-adding-ai-labels-despite-user-survey-showing-people-want-that</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T21:48:05Z</news:publication_date>
+      <news:title>VRChat says it&apos;s not adding AI labels despite user survey showing people want that</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/vrchat-says-its-not-adding-ai-labels-despite-user-survey-showing-people-want-that/l-intro-1793310428.jpg</image:loc>
+      <image:title>VRChat says it&apos;s not adding AI labels despite user survey showing people want that</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/many-of-ugreen8217s-best-nas-units-are-10-15-off-right-now</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T21:36:33Z</news:publication_date>
+      <news:title>Many of UGREEN&amp;#8217;s best NAS units are 10-15% off right now</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/ugreen-nas-homeagent-ha100-drives.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Many of UGREEN&amp;#8217;s best NAS units are 10-15% off right now</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-is-cleaning-up-homes-messiest-bugs-with-fixes-for-cameras-matter-devices-and-more</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T21:33:47Z</news:publication_date>
+      <news:title>Google is cleaning up Home’s messiest bugs, with fixes for cameras, Matter devices, and more</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2023/12/google-home-app-1-scaled.jpg</image:loc>
+      <image:title>Google is cleaning up Home’s messiest bugs, with fixes for cameras, Matter devices, and more</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/sony-goes-transparent-with-ps5-prism-collection</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T21:31:02Z</news:publication_date>
+      <news:title>Sony goes transparent with PS5 Prism Collection</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/sony-ps5-prism-collection/gsmarena_00.jpg</image:loc>
+      <image:title>Sony goes transparent with PS5 Prism Collection</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover</loc>
     <news:news>
       <news:publication>
@@ -5175,81 +5250,6 @@
     <image:image>
       <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-930111236-1152x648.jpeg</image:loc>
       <image:title>South Carolina&apos;s measles outbreak jumped to Washington state 5 times in 2 weeks</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T22:04:50Z</news:publication_date>
-      <news:title>China&apos;s top-secret spaceplane can&apos;t hide in low-Earth orbit</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/shenlong_maxar-1152x648.jpg</image:loc>
-      <image:title>China&apos;s top-secret spaceplane can&apos;t hide in low-Earth orbit</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/what-are-wrong-number-text-scams-and-how-can-you-avoid-them</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T22:00:00Z</news:publication_date>
-      <news:title>What are wrong number text scams, and how can you avoid them?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/what-are-wrong-number-text-scams-and-how-can-you-avoid-them/l-intro-1792706086.jpg</image:loc>
-      <image:title>What are wrong number text scams, and how can you avoid them?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/tcl-tab-a1-deal-drops-the-11-inch-android-tablet-under-180</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T21:57:09Z</news:publication_date>
-      <news:title>TCL TAB A1 deal drops the 11-inch Android tablet under $180</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/TCL-Tab-A1-Android-Tablet-Press-Image.jpg</image:loc>
-      <image:title>TCL TAB A1 deal drops the 11-inch Android tablet under $180</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T21:50:04Z</news:publication_date>
-      <news:title>&quot;No human at the helm&quot;: Delaware plan would let AI agents run entire businesses</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-1152x648.jpg</image:loc>
-      <image:title>&quot;No human at the helm&quot;: Delaware plan would let AI agents run entire businesses</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/why-is-there-a-random-arm-taking-over-the-x-composer</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T21:35:22Z</news:publication_date>
-      <news:title>Why is there a random arm taking over the X composer?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/why-is-there-a-random-arm-taking-over-the-x-composer/l-intro-1793136636.jpg</image:loc>
-      <image:title>Why is there a random arm taking over the X composer?</image:title>
     </image:image>
   </url>
 </urlset>
