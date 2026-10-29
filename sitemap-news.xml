@@ -3,6 +3,96 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/how-macos-adapts-its-controls-for-touch-on-the-new-macbook-pro</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T12:33:47Z</news:publication_date>
+      <news:title>How macOS Adapts Its Controls for Touch on the New MacBook Pro</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/macbook-pro-proled-touch.jpg</image:loc>
+      <image:title>How macOS Adapts Its Controls for Touch on the New MacBook Pro</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/doordash-acquires-instacart-in-17-billion-delivery-service-merger</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T12:24:06Z</news:publication_date>
+      <news:title>DoorDash acquires Instacart in $17 billion delivery service merger</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/doordash-acquires-instacart-in-17-billion-delivery-service-merger/l-intro-1793276637.jpg</image:loc>
+      <image:title>DoorDash acquires Instacart in $17 billion delivery service merger</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-reportedly-lowered-its-iphone-duo-qa-standards-to-get-more-units-out-in-time</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T12:04:02Z</news:publication_date>
+      <news:title>Apple reportedly lowered its iPhone Duo QA standards to get more units out in time</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/apple-reportedly-lowered-qa-standards-iphone-duo/gsmarena_000.jpg</image:loc>
+      <image:title>Apple reportedly lowered its iPhone Duo QA standards to get more units out in time</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/easysmx-s10-lite-review-a-switch-2-fidget-toy-with-a-weird-removable-faceplate</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T12:00:00Z</news:publication_date>
+      <news:title>EasySMX S10 Lite review: A Switch 2 fidget toy with a weird removable faceplate</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/easysmx-s10-lite-review-a-switch-2-fidget-toy-with-a-weird-removable-faceplate/l-intro-1792686295.jpg</image:loc>
+      <image:title>EasySMX S10 Lite review: A Switch 2 fidget toy with a weird removable faceplate</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/doordash-is-acquiring-instacart-for-17-billion</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T11:56:35Z</news:publication_date>
+      <news:title>DoorDash is acquiring Instacart for $17 billion</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
+      <image:title>DoorDash is acquiring Instacart for $17 billion</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/garmin-messenger-is-placing-too-much-trust-in-sms-verification-and-this-might-not-end-well</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T11:52:06Z</news:publication_date>
+      <news:title>Garmin Messenger is placing too much trust in SMS verification, and this might not end well</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/11/Garmin-Venu-4-Sleep-scaled.jpg</image:loc>
+      <image:title>Garmin Messenger is placing too much trust in SMS verification, and this might not end well</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/7-android-settings-i-always-turn-off-on-my-google-pixel-phone</loc>
     <news:news>
       <news:publication>
@@ -60,6 +150,21 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/moto-signature-27-green.jpg</image:loc>
       <image:title>I hope the Motorola Signature 27 is great, but I have 2 big concerns I can&amp;#8217;t shake</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T11:00:08Z</news:publication_date>
+      <news:title>SpaceX no longer needs NASA, and that&apos;s a problem for America&apos;s space agency</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/spacex-nasa-slots-1152x648.jpg</image:loc>
+      <image:title>SpaceX no longer needs NASA, and that&apos;s a problem for America&apos;s space agency</image:title>
     </image:image>
   </url>
   <url>
@@ -5535,141 +5640,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/4-drawbacks-you-should-know-before-buying-an-xbox-series-x/l-intro-1792781267.jpg</image:loc>
       <image:title>4 drawbacks you should know before buying an Xbox Series X</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/fujifilms-instax-mini-evo-2-adds-a-touchscreen-and-video-recording</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T12:31:33Z</news:publication_date>
-      <news:title>Fujifilm’s Instax Mini Evo 2 adds a touchscreen and video recording</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Fujifilm-Instax-Mini-Evo-2.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Fujifilm’s Instax Mini Evo 2 adds a touchscreen and video recording</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/galaxy-watch-ultra-2-is-glitching-out-on-this-health-metric-but-a-fix-is-on-the-way</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T12:29:51Z</news:publication_date>
-      <news:title>Galaxy Watch Ultra 2 is glitching out on this health metric, but a fix is on the way</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Watch-Ultra-2-titanium-grey.jpg</image:loc>
-      <image:title>Galaxy Watch Ultra 2 is glitching out on this health metric, but a fix is on the way</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-fixes-possibly-exploited-coregraphics-flaw-on-older-iphones</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T12:16:22Z</news:publication_date>
-      <news:title>Apple Fixes Possibly Exploited CoreGraphics Flaw on Older iPhones</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2023/05/bug-security-vulnerability-issue-fix-larry.jpg</image:loc>
-      <image:title>Apple Fixes Possibly Exploited CoreGraphics Flaw on Older iPhones</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/heres-how-much-your-older-samsung-phones-are-actually-worth</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T12:15:00Z</news:publication_date>
-      <news:title>Here&apos;s how much your older Samsung phones are actually worth</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/heres-how-much-your-older-samsung-phones-are-actually-worth/l-intro-1792776180.jpg</image:loc>
-      <image:title>Here&apos;s how much your older Samsung phones are actually worth</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/i-tried-the-soulog-sense-and-now-it8217s-staying-attached-to-my-phone-until-further-notice</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T12:00:34Z</news:publication_date>
-      <news:title>I tried the Soulog Sense, and now it&amp;#8217;s staying attached to my phone until further notice</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Soulog-Sense-and-wallet-on-phone-back-7.jpg</image:loc>
-      <image:title>I tried the Soulog Sense, and now it&amp;#8217;s staying attached to my phone until further notice</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/nasa-plans-to-launch-three-massive-rockets-for-the-artemis-3-crewed-lunar-test-mission</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T11:58:00Z</news:publication_date>
-      <news:title>NASA plans to launch three massive rockets for the Artemis 3 crewed lunar test mission</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/nasa-plans-to-launch-three-massive-rockets-for-the-artemis-3-crewed-lunar-test-mission/l-intro-1793101991.jpg</image:loc>
-      <image:title>NASA plans to launch three massive rockets for the Artemis 3 crewed lunar test mission</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/instagram-is-testing-long-form-videos-called-features</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T11:51:01Z</news:publication_date>
-      <news:title>Instagram is testing long-form videos called Features</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/instagram-long-form-video-testing/gsmarena_000.jpg</image:loc>
-      <image:title>Instagram is testing long-form videos called Features</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/acers-predator-atlas-8-gaming-handheld-finally-launches-at-best-buy-on-november-1-for-1300</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T11:50:55Z</news:publication_date>
-      <news:title>Acer&apos;s Predator Atlas 8 gaming handheld finally launches at Best Buy on November 1 for $1,300</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/acers-predator-atlas-8-gaming-handheld-finally-launches-at-best-buy-on-november-1-for-1300/l-intro-1793101845.jpg</image:loc>
-      <image:title>Acer&apos;s Predator Atlas 8 gaming handheld finally launches at Best Buy on November 1 for $1,300</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/android-handhelds-just-got-a-massive-multitasking-upgrade-with-this-launcher</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T11:38:47Z</news:publication_date>
-      <news:title>Android handhelds just got a massive multitasking upgrade with this launcher</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Cocoon-3.1-beta-release.jpg</image:loc>
-      <image:title>Android handhelds just got a massive multitasking upgrade with this launcher</image:title>
     </image:image>
   </url>
 </urlset>
