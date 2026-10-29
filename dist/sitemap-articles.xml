@@ -2,6 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/this-149-digital-candle-uses-ai-to-accurately-simulate-a-flickering-flame</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/candle.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>This $149 digital candle uses AI to accurately simulate a flickering flame</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/anthropics-business-plan-build-god-or-die-trying</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Anthropic_dario-amodei_money.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Anthropic’s business plan: Build God or die trying</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/apple-finally-combined-a-toaster-and-a-refrigerator</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/applemacbookprotouch.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Apple finally combined a toaster and a refrigerator</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-releasing-homepod-mini-2-tomorrow-with-these-new-features</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/homepod-mini-2-feature2.jpg</image:loc>
+      <image:title>Apple Releasing HomePod Mini 2 Tomorrow With These New Features</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/how-macos-adapts-its-controls-for-touch-on-the-new-macbook-pro</loc>
     <lastmod>2026-10-29</lastmod>
     <changefreq>daily</changefreq>
