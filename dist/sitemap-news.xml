@@ -3,6 +3,216 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/nvidia-ceo-jensen-huang-may-have-been-the-target-of-a-chinese-government-spy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T18:34:43Z</news:publication_date>
+      <news:title>NVIDIA CEO Jensen Huang may have been the target of a Chinese government spy</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/nvidia-ceo-jensen-huang-may-have-been-the-target-of-a-chinese-government-spy/l-intro-1793298712.jpg</image:loc>
+      <image:title>NVIDIA CEO Jensen Huang may have been the target of a Chinese government spy</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-home-and-nest-speakers-getting-seven-updates-including-for-bluetooth-038-audio-quality</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T18:34:23Z</news:publication_date>
+      <news:title>Google Home and Nest speakers getting seven updates, including for Bluetooth &amp;#038; audio quality</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2020/01/google_nest_mini_1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Google Home and Nest speakers getting seven updates, including for Bluetooth &amp;#038; audio quality</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/trump-mobile-t1-phone-teardown-video-confirms-everyones-suspicions</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T18:31:02Z</news:publication_date>
+      <news:title>Trump Mobile T1 Phone teardown video confirms everyone&apos;s suspicions</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/trump-mobile-t1-phone-teardown/gsmarena_000.jpg</image:loc>
+      <image:title>Trump Mobile T1 Phone teardown video confirms everyone&apos;s suspicions</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-home-update-rolling-out-with-nest-cam-matter-energy-saving-improvements-038-fixes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T18:30:00Z</news:publication_date>
+      <news:title>Google Home update rolling out with Nest Cam, Matter, energy-saving improvements &amp;#038; fixes</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2025/10/nest-cam-usb-c-adapter-3.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Google Home update rolling out with Nest Cam, Matter, energy-saving improvements &amp;#038; fixes</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T18:29:12Z</news:publication_date>
+      <news:title>Report: Trump did nothing with intel that China planted spy close to Nvidia CEO</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298607192-1024x648.jpg</image:loc>
+      <image:title>Report: Trump did nothing with intel that China planted spy close to Nvidia CEO</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T18:20:21Z</news:publication_date>
+      <news:title>Meta will now alert parents if teens &apos;repeatedly&apos; search for self-harm content on Facebook</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/l-intro-1793297699.jpg</image:loc>
+      <image:title>Meta will now alert parents if teens &apos;repeatedly&apos; search for self-harm content on Facebook</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-details-new-firmware-for-chromecast-with-google-tv-and-nest-wifi-pro</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T18:18:43Z</news:publication_date>
+      <news:title>Google details new firmware for Chromecast with Google TV and Nest Wifi Pro</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2022/10/Nest-Wifi-Pro-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Google details new firmware for Chromecast with Google TV and Nest Wifi Pro</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/turning-a-solar-power-system-into-its-own-backup</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T18:02:26Z</news:publication_date>
+      <news:title>Turning a solar power system into its own backup</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-2-1152x648.jpeg</image:loc>
+      <image:title>Turning a solar power system into its own backup</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/todays-android-app-deals-and-freebies-bendy-lone-wolf-the-room-old-sins-more</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T18:00:06Z</news:publication_date>
+      <news:title>Today’s Android app deals and freebies: Bendy Lone Wolf, The Room Old Sins, more</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Google-Play-collage-f0d80e.webp?w=1600</image:loc>
+      <image:title>Today’s Android app deals and freebies: Bendy Lone Wolf, The Room Old Sins, more</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-brings-richer-document-editing-to-gemini-on-mobile-and-the-web</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T17:59:47Z</news:publication_date>
+      <news:title>Google brings richer document editing to Gemini on mobile and the web</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/Gemini-Neural-Expressive-1-scaled.jpg</image:loc>
+      <image:title>Google brings richer document editing to Gemini on mobile and the web</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/amazon-ember-50-inch-4k-tv-hits-its-lowest-price-in-months</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T17:56:37Z</news:publication_date>
+      <news:title>Amazon Ember 50-inch 4K TV hits its lowest price in months</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Amazon-Ember-50-inch-4-Series-with-Fire-TV-Press-Image.jpg</image:loc>
+      <image:title>Amazon Ember 50-inch 4K TV hits its lowest price in months</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/earfun-air-pro-4-falls-33-on-amazon-to-53</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T17:50:14Z</news:publication_date>
+      <news:title>EarFun Air Pro 4 falls 33% on Amazon to $53</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/08/EarFun-AirPro-4-earbud-exterior.jpg</image:loc>
+      <image:title>EarFun Air Pro 4 falls 33% on Amazon to $53</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apples-new-laptop-supports-one-of-the-coolest-features-for-color-pros</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T17:48:09Z</news:publication_date>
+      <news:title>Apple’s new laptop supports one of the coolest features for color pros</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0039.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Apple’s new laptop supports one of the coolest features for color pros</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/amazon-cuts-latest-ring-battery-doorbell-2k-by-55</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T17:41:20Z</news:publication_date>
+      <news:title>Amazon cuts latest Ring Battery Doorbell 2K by $55</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/Ring-Battery-Doorbell-Gen-2-Press-Image.jpg</image:loc>
+      <image:title>Amazon cuts latest Ring Battery Doorbell 2K by $55</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/utah-charges-kalshi-and-its-ceo-with-illegally-promoting-online-gambling</loc>
     <news:news>
       <news:publication>
@@ -150,6 +360,21 @@
     <image:image>
       <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/03/google-photos-3.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
       <image:title>Google Photos update fixes the bug that hid edited pictures</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T16:24:55Z</news:publication_date>
+      <news:title>Google admits AI search makes less money, but it&apos;s fixing that with more ads</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg</image:loc>
+      <image:title>Google admits AI search makes less money, but it&apos;s fixing that with more ads</image:title>
     </image:image>
   </url>
   <url>
@@ -4965,141 +5190,6 @@
     <image:image>
       <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Google-Play-collage-f9e8d3.webp?w=1600</image:loc>
       <image:title>Today’s best Android app deals and freebies: Out There, Tokaido, Eight-Minute Empire, more</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-wallet-could-borrow-a-handy-transit-feature-for-everyday-purchases</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T18:33:48Z</news:publication_date>
-      <news:title>Google Wallet could borrow a handy transit feature for everyday purchases</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/Google-Wallet-logo-on-smartphone-next-to-credit-cards-and-cash-Stock-photo-12-1000w-563h.jpg</image:loc>
-      <image:title>Google Wallet could borrow a handy transit feature for everyday purchases</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsungs-next-foldable-leaks-in-official-looking-renders</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T18:31:02Z</news:publication_date>
-      <news:title>Samsung&apos;s next foldable leaks in official-looking renders</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/samsung-w27-leaked-renders/gsmarena_000.jpg</image:loc>
-      <image:title>Samsung&apos;s next foldable leaks in official-looking renders</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T18:30:00Z</news:publication_date>
-      <news:title>This old Nokia phone got an AI Upgrade it was never designed for</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/l-intro-1792779965.jpg</image:loc>
-      <image:title>This old Nokia phone got an AI Upgrade it was never designed for</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/trump-is-making-it-easier-for-fossil-fuel-companies-to-leak-methane</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T18:25:13Z</news:publication_date>
-      <news:title>Trump is making it easier for fossil fuel companies to leak methane</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK466_ELECTION_2024_CVirginia_F.webp?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Trump is making it easier for fossil fuel companies to leak methane</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/ayaneo-offers-both-good-and-bad-news-on-handheld-shipments</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T18:11:20Z</news:publication_date>
-      <news:title>AYANEO offers both good and bad news on handheld shipments</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/06/pocket-micro-2-1.jpg</image:loc>
-      <image:title>AYANEO offers both good and bad news on handheld shipments</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-nest-wifi-router-and-point-get-october-2026-update</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T18:08:07Z</news:publication_date>
-      <news:title>Google Nest Wifi router and point get October 2026 update</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2019/12/google_nest_wifi_5.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Google Nest Wifi router and point get October 2026 update</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/warner-bros-drops-final-trailer-for-dune-part-three</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T18:05:55Z</news:publication_date>
-      <news:title>Warner Bros. drops final trailer for Dune: Part Three</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/dune1-1152x648-1793122985.jpg</image:loc>
-      <image:title>Warner Bros. drops final trailer for Dune: Part Three</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/ono5-pro-20-projector-drops-197-on-amazon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T18:00:32Z</news:publication_date>
-      <news:title>ONO5 Pro 2.0 projector drops $197 on Amazon</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/ONOAYO-ONO5-Pro-2.0-Movie-Projector-Product-Image.jpg</image:loc>
-      <image:title>ONO5 Pro 2.0 projector drops $197 on Amazon</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/why-buying-a-mac-mini-over-a-macbook-might-be-the-smarter-move</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T18:00:00Z</news:publication_date>
-      <news:title>Why buying a Mac mini over a MacBook might be the smarter move</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/why-buying-a-mac-mini-over-a-macbook-might-be-the-smarter-move/l-intro-1792413302.jpg</image:loc>
-      <image:title>Why buying a Mac mini over a MacBook might be the smarter move</image:title>
     </image:image>
   </url>
 </urlset>
