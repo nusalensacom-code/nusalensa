@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/t-mobile-ceo-rules-out-letting-spacexs-starlink-mobile-run-on-its-network</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T22:59:02Z</news:publication_date>
+      <news:title>T-Mobile CEO rules out letting SpaceX&apos;s Starlink Mobile run on its network</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/t-mobile-ceo-says-no-to-starlink-mvno/gsmarena_000.jpg</image:loc>
+      <image:title>T-Mobile CEO rules out letting SpaceX&apos;s Starlink Mobile run on its network</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/sony-is-working-on-a-film-adaptation-of-viral-indie-horror-game-mouthwashing</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T22:52:36Z</news:publication_date>
+      <news:title>Sony is working on a film adaptation of viral indie horror game Mouthwashing</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/sony-is-working-on-a-film-adaptation-of-viral-indie-horror-game-mouthwashing/l-intro-1793314079.jpg</image:loc>
+      <image:title>Sony is working on a film adaptation of viral indie horror game Mouthwashing</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/reddits-ceo-says-googles-ai-mode-does-not-drive-traffic</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T22:19:32Z</news:publication_date>
+      <news:title>Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/meta-is-testing-threads-friends-for-sharing-posts-with-smaller-groups</loc>
     <news:news>
       <news:publication>
@@ -30,6 +75,21 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/vrchat-says-its-not-adding-ai-labels-despite-user-survey-showing-people-want-that/l-intro-1793310428.jpg</image:loc>
       <image:title>VRChat says it&apos;s not adding AI labels despite user survey showing people want that</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/reddit-is-moving-to-a-logged-in-only-experience-ceo-says</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T21:47:57Z</news:publication_date>
+      <news:title>Reddit is moving to “a logged-in-only experience,” CEO says</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2025/07/reddit-icon-1152x648-1752522571.jpg</image:loc>
+      <image:title>Reddit is moving to “a logged-in-only experience,” CEO says</image:title>
     </image:image>
   </url>
   <url>
@@ -5115,141 +5175,6 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/10/Apple-TV-4K-4th-Generation-Top-View5.jpg</image:loc>
       <image:title>Apple Shares tvOS 27.2 Release Notes With List of New Features</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/discord-public-server-messages-may-be-soon-searchable-on-google-but-you-can-opt-out</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T23:04:49Z</news:publication_date>
-      <news:title>Discord public server messages may be soon searchable on Google, but you can opt out</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/discord-public-server-messages-may-be-soon-searchable-on-google-but-you-can-opt-out/l-intro-1793141144.jpg</image:loc>
-      <image:title>Discord public server messages may be soon searchable on Google, but you can opt out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/how-to-change-and-customize-your-android-auto-display</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T23:00:00Z</news:publication_date>
-      <news:title>How to change and customize your Android Auto display</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/how-to-change-and-customize-your-android-auto-display/l-intro-1792678996.jpg</image:loc>
-      <image:title>How to change and customize your Android Auto display</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/heres-why-the-iphone-duos-hinge-could-be-cracking-the-screen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T22:55:05Z</news:publication_date>
-      <news:title>Here’s why the iPhone Duo’s hinge could be cracking the screen</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iPhone-Duo_208.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Here’s why the iPhone Duo’s hinge could be cracking the screen</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/gemini-notebook-for-android-ios-adds-built-in-audio-recorder</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T22:44:07Z</news:publication_date>
-      <news:title>Gemini Notebook for Android, iOS adds built-in audio recorder</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/07/gemini-notebook-fold-8-5.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Gemini Notebook for Android, iOS adds built-in audio recorder</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/new-iphone-18e-leak-covers-its-chip-cameras-and-display</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T22:44:02Z</news:publication_date>
-      <news:title>New iPhone 18e leak covers its chip, cameras, and display</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/iphone-18e-specs-leak/gsmarena_000.jpg</image:loc>
-      <image:title>New iPhone 18e leak covers its chip, cameras, and display</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T22:37:30Z</news:publication_date>
-      <news:title>Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/M6-iMac-1152x648.jpg</image:loc>
-      <image:title>Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-best-ways-to-tell-if-someone-is-using-ai-glasses</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T22:30:00Z</news:publication_date>
-      <news:title>The best ways to tell if someone is using AI glasses</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/the-best-ways-to-tell-if-someone-is-using-ai-glasses/l-intro-1792775168.jpg</image:loc>
-      <image:title>The best ways to tell if someone is using AI glasses</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/oled-touchscreen-macbook-pro-could-start-at-362899</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T22:29:50Z</news:publication_date>
-      <news:title>OLED Touchscreen MacBook Pro Could Start at &amp;#36;2,899</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/MacBook-Pro-Dynamic-Island-multicolor.jpg</image:loc>
-      <image:title>OLED Touchscreen MacBook Pro Could Start at &amp;#36;2,899</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/south-carolinas-measles-outbreak-jumped-to-washington-state-5-times-in-2-weeks</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T22:22:32Z</news:publication_date>
-      <news:title>South Carolina&apos;s measles outbreak jumped to Washington state 5 times in 2 weeks</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-930111236-1152x648.jpeg</image:loc>
-      <image:title>South Carolina&apos;s measles outbreak jumped to Washington state 5 times in 2 weeks</image:title>
     </image:image>
   </url>
 </urlset>
