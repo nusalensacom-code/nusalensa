@@ -3,6 +3,81 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/the-iphone-18-pro-is-the-antithesis-to-androids-ai-era</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T10:30:56Z</news:publication_date>
+      <news:title>The iPhone 18 Pro is the antithesis to Android’s AI era</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/iPhone-18-Pro-Siri-AI.jpg</image:loc>
+      <image:title>The iPhone 18 Pro is the antithesis to Android’s AI era</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-announced-scott-forstall039s-departure-14-years-ago-today</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T10:23:39Z</news:publication_date>
+      <news:title>Apple Announced Scott Forstall&amp;#039;s Departure 14 Years Ago Today</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2017/06/scott-forstall-original-iphone.jpg</image:loc>
+      <image:title>Apple Announced Scott Forstall&amp;#039;s Departure 14 Years Ago Today</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/i8217ve-tested-plenty-of-chargers-but-this-is-the-one-staying-on-my-desk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T10:00:25Z</news:publication_date>
+      <news:title>I&amp;#8217;ve tested plenty of chargers, but this is the one staying on my desk</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Baseus-PicoGo-Pro-100W-GaN-charger-in-dark-cherry-color.jpg</image:loc>
+      <image:title>I&amp;#8217;ve tested plenty of chargers, but this is the one staying on my desk</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/ai-has-come-for-arizonas-water</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T10:00:04Z</news:publication_date>
+      <news:title>AI has come for Arizona’s water</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268658_Data_center_AZ_LEDE_VOSSS50.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>AI has come for Arizona’s water</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/wobble-to-launch-its-second-smartphone-the-speed-5g</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T09:47:02Z</news:publication_date>
+      <news:title>Wobble to launch its second smartphone, the Speed 5G</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/wobble-speed-india-launch/gsmarena_000.jpg</image:loc>
+      <image:title>Wobble to launch its second smartphone, the Speed 5G</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/googles-gemini-4-carbon-promises-significant-leap-in-ai-coding-and-cybersecurity</loc>
     <news:news>
       <news:publication>
@@ -5625,96 +5700,6 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/03/iphone-17e-notch.jpg</image:loc>
       <image:title>iPhone 18e Could Get Two Key Upgrades While Keeping 60Hz Display</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-ios-ification-of-android-is-ruining-my-favorite-phones</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T10:30:35Z</news:publication_date>
-      <news:title>The iOS-ification of Android is ruining my favorite phones</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/OPPO-Find-X10-Pro-Max-Liquid-Glass.jpg</image:loc>
-      <image:title>The iOS-ification of Android is ruining my favorite phones</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/googlebooks-are-getting-another-much-needed-round-of-repairs-this-time-with-chrome</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T10:19:01Z</news:publication_date>
-      <news:title>Googlebooks are getting another much-needed round of repairs, this time with Chrome</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Googlebook-Acer-10.jpg</image:loc>
-      <image:title>Googlebooks are getting another much-needed round of repairs, this time with Chrome</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-mova-v70-ultra-complete-isn8217t-perfect-but-it-solves-one-big-robot-vacuum-problem</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T10:00:17Z</news:publication_date>
-      <news:title>The MOVA V70 Ultra Complete isn&amp;#8217;t perfect, but it solves one big robot vacuum problem</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/mova-v70-ultra-01.jpg</image:loc>
-      <image:title>The MOVA V70 Ultra Complete isn&amp;#8217;t perfect, but it solves one big robot vacuum problem</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/i8217m-playing-super-mario-galaxy-on-my-android-phone-here8217s-how-to-get-it-on-yours-right-now</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T10:00:10Z</news:publication_date>
-      <news:title>I&amp;#8217;m playing Super Mario Galaxy on my Android phone. Here&amp;#8217;s how to get it on yours right now</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Super-Mario-Galaxy-game-screen-scaled.jpeg</image:loc>
-      <image:title>I&amp;#8217;m playing Super Mario Galaxy on my Android phone. Here&amp;#8217;s how to get it on yours right now</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/data-center-backlash-is-uniting-america</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T10:00:00Z</news:publication_date>
-      <news:title>Data center backlash is uniting America</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_ELECTIONS_DATA_CENTERS_CVirginia.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Data center backlash is uniting America</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/acer-is-bringing-a-predator-gaming-handheld-to-the-us-for-the-first-time</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T09:54:22Z</news:publication_date>
-      <news:title>Acer is bringing a Predator gaming handheld to the US for the first time</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Acer-Predator-Atlas-8-hero.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Acer is bringing a Predator gaming handheld to the US for the first time</image:title>
     </image:image>
   </url>
 </urlset>
