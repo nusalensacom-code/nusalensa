@@ -468,6 +468,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/sk-hynix-reports-record-q3-numbers-warns-that-the-memory-shortage-will-last-through-2030</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/sk-hynix-q3-report/gsmarena_000.jpg</image:loc>
+      <image:title>SK hynix reports record Q3 numbers, warns that the memory shortage will last through 2030</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/motorola-edge-70-pro-starts-receiving-the-update-to-android-17</loc>
     <lastmod>2026-10-29</lastmod>
     <changefreq>daily</changefreq>

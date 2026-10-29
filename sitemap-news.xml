@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/sk-hynix-reports-record-q3-numbers-warns-that-the-memory-shortage-will-last-through-2030</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T01:02:02Z</news:publication_date>
+      <news:title>SK hynix reports record Q3 numbers, warns that the memory shortage will last through 2030</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/sk-hynix-q3-report/gsmarena_000.jpg</image:loc>
+      <image:title>SK hynix reports record Q3 numbers, warns that the memory shortage will last through 2030</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/motorola-edge-70-pro-starts-receiving-the-update-to-android-17</loc>
     <news:news>
       <news:publication>
@@ -5700,36 +5715,6 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2020/07/rosetta-2.jpg</image:loc>
       <image:title>macOS 27.2 Stops Upgrades From Removing Rosetta</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-photos-rolls-out-customizable-redesign-of-your-collections-tab</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T01:18:33Z</news:publication_date>
-      <news:title>Google Photos rolls out customizable redesign of your ‘Collections’ tab</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/03/google-photos-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Google Photos rolls out customizable redesign of your ‘Collections’ tab</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/xiaomi-18-pro-and-18-pro-max-get-listed-by-european-retailer-before-their-global-launch</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T01:09:02Z</news:publication_date>
-      <news:title>Xiaomi 18 Pro and 18 Pro Max get listed by European retailer before their global launch</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/xiaomi-18-pro-18-pro-max-listed-in-europe/gsmarena_000.jpg</image:loc>
-      <image:title>Xiaomi 18 Pro and 18 Pro Max get listed by European retailer before their global launch</image:title>
     </image:image>
   </url>
 </urlset>
