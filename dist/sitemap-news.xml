@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/motorola-edge-70-pro-starts-receiving-the-update-to-android-17</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T23:47:01Z</news:publication_date>
+      <news:title>Motorola Edge 70 Pro starts receiving the update to Android 17</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/motorola-edge-70-pro-android-17-update/gsmarena_000.jpg</image:loc>
+      <image:title>Motorola Edge 70 Pro starts receiving the update to Android 17</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/fcc-chair-wants-to-let-prisons-jam-illegal-cellphones</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T23:09:22Z</news:publication_date>
+      <news:title>FCC chair wants to let prisons jam illegal cellphones</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/fcc-chair-wants-to-let-prisons-jam-illegal-cellphones/l-intro-1793228522.jpg</image:loc>
+      <image:title>FCC chair wants to let prisons jam illegal cellphones</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/adam-mosseri-says-negativity-around-ai-is-going-to-get-worse</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T23:05:39Z</news:publication_date>
+      <news:title>Adam Mosseri says negativity around AI is ‘going to get worse’</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2239561028.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Adam Mosseri says negativity around AI is ‘going to get worse’</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/tablets/best-buy-opens-pre-orders-for-proled-xdr-macbook-pro-with-36100-bonus-gift-cards</loc>
     <news:news>
       <news:publication>
@@ -15,6 +60,21 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/10/Apple-MacBook-Pro-with-PROLED-XDR-Display-family-lineup-feature.jpg</image:loc>
       <image:title>Best Buy Opens Pre-Orders for PROLED XDR MacBook Pro With &amp;#36;100 Bonus Gift Cards</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T22:51:15Z</news:publication_date>
+      <news:title>ULA&apos;s Vulcan rocket is set to return to flight on Friday the 13th</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/55617683176_c8f6425b60_o-1152x648-1793207864.jpg</image:loc>
+      <image:title>ULA&apos;s Vulcan rocket is set to return to flight on Friday the 13th</image:title>
     </image:image>
   </url>
   <url>
@@ -33,6 +93,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/technology/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T22:35:50Z</news:publication_date>
+      <news:title>As US ties fray, Europe plans first undersea cable link to Greenland</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/EU-and-Greenland-meeting-1152x648.jpg</image:loc>
+      <image:title>As US ties fray, Europe plans first undersea cable link to Greenland</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/here039s-a-real-world-look-at-the-new-macbook-pro039s-glowing-apple-logo</loc>
     <news:news>
       <news:publication>
@@ -45,6 +120,21 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/10/MacBook-Pro-Glowing-Apple-Logo.jpg</image:loc>
       <image:title>Here&amp;#039;s a Real-World Look at the New MacBook Pro&amp;#039;s Glowing Apple Logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/peptide-peddlers-cheer-as-rfk-jr-unilaterally-grants-access-overruling-fda</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T22:17:15Z</news:publication_date>
+      <news:title>Peptide peddlers cheer as RFK Jr. unilaterally grants access, overruling FDA</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2154524764-1024x648.jpg</image:loc>
+      <image:title>Peptide peddlers cheer as RFK Jr. unilaterally grants access, overruling FDA</image:title>
     </image:image>
   </url>
   <url>
@@ -5670,66 +5760,6 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/10/ios-27-2-apple-tv-remote.jpg</image:loc>
       <image:title>Older Siri Remotes Now Show Up in Find My With iOS 27.2</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iphone-duo-features-independent-rotation-lock-controls</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T00:00:00Z</news:publication_date>
-      <news:title>iPhone Duo Features Independent Rotation Lock Controls</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/iphone-duo-unfolded-lock-screen.jpg</image:loc>
-      <image:title>iPhone Duo Features Independent Rotation Lock Controls</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/openai-announces-three-big-science-discoveries-and-a-new-way-to-work-with-academics</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T23:34:58Z</news:publication_date>
-      <news:title>OpenAI announces three big science discoveries and a new way to work with academics</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_2.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>OpenAI announces three big science discoveries and a new way to work with academics</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-most-popular-streaming-platforms-in-the-us-might-not-be-what-you-think</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T23:30:00Z</news:publication_date>
-      <news:title>The most popular streaming platforms in the US might not be what you think</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/the-most-popular-streaming-platforms-in-the-us-might-not-be-what-you-think/l-intro-1792763480.jpg</image:loc>
-      <image:title>The most popular streaming platforms in the US might not be what you think</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsungs-exynos-2700-reportedly-outpaces-the-xiaomi-18-pro-maxs-snapdragon-by-up-to-20</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T23:11:03Z</news:publication_date>
-      <news:title>Samsung&apos;s Exynos 2700 reportedly outpaces the Xiaomi 18 Pro Max&apos;s Snapdragon by up to 20%</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/samsung-exynos-2700-vs-xiaomi-18-pro-18-pro-max/gsmarena_000.jpg</image:loc>
-      <image:title>Samsung&apos;s Exynos 2700 reportedly outpaces the Xiaomi 18 Pro Max&apos;s Snapdragon by up to 20%</image:title>
     </image:image>
   </url>
 </urlset>
