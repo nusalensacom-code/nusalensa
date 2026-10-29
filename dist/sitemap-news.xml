@@ -3,6 +3,231 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/oneplus-just-unveiled-a-monster-16r-preview-and-we8217re-suitably-jealous</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T16:33:50Z</news:publication_date>
+      <news:title>OnePlus just unveiled a monster 16R preview, and we&amp;#8217;re suitably jealous</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/OnePlus-Ace-7-aka-OnePlus-15R.jpg</image:loc>
+      <image:title>OnePlus just unveiled a monster 16R preview, and we&amp;#8217;re suitably jealous</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/deal-slashes-the-nothing-headphone-a-by-70</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T16:32:43Z</news:publication_date>
+      <news:title>Deal slashes the Nothing Headphone (a) by $70</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/03/Nothing-Headphone-A-on-table.jpg</image:loc>
+      <image:title>Deal slashes the Nothing Headphone (a) by $70</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/samsung-launches-a-virtual-cash-back-card-for-wallet-completely-unrelated-to-the-galaxy-card</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T16:23:28Z</news:publication_date>
+      <news:title>Samsung launches a virtual cash back card for Wallet, completely unrelated to the Galaxy Card</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Samsung-Cash-Card.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1400</image:loc>
+      <image:title>Samsung launches a virtual cash back card for Wallet, completely unrelated to the Galaxy Card</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/rokid-takes-on-meta-ray-ban-displays-with-its-own-rival</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T16:19:14Z</news:publication_date>
+      <news:title>Rokid takes on Meta Ray-Ban Displays with its own rival</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Rokid-Glasses-2-colors.jpg</image:loc>
+      <image:title>Rokid takes on Meta Ray-Ban Displays with its own rival</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/this-open-source-project-lets-you-sync-withings-data-to-other-apps-without-a-subscription</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T16:14:06Z</news:publication_date>
+      <news:title>This open-source project lets you sync Withings data to other apps without a subscription</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24856976/236744_Withings_Body_Smart_VSong_0007.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>This open-source project lets you sync Withings data to other apps without a subscription</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/this-4-port-ugreen-160w-gan-charger-is-back-to-its-lowest-price</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T16:07:01Z</news:publication_date>
+      <news:title>This 4-port UGREEN 160W GaN charger is back to its lowest price</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/UGREEN-Nexode-Pro-160W-GaN-Charger-Press-Image.jpg</image:loc>
+      <image:title>This 4-port UGREEN 160W GaN charger is back to its lowest price</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/joshua-kushners-thrive-holdings-is-acquiring-adt-for-76-billion</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T16:03:28Z</news:publication_date>
+      <news:title>Joshua Kushner’s Thrive Holdings is acquiring ADT for $7.6 billion</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-913777656.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Joshua Kushner’s Thrive Holdings is acquiring ADT for $7.6 billion</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/soundcore-boom-2-plus-falls-to-one-of-its-best-prices</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T16:03:26Z</news:publication_date>
+      <news:title>Soundcore Boom 2 Plus falls to one of its best prices</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Soundcore-Boom-2-Plus-Bluetooth-Speaker-SoundGuys.jpg</image:loc>
+      <image:title>Soundcore Boom 2 Plus falls to one of its best prices</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/microsofts-ai-future-has-fewer-jobs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T16:00:00Z</news:publication_date>
+      <news:title>Microsoft’s AI future has fewer jobs</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832912/STK095_MICROSOFT_2_CVirginia_A.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Microsoft’s AI future has fewer jobs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/macbook-pro-mini-led-vs-oled-buyer039s-guide-every-difference</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T15:59:05Z</news:publication_date>
+      <news:title>MacBook Pro Mini-LED vs. OLED Buyer&amp;#039;s Guide: Every Difference</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/Mini-LED-vs-PROLED-MBP-Feature-scaled.jpg</image:loc>
+      <image:title>MacBook Pro Mini-LED vs. OLED Buyer&amp;#039;s Guide: Every Difference</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/deals-galaxy-s26-ultra-473-off-brand-new-nothing-ear-3a-79-lenovo8217s-new-android-tablets-316-off-more</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T15:57:55Z</news:publication_date>
+      <news:title>Deals: Galaxy S26 Ultra $473 off brand new, Nothing Ear (3a) $79, Lenovo&amp;#8217;s new Android tablets $316 off, more</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/9to5Google-Oct-29-4.webp?w=1600</image:loc>
+      <image:title>Deals: Galaxy S26 Ultra $473 off brand new, Nothing Ear (3a) $79, Lenovo&amp;#8217;s new Android tablets $316 off, more</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/skullcandy-crusher-evo-deal-cuts-88-off-these-bass-heavy-headphones</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T15:51:55Z</news:publication_date>
+      <news:title>Skullcandy Crusher Evo deal cuts $88 off these bass-heavy headphones</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/04/Skullcandy-Crusher-Evo-SoundGuys.jpg</image:loc>
+      <image:title>Skullcandy Crusher Evo deal cuts $88 off these bass-heavy headphones</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/alexa-can-now-manage-your-amazon-billing-complaints-subscription-changes-and-more</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T15:51:50Z</news:publication_date>
+      <news:title>Alexa can now manage your Amazon billing complaints, subscription changes, and more</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/Alexa-for-Shopping.jpg</image:loc>
+      <image:title>Alexa can now manage your Amazon billing complaints, subscription changes, and more</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/is-your-pixel-9-pro-fold-acting-up-google-support-may-offer-a-big-upgrade-to-replace-it</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T15:49:36Z</news:publication_date>
+      <news:title>Is your Pixel 9 Pro Fold acting up? Google support may offer a big upgrade to replace it</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-Pro-Fold-review-hero.jpg</image:loc>
+      <image:title>Is your Pixel 9 Pro Fold acting up? Google support may offer a big upgrade to replace it</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/samsung8217s-advanced-sleep-apnea-detection-is-coming-to-these-galaxy-wearables</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T15:46:23Z</news:publication_date>
+      <news:title>Samsung&amp;#8217;s advanced sleep apnea detection is coming to these Galaxy wearables</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/07/samsung-galaxy-watch-ultra-2-watch-9-8.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Samsung&amp;#8217;s advanced sleep apnea detection is coming to these Galaxy wearables</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/google-maps-update-now-shows-you-the-fall-foliage-along-your-route-video</loc>
     <news:news>
       <news:publication>
@@ -4875,336 +5100,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/07/CMF-Buds-2-SoundGuys-scaled.jpg</image:loc>
       <image:title>Save $20 as the CMF Buds 2 fall 41% back to their record low price</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/why-does-the-fcc-hate-minions-routers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T16:45:00Z</news:publication_date>
-      <news:title>Why does the FCC hate Minions routers?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/why-does-the-fcc-hate-minions-routers/l-intro-1792572728.jpg</image:loc>
-      <image:title>Why does the FCC hate Minions routers?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/metas-25-billion-legal-loss-just-put-blood-in-the-water</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T16:44:40Z</news:publication_date>
-      <news:title>Meta’s $25 billion legal loss just put blood in the water</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_4_D.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Meta’s $25 billion legal loss just put blood in the water</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/here-are-the-latest-samsung-galaxy-phones-getting-android-17-updates</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T16:43:20Z</news:publication_date>
-      <news:title>Here are the latest Samsung Galaxy phones getting Android 17 updates</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/07/Welcome-to-One-UI-9-screen-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Here are the latest Samsung Galaxy phones getting Android 17 updates</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-reportedly-plans-to-release-macbook-neo-2-in-first-half-of-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T16:34:34Z</news:publication_date>
-      <news:title>Apple Reportedly Plans to Release MacBook Neo 2 in First Half of 2027</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/06/MacBook-Neo-on-Yellow-Feature.jpg</image:loc>
-      <image:title>Apple Reportedly Plans to Release MacBook Neo 2 in First Half of 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/these-might-be-the-best-phones-for-video-capture-and-they8217ve-just-gone-global</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T16:30:57Z</news:publication_date>
-      <news:title>These might be the best phones for video capture, and they&amp;#8217;ve just gone global</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/vivo-X500-Pro-Max-rear-cover-and-cameras.jpg</image:loc>
-      <image:title>These might be the best phones for video capture, and they&amp;#8217;ve just gone global</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/sony-ult-wear-noise-canceling-headphones-get-a-40-amazon-discount</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T16:28:20Z</news:publication_date>
-      <news:title>Sony ULT Wear noise-canceling headphones get a 40% Amazon discount</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/02/Sony-ULT-WEAR-headphones-from-Sound-Guys.jpg</image:loc>
-      <image:title>Sony ULT Wear noise-canceling headphones get a 40% Amazon discount</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/even-the-pixel-11-series-may-not-be-immune-to-google8217s-missed-calls-bug</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T16:24:03Z</news:publication_date>
-      <news:title>Even the Pixel 11 series may not be immune to Google&amp;#8217;s missed calls bug</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/google-pixel-11-pro-pixel-11-pro-xl-canyon-obsidian-7-scaled.jpg</image:loc>
-      <image:title>Even the Pixel 11 series may not be immune to Google&amp;#8217;s missed calls bug</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/apple-creator-studio-update-adds-motionvfx-to-final-cut-and-ai-to-everywhere</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T16:21:44Z</news:publication_date>
-      <news:title>Apple Creator Studio update adds MotionVFX to Final Cut, and AI to everywhere</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/apple-creator-studio-update-adds-motionvfx-to-final-cut-and-ai-to-everywhere/l-intro-1793118031.jpg</image:loc>
-      <image:title>Apple Creator Studio update adds MotionVFX to Final Cut, and AI to everywhere</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/ford-simplifies-using-your-ev-as-a-home-battery-with-the-30k-fathom</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T16:17:58Z</news:publication_date>
-      <news:title>Ford simplifies using your EV as a home battery with the $30K Fathom</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/UEV_Ebox_1-1152x648.jpg</image:loc>
-      <image:title>Ford simplifies using your EV as a home battery with the $30K Fathom</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-iphone-duo-vs-google-pixel-11-pro-fold-the-differences-beyond-foldable-style</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T16:15:00Z</news:publication_date>
-      <news:title>Apple iPhone Duo vs Google Pixel 11 Pro Fold: The differences beyond foldable style</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/apple-iphone-duo-vs-google-pixel-11-pro-fold-the-differences-beyond-foldable-style/l-intro-1792405273.jpg</image:loc>
-      <image:title>Apple iPhone Duo vs Google Pixel 11 Pro Fold: The differences beyond foldable style</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/firefoxs-smart-window-adds-ai-form-filling-and-webpage-monitoring</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T16:14:18Z</news:publication_date>
-      <news:title>Firefox’s Smart Window adds AI form filling and webpage monitoring</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/firefox-fill.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Firefox’s Smart Window adds AI form filling and webpage monitoring</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/case-makers-are-already-selling-galaxy-s27-pro-and-ultra-covers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T16:08:13Z</news:publication_date>
-      <news:title>Case makers are already selling Galaxy S27 Pro and Ultra covers</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/Samsung-Galaxy-S26-Ultra-home-screen-black-cat-scaled.jpg</image:loc>
-      <image:title>Case makers are already selling Galaxy S27 Pro and Ultra covers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-nest-learning-thermostat-bundle-hits-all-time-low-with-60-off</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T16:04:00Z</news:publication_date>
-      <news:title>Google Nest Learning Thermostat bundle hits all-time low with $60 off</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/10/Nest-Learning-Thermostat-4th-gen-face-4.jpg</image:loc>
-      <image:title>Google Nest Learning Thermostat bundle hits all-time low with $60 off</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/major-league-baseball-is-looking-for-a-new-kind-of-fan</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T16:02:43Z</news:publication_date>
-      <news:title>Major League Baseball is looking for a new kind of fan</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2301861042.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Major League Baseball is looking for a new kind of fan</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-updates-14-inch-macbook-pro-and-imac-with-the-m6-processor</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T16:01:02Z</news:publication_date>
-      <news:title>Apple updates 14-inch MacBook Pro and iMac with the M6 processor</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/macbook-pro-imac-m6/gsmarena_000.jpg</image:loc>
-      <image:title>Apple updates 14-inch MacBook Pro and iMac with the M6 processor</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/deepmind-unveils-genie-4-world-model-promising-more-realistic-physics-and-humans</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T16:00:22Z</news:publication_date>
-      <news:title>DeepMind unveils Genie 4 world model promising more realistic physics and humans</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/vlcsnap-2026-10-27-10h06m52s461-1152x648.png</image:loc>
-      <image:title>DeepMind unveils Genie 4 world model promising more realistic physics and humans</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-galaxy-z-fold-8-still-feels-refreshing-in-all-the-best-ways-video</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T16:00:00Z</news:publication_date>
-      <news:title>The Galaxy Z Fold 8 still feels refreshing in all the best ways [Video]</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Galaxy-Z-Fold-8-fully-open-rear.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>The Galaxy Z Fold 8 still feels refreshing in all the best ways [Video]</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/my-favorite-robot-vacuum-just-got-quieter-and-more-expensive</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T16:00:00Z</news:publication_date>
-      <news:title>My favorite robot vacuum just got quieter, and more expensive</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/matic_yoga_serene-20.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>My favorite robot vacuum just got quieter, and more expensive</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/googles-next-genie-ai-model-generates-more-realistic-experiences</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T16:00:00Z</news:publication_date>
-      <news:title>Google’s next Genie AI model generates more realistic experiences</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-26-at-3.00.35-PM.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Google’s next Genie AI model generates more realistic experiences</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/android-17-based-redmagic-os-12-gets-closer-to-a-global-release</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T15:50:37Z</news:publication_date>
-      <news:title>Android 17-based Redmagic OS 12 gets closer to a global release</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2023/02/Redmagic-8-Pro-5.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Android 17-based Redmagic OS 12 gets closer to a global release</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/from-cheap-tool-to-premium-subscription-when-a-beloved-apps-price-skyrockets</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T15:50:19Z</news:publication_date>
-      <news:title>From cheap tool to premium subscription: When a beloved app&apos;s price skyrockets</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1321941710-1152x648.jpg</image:loc>
-      <image:title>From cheap tool to premium subscription: When a beloved app&apos;s price skyrockets</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/deals-galaxy-z-fold-8ultra-up-to-570-off-cmf-watch-3-pro-for-59-buds-from-20-more</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T15:48:36Z</news:publication_date>
-      <news:title>Deals: Galaxy Z Fold 8/Ultra up to $570+ off, CMF Watch 3 Pro for $59, buds from $20, more</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/9to5Google-Oct-27.webp?w=1600</image:loc>
-      <image:title>Deals: Galaxy Z Fold 8/Ultra up to $570+ off, CMF Watch 3 Pro for $59, buds from $20, more</image:title>
     </image:image>
   </url>
 </urlset>
