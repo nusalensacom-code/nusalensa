@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/googles-gemini-4-carbon-promises-significant-leap-in-ai-coding-and-cybersecurity</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T09:41:58Z</news:publication_date>
+      <news:title>Google&apos;s Gemini 4 Carbon promises &apos;significant leap&apos; in AI coding and cybersecurity</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/googles-gemini-4-carbon-promises-significant-leap-in-ai-coding-and-cybersecurity/l-intro-1793266804.jpg</image:loc>
+      <image:title>Google&apos;s Gemini 4 Carbon promises &apos;significant leap&apos; in AI coding and cybersecurity</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/survey-says-the-fitbit-edge8217s-biggest-rival-could-be-its-own-google-sibling</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T09:33:57Z</news:publication_date>
+      <news:title>Survey says the Fitbit Edge&amp;#8217;s biggest rival could be its own Google sibling</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/fitbit-edge-review-workout-screen-scaled.jpg</image:loc>
+      <image:title>Survey says the Fitbit Edge&amp;#8217;s biggest rival could be its own Google sibling</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/trump-phone-passes-the-bend-test-fails-the-originality-test</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T09:11:59Z</news:publication_date>
+      <news:title>Trump Phone passes the bend test, fails the originality test</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/T1-Trum-Mobile-Trump-Phone-3-of-3.jpg</image:loc>
+      <image:title>Trump Phone passes the bend test, fails the originality test</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/samsung-is-killing-another-key-galaxy-service</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T08:49:53Z</news:publication_date>
+      <news:title>Samsung is killing another key Galaxy service</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/one-ui-9-frowning-plush-scaled.jpg</image:loc>
+      <image:title>Samsung is killing another key Galaxy service</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/hackers-leaked-details-of-more-than-41000-homeland-security-personnel</loc>
     <news:news>
       <news:publication>
@@ -5655,66 +5715,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Acer-Predator-Atlas-8-hero.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Acer is bringing a Predator gaming handheld to the US for the first time</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/android8217s-sidekick-gaming-overlay-gets-the-video-capture-feature-you-were-waiting-for</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T09:13:44Z</news:publication_date>
-      <news:title>Android&amp;#8217;s Sidekick gaming overlay gets the video capture feature you were waiting for</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/03/Google-Play-Services-System-Services-scaled.jpg</image:loc>
-      <image:title>Android&amp;#8217;s Sidekick gaming overlay gets the video capture feature you were waiting for</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-community-is-going-dark-for-3-days-and-you-might-want-to-take-preemptive-action</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T09:00:05Z</news:publication_date>
-      <news:title>Samsung Community is going dark for 3 days, and you might want to take preemptive action</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/01/Samsung-Find-App.jpg</image:loc>
-      <image:title>Samsung Community is going dark for 3 days, and you might want to take preemptive action</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-find-hub-is-preparing-to-fix-one-of-android-tracking8217s-biggest-headaches</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T08:57:59Z</news:publication_date>
-      <news:title>Google Find Hub is preparing to fix one of Android tracking&amp;#8217;s biggest headaches</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-tag-hands-on-7-scaled.jpg</image:loc>
-      <image:title>Google Find Hub is preparing to fix one of Android tracking&amp;#8217;s biggest headaches</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/your-android-phone-may-remember-ai-chats-you-thought-you-deleted</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T08:49:39Z</news:publication_date>
-      <news:title>Your Android phone may remember AI chats you thought you deleted</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/06/google-ai-edge-gallery-app-1.jpg</image:loc>
-      <image:title>Your Android phone may remember AI chats you thought you deleted</image:title>
     </image:image>
   </url>
 </urlset>
