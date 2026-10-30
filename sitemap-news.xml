@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/motorola-confirms-the-signature-27s-exact-launch-date</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T04:31:02Z</news:publication_date>
+      <news:title>Motorola confirms the Signature 27&apos;s exact launch date</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/motorola-signature-27-launch-date/gsmarena_000.jpg</image:loc>
+      <image:title>Motorola confirms the Signature 27&apos;s exact launch date</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/gemini8217s-latest-integration-can-tell-you-if-you8217re-getting-faster-one-run-at-a-time</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T04:23:32Z</news:publication_date>
+      <news:title>Gemini&amp;#8217;s latest integration can tell you if you&amp;#8217;re getting faster, one run at a time</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-logo-on-smartphone-stock-photo-2.jpg</image:loc>
+      <image:title>Gemini&amp;#8217;s latest integration can tell you if you&amp;#8217;re getting faster, one run at a time</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/reddit-is-coming-for-logged-out-browsing-and-users-aren8217t-having-it</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T03:38:38Z</news:publication_date>
+      <news:title>Reddit is coming for logged-out browsing, and users aren&amp;#8217;t having it</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2022/03/Reddit-stock-photo-3.jpg</image:loc>
+      <image:title>Reddit is coming for logged-out browsing, and users aren&amp;#8217;t having it</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/oppo-find-x10-ultra-could-be-heading-for-a-chipset-switch</loc>
     <news:news>
       <news:publication>
@@ -5160,36 +5205,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/vivo-x500-series-india-launch-rumor/gsmarena_000.jpg</image:loc>
       <image:title>Here&apos;s when the vivo X500 series could launch in India</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/hate-setting-up-esims-gemini-might-soon-do-it-for-you-apk-teardown</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T04:09:54Z</news:publication_date>
-      <news:title>Hate setting up eSIMs? Gemini might soon do it for you (APK teardown)</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/10/visible-esim-transfer-app-hero-scaled.jpg</image:loc>
-      <image:title>Hate setting up eSIMs? Gemini might soon do it for you (APK teardown)</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/ios-272-brings-two-new-features-to-apples-carplay</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T03:51:54Z</news:publication_date>
-      <news:title>iOS 27.2 brings two new features to Apple&apos;s CarPlay</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/ios-27-2-brings-two-new-features-to-apples-carplay/l-intro-1793159234.jpg</image:loc>
-      <image:title>iOS 27.2 brings two new features to Apple&apos;s CarPlay</image:title>
     </image:image>
   </url>
 </urlset>
