@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/binance-hacked-for-an-estimated-63-billion-in-record-crypto-theft</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T08:24:55Z</news:publication_date>
+      <news:title>Binance hacked for an estimated $6.3 billion in record crypto theft</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/binance-hacked-for-an-estimated-6-3-billion-in-record-crypto-theft/l-intro-1793348577.jpg</image:loc>
+      <image:title>Binance hacked for an estimated $6.3 billion in record crypto theft</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/vivo-s70s-full-camera-details-emerge-in-new-leak</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T08:04:02Z</news:publication_date>
+      <news:title>vivo S70&apos;s full camera details emerge in new leak</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/vivo-s70-camera-specs/gsmarena_00.jpg</image:loc>
+      <image:title>vivo S70&apos;s full camera details emerge in new leak</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/this-google-photos-bug-made-edited-photos-disappear-and-there8217s-finally-a-fix</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T08:03:18Z</news:publication_date>
+      <news:title>This Google Photos bug made edited photos disappear, and there&amp;#8217;s finally a fix</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/01/google-photos-app-editor-light-theme.jpg</image:loc>
+      <image:title>This Google Photos bug made edited photos disappear, and there&amp;#8217;s finally a fix</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/general-motors-agrees-to-pay-220-million-to-settle-multi-state-data-privacy-lawsuit</loc>
     <news:news>
       <news:publication>
@@ -5115,66 +5160,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/anbernic-Nintendo-clones-RG-55G1-RG-DS-Plus-scaled.jpg</image:loc>
       <image:title>The ANBERNIC Nintendo clone I would recommend you buy isn&amp;#8217;t the one I use the most</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google8217s-genie-4-lets-you-build-worlds-that-sound-and-move-like-real-life</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T08:42:35Z</news:publication_date>
-      <news:title>Google&amp;#8217;s Genie 4 lets you build worlds that sound and move like real life</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/google-genie-4-featured-image-google-deepmind-blog.jpg</image:loc>
-      <image:title>Google&amp;#8217;s Genie 4 lets you build worlds that sound and move like real life</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/metas-waddle-world-is-a-tamagotchi-like-ai-pet-app</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T08:40:19Z</news:publication_date>
-      <news:title>Meta&apos;s Waddle World is a Tamagotchi-like AI pet app</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/metas-waddle-world-is-a-tamagotchi-like-ai-digital-pet-app/l-intro-1793176733.jpg</image:loc>
-      <image:title>Meta&apos;s Waddle World is a Tamagotchi-like AI pet app</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/sony-announces-new-lytia-720-50mp-1156-inch-sensor-for-mobile</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T08:06:02Z</news:publication_date>
-      <news:title>Sony announces new LYTIA 720 50MP 1/1.56-inch sensor for mobile</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/sony-lytia-720-announced/gsmarena_00.jpg</image:loc>
-      <image:title>Sony announces new LYTIA 720 50MP 1/1.56-inch sensor for mobile</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/psa-your-discord-messages-could-soon-show-up-on-google-but-here8217s-how-to-opt-out</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T07:55:24Z</news:publication_date>
-      <news:title>PSA: Your Discord messages could soon show up on Google, but here&amp;#8217;s how to opt out</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Discord-on-a-smartphone.jpg</image:loc>
-      <image:title>PSA: Your Discord messages could soon show up on Google, but here&amp;#8217;s how to opt out</image:title>
     </image:image>
   </url>
 </urlset>
