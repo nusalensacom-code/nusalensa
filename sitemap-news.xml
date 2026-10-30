@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/oppo-find-x10-ultra-could-be-heading-for-a-chipset-switch</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T02:59:02Z</news:publication_date>
+      <news:title>Oppo Find X10 Ultra could be heading for a chipset switch</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/oppo-find-x10-ultra-chipset-rumor/gsmarena_000.jpg</image:loc>
+      <image:title>Oppo Find X10 Ultra could be heading for a chipset switch</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/android-17-is-barely-making-a-dent-as-android-11-still-powers-10-of-phones</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T02:50:31Z</news:publication_date>
+      <news:title>Android 17 is barely making a dent as Android 11 still powers 10% of phones</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-7-scaled.jpg</image:loc>
+      <image:title>Android 17 is barely making a dent as Android 11 still powers 10% of phones</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/latest-gemini-design-comes-to-all-android-devices-app-upgrades-file-generation</loc>
     <news:news>
       <news:publication>
@@ -5160,21 +5190,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/ios-27-2-brings-two-new-features-to-apples-carplay/l-intro-1793159234.jpg</image:loc>
       <image:title>iOS 27.2 brings two new features to Apple&apos;s CarPlay</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/redmi-k100-debuts-with-snapdragon-8-elite-chipset-10000mah-battery</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T03:04:02Z</news:publication_date>
-      <news:title>Redmi K100 debuts with Snapdragon 8 Elite chipset, 10,000mAh battery</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/redmi-k100-ofic/gsmarena_00.jpg</image:loc>
-      <image:title>Redmi K100 debuts with Snapdragon 8 Elite chipset, 10,000mAh battery</image:title>
     </image:image>
   </url>
 </urlset>

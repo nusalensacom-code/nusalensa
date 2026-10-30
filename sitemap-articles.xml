@@ -2,6 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/oppo-find-x10-ultra-could-be-heading-for-a-chipset-switch</loc>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/oppo-find-x10-ultra-chipset-rumor/gsmarena_000.jpg</image:loc>
+      <image:title>Oppo Find X10 Ultra could be heading for a chipset switch</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/android-17-is-barely-making-a-dent-as-android-11-still-powers-10-of-phones</loc>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-7-scaled.jpg</image:loc>
+      <image:title>Android 17 is barely making a dent as Android 11 still powers 10% of phones</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/latest-gemini-design-comes-to-all-android-devices-app-upgrades-file-generation</loc>
     <lastmod>2026-10-30</lastmod>
     <changefreq>daily</changefreq>
