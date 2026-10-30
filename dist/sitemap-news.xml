@@ -3,6 +3,96 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/apple-iphone-18-pro-vs-iphone-18-pro-max</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T22:59:02Z</news:publication_date>
+      <news:title>Apple iPhone 18 Pro vs. iPhone 18 Pro Max</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/apple-iphone-18-pro-vs-iphone-18-pro-max/gsmarena_000.jpg</image:loc>
+      <image:title>Apple iPhone 18 Pro vs. iPhone 18 Pro Max</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T22:36:41Z</news:publication_date>
+      <news:title>Flesh-eating screwworms are feasting on pets; 4 dogs and cat attacked this week</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2016/11/CSIRO_ScienceImage_115_The_Tip_of_a_Screw_Worm_Fly_Larvae.jpg</image:loc>
+      <image:title>Flesh-eating screwworms are feasting on pets; 4 dogs and cat attacked this week</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-intelligence-is-finally-coming-to-china-with-ios-273</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T22:32:53Z</news:publication_date>
+      <news:title>Apple Intelligence is finally coming to China with iOS 27.3</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25699392/DSC08596_processed.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Apple Intelligence is finally coming to China with iOS 27.3</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/oh-captain-our-captain-ars-staff-remembers-patrick-stewart</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T22:21:05Z</news:publication_date>
+      <news:title>Oh captain, our captain: Ars staff remembers Patrick Stewart</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/Screenshot-2026-10-30-at-4.17.03-PM-1152x648-1793391748.png</image:loc>
+      <image:title>Oh captain, our captain: Ars staff remembers Patrick Stewart</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-alerts-stores-to-iphone-duo039s-display-cracking-issue</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T22:20:10Z</news:publication_date>
+      <news:title>Apple Alerts Stores to iPhone Duo&amp;#039;s Display Cracking Issue</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Display-Cracking.jpg</image:loc>
+      <image:title>Apple Alerts Stores to iPhone Duo&amp;#039;s Display Cracking Issue</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/ios-273-will-enable-these-apple-intelligence-features-in-china</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T21:46:00Z</news:publication_date>
+      <news:title>iOS 27.3 Will Enable These Apple Intelligence Features in China</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/Apple-Intelligence-China.jpg</image:loc>
+      <image:title>iOS 27.3 Will Enable These Apple Intelligence Features in China</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/apple-says-ios-273-beta-coming-next-week-with-apple-intelligence-on-iphone-in-china</loc>
     <news:news>
       <news:publication>
@@ -15,6 +105,21 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/10/iOS-27.3-Feature.jpg</image:loc>
       <image:title>Apple Says iOS 27.3 Beta Coming Next Week With Apple Intelligence on iPhone in China</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/supersonic-airliner-in-doubt-as-company-shifts-to-powering-ai-data-centers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T21:41:54Z</news:publication_date>
+      <news:title>Supersonic airliner in doubt as company shifts to powering AI data centers</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/Superpower-Superfactory-1152x648.jpg</image:loc>
+      <image:title>Supersonic airliner in doubt as company shifts to powering AI data centers</image:title>
     </image:image>
   </url>
   <url>
@@ -60,6 +165,21 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Bose-SoundLink-Plus-Portable-Bluetooth-Speaker-Press-Image.jpg</image:loc>
       <image:title>Bose SoundLink Plus drops back to its all-time low on Amazon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T21:09:54Z</news:publication_date>
+      <news:title>Anthropic VS code extension on Cursor backdoored for nearly 12 hours</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg</image:loc>
+      <image:title>Anthropic VS code extension on Cursor backdoored for nearly 12 hours</image:title>
     </image:image>
   </url>
   <url>
@@ -4365,111 +4485,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2239561028.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Adam Mosseri says negativity around AI is ‘going to get worse’</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/best-buy-opens-pre-orders-for-proled-xdr-macbook-pro-with-36100-bonus-gift-cards</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T23:04:16Z</news:publication_date>
-      <news:title>Best Buy Opens Pre-Orders for PROLED XDR MacBook Pro With &amp;#36;100 Bonus Gift Cards</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/Apple-MacBook-Pro-with-PROLED-XDR-Display-family-lineup-feature.jpg</image:loc>
-      <image:title>Best Buy Opens Pre-Orders for PROLED XDR MacBook Pro With &amp;#36;100 Bonus Gift Cards</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T22:51:15Z</news:publication_date>
-      <news:title>ULA&apos;s Vulcan rocket is set to return to flight on Friday the 13th</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/55617683176_c8f6425b60_o-1152x648-1793207864.jpg</image:loc>
-      <image:title>ULA&apos;s Vulcan rocket is set to return to flight on Friday the 13th</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/here039s-everything-apple-announced-this-week</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T22:45:11Z</news:publication_date>
-      <news:title>Here&amp;#039;s Everything Apple Announced This Week</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
-      <image:title>Here&amp;#039;s Everything Apple Announced This Week</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T22:35:50Z</news:publication_date>
-      <news:title>As US ties fray, Europe plans first undersea cable link to Greenland</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/EU-and-Greenland-meeting-1152x648.jpg</image:loc>
-      <image:title>As US ties fray, Europe plans first undersea cable link to Greenland</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/here039s-a-real-world-look-at-the-new-macbook-pro039s-glowing-apple-logo</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T22:24:25Z</news:publication_date>
-      <news:title>Here&amp;#039;s a Real-World Look at the New MacBook Pro&amp;#039;s Glowing Apple Logo</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/MacBook-Pro-Glowing-Apple-Logo.jpg</image:loc>
-      <image:title>Here&amp;#039;s a Real-World Look at the New MacBook Pro&amp;#039;s Glowing Apple Logo</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/peptide-peddlers-cheer-as-rfk-jr-unilaterally-grants-access-overruling-fda</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T22:17:15Z</news:publication_date>
-      <news:title>Peptide peddlers cheer as RFK Jr. unilaterally grants access, overruling FDA</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2154524764-1024x648.jpg</image:loc>
-      <image:title>Peptide peddlers cheer as RFK Jr. unilaterally grants access, overruling FDA</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsungs-sleep-apnea-detection-gets-better-on-the-galaxy-watches-and-galaxy-ring</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T22:16:02Z</news:publication_date>
-      <news:title>Samsung&apos;s sleep apnea detection gets better on the Galaxy Watches and Galaxy Ring</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/samsung-improved-sleep-apnea-detection/gsmarena_000.jpg</image:loc>
-      <image:title>Samsung&apos;s sleep apnea detection gets better on the Galaxy Watches and Galaxy Ring</image:title>
     </image:image>
   </url>
 </urlset>
