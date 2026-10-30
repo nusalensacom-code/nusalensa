@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/apple-says-ios-273-beta-coming-next-week-with-apple-intelligence-on-iphone-in-china</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T21:45:09Z</news:publication_date>
+      <news:title>Apple Says iOS 27.3 Beta Coming Next Week With Apple Intelligence on iPhone in China</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/iOS-27.3-Feature.jpg</image:loc>
+      <image:title>Apple Says iOS 27.3 Beta Coming Next Week With Apple Intelligence on iPhone in China</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-watch-ultra-4-falls-to-69999-in-first-major-price-cut</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T21:36:53Z</news:publication_date>
+      <news:title>Apple Watch Ultra 4 falls to $699.99 in first major price cut</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Apple-Watch-Ultra-4-Product-Image.jpg</image:loc>
+      <image:title>Apple Watch Ultra 4 falls to $699.99 in first major price cut</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-galaxy-s27-ultra-chipset-saga-continues-heres-the-latest-twist</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T21:31:02Z</news:publication_date>
+      <news:title>The Galaxy S27 Ultra chipset saga continues, here&apos;s the latest twist</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/samsung-galaxy-s27-ultra-new-chipset-twist/gsmarena_000.jpg</image:loc>
+      <image:title>The Galaxy S27 Ultra chipset saga continues, here&apos;s the latest twist</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/bose-soundlink-plus-drops-back-to-its-all-time-low-on-amazon</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T21:23:26Z</news:publication_date>
+      <news:title>Bose SoundLink Plus drops back to its all-time low on Amazon</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Bose-SoundLink-Plus-Portable-Bluetooth-Speaker-Press-Image.jpg</image:loc>
+      <image:title>Bose SoundLink Plus drops back to its all-time low on Amazon</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/exclusive-details-about-akais-mpc-sample-key</loc>
     <news:news>
       <news:publication>
@@ -4410,126 +4470,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/samsung-improved-sleep-apnea-detection/gsmarena_000.jpg</image:loc>
       <image:title>Samsung&apos;s sleep apnea detection gets better on the Galaxy Watches and Galaxy Ring</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/how-accurate-were-rumors-about-apple039s-oled-touchscreen-macbook-pro</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T22:04:52Z</news:publication_date>
-      <news:title>How Accurate Were Rumors About Apple&amp;#039;s OLED Touchscreen MacBook Pro?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/oled-macbook-pro-display.jpg</image:loc>
-      <image:title>How Accurate Were Rumors About Apple&amp;#039;s OLED Touchscreen MacBook Pro?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/price-hikes-can8217t-stop-youtube-premium-from-hitting-new-subscriber-records</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T22:03:41Z</news:publication_date>
-      <news:title>Price hikes can&amp;#8217;t stop YouTube Premium from hitting new subscriber records</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2022/04/YouTube-on-smartphone-stock-photo-6.jpg</image:loc>
-      <image:title>Price hikes can&amp;#8217;t stop YouTube Premium from hitting new subscriber records</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/a-hacker-stole-more-than-40000-dhs-employee-records</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T21:57:45Z</news:publication_date>
-      <news:title>A hacker stole more than 40,000 DHS employee records</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2200388904.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>A hacker stole more than 40,000 DHS employee records</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/soundcore-liberty-4-pro-gets-a-40-amazon-discount</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T21:52:31Z</news:publication_date>
-      <news:title>Soundcore Liberty 4 Pro gets a $40 Amazon discount</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Anker-Soundcore-Liberty-4-Pro-SoundGuys.jpg</image:loc>
-      <image:title>Soundcore Liberty 4 Pro gets a $40 Amazon discount</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/logitech-g309-lightspeed-deal-brings-hero-25k-mouse-to-4999</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T21:38:48Z</news:publication_date>
-      <news:title>Logitech G309 Lightspeed deal brings HERO 25K mouse to $49.99</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/Logitech-G309-Lightspeed-Wireless-Gaming-Mouse-Press-Image.jpg</image:loc>
-      <image:title>Logitech G309 Lightspeed deal brings HERO 25K mouse to $49.99</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/akai-is-embracing-vibe-coded-mods-with-an-open-source-mpc</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T21:34:04Z</news:publication_date>
-      <news:title>Akai is embracing vibe-coded mods with an open-source MPC</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai-MPC-Sample-Key.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Akai is embracing vibe-coded mods with an open-source MPC</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/galaxy-watch-ultra-deal-knocks-184-off-samsungs-rugged-lte-watch</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T21:21:39Z</news:publication_date>
-      <news:title>Galaxy Watch Ultra deal knocks $184 off Samsung’s rugged LTE watch</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/07/Samsung-Galaxy-Watch-Ultra-2025-Titanium-Blue-flat-on-table.jpg</image:loc>
-      <image:title>Galaxy Watch Ultra deal knocks $184 off Samsung’s rugged LTE watch</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/readwise-is-taking-on-kindle-and-kobo-for-ebook-supremacy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T21:16:18Z</news:publication_date>
-      <news:title>Readwise is taking on Kindle and Kobo for ebook supremacy</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Readwise-Books-2.jpeg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Readwise is taking on Kindle and Kobo for ebook supremacy</image:title>
     </image:image>
   </url>
 </urlset>
