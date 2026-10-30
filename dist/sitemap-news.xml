@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/motorola-finally-puts-a-date-on-its-galaxy-ultra-challenger</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T06:18:40Z</news:publication_date>
+      <news:title>Motorola finally puts a date on its Galaxy Ultra challenger</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Motorola-Signature-27-2-of-6.jpg</image:loc>
+      <image:title>Motorola finally puts a date on its Galaxy Ultra challenger</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/the-new-oled-ipad-mini-runs-geekbench-here-are-the-results</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T06:01:02Z</news:publication_date>
+      <news:title>The new OLED iPad mini runs Geekbench, here are the results</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/ipad-mini-geekbench/gsmarena_000.jpg</image:loc>
+      <image:title>The new OLED iPad mini runs Geekbench, here are the results</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/motorola-confirms-the-signature-27s-exact-launch-date</loc>
     <news:news>
       <news:publication>
@@ -5160,36 +5190,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/redmi-k100-featured-image.jpg</image:loc>
       <image:title>This Android brand put a 10,000mAh battery in its latest phone, and Samsung needs to up its game</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-galaxy-a08-launched-in-india-with-a-6000mah-battery</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T06:05:02Z</news:publication_date>
-      <news:title>Samsung Galaxy A08 launched in India with a 6,000mAh battery</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/samsung-galaxy-a08-india-launch/gsmarena_00.jpg</image:loc>
-      <image:title>Samsung Galaxy A08 launched in India with a 6,000mAh battery</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/motorola8217s-big-us-flagship-comeback-could-come-with-an-even-bigger-price-tag</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T05:41:04Z</news:publication_date>
-      <news:title>Motorola&amp;#8217;s big US flagship comeback could come with an even bigger price tag</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Motorola-Signature-27-6-of-6.jpg</image:loc>
-      <image:title>Motorola&amp;#8217;s big US flagship comeback could come with an even bigger price tag</image:title>
     </image:image>
   </url>
 </urlset>

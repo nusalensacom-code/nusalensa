@@ -468,6 +468,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/motorola-finally-puts-a-date-on-its-galaxy-ultra-challenger</loc>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Motorola-Signature-27-2-of-6.jpg</image:loc>
+      <image:title>Motorola finally puts a date on its Galaxy Ultra challenger</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/the-new-oled-ipad-mini-runs-geekbench-here-are-the-results</loc>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/ipad-mini-geekbench/gsmarena_000.jpg</image:loc>
+      <image:title>The new OLED iPad mini runs Geekbench, here are the results</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/motorola-confirms-the-signature-27s-exact-launch-date</loc>
     <lastmod>2026-10-30</lastmod>
     <changefreq>daily</changefreq>
