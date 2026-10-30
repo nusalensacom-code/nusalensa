@@ -3,6 +3,156 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/bluesky-now-has-a-dedicated-moderation-inbox</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T20:07:00Z</news:publication_date>
+      <news:title>Bluesky now has a dedicated &apos;moderation inbox&apos;</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/bluesky-now-has-a-dedicated-moderation-inbox/l-intro-1793390683.jpg</image:loc>
+      <image:title>Bluesky now has a dedicated &apos;moderation inbox&apos;</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/a-new-vulnerability-can-brick-your-android-phone-when-receiving-the-sms-of-death</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T20:03:02Z</news:publication_date>
+      <news:title>A new vulnerability can brick your Android phone when receiving the SMS of Death</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/25/02/google-messages-whatsapp-video-call/gsmarena_000.jpg</image:loc>
+      <image:title>A new vulnerability can brick your Android phone when receiving the SMS of Death</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/amazon-slashes-429-off-the-samsung-galaxy-s26-plus-512gb</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T20:00:37Z</news:publication_date>
+      <news:title>Amazon slashes $429 off the Samsung Galaxy S26 Plus 512GB</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Galaxy-S26-Plus-camera.jpg</image:loc>
+      <image:title>Amazon slashes $429 off the Samsung Galaxy S26 Plus 512GB</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/android-auto-can-run-sideloaded-apps-for-free-with-this-new-tool</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T19:59:47Z</news:publication_date>
+      <news:title>Android Auto can run sideloaded apps for free with this new tool</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/android-auto-home-screen-1.jpg</image:loc>
+      <image:title>Android Auto can run sideloaded apps for free with this new tool</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/youtube-bug-keeps-kicking-viewers-out-of-full-screen-and-killing-audio</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T19:52:34Z</news:publication_date>
+      <news:title>YouTube bug keeps kicking viewers out of full screen and killing audio</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/03/youtube-logo-google-pixel-10a-2-scaled.jpg</image:loc>
+      <image:title>YouTube bug keeps kicking viewers out of full screen and killing audio</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/score-a-150-discount-the-apple-watch-ultra-3</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T19:44:50Z</news:publication_date>
+      <news:title>Score a $150 discount the Apple Watch Ultra 3</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/09/Apple-Watch-Ultra-3-1-scaled.jpg</image:loc>
+      <image:title>Score a $150 discount the Apple Watch Ultra 3</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/14-new-things-your-iphone-can-do-in-ios-272</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T19:42:54Z</news:publication_date>
+      <news:title>14 New Things Your iPhone Can Do in iOS 27.2</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/Everything-New-Your-iPhone-Can-Do-on-iOS-27.2-Feature-1.jpg</image:loc>
+      <image:title>14 New Things Your iPhone Can Do in iOS 27.2</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/oppo-find-x10-review</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T19:39:07Z</news:publication_date>
+      <news:title>Oppo Find X10 review</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/reviews/26/oppo-find-x10/-347x151/gsmarena_001.jpg</image:loc>
+      <image:title>Oppo Find X10 review</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-12th-google-store-is-opening-on-november-6</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T19:37:58Z</news:publication_date>
+      <news:title>The 12th Google Store is opening on November 6</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2023/09/google-store-logo-3.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>The 12th Google Store is opening on November 6</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/boses-new-quietcomfort-ultra-headphones-hit-prime-day-low-again</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T19:24:52Z</news:publication_date>
+      <news:title>Bose’s new QuietComfort Ultra Headphones hit Prime Day low again</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/12/Bose-QuietComfort-Ultra-2nd-Gen-next-to-other-headphones.jpg</image:loc>
+      <image:title>Bose’s new QuietComfort Ultra Headphones hit Prime Day low again</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/iphone-duo-review-one-week-later</loc>
     <news:news>
       <news:publication>
@@ -4410,201 +4560,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/mbp2.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Apple charges $14,549 for a fully specced touchscreen MacBook Pro</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/alphabet-reports-q3-2026-revenue-of-1276-billion</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T20:03:59Z</news:publication_date>
-      <news:title>Alphabet reports Q3 2026 revenue of $127.6 billion</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2025/08/google-logo-4.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Alphabet reports Q3 2026 revenue of $127.6 billion</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-launches-gemini-4-carbon-with-a-significant-leap-in-cybersecurity</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T20:03:00Z</news:publication_date>
-      <news:title>Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK255_Google_Gemini_A.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/score-80-off-the-tcl-nxtpaper-11-gen-2-tablet</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T19:57:46Z</news:publication_date>
-      <news:title>Score $80 off the TCL NXTPAPER 11 Gen 2 tablet</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/06/TCL-NXTPAPER-11-Gen-2-Android-Tablet-Press-Image.jpg</image:loc>
-      <image:title>Score $80 off the TCL NXTPAPER 11 Gen 2 tablet</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/lg-xboom-rock-drops-to-6999-on-amazon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T19:47:57Z</news:publication_date>
-      <news:title>LG Xboom Rock drops to $69.99 on Amazon</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/01/LG-XBOOM-XG2T-1.jpg</image:loc>
-      <image:title>LG Xboom Rock drops to $69.99 on Amazon</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/meta-weighs-delaying-alarming-new-business-terms-as-backlash-grows</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T19:42:27Z</news:publication_date>
-      <news:title>Meta weighs delaying &apos;alarming&apos; new business terms as backlash grows</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/meta-weighs-delaying-alarming-new-business-terms-as-backlash-grows/l-intro-1793216507.jpg</image:loc>
-      <image:title>Meta weighs delaying &apos;alarming&apos; new business terms as backlash grows</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/mid-week-android-app-deals-and-freebies-subnautica-lara-croft-go-fishfolk-more</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T19:42:03Z</news:publication_date>
-      <news:title>Mid-week Android app deals and freebies: Subnautica, Lara Croft GO, Fishfolk, more</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Google-Play-collage-9aba27.webp?w=1600</image:loc>
-      <image:title>Mid-week Android app deals and freebies: Subnautica, Lara Croft GO, Fishfolk, more</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-playstation-5-just-might-be-sonys-final-blu-ray-player</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T19:39:47Z</news:publication_date>
-      <news:title>The PlayStation 5 just might be Sony&apos;s final Blu-Ray player</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/the-playstation-5-just-might-be-sonys-final-blu-ray-player/l-intro-1793107319.jpg</image:loc>
-      <image:title>The PlayStation 5 just might be Sony&apos;s final Blu-Ray player</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/foreign-gadget-bans-all-the-news-about-the-fccs-clampdown-on-chinese-tech</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T19:37:31Z</news:publication_date>
-      <news:title>Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2261816039.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/check-out-these-brand-new-youtube-minigames-from-some-of-your-favorite-creators</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T19:33:35Z</news:publication_date>
-      <news:title>Check out these brand-new YouTube minigames from some of your favorite creators</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/05/youtube-logo-app-icon-android-phone-hero-scaled.jpg</image:loc>
-      <image:title>Check out these brand-new YouTube minigames from some of your favorite creators</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T19:30:33Z</news:publication_date>
-      <news:title>Trump admin sues Utah to save Kalshi from the state&apos;s total ban on gambling</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/09/kalshi-1152x648-1788462763.jpg</image:loc>
-      <image:title>Trump admin sues Utah to save Kalshi from the state&apos;s total ban on gambling</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-releases-redesigned-mac-chargers-and-039world-travel-adapter-kit039</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T19:30:02Z</news:publication_date>
-      <news:title>Apple Releases Redesigned Mac Chargers and &amp;#039;World Travel Adapter Kit&amp;#039;</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/World-Travel-Adapter-Kit-Feature-with-Charger.jpg</image:loc>
-      <image:title>Apple Releases Redesigned Mac Chargers and &amp;#039;World Travel Adapter Kit&amp;#039;</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/save-120-on-a-like-new-kindle-scribe-32gb-on-amazon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T19:28:16Z</news:publication_date>
-      <news:title>Save $120 on a like-new Kindle Scribe 32GB on Amazon</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/09/kindle_scribe_1.jpg</image:loc>
-      <image:title>Save $120 on a like-new Kindle Scribe 32GB on Amazon</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/oled-macbook-pro-vs-mini-led-macbook-pro-size-and-weight-compared</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T19:25:15Z</news:publication_date>
-      <news:title>OLED MacBook Pro vs. Mini-LED MacBook Pro: Size and Weight Compared</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/macbook-pro-oled-weight.jpg</image:loc>
-      <image:title>OLED MacBook Pro vs. Mini-LED MacBook Pro: Size and Weight Compared</image:title>
     </image:image>
   </url>
 </urlset>
