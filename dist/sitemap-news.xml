@@ -3,6 +3,171 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/boses-new-lifestyle-ultra-speaker-falls-to-a-record-low</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T16:14:23Z</news:publication_date>
+      <news:title>Bose’s new Lifestyle Ultra Speaker falls to a record low</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Bose-Lifestyle-Ultra-speaker-SoundGuys-scaled.jpg</image:loc>
+      <image:title>Bose’s new Lifestyle Ultra Speaker falls to a record low</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/pixel-6-postmortem-how-google8217s-flawed-reboot-defined-future-hardware-video</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T16:05:00Z</news:publication_date>
+      <news:title>Pixel 6 postmortem: How Google&amp;#8217;s flawed reboot defined future hardware [Video]</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2022/11/Google-Pixel-6.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Pixel 6 postmortem: How Google&amp;#8217;s flawed reboot defined future hardware [Video]</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/save-350-on-the-pixel-11-pro-xl-gets-in-record-low-deal</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T16:00:12Z</news:publication_date>
+      <news:title>Save $350 on the Pixel 11 Pro XL gets in record-low deal</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-xl-hands-on-4-scaled.jpg</image:loc>
+      <image:title>Save $350 on the Pixel 11 Pro XL gets in record-low deal</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-wikimedia-foundation-weighs-in-on-the-nyts-case-against-openai</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T15:47:12Z</news:publication_date>
+      <news:title>The Wikimedia Foundation weighs in on the NYT&apos;s case against OpenAI</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/the-wikimedia-foundation-weighs-in-on-the-nyts-case-against-openai/l-intro-1793374984.jpg</image:loc>
+      <image:title>The Wikimedia Foundation weighs in on the NYT&apos;s case against OpenAI</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/bose-quietcomfort-ultra-earbuds-2nd-gen-drop-70-on-amazon</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T15:43:53Z</news:publication_date>
+      <news:title>Bose QuietComfort Ultra Earbuds 2nd Gen drop $70 on Amazon</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/Bose-QuietComfort-Ultra-Earbuds-2nd-Gen-SoundGuys-scaled.jpg</image:loc>
+      <image:title>Bose QuietComfort Ultra Earbuds 2nd Gen drop $70 on Amazon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/the-new-ipad-minis-battery-capacity-is-no-longer-a-mystery</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T15:38:02Z</news:publication_date>
+      <news:title>The new iPad mini&apos;s battery capacity is no longer a mystery</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/ipad-mini-eprel/gsmarena_000.jpg</image:loc>
+      <image:title>The new iPad mini&apos;s battery capacity is no longer a mystery</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-pixel-watch-5-falls-to-29999-its-lowest-price-since-launch</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T15:35:52Z</news:publication_date>
+      <news:title>Google Pixel Watch 5 falls to $299.99, its lowest price since launch</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-3-scaled.jpg</image:loc>
+      <image:title>Google Pixel Watch 5 falls to $299.99, its lowest price since launch</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/not-hearing-your-notifications-on-android-auto-you8217re-not-alone</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T15:30:02Z</news:publication_date>
+      <news:title>Not hearing your notifications on Android Auto? You&amp;#8217;re not alone</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/10/Android-Auto-2024-Apps-List.jpg</image:loc>
+      <image:title>Not hearing your notifications on Android Auto? You&amp;#8217;re not alone</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/googles-latest-nest-learning-thermostat-is-60-off-just-in-time-for-sweater-weather</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T15:29:02Z</news:publication_date>
+      <news:title>Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/googlenestlearningthermostatthevergedealsoct29.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/your-favorite-youtube-channel-could-suddenly-appear-blank-here8217s-why</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T15:28:31Z</news:publication_date>
+      <news:title>Your favorite YouTube channel could suddenly appear blank — here&amp;#8217;s why</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2022/04/YouTube-on-smartphone-stock-photo-18.jpg</image:loc>
+      <image:title>Your favorite YouTube channel could suddenly appear blank — here&amp;#8217;s why</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/deals-week-1-early-black-friday-doorbusters-pixel-11-series-up-to-350-off-pixel-watch-5-100-off-more-all-time-lows</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T15:27:39Z</news:publication_date>
+      <news:title>Deals: Week 1 early Black Friday Doorbusters, Pixel 11 series up to $350 off, Pixel Watch 5 $100 off, more (All-time lows)</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/9to5Google-Oct-30.webp?w=1600</image:loc>
+      <image:title>Deals: Week 1 early Black Friday Doorbusters, Pixel 11 series up to $350 off, Pixel Watch 5 $100 off, more (All-time lows)</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/the-death-stranding-animes-first-teaser-trailer-arrives-ahead-of-its-disney-debut</loc>
     <news:news>
       <news:publication>
@@ -4830,216 +4995,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK071_APPLE_E.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>All the news from Apple’s ‘Pro and tell’ event</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/meta-says-it8217ll-probably-delay-its-controversial-new-business-terms-again</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T16:15:30Z</news:publication_date>
-      <news:title>Meta says it&amp;#8217;ll probably delay its controversial new business terms again</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_3_Meta.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Meta says it&amp;#8217;ll probably delay its controversial new business terms again</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/amazon8217s-echo-time-is-a-200-camera-free-smart-clock-built-for-better-sleep</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T16:13:59Z</news:publication_date>
-      <news:title>Amazon&amp;#8217;s Echo Time is a $200 camera-free smart clock built for better sleep</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Amazon-Echo-Time.png</image:loc>
-      <image:title>Amazon&amp;#8217;s Echo Time is a $200 camera-free smart clock built for better sleep</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/amazon8217s-latest-echo-smart-displays-and-speakers-reinforce-google-home8217s-lost-lead</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T16:10:00Z</news:publication_date>
-      <news:title>Amazon&amp;#8217;s latest Echo smart displays and speakers reinforce Google Home&amp;#8217;s lost lead</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/amazon-echo-smart-displays-speakers-2026.png?w=1600</image:loc>
-      <image:title>Amazon&amp;#8217;s latest Echo smart displays and speakers reinforce Google Home&amp;#8217;s lost lead</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/amazon8217s-new-echo-show-16-is-a-smart-display-and-fire-tv-rolled-into-one</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T16:02:37Z</news:publication_date>
-      <news:title>Amazon&amp;#8217;s new Echo Show 16 is a smart display and Fire TV rolled into one</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Echo-Show-16.jpeg</image:loc>
-      <image:title>Amazon&amp;#8217;s new Echo Show 16 is a smart display and Fire TV rolled into one</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/south-korea-rules-against-apple-over-app-store-payment-rules</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T16:00:55Z</news:publication_date>
-      <news:title>South Korea Rules Against Apple Over App Store Payment Rules</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2021/08/General-App-Store-South-Korea-Feature-Feature.jpg</image:loc>
-      <image:title>South Korea Rules Against Apple Over App Store Payment Rules</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/reddit-is-adding-a-for-you-feed-for-recommendations</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T16:00:00Z</news:publication_date>
-      <news:title>Reddit is adding a &apos;for you&apos; feed for recommendations</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/reddit-is-adding-a-for-you-feed-for-recommendations/l-intro-1793201967.jpg</image:loc>
-      <image:title>Reddit is adding a &apos;for you&apos; feed for recommendations</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/reddit-is-getting-a-for-you-feed</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T16:00:00Z</news:publication_date>
-      <news:title>Reddit is getting a For You feed</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Reddit is getting a For You feed</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/deals-galaxy-s25-ultra-at-799-600-under-s26-new-echo-show-16-100-off-2026-chromebook-m-52-off-more</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T15:54:16Z</news:publication_date>
-      <news:title>Deals: Galaxy S25 Ultra at $799 ($600 under S26), new Echo Show 16 $100 off, 2026 Chromebook M 52% off, more</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/9to5Google-Oct-28-3.webp?w=1600</image:loc>
-      <image:title>Deals: Galaxy S25 Ultra at $799 ($600 under S26), new Echo Show 16 $100 off, 2026 Chromebook M 52% off, more</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/buckle-up-for-more-body-swapping-hijinks-in-jumanji-open-world-trailer</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T15:48:12Z</news:publication_date>
-      <news:title>Buckle up for more body-swapping hijinks in Jumanji: Open World trailer</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/jumanji1-1152x648.jpg</image:loc>
-      <image:title>Buckle up for more body-swapping hijinks in Jumanji: Open World trailer</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/record-low-bose-smart-ultra-soundbar-deal-saves-you-330</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T15:46:31Z</news:publication_date>
-      <news:title>Record-low Bose Smart Ultra soundbar deal saves you $330</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/06/Bose-Smart-Ultra-Soundbar-Promo-Image.jpg</image:loc>
-      <image:title>Record-low Bose Smart Ultra soundbar deal saves you $330</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/duckduckgo-has-a-bone-to-pick-with-samsung-over-google-search-in-one-ui-9</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T15:34:49Z</news:publication_date>
-      <news:title>DuckDuckGo has a bone to pick with Samsung over Google Search in One UI 9</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/one-ui-9-frowning-plush-scaled.jpg</image:loc>
-      <image:title>DuckDuckGo has a bone to pick with Samsung over Google Search in One UI 9</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/govees-colorful-smart-string-lights-are-down-to-their-best-price-of-the-year</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T15:34:43Z</news:publication_date>
-      <news:title>Govee’s colorful smart string lights are down to their best price of the year</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/goveechristmasstringlights2vergedeals.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Govee’s colorful smart string lights are down to their best price of the year</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/audio-technica-just-released-its-first-set-of-wireless-streamset-headphones</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T15:34:06Z</news:publication_date>
-      <news:title>Audio Technica just released its first set of wireless StreamSet headphones</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/audio-technica-just-released-its-first-set-of-wireless-streamset-headphones/l-intro-1793201478.jpg</image:loc>
-      <image:title>Audio Technica just released its first set of wireless StreamSet headphones</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/sony-has-new-transparent-ps5-controllers-launching-next-year</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T15:31:02Z</news:publication_date>
-      <news:title>Sony has new transparent PS5 controllers launching next year</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/playstation.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Sony has new transparent PS5 controllers launching next year</image:title>
     </image:image>
   </url>
 </urlset>
