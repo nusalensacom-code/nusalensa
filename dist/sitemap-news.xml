@@ -3,6 +3,156 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/oppo-reno17-series-confirmed-to-launch-next-month-blind-pre-orders-go-live</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T17:02:02Z</news:publication_date>
+      <news:title>Oppo Reno17 series confirmed to launch next month, blind pre-orders go live</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/oppo-reno17-pad-air-6-watch-5-launch/gsmarena_00.jpg</image:loc>
+      <image:title>Oppo Reno17 series confirmed to launch next month, blind pre-orders go live</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/vizios-discounted-mini-led-tv-lets-you-skip-the-sign-ups-and-smarts</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T17:01:07Z</news:publication_date>
+      <news:title>Vizio’s discounted Mini LED TV lets you skip the sign-ups and smarts</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268611_Vizio_Mini_LED_Quantum_TV_JHiggins_0009.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Vizio’s discounted Mini LED TV lets you skip the sign-ups and smarts</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/deep-google-store-discounts-on-pixel-11-pixel-watch-5-start-early</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T16:57:47Z</news:publication_date>
+      <news:title>Deep Google Store discounts on Pixel 11, Pixel Watch 5 start early</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/09/Pixel-11-family.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Deep Google Store discounts on Pixel 11, Pixel Watch 5 start early</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google8217s-working-on-a-pixel-upgrade-for-handling-calls-on-your-commute</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T16:57:31Z</news:publication_date>
+      <news:title>Google&amp;#8217;s working on a Pixel upgrade for handling calls on your commute</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-10-pro-phone-app-leave-a-message-scaled.jpg</image:loc>
+      <image:title>Google&amp;#8217;s working on a Pixel upgrade for handling calls on your commute</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/amazon-cuts-apple-airtag-2-to-23-with-21-off</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T16:55:48Z</news:publication_date>
+      <news:title>Amazon cuts Apple AirTag 2 to $23 with 21% off</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/Apple-AirTag-2-in-a-persons-hand.jpg</image:loc>
+      <image:title>Amazon cuts Apple AirTag 2 to $23 with 21% off</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/the-macrumors-show-oled-macbook-pro-ipad-mini-8-and-more</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T16:50:22Z</news:publication_date>
+      <news:title>The MacRumors Show: OLED MacBook Pro, iPad Mini 8, and More</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
+      <image:title>The MacRumors Show: OLED MacBook Pro, iPad Mini 8, and More</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/macbook-pro-with-touch-display-15-more-details-revealed</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T16:45:00Z</news:publication_date>
+      <news:title>MacBook Pro With Touch Display: 15 More Details Revealed</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/MacBook-Pro-PROLED-XDR-Display.jpg</image:loc>
+      <image:title>MacBook Pro With Touch Display: 15 More Details Revealed</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/will-galaxy-s27-ultra-and-pixel-12-mark-the-end-of-the-flagship-era-of-smartphones</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T16:30:00Z</news:publication_date>
+      <news:title>Will Galaxy S27 Ultra and Pixel 12 mark the end of the flagship era of smartphones?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/S26-Ultra-Pixel-11-Pro-and-iPhone-17-Pro.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Will Galaxy S27 Ultra and Pixel 12 mark the end of the flagship era of smartphones?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-pixel-11-pro-fold-gets-a-250-amazon-price-drop</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T16:24:12Z</news:publication_date>
+      <news:title>Google Pixel 11 Pro Fold gets a $250 Amazon price drop</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-Pro-Fold-back-in-hand.jpg</image:loc>
+      <image:title>Google Pixel 11 Pro Fold gets a $250 Amazon price drop</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/new-tvos-272-features-to-try-for-an-upgraded-apple-tv-experience</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T16:22:49Z</news:publication_date>
+      <news:title>New tvOS 27.2 features to try for an upgraded Apple TV experience</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/new-tvos-27-2-features-to-try-for-an-upgraded-apple-tv-experience/l-intro-1793349181.jpg</image:loc>
+      <image:title>New tvOS 27.2 features to try for an upgraded Apple TV experience</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/boses-new-lifestyle-ultra-speaker-falls-to-a-record-low</loc>
     <news:news>
       <news:publication>
@@ -4725,276 +4875,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/06/Oura-Ring-5-app-scaled.jpg</image:loc>
       <image:title>Oura confirms Ring 4 sync bug, but the fix is simple</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/amazon-drops-tapo-magcam-2k-security-camera-below-its-prime-day-price</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T17:14:18Z</news:publication_date>
-      <news:title>Amazon drops Tapo MagCam 2K+ Security Camera below its Prime Day price</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Tapo-MagCam-4K-Outdoor-Wireless-Security-Camera-Press-Image.jpg</image:loc>
-      <image:title>Amazon drops Tapo MagCam 2K+ Security Camera below its Prime Day price</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/heres-where-you-can-preorder-the-new-oled-equipped-ipad-mini</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T17:12:47Z</news:publication_date>
-      <news:title>Here’s where you can preorder the new OLED-equipped iPad Mini</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/2026-iPad-Mini-Press-Image.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Here’s where you can preorder the new OLED-equipped iPad Mini</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/instagram-doesn8217t-have-a-plan-to-pay-long-form-video-creators</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T17:10:46Z</news:publication_date>
-      <news:title>Instagram doesn&amp;#8217;t have a plan to pay long-form video creators</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK070_INSTAGRAM__A.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Instagram doesn&amp;#8217;t have a plan to pay long-form video creators</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-announces-gemini-4-carbon-with-significant-gains-across-coding-and-agentic-tasks</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T17:08:32Z</news:publication_date>
-      <news:title>Google announces Gemini 4 Carbon with ‘significant gains across coding and agentic tasks’</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-4-Carbon-cover.webp?w=1600</image:loc>
-      <image:title>Google announces Gemini 4 Carbon with ‘significant gains across coding and agentic tasks’</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/apple-announces-its-first-touchscreen-macbook-pro</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T17:05:56Z</news:publication_date>
-      <news:title>Apple announces its first touchscreen MacBook Pro</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-MacBook-Pro-with-PROLED-XDR-Display-lifestyle-remote-work-261028.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Apple announces its first touchscreen MacBook Pro</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/xreal-aura-debuts-with-150-made-for-xr-experiences-including-project-hail-mary-nba-fallout-and-more</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T17:05:00Z</news:publication_date>
-      <news:title>XREAL Aura debuts with 150 made-for-XR experiences, including Project Hail Mary, NBA, Fallout, and more</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/xreal-aura-lifestyle-01.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>XREAL Aura debuts with 150 made-for-XR experiences, including Project Hail Mary, NBA, Fallout, and more</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/chrome-can-now-pull-autofill-suggestions-straight-from-gmail</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T17:00:57Z</news:publication_date>
-      <news:title>Chrome can now pull autofill suggestions straight from Gmail</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/Chrome-logo-on-phone-stock-photo-1.jpg</image:loc>
-      <image:title>Chrome can now pull autofill suggestions straight from Gmail</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-opens-the-floodgates-for-more-connected-apps-in-gemini-and-search</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T17:00:49Z</news:publication_date>
-      <news:title>Google opens the floodgates for more connected apps in Gemini and Search</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Nothing-Phone-1-showing-welcome-screen-of-Gemini-Android-app-1-scaled.jpg</image:loc>
-      <image:title>Google opens the floodgates for more connected apps in Gemini and Search</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-chrome-rolling-out-suggested-by-gemini-autofill</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T17:00:00Z</news:publication_date>
-      <news:title>Google Chrome rolling out ‘Suggested by Gemini’ autofill</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/08/google-chrome-navigation-gemini-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Google Chrome rolling out ‘Suggested by Gemini’ autofill</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/xreal-aura-is-coming-in-november-with-a-special-200-off-launch-discount</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T17:00:00Z</news:publication_date>
-      <news:title>XREAL Aura is coming in November with a special $200-off launch discount</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/xreal-aura-official-render-launch.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>XREAL Aura is coming in November with a special $200-off launch discount</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-adding-more-connected-apps-to-gemini-038-search-with-new-dev-platform</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T17:00:00Z</news:publication_date>
-      <news:title>Google adding more Connected Apps to Gemini &amp;#038; Search with new dev platform</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Pixel-11-Pro-Gemini-Splashscreen.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Google adding more Connected Apps to Gemini &amp;#038; Search with new dev platform</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/chromes-enhanced-autofill-can-now-pull-info-from-gmail-to-help-you-fill-out-forms</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T17:00:00Z</news:publication_date>
-      <news:title>Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/chrome.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-store-down-ahead-of-039pro-and-tell039-launch-today</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T16:47:15Z</news:publication_date>
-      <news:title>Apple Store Down Ahead of &amp;#039;Pro and Tell&amp;#039; Launch Today</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2021/04/apple-store-down-feature.jpg</image:loc>
-      <image:title>Apple Store Down Ahead of &amp;#039;Pro and Tell&amp;#039; Launch Today</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/garmin-dash-cam-mini-3-drops-to-9999-on-amazon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T16:38:00Z</news:publication_date>
-      <news:title>Garmin Dash Cam Mini 3 drops to $99.99 on Amazon</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/03/Garmin-Dash-Cam-Mini-3-on-windshield-showing-back.jpg</image:loc>
-      <image:title>Garmin Dash Cam Mini 3 drops to $99.99 on Amazon</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/touchscreen-macbook-live-blog-on-the-ground-at-apples-launch-event</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T16:33:32Z</news:publication_date>
-      <news:title>Touchscreen MacBook live blog: On the ground at Apple’s launch event</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25786626/247412_Apple_MacBook_Pro_16_M4_Max_ADiBenedetto_0008.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Touchscreen MacBook live blog: On the ground at Apple’s launch event</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/new-york-governor-signs-ai-chatbot-child-safety-law</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T16:33:01Z</news:publication_date>
-      <news:title>New York governor signs AI chatbot child safety law</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/new-york-governor-signs-ai-chatbot-child-safety-law/l-intro-1793205110.jpg</image:loc>
-      <image:title>New York governor signs AI chatbot child safety law</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/heres-when-motorolas-signature-27-is-landing-in-india</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T16:31:02Z</news:publication_date>
-      <news:title>Here&apos;s when Motorola&apos;s Signature 27 is landing in India</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/motorola-signature-27-india-launch-month/gsmarena_000.jpg</image:loc>
-      <image:title>Here&apos;s when Motorola&apos;s Signature 27 is landing in India</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/all-the-news-from-apples-pro-and-tell-event</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T16:30:00Z</news:publication_date>
-      <news:title>All the news from Apple’s ‘Pro and tell’ event</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK071_APPLE_E.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>All the news from Apple’s ‘Pro and tell’ event</image:title>
     </image:image>
   </url>
 </urlset>
