@@ -3,6 +3,171 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/pixel-11-hits-lowest-record-low-price-with-200-discount</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T17:53:58Z</news:publication_date>
+      <news:title>Pixel 11 hits lowest record-low price with $200 discount</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-15-scaled.jpg</image:loc>
+      <image:title>Pixel 11 hits lowest record-low price with $200 discount</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/save-60-on-eufys-dual-lens-solocam-s340-security-camera</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T17:45:00Z</news:publication_date>
+      <news:title>Save $60 on Eufy’s dual-lens SoloCam S340 security camera</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/03/Eufy-Security-3K-SoloCam-S340-Press-Image-scaled.jpg</image:loc>
+      <image:title>Save $60 on Eufy’s dual-lens SoloCam S340 security camera</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/openai-caves-to-backlash-and-reverses-course-on-reducing-chatgpt-usage-limits</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T17:38:32Z</news:publication_date>
+      <news:title>OpenAI caves to backlash and reverses course on reducing ChatGPT usage limits</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/Open-AI-ChatGPT-logo-on-phone-stock-photo-7.jpg</image:loc>
+      <image:title>OpenAI caves to backlash and reverses course on reducing ChatGPT usage limits</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T17:38:19Z</news:publication_date>
+      <news:title>Fujifilm to boost tape production 5x as AI fuels archiving demand</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2202649793-1152x648.jpg</image:loc>
+      <image:title>Fujifilm to boost tape production 5x as AI fuels archiving demand</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/starbucks-wants-to-use-ai-to-show-you-a-personalized-digital-menu-at-the-drive-thru</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T17:38:04Z</news:publication_date>
+      <news:title>Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2268681559.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-music-70-for-android-rolls-out-with-liquid-glass-redesign</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T17:26:48Z</news:publication_date>
+      <news:title>Apple Music 7.0 for Android rolls out with Liquid Glass redesign</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/09/Apple-Music-7-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Apple Music 7.0 for Android rolls out with Liquid Glass redesign</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-delightfully-messy-state-of-apple-gadgets</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T17:25:20Z</news:publication_date>
+      <news:title>The delightfully messy state of Apple gadgets</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_1030_SiteB.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>The delightfully messy state of Apple gadgets</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/chrome8217s-working-on-two-text-search-upgrades-that-you8217ll-actually-use</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T17:23:50Z</news:publication_date>
+      <news:title>Chrome&amp;#8217;s working on two text-search upgrades that you&amp;#8217;ll actually use</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/Chrome-logo-on-phone-stock-photo-1.jpg</image:loc>
+      <image:title>Chrome&amp;#8217;s working on two text-search upgrades that you&amp;#8217;ll actually use</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/bose-lifestyle-ultra-soundbar-gets-a-rare-200-amazon-discount</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T17:22:22Z</news:publication_date>
+      <news:title>Bose Lifestyle Ultra Soundbar gets a rare $200 Amazon discount</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Bose-New-Lifestyle-Ultra-Soundbar-Press-Image.jpg</image:loc>
+      <image:title>Bose Lifestyle Ultra Soundbar gets a rare $200 Amazon discount</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/samsung-mocks-iphone-duo-display-cracks-in-new-ad-campaign</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T17:20:31Z</news:publication_date>
+      <news:title>Samsung Mocks iPhone Duo Display Cracks in New Ad Campaign</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/samsung-canada-iphone-duo-ad.jpg</image:loc>
+      <image:title>Samsung Mocks iPhone Duo Display Cracks in New Ad Campaign</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/rivians-autonomy-gamble-faces-its-first-real-test</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T17:16:09Z</news:publication_date>
+      <news:title>Rivian’s autonomy gamble faces its first real test</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2277183149.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Rivian’s autonomy gamble faces its first real test</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/oppo-reno17-series-confirmed-to-launch-next-month-blind-pre-orders-go-live</loc>
     <news:news>
       <news:publication>
@@ -75,6 +240,21 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/Apple-AirTag-2-in-a-persons-hand.jpg</image:loc>
       <image:title>Amazon cuts Apple AirTag 2 to $23 with 21% off</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/thousands-of-ghost-students-use-ai-to-steal-millions-in-student-loans-doj-says</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T16:53:49Z</news:publication_date>
+      <news:title>Thousands of “ghost students” use AI to steal millions in student loans, DOJ says</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1425343562-1152x648.jpg</image:loc>
+      <image:title>Thousands of “ghost students” use AI to steal millions in student loans, DOJ says</image:title>
     </image:image>
   </url>
   <url>
@@ -165,6 +345,21 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Bose-Lifestyle-Ultra-speaker-SoundGuys-scaled.jpg</image:loc>
       <image:title>Bose’s new Lifestyle Ultra Speaker falls to a record low</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T16:12:59Z</news:publication_date>
+      <news:title>Analysts find looming launch crisis is &quot;more severe&quot; than anticipated</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/falcon-9-1152x648.jpeg</image:loc>
+      <image:title>Analysts find looming launch crisis is &quot;more severe&quot; than anticipated</image:title>
     </image:image>
   </url>
   <url>
@@ -4605,276 +4800,6 @@
     <image:image>
       <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/07/nothing-ear-3a-colors-2.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
       <image:title>Nothing Ear (3a) are &amp;#8216;the best earbuds,&amp;#8217; and they&amp;#8217;re back down to their lowest price ever</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/amazon-turns-its-most-capable-smart-speaker-into-a-smart-camera-too</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T18:05:22Z</news:publication_date>
-      <news:title>Amazon turns its most capable smart speaker into a smart camera, too</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1152x648.png</image:loc>
-      <image:title>Amazon turns its most capable smart speaker into a smart camera, too</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/new-macbook-pro-features-deeper-bass-and-improved-closed-lid-audio</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T18:03:42Z</news:publication_date>
-      <news:title>New MacBook Pro Features Deeper Bass and Improved Closed-Lid Audio</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/Apple-MacBook-Pro-with-PROLED-XDR-Display-audio-system-scaled.jpg</image:loc>
-      <image:title>New MacBook Pro Features Deeper Bass and Improved Closed-Lid Audio</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/you-can-see-every-red-flag-in-theranos-20</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T18:00:00Z</news:publication_date>
-      <news:title>You can see every red flag in Theranos 2.0</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-1248465318.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>You can see every red flag in Theranos 2.0</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/cadillac-escalade-iq-review-huge-battery-huge-range-huge-suv</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T17:55:45Z</news:publication_date>
-      <news:title>Cadillac Escalade IQ review: Huge battery, huge range, huge SUV</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/2026-Cadillac-Escalade-IQ-1-of-26-1152x648.jpg</image:loc>
-      <image:title>Cadillac Escalade IQ review: Huge battery, huge range, huge SUV</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/anker-prime-3-in-1-charger-drops-under-100-in-amazon-deal</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T17:52:02Z</news:publication_date>
-      <news:title>Anker Prime 3-in-1 charger drops under $100 in Amazon deal</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/Anker-Prime-25W-3-in-1-Foldable-MagSafe-Charger-Press-Image.jpg</image:loc>
-      <image:title>Anker Prime 3-in-1 charger drops under $100 in Amazon deal</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/heres-how-macos-is-changing-for-touchscreens</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T17:48:28Z</news:publication_date>
-      <news:title>Here’s how macOS is changing for touchscreens</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-28-at-10.31.37-AM.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Here’s how macOS is changing for touchscreens</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsungs-next-wide-foldable-will-reportedly-get-a-sibling</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T17:48:02Z</news:publication_date>
-      <news:title>Samsung&apos;s next wide foldable will reportedly get a sibling</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/samsung-galaxy-z-fold9-plus-fe-rumor/gsmarena_000.jpg</image:loc>
-      <image:title>Samsung&apos;s next wide foldable will reportedly get a sibling</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/google-ai-gets-cagey-when-asked-who-won-the-2020-elections</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T17:46:32Z</news:publication_date>
-      <news:title>Google AI gets cagey when asked who won the 2020 elections</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2181827335-1152x648.jpg</image:loc>
-      <image:title>Google AI gets cagey when asked who won the 2020 elections</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/apples-first-touchscreen-macbook-pro-feels-both-familiar-and-radically-improved</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T17:43:10Z</news:publication_date>
-      <news:title>Apple&apos;s first touchscreen MacBook Pro feels both familiar and radically improved</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/apples-first-touchscreen-macbook-pro-feels-both-familiar-and-radically-improved/l-intro-1793213229.jpg</image:loc>
-      <image:title>Apple&apos;s first touchscreen MacBook Pro feels both familiar and radically improved</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-75-inch-m80h-tv-hits-its-lowest-price-yet-on-amazon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T17:39:18Z</news:publication_date>
-      <news:title>Samsung 75-inch M80H TV hits its lowest price yet on Amazon</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Samsung-75-Inch-Class-M80H-Series-Mini-LED-4K-Smart-TV-2026-Model-Press-Image.jpg</image:loc>
-      <image:title>Samsung 75-inch M80H TV hits its lowest price yet on Amazon</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/florida-county-wont-investigate-sketchy-flock-cameras-removed-by-mystery-owners</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T17:37:49Z</news:publication_date>
-      <news:title>Florida county won’t investigate sketchy Flock cameras removed by mystery owners</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2290773984-1024x648.jpg</image:loc>
-      <image:title>Florida county won’t investigate sketchy Flock cameras removed by mystery owners</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/heres-how-the-touchscreen-on-the-macbook-pro-with-proled-display-works</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T17:35:24Z</news:publication_date>
-      <news:title>Here&apos;s how the touchscreen on the MacBook Pro with PROLED display works</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/heres-how-the-touchscreen-on-the-macbook-pro-with-proled-display-works/l-intro-1793213611.jpg</image:loc>
-      <image:title>Here&apos;s how the touchscreen on the MacBook Pro with PROLED display works</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/apple-pro-and-tell-event-everything-announced-this-week</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T17:27:38Z</news:publication_date>
-      <news:title>Apple ‘Pro and Tell’ event: everything announced this week</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/app1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Apple ‘Pro and Tell’ event: everything announced this week</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-launches-its-new-touchscreen-macbook-pro</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T17:26:10Z</news:publication_date>
-      <news:title>Apple launches its new touchscreen MacBook Pro</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
-      <image:title>Apple launches its new touchscreen MacBook Pro</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-announces-touchscreen-macbook-pro-with-oled-display</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T17:25:04Z</news:publication_date>
-      <news:title>Apple announces touchscreen MacBook Pro with OLED display</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/2026-MacBook-Pro-1152x648-1793208150.jpg</image:loc>
-      <image:title>Apple announces touchscreen MacBook Pro with OLED display</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/watch-apples-reveal-video-for-the-touchscreen-macbook-pro</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T17:19:23Z</news:publication_date>
-      <news:title>Watch Apple’s reveal video for the touchscreen MacBook Pro</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/apple-macbook-pro-touch-video-1.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Watch Apple’s reveal video for the touchscreen MacBook Pro</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/hands-on-with-apples-touchscreen-macbook-pro</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T17:16:55Z</news:publication_date>
-      <news:title>Hands-on with Apple’s touchscreen MacBook Pro</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0001.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Hands-on with Apple’s touchscreen MacBook Pro</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/oura-confirms-ring-4-sync-bug-but-the-fix-is-simple</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T17:16:08Z</news:publication_date>
-      <news:title>Oura confirms Ring 4 sync bug, but the fix is simple</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/06/Oura-Ring-5-app-scaled.jpg</image:loc>
-      <image:title>Oura confirms Ring 4 sync bug, but the fix is simple</image:title>
     </image:image>
   </url>
 </urlset>
