@@ -3,6 +3,81 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/meta-quietly-launches-an-ai-fashion-app-for-virtually-trying-on-clothes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T12:05:36Z</news:publication_date>
+      <news:title>Meta quietly launches an AI fashion app for virtually trying on clothes</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/meta-quietly-launches-an-ai-fashion-app-for-virtually-trying-on-clothes/l-intro-1793361850.jpg</image:loc>
+      <image:title>Meta quietly launches an AI fashion app for virtually trying on clothes</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/strava-subscribers-can-now-connect-directly-to-google-gemini-for-personalized-workout-insights</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T12:03:02Z</news:publication_date>
+      <news:title>Strava subscribers can now connect directly to Google Gemini for personalized workout insights</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/strava-google-gemini-integration/gsmarena_001.jpg</image:loc>
+      <image:title>Strava subscribers can now connect directly to Google Gemini for personalized workout insights</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/lenovo-googlebook-15-review-your-android-phones-new-best-friend</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T12:00:00Z</news:publication_date>
+      <news:title>Lenovo Googlebook 15 review: Your Android phone&apos;s new best friend</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/lenovo-googlebook-15-review-your-android-phones-new-best-friend/l-intro-1793300409.jpg</image:loc>
+      <image:title>Lenovo Googlebook 15 review: Your Android phone&apos;s new best friend</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-touchscreen-macbook-pro-is-just-a-macbook-pro-with-a-touchscreen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T12:00:00Z</news:publication_date>
+      <news:title>The touchscreen MacBook Pro is just a MacBook Pro with a touchscreen</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0043.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>The touchscreen MacBook Pro is just a MacBook Pro with a touchscreen</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/binance-hackers-stole-63-billion-in-record-breaking-crypto-heist</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T11:44:53Z</news:publication_date>
+      <news:title>Binance hackers stole $6.3 billion in record-breaking crypto heist</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK428_CRYPTO_D.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Binance hackers stole $6.3 billion in record-breaking crypto heist</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/youtube-for-google-tv-update-gives-youtube-music-a-distracting-red-logo-i-can8217t-stand</loc>
     <news:news>
       <news:publication>
@@ -4950,231 +5025,6 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/09/iphone-duo-hinge.jpg</image:loc>
       <image:title>Touchscreen MacBook Pro&amp;#039;s New Hinge Linked to iPhone Duo 2</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/amazon8217s-new-echo-line-is-here-the-6-biggest-updates</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T12:08:15Z</news:publication_date>
-      <news:title>Amazon&amp;#8217;s new Echo line is here: the 6 biggest updates</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268832_Amazon_Echo_studio_camera_JTuohy_0001.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Amazon&amp;#8217;s new Echo line is here: the 6 biggest updates</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung8217s-open-ear-galaxy-buds-on-are-coming-to-the-us-and-we-finally-know-when</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T12:00:31Z</news:publication_date>
-      <news:title>Samsung&amp;#8217;s open-ear Galaxy Buds On are coming to the US, and we finally know when</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Samsung-Mobile-Galaxy-Buds-On-hero.jpg</image:loc>
-      <image:title>Samsung&amp;#8217;s open-ear Galaxy Buds On are coming to the US, and we finally know when</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-launches-the-galaxy-buds-on-clip-on-earbuds-in-the-us-heres-the-price</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T12:00:02Z</news:publication_date>
-      <news:title>Samsung launches the Galaxy Buds On clip-on earbuds in the US, here&apos;s the price</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/samsung-galaxy-buds-on-us/gsmarena_000.jpg</image:loc>
-      <image:title>Samsung launches the Galaxy Buds On clip-on earbuds in the US, here&apos;s the price</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/amazon-adds-a-glare-reducing-nanomatte-display-to-its-new-echo-show-16</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T12:00:00Z</news:publication_date>
-      <news:title>Amazon adds a glare-reducing nanomatte display to its new Echo Show 16</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/amazon-adds-a-glare-reducing-nanomatte-display-to-its-new-echo-show-16/l-intro-1793188028.jpg</image:loc>
-      <image:title>Amazon adds a glare-reducing nanomatte display to its new Echo Show 16</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/amazons-new-echo-time-smart-alarm-clock-tries-to-make-waking-up-less-painful</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T12:00:00Z</news:publication_date>
-      <news:title>Amazon&apos;s new Echo Time smart alarm clock tries to make waking up less painful</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/amazons-new-echo-time-smart-alarm-clock-comes-with-science-backed-wake-up-features/l-intro-1793183183.jpg</image:loc>
-      <image:title>Amazon&apos;s new Echo Time smart alarm clock tries to make waking up less painful</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/amazon-launches-its-first-digital-photo-frame-with-built-in-alexa</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T12:00:00Z</news:publication_date>
-      <news:title>Amazon launches its first digital photo frame with built-in Alexa</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/amazon-launches-its-first-photo-frame-with-built-in-alexa/l-intro-1793179679.jpg</image:loc>
-      <image:title>Amazon launches its first digital photo frame with built-in Alexa</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/all-the-amazon-echo-devices-announced-today-echo-time-alexa-photo-frame-and-more</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T12:00:00Z</news:publication_date>
-      <news:title>All the Amazon Echo devices announced today: Echo Time, Alexa Photo Frame and more</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/all-amazon-echo-news-october-2026/l-intro-1793194825.jpg</image:loc>
-      <image:title>All the Amazon Echo devices announced today: Echo Time, Alexa Photo Frame and more</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung8217s-open-ear-galaxy-buds-on-cost-229-in-the-us-launching-next-month</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T12:00:00Z</news:publication_date>
-      <news:title>Samsung&amp;#8217;s open-ear Galaxy Buds On cost $229 in the US, launching next month</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/galaxy-buds-on-head.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Samsung&amp;#8217;s open-ear Galaxy Buds On cost $229 in the US, launching next month</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/spending-time-with-the-echo-time-a-smart-clock-that-senses-you-sleeping</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T12:00:00Z</news:publication_date>
-      <news:title>Spending time with the Echo Time — a smart clock that senses you sleeping</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268832_Amazon_Echo_Fall_2026_OGrove_0142.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Spending time with the Echo Time — a smart clock that senses you sleeping</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/our-first-look-at-amazons-big-new-echo-show-16</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T12:00:00Z</news:publication_date>
-      <news:title>Our first look at Amazon’s big new Echo Show 16</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268832_Amazon_Echo_Fall_2026_OGrove_0186.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Our first look at Amazon’s big new Echo Show 16</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/amazons-new-echo-studio-speaker-has-a-camera</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T12:00:00Z</news:publication_date>
-      <news:title>Amazon’s new Echo Studio speaker has a camera</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268832_Amazon_Echo_Fall_2026_OGrove_0010.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Amazon’s new Echo Studio speaker has a camera</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/how-a-grocery-merger-could-expand-a-surveillance-network</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T12:00:00Z</news:publication_date>
-      <news:title>How a grocery merger could expand a surveillance network</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22487786/Kroger_Delivery_x_Drone_Express_05.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>How a grocery merger could expand a surveillance network</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/amazons-first-digital-picture-frame-lets-you-add-voice-notes-to-photos</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T12:00:00Z</news:publication_date>
-      <news:title>Amazon’s first digital picture frame lets you add voice notes to photos</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/alexaframe1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Amazon’s first digital picture frame lets you add voice notes to photos</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/voters-in-texas-agree-they-hate-data-centers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T12:00:00Z</news:publication_date>
-      <news:title>Voters in Texas agree: They hate data centers</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_TEXAS_DATA_CENTERS_CVirginia.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Voters in Texas agree: They hate data centers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/macpaw-launches-039eney039-ai-assistant-for-mac-and-iphone</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T11:52:18Z</news:publication_date>
-      <news:title>MacPaw Launches &amp;#039;Eney&amp;#039; AI Assistant for Mac and iPhone</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/Eney-Logo-Horizontal-Light-scaled.png</image:loc>
-      <image:title>MacPaw Launches &amp;#039;Eney&amp;#039; AI Assistant for Mac and iPhone</image:title>
     </image:image>
   </url>
 </urlset>
