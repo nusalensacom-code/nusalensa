@@ -3,6 +3,156 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/google-says-android-auto-video-apps-are-still-8216coming-soon8217-as-deadline-nears</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T14:30:00Z</news:publication_date>
+      <news:title>Google says Android Auto video apps are still &amp;#8216;coming soon&amp;#8217; as deadline nears</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/05/Android-Auto-new-Widgets-3.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Google says Android Auto video apps are still &amp;#8216;coming soon&amp;#8217; as deadline nears</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/halloween-weekend-brings-discounts-on-apple-accessories-and-pre-orders</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T14:25:00Z</news:publication_date>
+      <news:title>Halloween Weekend Brings Discounts on Apple Accessories and Pre-Orders</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2024/10/halloween-hero.jpeg</image:loc>
+      <image:title>Halloween Weekend Brings Discounts on Apple Accessories and Pre-Orders</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/nothing-os-50-android-17-is-now-rolling-out-to-nothing-4a-and-3a-series-phones</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T14:20:00Z</news:publication_date>
+      <news:title>Nothing OS 5.0 (Android 17) is now rolling out to Nothing 4a and 3a series phones</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/nothing-phone-4a-pro-october.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Nothing OS 5.0 (Android 17) is now rolling out to Nothing 4a and 3a series phones</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-has-released-more-than-25-new-products-in-the-past-two-months</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T14:16:28Z</news:publication_date>
+      <news:title>Apple Has Released More Than 25 New Products in the Past Two Months</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/Apple-Has-Released-More-Than-25-New-Products-in-the-Past-Two-Months-Feature.jpg</image:loc>
+      <image:title>Apple Has Released More Than 25 New Products in the Past Two Months</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/gm-to-pay-220-million-after-selling-customer-smart-driver-data</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T13:53:20Z</news:publication_date>
+      <news:title>GM to pay $220 million after selling customer Smart Driver data</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2018/05/myBuick-App-01-1152x648.jpg</image:loc>
+      <image:title>GM to pay $220 million after selling customer Smart Driver data</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/hackers-steal-63-billion-from-binance-in-record-crypto-heist</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T13:46:39Z</news:publication_date>
+      <news:title>Hackers steal $6.3 billion from Binance in record crypto heist</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/binance-1024x648.jpg</image:loc>
+      <image:title>Hackers steal $6.3 billion from Binance in record crypto heist</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/motorola-is-officially-launching-its-signature-27-flagship-next-week</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T13:45:00Z</news:publication_date>
+      <news:title>Motorola is officially launching its Signature 27 flagship next week</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/motorola-signature-27-1.jpeg?quality=82&amp;#038;strip=all&amp;#038;w=1200</image:loc>
+      <image:title>Motorola is officially launching its Signature 27 flagship next week</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/local-code-launches-as-free-private-ai-assistant-tool-for-mac</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T13:38:25Z</news:publication_date>
+      <news:title>Local Code Launches as Free, Private AI Assistant Tool for Mac</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/local-code-mac.jpg</image:loc>
+      <image:title>Local Code Launches as Free, Private AI Assistant Tool for Mac</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-pixel-11-11-pro-and-fold-just-hit-an-all-time-low-price-weeks-ahead-of-black-friday</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T13:20:00Z</news:publication_date>
+      <news:title>The Pixel 11, 11 Pro, and Fold just hit an all-time low price weeks ahead of Black Friday</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Pixel-11-Pro-Canyon-8.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>The Pixel 11, 11 Pro, and Fold just hit an all-time low price weeks ahead of Black Friday</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/oppo-reno17-f-5g-gets-nbtc-certified</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T13:17:01Z</news:publication_date>
+      <news:title>Oppo Reno17 F 5G gets NBTC certified</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/oppo-reno17-f-5g-nbtc-certified/gsmarena_001.jpg</image:loc>
+      <image:title>Oppo Reno17 F 5G gets NBTC certified</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/silicon-valley-wants-you-to-invest-in-miracles</loc>
     <news:news>
       <news:publication>
@@ -30,6 +180,21 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/10/Ascend-io.jpg</image:loc>
       <image:title>Apple Acquires Ascend.io</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/harley-davidsons-electric-motorbike-brand-has-substantial-doubt-about-its-future</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T13:06:06Z</news:publication_date>
+      <news:title>Harley-Davidson&apos;s electric motorbike brand has &apos;substantial doubt&apos; about its future</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/harley-davidsons-electric-motorbike-brand-has-substantial-doubt-about-its-future/l-intro-1793365250.jpg</image:loc>
+      <image:title>Harley-Davidson&apos;s electric motorbike brand has &apos;substantial doubt&apos; about its future</image:title>
     </image:image>
   </url>
   <url>
@@ -78,6 +243,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/airtag-2-4-pack-drops-to-new-low-price-of-366999</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T12:48:50Z</news:publication_date>
+      <news:title>AirTag 2 4-Pack Drops to New Low Price of &amp;#36;69.99</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/01/Second-Generation-AirTag-Feature.jpg</image:loc>
+      <image:title>AirTag 2 4-Pack Drops to New Low Price of &amp;#36;69.99</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/one-ui-9-with-android-17-is-rolling-out-to-these-two-popular-galaxy-phones-in-the-us</loc>
     <news:news>
       <news:publication>
@@ -105,6 +285,21 @@
     <image:image>
       <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2025/03/android-booth-9.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
       <image:title>Android 17 is on 1% of devices after four months, Android 16 on over 25%</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-is-testing-an-ios-style-family-hub-on-the-pixel-1</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T12:44:20Z</news:publication_date>
+      <news:title>Google is testing an iOS-style Family hub on the Pixel</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/04/Expressive_Settings_homepage_in_Android_16_Beta_4-scaled.jpg</image:loc>
+      <image:title>Google is testing an iOS-style Family hub on the Pixel</image:title>
     </image:image>
   </url>
   <url>
@@ -180,6 +375,21 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04364_processed.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>The Apple Pencil turned the Duo into my new favorite notebook</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/rian-johnson039s-iphone-camera-app-goes-viral</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T12:23:15Z</news:publication_date>
+      <news:title>Rian Johnson&amp;#039;s iPhone Camera App Goes Viral</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/iPhone-18-Pro-Max-Glacier-Camera.jpg</image:loc>
+      <image:title>Rian Johnson&amp;#039;s iPhone Camera App Goes Viral</image:title>
     </image:image>
   </url>
   <url>
@@ -4920,111 +5130,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2023/05/Garmin-Instinct-2X-GPS-scaled.jpg</image:loc>
       <image:title>Amazon cuts $180 off the Garmin Instinct 2X Solar Tactical</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/beats-360-get-first-price-drop-alongside-return-of-record-low-for-airpods-4</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T14:21:45Z</news:publication_date>
-      <news:title>Beats 360 Get First Price Drop Alongside Return of Record Low for AirPods 4</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/beats-airpods-orange.jpeg</image:loc>
-      <image:title>Beats 360 Get First Price Drop Alongside Return of Record Low for AirPods 4</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-can8217t-decide-between-a-larger-galaxy-z-fold-9-or-one-with-worse-specs-and-neither-can-i</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T14:20:00Z</news:publication_date>
-      <news:title>Samsung can&amp;#8217;t decide between a larger Galaxy Z Fold 9 or one with worse specs, and neither can I</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Galaxy-Z-Fold-8-fully-open-rear.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Samsung can&amp;#8217;t decide between a larger Galaxy Z Fold 9 or one with worse specs, and neither can I</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/here8217s-virgin-galactic8217s-new-apeiron-spaceship</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T14:17:43Z</news:publication_date>
-      <news:title>Here&amp;#8217;s Virgin Galactic&amp;#8217;s new Apeiron spaceship</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/virgin-galactic-apeiron-2.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Here&amp;#8217;s Virgin Galactic&amp;#8217;s new Apeiron spaceship</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-creator-studio-gets-ai-assistants-in-the-biggest-update-since-launch</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T14:03:03Z</news:publication_date>
-      <news:title>Apple Creator Studio gets AI assistants in the biggest update since launch</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/apple-creator-studio-updates/gsmarena_000.jpg</image:loc>
-      <image:title>Apple Creator Studio gets AI assistants in the biggest update since launch</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/wallpaper-wednesday-amazing-phone-wallpapers-for-all-to-share-october-28</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T14:00:50Z</news:publication_date>
-      <news:title>Wallpaper Wednesday: Amazing phone wallpapers for all to share (October 28)</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Wallpaper-Wednesday-Saturn.jpg</image:loc>
-      <image:title>Wallpaper Wednesday: Amazing phone wallpapers for all to share (October 28)</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/macbook-studio</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T13:41:05Z</news:publication_date>
-      <news:title>MacBook Studio?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/Apple-Logo-Teaser-Video-John-Ternus.jpg</image:loc>
-      <image:title>MacBook Studio?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/a-hidden-ocean-change-near-antarctica-could-have-global-consequences</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T13:38:53Z</news:publication_date>
-      <news:title>A hidden ocean change near Antarctica could have global consequences</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/antarctic-seaice-1024x648.jpg</image:loc>
-      <image:title>A hidden ocean change near Antarctica could have global consequences</image:title>
     </image:image>
   </url>
 </urlset>
