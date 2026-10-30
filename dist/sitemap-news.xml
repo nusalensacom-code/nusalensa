@@ -3,6 +3,111 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/the-true-cost-of-folding-what-a-galaxy-z-fold-8-or-iphone-duo-costs-to-own-for-a-year</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T09:30:46Z</news:publication_date>
+      <news:title>The true cost of folding: What a Galaxy Z Fold 8 or iPhone Duo costs to own for a year</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Z-Fold-8-vs-iPhone-Duo-hero-2.jpg</image:loc>
+      <image:title>The true cost of folding: What a Galaxy Z Fold 8 or iPhone Duo costs to own for a year</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/samsung-galaxy-fit-4-looks-close-to-launch-and-its-biggest-features-just-leaked</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T09:30:26Z</news:publication_date>
+      <news:title>Samsung Galaxy Fit 4 looks close to launch, and its biggest features just leaked</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/01/Samsung-Galaxy-Fit-3-Sleep-scaled.jpg</image:loc>
+      <image:title>Samsung Galaxy Fit 4 looks close to launch, and its biggest features just leaked</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple039s-touchscreen-macbook-pro-could-ship-15m-units-in-2027</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T09:28:16Z</news:publication_date>
+      <news:title>Apple&amp;#039;s Touchscreen MacBook Pro Could Ship 1.5M Units in 2027</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/macbook-pro-proled-blue.jpeg</image:loc>
+      <image:title>Apple&amp;#039;s Touchscreen MacBook Pro Could Ship 1.5M Units in 2027</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-could-upgrade-pixel-11-pro8217s-hilight-with-highlight</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T09:18:49Z</news:publication_date>
+      <news:title>Google could upgrade Pixel 11 Pro&amp;#8217;s HiLight with Highlight</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/HiLight-for-calls-working-on-Google-11-Pro-XL.jpg</image:loc>
+      <image:title>Google could upgrade Pixel 11 Pro&amp;#8217;s HiLight with Highlight</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/gemini-now-lets-you-edit-the-files-it-creates-right-in-the-chat</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T09:07:02Z</news:publication_date>
+      <news:title>Gemini now lets you edit the files it creates right in the chat</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/google-gemini-edits/gsmarena_000.jpg</image:loc>
+      <image:title>Gemini now lets you edit the files it creates right in the chat</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/i8217ve-used-google-home-for-10-years-and-it8217s-never-felt-so-frustrating</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T09:00:54Z</news:publication_date>
+      <news:title>I&amp;#8217;ve used Google Home for 10 years, and it&amp;#8217;s never felt so frustrating</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/Google-Nest-Hub-vs-Home-Speaker-6-scaled.jpg</image:loc>
+      <image:title>I&amp;#8217;ve used Google Home for 10 years, and it&amp;#8217;s never felt so frustrating</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/wikipedias-operator-says-a-bad-ai-copyright-ruling-could-threaten-the-open-web</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T09:00:00Z</news:publication_date>
+      <news:title>Wikipedia’s operator says a bad AI copyright ruling could threaten the open web</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Wikipedia’s operator says a bad AI copyright ruling could threaten the open web</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/binance-hacked-for-an-estimated-63-billion-in-record-crypto-theft</loc>
     <news:news>
       <news:publication>
@@ -5115,51 +5220,6 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/10/apple-pro-tell-logo.jpg</image:loc>
       <image:title>Apple to Open Pre-Orders for Five New Products Today</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-may-add-a-second-wide-foldable-alongside-the-galaxy-z-fold-9</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T09:13:29Z</news:publication_date>
-      <news:title>Samsung may add a second wide foldable alongside the Galaxy Z Fold 9</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/samsung-z-fold-8-vs-ultra-main.jpg</image:loc>
-      <image:title>Samsung may add a second wide foldable alongside the Galaxy Z Fold 9</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/infinix-note-70-pro-visits-geekbench-with-a-mysterious-snapdragon-chipset</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T09:07:03Z</news:publication_date>
-      <news:title>Infinix Note 70 Pro visits Geekbench with a mysterious Snapdragon chipset</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/infinix-note-70-pro-geekbench/gsmarena_000.jpg</image:loc>
-      <image:title>Infinix Note 70 Pro visits Geekbench with a mysterious Snapdragon chipset</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-anbernic-nintendo-clone-i-would-recommend-you-buy-isn8217t-the-one-i-use-the-most</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T09:00:53Z</news:publication_date>
-      <news:title>The ANBERNIC Nintendo clone I would recommend you buy isn&amp;#8217;t the one I use the most</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/anbernic-Nintendo-clones-RG-55G1-RG-DS-Plus-scaled.jpg</image:loc>
-      <image:title>The ANBERNIC Nintendo clone I would recommend you buy isn&amp;#8217;t the one I use the most</image:title>
     </image:image>
   </url>
 </urlset>
