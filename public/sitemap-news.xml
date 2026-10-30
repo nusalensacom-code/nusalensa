@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/latest-gemini-design-comes-to-all-android-devices-app-upgrades-file-generation</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T01:01:47Z</news:publication_date>
+      <news:title>Latest Gemini design comes to all Android devices, app upgrades file generation</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-Pro-Gemini-Overlay.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Latest Gemini design comes to all Android devices, app upgrades file generation</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/iphone-air-2-specs-surface-again-in-new-leak</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T01:01:01Z</news:publication_date>
+      <news:title>iPhone Air 2 specs surface again in new leak</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/iphone-air-2-latest-specs-leak/gsmarena_00.jpg</image:loc>
+      <image:title>iPhone Air 2 specs surface again in new leak</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/new-apple-tv-4k-and-ipad-mini-ram-amounts-revealed</loc>
     <news:news>
       <news:publication>
@@ -5145,21 +5175,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/redmi-k100-ofic/gsmarena_00.jpg</image:loc>
       <image:title>Redmi K100 debuts with Snapdragon 8 Elite chipset, 10,000mAh battery</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/vivo-x500s-screen-details-leak-testing-is-already-underway</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T01:31:02Z</news:publication_date>
-      <news:title>vivo X500s screen details leak, testing is already underway</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/vivo-x500s-screen-details/gsmarena_000.jpg</image:loc>
-      <image:title>vivo X500s screen details leak, testing is already underway</image:title>
     </image:image>
   </url>
 </urlset>
