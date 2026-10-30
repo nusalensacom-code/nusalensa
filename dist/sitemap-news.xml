@@ -3,6 +3,186 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/silicon-valley-wants-you-to-invest-in-miracles</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T13:11:05Z</news:publication_date>
+      <news:title>Silicon Valley wants you to invest in miracles</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Anthropic_miracles_K_Radtke_b5ca50.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Silicon Valley wants you to invest in miracles</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-acquires-ascendio</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T13:06:28Z</news:publication_date>
+      <news:title>Apple Acquires Ascend.io</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/Ascend-io.jpg</image:loc>
+      <image:title>Apple Acquires Ascend.io</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/homepod-mini-2-launches-today-all-the-new-features</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T13:05:17Z</news:publication_date>
+      <news:title>HomePod Mini 2 Launches Today: All the New Features</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/homepod-mini-2-feature2.jpg</image:loc>
+      <image:title>HomePod Mini 2 Launches Today: All the New Features</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/sam-altman-sympathizes-with-mathematicians-but-says-openais-math-onslaught-wont-stop</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T13:01:14Z</news:publication_date>
+      <news:title>Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Vrg_illo_Sam_Altman_stock_trial.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-homeview-and-echo-show-16-could-be-the-family-computers-ive-been-asking-for</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T13:00:00Z</news:publication_date>
+      <news:title>The HomeView and Echo Show 16 could be the family computers I’ve been asking for</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268837_HomeView_and_Show_16_smart_display_report_CVirginia2.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>The HomeView and Echo Show 16 could be the family computers I’ve been asking for</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/one-ui-9-with-android-17-is-rolling-out-to-these-two-popular-galaxy-phones-in-the-us</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T12:46:46Z</news:publication_date>
+      <news:title>One UI 9 with Android 17 is rolling out to these two popular Galaxy phones in the US</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/06/Samsung-Galaxy-A35-app-drawer.jpg</image:loc>
+      <image:title>One UI 9 with Android 17 is rolling out to these two popular Galaxy phones in the US</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/android-17-is-on-1-of-devices-after-four-months-android-16-on-over-25</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T12:45:00Z</news:publication_date>
+      <news:title>Android 17 is on 1% of devices after four months, Android 16 on over 25%</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2025/03/android-booth-9.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Android 17 is on 1% of devices after four months, Android 16 on over 25%</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-is-testing-an-ios-style-family-hub-on-the-pixel</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T12:44:20Z</news:publication_date>
+      <news:title>Google is testing an iOS-style Family hub on the Pixel</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/04/Expressive_Settings_homepage_in_Android_16_Beta_4-scaled.jpg</image:loc>
+      <image:title>Google is testing an iOS-style Family hub on the Pixel</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/no-internet-no-problem-google-is-working-on-an-offline-mode-for-gemini-live</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T12:42:15Z</news:publication_date>
+      <news:title>No internet, no problem: Google is working on an offline mode for Gemini Live</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/08/Google-Gemini-Live-Maps-extension.jpg</image:loc>
+      <image:title>No internet, no problem: Google is working on an offline mode for Gemini Live</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/nothing8217s-android-17-update-arrives-early-for-four-more-phones</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T12:30:19Z</news:publication_date>
+      <news:title>Nothing&amp;#8217;s Android 17 update arrives early for four more phones</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/04/Nothing-Phone-4a-display-scaled.jpg</image:loc>
+      <image:title>Nothing&amp;#8217;s Android 17 update arrives early for four more phones</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-official-phantom-blade-zero-smart-glasses-from-viture-are-here</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T12:30:00Z</news:publication_date>
+      <news:title>The official Phantom Blade Zero smart glasses from Viture are here</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/viture-phantom-beast-official-01.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>The official Phantom Blade Zero smart glasses from Viture are here</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-apple-pencil-turned-the-duo-into-my-new-favorite-notebook</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T12:30:00Z</news:publication_date>
+      <news:title>The Apple Pencil turned the Duo into my new favorite notebook</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04364_processed.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>The Apple Pencil turned the Duo into my new favorite notebook</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/meta-quietly-launches-an-ai-fashion-app-for-virtually-trying-on-clothes</loc>
     <news:news>
       <news:publication>
@@ -30,6 +210,21 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/strava-google-gemini-integration/gsmarena_001.jpg</image:loc>
       <image:title>Strava subscribers can now connect directly to Google Gemini for personalized workout insights</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/2027-nissan-rogue-hybrid-drives-like-an-ev-but-theres-no-plug-involved</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T12:00:18Z</news:publication_date>
+      <news:title>2027 Nissan Rogue Hybrid: Drives like an EV, but there&apos;s no plug involved</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/2027-Nissan-Rogue-Hybrid_34-1152x648.jpg</image:loc>
+      <image:title>2027 Nissan Rogue Hybrid: Drives like an EV, but there&apos;s no plug involved</image:title>
     </image:image>
   </url>
   <url>
@@ -78,6 +273,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/reviews/review-you-can-see-everything-blurs-the-view-of-elizabeth-holmes-deceit</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T11:30:01Z</news:publication_date>
+      <news:title>Review: You Can See Everything blurs the view of Elizabeth Holmes&apos; deceit</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/holmes1-1152x648.jpg</image:loc>
+      <image:title>Review: You Can See Everything blurs the view of Elizabeth Holmes&apos; deceit</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/youtube-for-google-tv-update-gives-youtube-music-a-distracting-red-logo-i-can8217t-stand</loc>
     <news:news>
       <news:publication>
@@ -105,6 +315,21 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/global-smartphone-shipments-omdia-report/gsmarena_00.jpg</image:loc>
       <image:title>Omdia: global smartphone shipments declined 20 percent YoY in Q3 2026</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/rocket-report-winter-is-coming-for-themis-cowboy-space-adds-iron-to-the-fire</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T11:00:35Z</news:publication_date>
+      <news:title>Rocket Report: Winter is coming for Themis; Cowboy Space adds iron to the fire</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2302181665-1152x648-1793318298.jpg</image:loc>
+      <image:title>Rocket Report: Winter is coming for Themis; Cowboy Space adds iron to the fire</image:title>
     </image:image>
   </url>
   <url>
@@ -4800,231 +5025,6 @@
     <image:image>
       <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/antarctic-seaice-1024x648.jpg</image:loc>
       <image:title>A hidden ocean change near Antarctica could have global consequences</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-samsung-galaxy-s25-ultra-is-at-its-lowest-price-for-a-while</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T13:30:28Z</news:publication_date>
-      <news:title>The Samsung Galaxy S25 Ultra is at its lowest price for a while</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2025/02/samsung-galaxy-s25-ultra-7.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>The Samsung Galaxy S25 Ultra is at its lowest price for a while</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/this-is-how-badly-x-wants-you-to-pay-to-promote-your-posts</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T13:26:39Z</news:publication_date>
-      <news:title>This is how badly X wants you to pay to promote your posts</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/xarm.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>This is how badly X wants you to pay to promote your posts</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-ceo-john-ternus-teases-touchscreen-macbooks-12-final-rumors</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T13:21:53Z</news:publication_date>
-      <news:title>Apple CEO John Ternus Teases Touchscreen MacBooks: 12 Final Rumors</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/MacBook-Pro-Dynamic-Island-multicolor.jpg</image:loc>
-      <image:title>Apple CEO John Ternus Teases Touchscreen MacBooks: 12 Final Rumors</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-maps-is-bringing-fall-colors-to-your-dashboard</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T13:21:39Z</news:publication_date>
-      <news:title>Google Maps is bringing fall colors to your dashboard</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Google-Maps-autumn-trees.jpg</image:loc>
-      <image:title>Google Maps is bringing fall colors to your dashboard</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/fcc-clears-amazon-leo-to-acquire-mobile-satellite-operator-globalstar</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T13:13:19Z</news:publication_date>
-      <news:title>FCC clears Amazon Leo to acquire mobile-satellite operator Globalstar</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/fcc-clears-amazon-leo-to-acquire-mobile-satellite-operator-globalstar/l-intro-1793193078.jpg</image:loc>
-      <image:title>FCC clears Amazon Leo to acquire mobile-satellite operator Globalstar</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/huawei-enjoy-100-pro-max-and-enjoy-100-pro-are-official</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T13:02:02Z</news:publication_date>
-      <news:title>Huawei Enjoy 100 Pro Max and Enjoy 100 Pro are official</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/huawei-enjoy-100-pro-max-ofic/gsmarena_00.jpg</image:loc>
-      <image:title>Huawei Enjoy 100 Pro Max and Enjoy 100 Pro are official</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/kindle-paperwhite-signature-edition-2026-review-updated-in-all-the-right-places</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T13:00:00Z</news:publication_date>
-      <news:title>Kindle Paperwhite Signature Edition (2026) review: Updated in all the right places</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/kindle-paperwhite-signature-edition-2026-review-updated-in-all-the-right-places/l-intro-1793129474.jpg</image:loc>
-      <image:title>Kindle Paperwhite Signature Edition (2026) review: Updated in all the right places</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/kindle-colorsoft-signature-edition-2026-review-nice-but-doesnt-justify-the-price</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T13:00:00Z</news:publication_date>
-      <news:title>Kindle Colorsoft Signature Edition 2026 review: Nice, but doesn&apos;t justify the price</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/kindle-colorsoft-signature-edition-2026-review-nice-but-doesnt-justify-the-price/l-intro-1793191346.jpg</image:loc>
-      <image:title>Kindle Colorsoft Signature Edition 2026 review: Nice, but doesn&apos;t justify the price</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/tiktok-is-going-after-yelp-and-google-maps-with-an-in-app-restaurant-guide</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T13:00:00Z</news:publication_date>
-      <news:title>TikTok is going after Yelp and Google Maps with an in-app restaurant guide</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Must-Eat-Asset.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>TikTok is going after Yelp and Google Maps with an in-app restaurant guide</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/inside-amazons-echo-hardware-event</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T12:46:42Z</news:publication_date>
-      <news:title>Inside Amazon’s Echo hardware event</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268832_Amazon_Echo_Fall_2026_OGrove_0045.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Inside Amazon’s Echo hardware event</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/apples-pro-and-tell-event-live-updates-as-we-wait-to-see-a-macbook-pro-with-a-touch-screen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T12:30:00Z</news:publication_date>
-      <news:title>Apple&apos;s Pro and Tell event: Live updates as we wait to see a MacBook Pro with a touch screen</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/apples-pro-and-tell-event-live-updates-as-we-wait-to-see-a-macbook-pro-with-touch-screen/l-intro-1793153611.jpg</image:loc>
-      <image:title>Apple&apos;s Pro and Tell event: Live updates as we wait to see a MacBook Pro with a touch screen</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/almost-all-of-amazons-new-echo-gear-is-available-now</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T12:29:52Z</news:publication_date>
-      <news:title>Almost all of Amazon’s new Echo gear is available now</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268832_Amazon_Echo_Time_JTuohy_0012.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Almost all of Amazon’s new Echo gear is available now</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/not-just-you-several-google-pixel-watch-owners-are-experiencing-severe-battery-drain</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T12:24:36Z</news:publication_date>
-      <news:title>Not just you: Several Google Pixel Watch owners are experiencing severe battery drain</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-5-scaled.jpg</image:loc>
-      <image:title>Not just you: Several Google Pixel Watch owners are experiencing severe battery drain</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/everything-announced-at-amazon8217s-october-2026-hardware-launch</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T12:20:40Z</news:publication_date>
-      <news:title>Everything announced at Amazon&amp;#8217;s October 2026 hardware launch</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268832_Amazon_Echo_Show_16_JTuohy_0046.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Everything announced at Amazon&amp;#8217;s October 2026 hardware launch</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/touchscreen-macbook-pro039s-new-hinge-linked-to-iphone-duo-2</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T12:19:09Z</news:publication_date>
-      <news:title>Touchscreen MacBook Pro&amp;#039;s New Hinge Linked to iPhone Duo 2</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/09/iphone-duo-hinge.jpg</image:loc>
-      <image:title>Touchscreen MacBook Pro&amp;#039;s New Hinge Linked to iPhone Duo 2</image:title>
     </image:image>
   </url>
 </urlset>
