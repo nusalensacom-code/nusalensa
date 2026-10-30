@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/the-director-of-obsession-put-a-new-horror-short-on-youtube</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T23:57:18Z</news:publication_date>
+      <news:title>The director of Obsession put a new horror short on YouTube</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_44000.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>The director of Obsession put a new horror short on YouTube</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/intel-says-it8217s-selling-every-affordable-laptop-chip-it-can-make</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T23:42:21Z</news:publication_date>
+      <news:title>Intel says it&amp;#8217;s selling every affordable laptop chip it can make</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/acastro_STK094_02.jpeg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Intel says it&amp;#8217;s selling every affordable laptop chip it can make</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/t-mobile-ceo-rules-out-letting-spacexs-starlink-mobile-run-on-its-network</loc>
     <news:news>
       <news:publication>
@@ -5100,81 +5130,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/vivo-x500s-screen-details/gsmarena_000.jpg</image:loc>
       <image:title>vivo X500s screen details leak, testing is already underway</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-is-being-fined-in-south-korea-over-galaxy-s21-and-s22s-gaming-performance</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T00:02:02Z</news:publication_date>
-      <news:title>Samsung is being fined in South Korea over Galaxy S21 and S22&apos;s gaming performance</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/24/09/galaxy-s22-fold4-flip4-one-ui-611/gsmarena_000.jpg</image:loc>
-      <image:title>Samsung is being fined in South Korea over Galaxy S21 and S22&apos;s gaming performance</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/dont-throw-away-your-old-kindle-repurpose-it-instead</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T00:00:00Z</news:publication_date>
-      <news:title>Don&apos;t throw away your old Kindle — repurpose it instead</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/dont-throw-away-your-old-kindle-repurpose-it-instead/l-intro-1792793145.jpg</image:loc>
-      <image:title>Don&apos;t throw away your old Kindle — repurpose it instead</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/this-one-missing-feature-from-the-slate-truck-might-be-a-dealbreaker-for-truck-enthusiasts</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T23:30:00Z</news:publication_date>
-      <news:title>This one missing feature from the Slate truck might be a dealbreaker for truck enthusiasts</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/this-one-missing-feature-from-the-slate-truck-might-be-a-dealbreaker-for-truck-enthusiasts/l-intro-1792419663.jpg</image:loc>
-      <image:title>This one missing feature from the Slate truck might be a dealbreaker for truck enthusiasts</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-shares-new-apple-watch-survival-stories</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T23:20:22Z</news:publication_date>
-      <news:title>Apple Shares New Apple Watch Survival Stories</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
-      <image:title>Apple Shares New Apple Watch Survival Stories</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-shares-tvos-272-release-notes-with-list-of-new-features</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T23:16:30Z</news:publication_date>
-      <news:title>Apple Shares tvOS 27.2 Release Notes With List of New Features</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/Apple-TV-4K-4th-Generation-Top-View5.jpg</image:loc>
-      <image:title>Apple Shares tvOS 27.2 Release Notes With List of New Features</image:title>
     </image:image>
   </url>
 </urlset>
