@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/why-your-spotify-might-be-using-so-much-storage</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T16:30:00Z</news:publication_date>
+      <news:title>Why your Spotify might be using so much storage</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/why-your-spotify-might-be-using-so-much-storage/l-intro-1793029233.jpg</image:loc>
+      <image:title>Why your Spotify might be using so much storage</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/how-long-is-too-long-for-a-usb-cable</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T16:15:00Z</news:publication_date>
+      <news:title>How long is too long for a USB cable?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/how-long-is-too-long-for-a-usb-cable/l-intro-1793267592.jpg</image:loc>
+      <image:title>How long is too long for a USB cable?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/nasas-second-year-long-mars-simulation-mission-ends-today</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T16:07:17Z</news:publication_date>
+      <news:title>NASA&apos;s second year-long Mars simulation mission ends today</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/nasas-second-year-long-mars-simulation-mission-ends-today/l-intro-1793462639.jpg</image:loc>
+      <image:title>NASA&apos;s second year-long Mars simulation mission ends today</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/i-built-an-ai-tamagotchi-before-meta-could</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T16:05:00Z</news:publication_date>
+      <news:title>I built an AI Tamagotchi before Meta could</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/verge-sean-hollister-muse-gadget-331A2564-01-3.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=4,0,96,94.899920311255</image:loc>
+      <image:title>I built an AI Tamagotchi before Meta could</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/gnss-vs-gps-whats-the-difference</loc>
     <news:news>
       <news:publication>
@@ -30,6 +90,21 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/10/apple-watch-ultra-4-blue.jpeg</image:loc>
       <image:title>Apple Watch Ultra 4 Hits All-Time Low Price With Amazon&amp;#039;s &amp;#36;99 Discount</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/reminder-apple039s-big-discount-on-beats-360-ear-cushions-ends-today</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T15:50:00Z</news:publication_date>
+      <news:title>Reminder: Apple&amp;#039;s Big Discount on Beats 360 Ear Cushions Ends Today</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/Beats-360-Halloween.jpg</image:loc>
+      <image:title>Reminder: Apple&amp;#039;s Big Discount on Beats 360 Ear Cushions Ends Today</image:title>
     </image:image>
   </url>
   <url>
@@ -3990,141 +4065,6 @@
     <image:image>
       <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/07/Galaxy-Z-Fold-8-Ultra-27.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
       <image:title>Samsung just released a new foldable that you probably wouldn&amp;#8217;t buy even if you could</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/oneplus-just-unveiled-a-monster-16r-preview-and-we8217re-suitably-jealous</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T16:33:50Z</news:publication_date>
-      <news:title>OnePlus just unveiled a monster 16R preview, and we&amp;#8217;re suitably jealous</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/OnePlus-Ace-7-aka-OnePlus-15R.jpg</image:loc>
-      <image:title>OnePlus just unveiled a monster 16R preview, and we&amp;#8217;re suitably jealous</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/deal-slashes-the-nothing-headphone-a-by-70</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T16:32:43Z</news:publication_date>
-      <news:title>Deal slashes the Nothing Headphone (a) by $70</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/03/Nothing-Headphone-A-on-table.jpg</image:loc>
-      <image:title>Deal slashes the Nothing Headphone (a) by $70</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-photos-update-fixes-the-bug-that-hid-edited-pictures</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T16:25:00Z</news:publication_date>
-      <news:title>Google Photos update fixes the bug that hid edited pictures</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/03/google-photos-3.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Google Photos update fixes the bug that hid edited pictures</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T16:24:55Z</news:publication_date>
-      <news:title>Google admits AI search makes less money, but it&apos;s fixing that with more ads</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg</image:loc>
-      <image:title>Google admits AI search makes less money, but it&apos;s fixing that with more ads</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-launches-a-virtual-cash-back-card-for-wallet-completely-unrelated-to-the-galaxy-card</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T16:23:28Z</news:publication_date>
-      <news:title>Samsung launches a virtual cash back card for Wallet, completely unrelated to the Galaxy Card</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Samsung-Cash-Card.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1400</image:loc>
-      <image:title>Samsung launches a virtual cash back card for Wallet, completely unrelated to the Galaxy Card</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/amazon-launches-the-echo-show-16-echo-time-alexa-photo-frame-and-new-echo-speakers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T16:21:02Z</news:publication_date>
-      <news:title>Amazon launches the Echo Show 16, Echo Time, Alexa Photo Frame, and new Echo speakers</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/amazon-new-echo-devices-with-alexa/gsmarena_000.jpg</image:loc>
-      <image:title>Amazon launches the Echo Show 16, Echo Time, Alexa Photo Frame, and new Echo speakers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/rokid-takes-on-meta-ray-ban-displays-with-its-own-rival</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T16:19:14Z</news:publication_date>
-      <news:title>Rokid takes on Meta Ray-Ban Displays with its own rival</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Rokid-Glasses-2-colors.jpg</image:loc>
-      <image:title>Rokid takes on Meta Ray-Ban Displays with its own rival</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/this-open-source-project-lets-you-sync-withings-data-to-other-apps-without-a-subscription</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T16:14:06Z</news:publication_date>
-      <news:title>This open-source project lets you sync Withings data to other apps without a subscription</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24856976/236744_Withings_Body_Smart_VSong_0007.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>This open-source project lets you sync Withings data to other apps without a subscription</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/this-4-port-ugreen-160w-gan-charger-is-back-to-its-lowest-price</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T16:07:01Z</news:publication_date>
-      <news:title>This 4-port UGREEN 160W GaN charger is back to its lowest price</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/UGREEN-Nexode-Pro-160W-GaN-Charger-Press-Image.jpg</image:loc>
-      <image:title>This 4-port UGREEN 160W GaN charger is back to its lowest price</image:title>
     </image:image>
   </url>
 </urlset>
