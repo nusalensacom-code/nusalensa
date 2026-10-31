@@ -3,6 +3,96 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/keyboards-of-the-verge</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T19:30:00Z</news:publication_date>
+      <news:title>Keyboards of The Verge</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268834_Keyboards_of_the_Verge_CVirginia4.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Keyboards of The Verge</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-best-roku-streaming-stick-depends-on-your-picture-quality-needs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T19:00:00Z</news:publication_date>
+      <news:title>The best Roku Streaming Stick depends on your picture quality needs</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/the-best-roku-streaming-stick-depends-on-your-picture-quality-needs/l-intro-1793294370.jpg</image:loc>
+      <image:title>The best Roku Streaming Stick depends on your picture quality needs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/why-your-airpods-keep-disconnecting-without-warning-these-settings-can-fix-it</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T18:45:00Z</news:publication_date>
+      <news:title>Why your AirPods keep disconnecting without warning: These settings can fix it</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/why-your-airpods-keep-disconnecting-without-warning-these-settings-can-fix-it/l-intro-1793121072.jpg</image:loc>
+      <image:title>Why your AirPods keep disconnecting without warning: These settings can fix it</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/binance-ceo-says-90-percent-of-stolen-assets-have-been-replenished</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T18:40:32Z</news:publication_date>
+      <news:title>Binance CEO says 90 percent of stolen assets have been ‘replenished’</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK428_CRYPTO_3_D.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Binance CEO says 90 percent of stolen assets have been ‘replenished’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/hmd-pulse-pro-2nd-edition-shows-up-at-a-retailer-with-a-new-chipset</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T18:31:02Z</news:publication_date>
+      <news:title>HMD Pulse Pro 2nd Edition shows up at a retailer with a new chipset</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/hmd-pulse-pro-2nd-edition/gsmarena_000.jpg</image:loc>
+      <image:title>HMD Pulse Pro 2nd Edition shows up at a retailer with a new chipset</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/how-to-use-claude-duet-when-it-rolls-out-to-you</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T18:30:00Z</news:publication_date>
+      <news:title>How to use Claude Duet when it rolls out to you</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/how-to-use-claude-duet-when-it-rolls-out-to-you/l-intro-1792786501.jpg</image:loc>
+      <image:title>How to use Claude Duet when it rolls out to you</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/4-drawbacks-you-should-know-before-buying-a-playstation-5</loc>
     <news:news>
       <news:publication>
@@ -3645,186 +3735,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/popcorn-bucket-innovation-is-at-an-all-time-low-and-the-dune-part-three-double-sandworm-is-proof/l-intro-1793302293.jpg</image:loc>
       <image:title>Popcorn bucket innovation is at an all-time low and the Dune: Part Three &apos;Double Sandworm&apos; is proof</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/time-may-be-up-for-samsung-galaxy-watch-extended-software-support</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T19:33:50Z</news:publication_date>
-      <news:title>Time may be up for Samsung Galaxy Watch extended software support</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2023/08/Galaxy-Watch-6-Classic-Daily-Activity-Number-scaled.jpg</image:loc>
-      <image:title>Time may be up for Samsung Galaxy Watch extended software support</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/gm-to-pay-220-million-to-resolve-claims-it-sold-driving-habits-data</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T19:19:28Z</news:publication_date>
-      <news:title>GM to pay $220 million to resolve claims it sold driving habits data</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2255455204.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>GM to pay $220 million to resolve claims it sold driving habits data</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-home-update-should-make-gemini-stop-saying-sorry-i-didnt-understand-so-much</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T19:13:49Z</news:publication_date>
-      <news:title>Google Home update should make Gemini stop saying ‘Sorry, I didn’t understand’ so much</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2020/03/Google-Nest-Hub-Reminders.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Google Home update should make Gemini stop saying ‘Sorry, I didn’t understand’ so much</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/trump-declares-robot-imports-a-national-security-threat</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T19:07:53Z</news:publication_date>
-      <news:title>Trump declares robot imports a national security threat</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/6k_quick_delivery_robots-1152x648.jpg</image:loc>
-      <image:title>Trump declares robot imports a national security threat</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/apple-lowers-app-store-fees-in-taiwan-starting-october-31</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T19:06:14Z</news:publication_date>
-      <news:title>Apple Lowers App Store Fees in Taiwan Starting October 31</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/08/apple-app-store-ios.jpg</image:loc>
-      <image:title>Apple Lowers App Store Fees in Taiwan Starting October 31</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-stock-drops-amid-ai-fears-ai-mode-has-8216lower-monetization8217-getting-more-ads</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T19:05:00Z</news:publication_date>
-      <news:title>Google stock drops amid AI fears; AI Mode has &amp;#8216;lower monetization,&amp;#8217; getting more ads</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2024/01/google-logo-ces-2024-2-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Google stock drops amid AI fears; AI Mode has &amp;#8216;lower monetization,&amp;#8217; getting more ads</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/hacker-may-have-stolen-millions-in-a-malware-attack-against-online-poker-players</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T19:03:18Z</news:publication_date>
-      <news:title>Hacker may have stolen millions in a malware attack against online poker players</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/hacker-may-have-stolen-millions-in-a-malware-attack-against-online-poker-players/l-intro-1793300458.jpg</image:loc>
-      <image:title>Hacker may have stolen millions in a malware attack against online poker players</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/homeview-pre-order-returns-to-3628999-on-amazon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T18:55:04Z</news:publication_date>
-      <news:title>HomeView Pre-Order Returns to &amp;#36;289.99 on Amazon</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/Apple-HomeView-lineup-feature1.jpg</image:loc>
-      <image:title>HomeView Pre-Order Returns to &amp;#36;289.99 on Amazon</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-avoids-showing-pinched-fingers-on-ipad-mini-page-in-south-korea</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T18:52:30Z</news:publication_date>
-      <news:title>Apple Avoids Showing Pinched Fingers on iPad Mini Page in South Korea</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/Pinched-iPad-Mini.jpg</image:loc>
-      <image:title>Apple Avoids Showing Pinched Fingers on iPad Mini Page in South Korea</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/you-can-generate-and-edit-google-docs-files-directly-in-gemini-chats-now</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T18:45:31Z</news:publication_date>
-      <news:title>You can generate and edit Google Docs files directly in Gemini chats now</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK255_Google_Gemini_B_474198.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>You can generate and edit Google Docs files directly in Gemini chats now</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/netflix-is-making-a-live-action-pubg-show-written-and-directed-by-donald-glover</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T18:45:00Z</news:publication_date>
-      <news:title>Netflix is making a live-action PUBG show written and directed by Donald Glover</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/netflix-is-making-a-live-action-pubg-show-written-and-directed-by-donald-glover/l-intro-1793299226.jpg</image:loc>
-      <image:title>Netflix is making a live-action PUBG show written and directed by Donald Glover</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/dont-expect-more-assassins-creed-remakes-anytime-soon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T18:40:00Z</news:publication_date>
-      <news:title>Don&apos;t expect more Assassin&apos;s Creed remakes anytime soon</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/dont-expect-more-assassins-creed-remakes-anytime-soon/l-intro-1793298942.jpg</image:loc>
-      <image:title>Don&apos;t expect more Assassin&apos;s Creed remakes anytime soon</image:title>
     </image:image>
   </url>
 </urlset>
