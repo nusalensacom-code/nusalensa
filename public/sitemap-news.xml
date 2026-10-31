@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T00:07:22Z</news:publication_date>
+      <news:title>Think you can save the Hubble Space Telescope? NASA wants to know.</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/hst_vantor-1080x648.jpg</image:loc>
+      <image:title>Think you can save the Hubble Space Telescope? NASA wants to know.</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/homeview-software-272-wallpapers-control-center-and-more</loc>
     <news:news>
       <news:publication>

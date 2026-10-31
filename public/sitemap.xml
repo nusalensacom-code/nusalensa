@@ -468,6 +468,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://nusalensa.com/technology/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/hst_vantor-1080x648.jpg</image:loc>
+      <image:title>Think you can save the Hubble Space Telescope? NASA wants to know.</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/homeview-software-272-wallpapers-control-center-and-more</loc>
     <lastmod>2026-10-31</lastmod>
     <changefreq>daily</changefreq>
