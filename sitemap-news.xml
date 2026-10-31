@@ -3,6 +3,141 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/gnss-vs-gps-whats-the-difference</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T16:00:00Z</news:publication_date>
+      <news:title>GNSS Vs GPS: What&apos;s the difference?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/gnss-vs-gps-whats-the-difference/l-intro-1793018949.jpg</image:loc>
+      <image:title>GNSS Vs GPS: What&apos;s the difference?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-watch-ultra-4-hits-all-time-low-price-with-amazon039s-3699-discount</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T15:54:52Z</news:publication_date>
+      <news:title>Apple Watch Ultra 4 Hits All-Time Low Price With Amazon&amp;#039;s &amp;#36;99 Discount</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/apple-watch-ultra-4-blue.jpeg</image:loc>
+      <image:title>Apple Watch Ultra 4 Hits All-Time Low Price With Amazon&amp;#039;s &amp;#36;99 Discount</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/here039s-a-new-tour-of-apple039s-homeview-software</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T15:47:40Z</news:publication_date>
+      <news:title>Here&amp;#039;s a New Tour of Apple&amp;#039;s HomeView Software</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/homeview-entertainment-feature-1.jpg</image:loc>
+      <image:title>Here&amp;#039;s a New Tour of Apple&amp;#039;s HomeView Software</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/traveling-with-electronics-these-5-items-could-raise-tsa-red-flags</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T15:45:00Z</news:publication_date>
+      <news:title>Traveling with electronics? These 5 items could raise TSA red flags</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/traveling-with-electronics-these-5-items-could-raise-tsa-red-flags/l-intro-1793277794.jpg</image:loc>
+      <image:title>Traveling with electronics? These 5 items could raise TSA red flags</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/motorola-signature-27-flexes-muscle-on-geekbench-ahead-of-november-5-launch</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T15:31:02Z</news:publication_date>
+      <news:title>Motorola Signature 27 flexes muscle on Geekbench ahead of November 5 launch</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/motorola-signature-27-key-specs-geekbench/gsmarena_001.jpg</image:loc>
+      <image:title>Motorola Signature 27 flexes muscle on Geekbench ahead of November 5 launch</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-amazon-fire-tv-stick-setting-you-should-try-for-better-audio</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T15:30:00Z</news:publication_date>
+      <news:title>The Amazon Fire TV Stick setting you should try for better audio</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/the-amazon-fire-tv-stick-setting-you-should-try-for-better-audio/l-intro-1793163251.jpg</image:loc>
+      <image:title>The Amazon Fire TV Stick setting you should try for better audio</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/what-is-the-purpose-of-reposting-on-instagram-and-how-do-you-do-it</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T15:15:00Z</news:publication_date>
+      <news:title>What is the purpose of reposting on Instagram and how do you do it?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/what-is-the-purpose-of-reposting-on-instagram-and-how-do-you-do-it/l-intro-1793280962.jpg</image:loc>
+      <image:title>What is the purpose of reposting on Instagram and how do you do it?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/windows-11-tries-new-shortcuts-for-xbox-gaming-mode-and-search</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T15:12:19Z</news:publication_date>
+      <news:title>Windows 11 tries new shortcuts for Xbox gaming mode and search</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/10d-outlook-filterresults.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Windows 11 tries new shortcuts for Xbox gaming mode and search</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/sam-altman-is-upset-at-you-for-hoarding-ram-in-your-own-computer</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T15:07:10Z</news:publication_date>
+      <news:title>Sam Altman is upset at you for hoarding RAM in your own computer</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/sam-altman-is-upset-at-you-for-hoarding-ram-in-your-own-computer/l-intro-1793458699.jpg</image:loc>
+      <image:title>Sam Altman is upset at you for hoarding RAM in your own computer</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/is-imax-3d-a-better-experience-than-2d-heres-what-to-know</loc>
     <news:news>
       <news:publication>
@@ -3990,216 +4125,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/UGREEN-Nexode-Pro-160W-GaN-Charger-Press-Image.jpg</image:loc>
       <image:title>This 4-port UGREEN 160W GaN charger is back to its lowest price</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/thermoworks-debuts-shorter-version-of-its-rfx-meat-wireless-probe-for-small-cuts</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T16:04:13Z</news:publication_date>
-      <news:title>ThermoWorks debuts shorter version of its RFX Meat wireless probe for small cuts</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/thermoworks-debuts-shorter-version-of-its-rfx-meat-wireless-probe-for-small-cuts/l-intro-1793289798.jpg</image:loc>
-      <image:title>ThermoWorks debuts shorter version of its RFX Meat wireless probe for small cuts</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/joshua-kushners-thrive-holdings-is-acquiring-adt-for-76-billion</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T16:03:28Z</news:publication_date>
-      <news:title>Joshua Kushner’s Thrive Holdings is acquiring ADT for $7.6 billion</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-913777656.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Joshua Kushner’s Thrive Holdings is acquiring ADT for $7.6 billion</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/soundcore-boom-2-plus-falls-to-one-of-its-best-prices</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T16:03:26Z</news:publication_date>
-      <news:title>Soundcore Boom 2 Plus falls to one of its best prices</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Soundcore-Boom-2-Plus-Bluetooth-Speaker-SoundGuys.jpg</image:loc>
-      <image:title>Soundcore Boom 2 Plus falls to one of its best prices</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/microsofts-ai-future-has-fewer-jobs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T16:00:00Z</news:publication_date>
-      <news:title>Microsoft’s AI future has fewer jobs</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832912/STK095_MICROSOFT_2_CVirginia_A.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Microsoft’s AI future has fewer jobs</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/macbook-pro-mini-led-vs-oled-buyer039s-guide-every-difference</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T15:59:05Z</news:publication_date>
-      <news:title>MacBook Pro Mini-LED vs. OLED Buyer&amp;#039;s Guide: Every Difference</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/Mini-LED-vs-PROLED-MBP-Feature-scaled.jpg</image:loc>
-      <image:title>MacBook Pro Mini-LED vs. OLED Buyer&amp;#039;s Guide: Every Difference</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/deals-galaxy-s26-ultra-473-off-brand-new-nothing-ear-3a-79-lenovo8217s-new-android-tablets-316-off-more</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T15:57:55Z</news:publication_date>
-      <news:title>Deals: Galaxy S26 Ultra $473 off brand new, Nothing Ear (3a) $79, Lenovo&amp;#8217;s new Android tablets $316 off, more</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/9to5Google-Oct-29-4.webp?w=1600</image:loc>
-      <image:title>Deals: Galaxy S26 Ultra $473 off brand new, Nothing Ear (3a) $79, Lenovo&amp;#8217;s new Android tablets $316 off, more</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/skullcandy-crusher-evo-deal-cuts-88-off-these-bass-heavy-headphones</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T15:51:55Z</news:publication_date>
-      <news:title>Skullcandy Crusher Evo deal cuts $88 off these bass-heavy headphones</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/04/Skullcandy-Crusher-Evo-SoundGuys.jpg</image:loc>
-      <image:title>Skullcandy Crusher Evo deal cuts $88 off these bass-heavy headphones</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/alexa-can-now-manage-your-amazon-billing-complaints-subscription-changes-and-more</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T15:51:50Z</news:publication_date>
-      <news:title>Alexa can now manage your Amazon billing complaints, subscription changes, and more</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/Alexa-for-Shopping.jpg</image:loc>
-      <image:title>Alexa can now manage your Amazon billing complaints, subscription changes, and more</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/is-your-pixel-9-pro-fold-acting-up-google-support-may-offer-a-big-upgrade-to-replace-it</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T15:49:36Z</news:publication_date>
-      <news:title>Is your Pixel 9 Pro Fold acting up? Google support may offer a big upgrade to replace it</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-Pro-Fold-review-hero.jpg</image:loc>
-      <image:title>Is your Pixel 9 Pro Fold acting up? Google support may offer a big upgrade to replace it</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung8217s-advanced-sleep-apnea-detection-is-coming-to-these-galaxy-wearables</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T15:46:23Z</news:publication_date>
-      <news:title>Samsung&amp;#8217;s advanced sleep apnea detection is coming to these Galaxy wearables</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/07/samsung-galaxy-watch-ultra-2-watch-9-8.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Samsung&amp;#8217;s advanced sleep apnea detection is coming to these Galaxy wearables</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-maps-update-now-shows-you-the-fall-foliage-along-your-route-video</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T15:30:00Z</news:publication_date>
-      <news:title>Google Maps update now shows you the Fall foliage along your route [Video]</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/google-maps-fall-foliage.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Google Maps update now shows you the Fall foliage along your route [Video]</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/pixel-10-pro-xl-owners-can-grab-googles-pixelsnap-case-for-58-off</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T15:27:29Z</news:publication_date>
-      <news:title>Pixel 10 Pro XL owners can grab Google’s PixelSnap case for 58% off</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/10/google-pixelsnap-pixel-10-pro-xl-case-5.jpg</image:loc>
-      <image:title>Pixel 10 Pro XL owners can grab Google’s PixelSnap case for 58% off</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-samsung-w27-goes-official-in-china</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T15:19:02Z</news:publication_date>
-      <news:title>The Samsung W27 goes official in China</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/samsung-w27-ofic/gsmarena_00.jpg</image:loc>
-      <image:title>The Samsung W27 goes official in China</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-teases-galaxy-s27-plans-foldable-lineup-expansion-more</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T15:10:00Z</news:publication_date>
-      <news:title>Samsung teases Galaxy S27 plans, foldable lineup expansion, more</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/07/S26-Ultra-Z-Fold-8-Ultra-and-Z-Fold-8.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Samsung teases Galaxy S27 plans, foldable lineup expansion, more</image:title>
     </image:image>
   </url>
 </urlset>
