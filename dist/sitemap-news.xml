@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/tablets/apple-reveals-new-ipad-mini039s-battery-capacity</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T14:24:14Z</news:publication_date>
+      <news:title>Apple Reveals New iPad Mini&amp;#039;s Battery Capacity</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/iPad-mini-OLED-feature-3.jpg</image:loc>
+      <image:title>Apple Reveals New iPad Mini&amp;#039;s Battery Capacity</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/microsoft-really-wants-you-to-sell-that-xbox-youre-not-using</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T14:00:00Z</news:publication_date>
+      <news:title>Microsoft really wants you to sell that Xbox you&apos;re not using</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/microsoft-really-wants-you-to-sell-that-xbox-youre-not-using/l-intro-1793129533.jpg</image:loc>
+      <image:title>Microsoft really wants you to sell that Xbox you&apos;re not using</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/cds-are-back-but-they-come-with-a-modern-problem</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T13:45:00Z</news:publication_date>
+      <news:title>CDs are back, but they come with a modern problem</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/cds-are-back-but-they-come-with-a-modern-problem/l-intro-1793122691.jpg</image:loc>
+      <image:title>CDs are back, but they come with a modern problem</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/heres-how-much-the-iphone-pro-cost-in-2019-vs-2026</loc>
     <news:news>
       <news:publication>
@@ -48,6 +93,36 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/technology/why-your-games-take-up-way-more-drive-space-than-expected-even-when-uninstalled</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T13:00:00Z</news:publication_date>
+      <news:title>Why your games take up way more drive space than expected (even when uninstalled)</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/why-your-games-take-up-way-more-drive-space-than-expected-even-when-uninstalled/l-intro-1793197497.jpg</image:loc>
+      <image:title>Why your games take up way more drive space than expected (even when uninstalled)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/how-to-improve-audio-quality-on-your-android-phone-with-bluetooth-or-wired-headphones</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T12:45:00Z</news:publication_date>
+      <news:title>How to improve audio quality on your Android phone with Bluetooth or wired headphones</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/how-to-improve-audio-quality-on-your-android-phone-with-bluetooth-or-wired-headphones/l-intro-1793124520.jpg</image:loc>
+      <image:title>How to improve audio quality on your Android phone with Bluetooth or wired headphones</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/samsung-galaxy-z-fold9-to-bring-back-a-long-lost-feature-the-iphone-duo-has</loc>
     <news:news>
       <news:publication>
@@ -60,6 +135,36 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/samsung-galaxy-z-fold9-udc-rumor/gsmarena_000.jpg</image:loc>
       <image:title>Samsung Galaxy Z Fold9 to bring back a long-lost feature the iPhone Duo has</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-pros-and-cons-of-using-an-all-in-one-desktop-computer</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T12:30:00Z</news:publication_date>
+      <news:title>The pros and cons of using an all-in-one desktop computer</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-an-all-in-one-desktop-computer/l-intro-1793120330.jpg</image:loc>
+      <image:title>The pros and cons of using an all-in-one desktop computer</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/what-happens-when-ai-starts-self-replicating</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T12:30:00Z</news:publication_date>
+      <news:title>What happens when AI starts self-replicating?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/what-happens-when-ai-starts-self-replicating/l-intro-1793389611.jpg</image:loc>
+      <image:title>What happens when AI starts self-replicating?</image:title>
     </image:image>
   </url>
   <url>
@@ -4065,66 +4170,6 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/10/imac-macbook-pre-order.jpg</image:loc>
       <image:title>Where to Pre-Order Apple&amp;#039;s New MacBooks, iPad Mini, and iMac</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/theres-one-week-left-to-preorder-the-ocarina-of-time-remake-for-10-off</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T14:24:45Z</news:publication_date>
-      <news:title>There’s one week left to preorder the Ocarina of Time remake for $10 off</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Legend-of-Zelda-Ocarina-Switch2-roundup.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>There’s one week left to preorder the Ocarina of Time remake for $10 off</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/honor-x9e-s-launched</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T14:19:02Z</news:publication_date>
-      <news:title>Honor X9e s launched</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/honor-x9e-s-ofic/gsmarena_000.jpg</image:loc>
-      <image:title>Honor X9e s launched</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/anthropic-is-asking-wall-street-to-believe-in-agi</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T14:00:00Z</news:publication_date>
-      <news:title>Anthropic is asking Wall Street to believe in AGI</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_DCD_anthropic_IPO.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Anthropic is asking Wall Street to believe in AGI</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/amazons-ai-shopping-assistant-can-now-edit-your-grocery-lists-and-gift-registries</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T13:52:48Z</news:publication_date>
-      <news:title>Amazon’s AI shopping assistant can now edit your grocery lists and gift registries</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/alexa-for-shopping-lists.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Amazon’s AI shopping assistant can now edit your grocery lists and gift registries</image:title>
     </image:image>
   </url>
 </urlset>
