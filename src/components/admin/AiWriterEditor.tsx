@@ -32,6 +32,7 @@ import {
 import { countWords } from '@/lib/aiWriter/wordCounter';
 import { adminClientFetch } from '@/lib/clientAuthFetch';
 import { updateClientJob } from '@/lib/aiWriter/clientGenerator';
+import { getMatchedEditorialImage, getRelevantImageSuggestions } from '@/lib/aiWriter/imageMatcher';
 
 interface EditorProps {
   initialJob: any;
@@ -44,8 +45,19 @@ export function AiWriterEditor({ initialJob, onBackToGenerator }: EditorProps) {
   const [slug, setSlug] = useState(initialJob?.generatedSlug || initialJob?.article?.slug || '');
   const [content, setContent] = useState(initialJob?.generatedContent || initialJob?.article?.content || '');
   const [excerpt, setExcerpt] = useState(initialJob?.generatedExcerpt || initialJob?.article?.excerpt || '');
-  const [featuredImage, setFeaturedImage] = useState(initialJob?.article?.featuredImage || 'https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80');
-  const [imageAltText, setImageAltText] = useState(initialJob?.article?.imageAltText || '');
+  const keywordForImage = initialJob?.primaryKeyword || initialJob?.generatedTitle || initialJob?.article?.title || 'Technology';
+  const autoMatchedImage = getMatchedEditorialImage(keywordForImage, initialJob?.articleType || 'REVIEW');
+  const [featuredImage, setFeaturedImage] = useState(
+    initialJob?.featuredImage ||
+    initialJob?.article?.featuredImage ||
+    autoMatchedImage.url
+  );
+  const [imageAltText, setImageAltText] = useState(
+    initialJob?.imageAltText ||
+    initialJob?.article?.imageAltText ||
+    autoMatchedImage.altText
+  );
+  const [suggestedImages] = useState(() => getRelevantImageSuggestions(keywordForImage, 8));
 
   // SEO State
   const [seoTitle, setSeoTitle] = useState(initialJob?.article?.seoTitle || title);
@@ -648,6 +660,40 @@ export function AiWriterEditor({ initialJob, onBackToGenerator }: EditorProps) {
               {featuredImage && (
                 <div className="rounded-xl overflow-hidden border border-slate-200">
                   <img src={featuredImage} alt="Preview" className="w-full h-32 object-cover" />
+                </div>
+              )}
+
+              {suggestedImages && suggestedImages.length > 0 && (
+                <div className="space-y-1.5 pt-1">
+                  <div className="flex items-center justify-between">
+                    <span className="text-[10px] font-bold uppercase tracking-wider text-slate-600">
+                      Pilihan Foto Sesuai Topik:
+                    </span>
+                    <span className="text-[10px] text-brand-600 font-semibold">Klik untuk pilih</span>
+                  </div>
+                  <div className="grid grid-cols-4 gap-1.5">
+                    {suggestedImages.map((s, idx) => (
+                      <button
+                        key={idx}
+                        type="button"
+                        onClick={() => {
+                          setFeaturedImage(s.url);
+                          setImageAltText(s.altText);
+                        }}
+                        className={`group relative rounded-lg overflow-hidden border-2 transition text-left ${
+                          featuredImage === s.url
+                            ? 'border-brand-600 ring-2 ring-brand-300'
+                            : 'border-slate-200 hover:border-brand-400 opacity-80 hover:opacity-100'
+                        }`}
+                        title={s.label}
+                      >
+                        <img src={s.url} alt={s.label} className="w-full h-12 object-cover group-hover:scale-105 transition" />
+                        <span className="absolute bottom-0 inset-x-0 bg-black/70 text-[8px] text-white px-1 py-0.5 truncate block font-medium">
+                          {s.label}
+                        </span>
+                      </button>
+                    ))}
+                  </div>
                 </div>
               )}
             </div>

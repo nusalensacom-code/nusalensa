@@ -85,7 +85,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
 
   const title = article.seoTitle || `${article.title} | ${siteConfig.name}`;
   const description = cleanExcerpt(article.seoDescription || article.excerpt);
-  const canonicalUrl = article.canonicalUrl || generateCanonicalUrl(`/${article.category.slug}/${article.slug}`);
+  const canonicalUrl = generateCanonicalUrl(`/${article.category.slug}/${article.slug}`);
 
   return {
     title,

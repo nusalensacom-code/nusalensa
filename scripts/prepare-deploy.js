@@ -161,6 +161,8 @@ const sitemapFiles = [
   'sitemap-pages.xml',
   'robots.txt',
   'rss.xml',
+  'nusalensa-indexnow-key-2026.txt',
+  'indexnow.txt',
 ];
 
 for (const sf of sitemapFiles) {

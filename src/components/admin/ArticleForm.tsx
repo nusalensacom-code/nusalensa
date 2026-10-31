@@ -5,6 +5,7 @@ import { useRouter } from 'next/navigation';
 import Link from 'next/link';
 import { slugify, calculateReadingTime } from '@/lib/utils';
 import { siteConfig } from '@/lib/siteConfig';
+import { getMatchedEditorialImage } from '@/lib/aiWriter/imageMatcher';
 import {
   Save,
   Globe,
@@ -91,9 +92,9 @@ export function ArticleForm({
   const [editorId, setEditorId] = useState<number | ''>(initialData?.editorId || (authors[1]?.id || ''));
 
   // Image SEO
+  const defaultMatchedImg = getMatchedEditorialImage(initialData?.title || 'Technology', initialData?.articleType || 'NEWS');
   const [featuredImage, setFeaturedImage] = useState(
-    initialData?.featuredImage ||
-      'https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80'
+    initialData?.featuredImage || defaultMatchedImg.url
   );
   const [imageAltText, setImageAltText] = useState(initialData?.imageAltText || '');
   const [imageCaption, setImageCaption] = useState(initialData?.imageCaption || '');

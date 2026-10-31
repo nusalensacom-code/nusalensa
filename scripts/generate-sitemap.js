@@ -465,6 +465,47 @@ ${rssItems}
   console.log(`    - sitemap-pages.xml (${staticPages.length} core pages)`);
   console.log(`    - robots.txt (Compliant with Googlebot, Googlebot-News, Bingbot)`);
   console.log(`    - rss.xml (RSS 2.0 Feed in English)`);
+
+  // ==========================================
+  // K. NOTIFY SEARCH ENGINES (Google & IndexNow Instant Indexing)
+  // ==========================================
+  await notifySearchEngines(articles);
+}
+
+async function notifySearchEngines(articles) {
+  console.log('>>> Notifying Google & IndexNow search engines of new articles...');
+  try {
+    // 1. Google Sitemap Pings
+    const googlePings = [
+      `https://www.google.com/ping?sitemap=${encodeURIComponent(BASE_URL + '/sitemap.xml')}`,
+      `https://www.google.com/ping?sitemap=${encodeURIComponent(BASE_URL + '/sitemap-news.xml')}`,
+    ];
+    for (const pingUrl of googlePings) {
+      fetch(pingUrl, { method: 'GET', signal: AbortSignal.timeout(5000) })
+        .then((r) => console.log(`    [Google Ping] ${pingUrl.slice(0, 45)}... status: ${r.status}`))
+        .catch(() => {});
+    }
+
+    // 2. IndexNow Instant Indexing (Bing, Yandex, Seznam, Naver)
+    const latestUrls = articles.slice(0, 50).map((a) => `${BASE_URL}/${a.category.slug}/${a.slug}`);
+    const indexNowPayload = {
+      host: 'nusalensa.com',
+      key: 'nusalensa-indexnow-key-2026',
+      keyLocation: 'https://nusalensa.com/nusalensa-indexnow-key-2026.txt',
+      urlList: latestUrls,
+    };
+
+    fetch('https://api.indexnow.org/indexnow', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json; charset=utf-8' },
+      body: JSON.stringify(indexNowPayload),
+      signal: AbortSignal.timeout(6000),
+    })
+      .then((r) => console.log(`    [IndexNow Ping] Submitted ${latestUrls.length} URLs, status: ${r.status}`))
+      .catch((e) => console.log(`    [IndexNow Ping] Notice: ${e.message}`));
+  } catch (err) {
+    console.log('    [Search Engine Notification] Notice:', err.message);
+  }
 }
 
 // Support being run directly or imported as module

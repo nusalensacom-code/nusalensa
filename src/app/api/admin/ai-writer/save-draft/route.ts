@@ -4,6 +4,7 @@ import { requireAdminAuth } from '@/lib/adminAuth';
 import { slugify } from '@/lib/utils';
 import { countWords } from '@/lib/aiWriter/wordCounter';
 import { revalidateHomepageAndNews } from '@/lib/revalidate';
+import { getMatchedEditorialImage } from '@/lib/aiWriter/imageMatcher';
 
 export const dynamic = 'force-dynamic';
 
@@ -81,14 +82,16 @@ export async function POST(req: NextRequest) {
         ? await prisma.category.findUnique({ where: { id: parseInt(String(categoryId), 10) } })
         : await prisma.category.findFirst();
 
+      const fallbackImage = getMatchedEditorialImage(title || 'Technology', 'GUIDE');
+
       updatedArticle = await prisma.article.create({
         data: {
           title,
           slug: finalSlug,
           content,
           excerpt: excerpt || title,
-          featuredImage: featuredImage || 'https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80',
-          imageAltText: imageAltText || title,
+          featuredImage: featuredImage || fallbackImage.url,
+          imageAltText: imageAltText || fallbackImage.altText,
           seoTitle: seoTitle || title,
           seoDescription: seoDescription || excerpt,
           authorId: author.id,

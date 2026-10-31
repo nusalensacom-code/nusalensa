@@ -1,6 +1,7 @@
 import { GenerationInput, ArticleType, TargetMarket, TargetAudience, WritingTone, ResearchSourceItem, ArticleOutline, FaqItem, FactCheckClaim, InternalLinkItem } from './types';
 import { countWords, analyzeArticleSections } from './wordCounter';
 import { slugify } from '@/lib/utils';
+import { getMatchedEditorialImage } from './imageMatcher';
 
 export interface ClientGeneratedJob {
   id: number;
@@ -19,6 +20,9 @@ export interface ClientGeneratedJob {
   generatedSlug: string;
   generatedExcerpt: string;
   generatedContent: string;
+  featuredImage?: string;
+  imageAltText?: string;
+  imageCaption?: string;
   seoMetadataJson: string;
   headlineOptionsJson: string;
   imagePromptJson: string;
@@ -484,6 +488,8 @@ Ensure the output is written in clean Markdown with H2 (##), H3 (###), spec tabl
     articlePreviewReviewed: false,
   };
 
+  const matchedImage = getMatchedEditorialImage(kw, articleType, articleBody);
+
   const completedJob: ClientGeneratedJob = {
     id: jobId,
     primaryKeyword: kw,
@@ -501,6 +507,9 @@ Ensure the output is written in clean Markdown with H2 (##), H3 (###), spec tabl
     generatedSlug: cleanSlug,
     generatedExcerpt: excerpt,
     generatedContent: articleBody,
+    featuredImage: matchedImage.url,
+    imageAltText: matchedImage.altText,
+    imageCaption: matchedImage.caption,
     seoMetadataJson: JSON.stringify({
       seoTitle,
       seoDescription,

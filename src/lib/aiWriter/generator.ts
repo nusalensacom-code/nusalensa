@@ -16,6 +16,7 @@ import { fetchSafeReferenceContent } from './ssrf';
 import { executeAiCompletion, extractCleanJson, getProviderStatus } from './provider';
 import { slugify } from '@/lib/utils';
 import { revalidateHomepageAndNews } from '@/lib/revalidate';
+import { getMatchedEditorialImage } from './imageMatcher';
 
 /**
  * Step 1: Analyze Keyword and Search Intent
@@ -798,6 +799,8 @@ export async function executeAiArticleJob(jobId: number, input: GenerationInput)
       tagConnections.push({ id: tag.id });
     }
 
+    const matchedEditorialImg = getMatchedEditorialImage(input.primaryKeyword, input.articleType, draftResult.content);
+
     // Persist as DRAFT in existing Article model
     const article = await prisma.article.create({
       data: {
@@ -805,10 +808,10 @@ export async function executeAiArticleJob(jobId: number, input: GenerationInput)
         slug: finalSlug,
         excerpt: seo.excerpt,
         content: draftResult.content,
-        featuredImage: 'https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80',
-        imageAltText: seo.imageAltText,
-        imageCaption: `Editorial photography for ${outline.h1Title.slice(0, 60)} by NusaLensa Newsroom.`,
-        imageSource: 'NusaLensa Hardware Intelligence',
+        featuredImage: matchedEditorialImg.url,
+        imageAltText: seo.imageAltText || matchedEditorialImg.altText,
+        imageCaption: matchedEditorialImg.caption,
+        imageSource: matchedEditorialImg.source,
         authorId: author.id,
         categoryId: categoryId,
         articleType: input.articleType === 'NEWS' ? 'NEWS' : input.articleType === 'BUYING_GUIDE' ? 'GUIDE' : 'EVERGREEN',

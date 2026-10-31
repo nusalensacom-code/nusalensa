@@ -439,7 +439,7 @@ async function main() {
             isNews: true,
             isFeatured: false,
             isTrending: true,
-            canonicalUrl: item.sourceUrl,
+            canonicalUrl: `https://nusalensa.com/${targetCategory ? targetCategory.slug : 'technology'}/${finalSlug}`,
             seoTitle: `${item.title.slice(0, 60)} | NusaLensa`,
             seoDescription: cleanHtml(item.summary).slice(0, 155),
             faqs: JSON.stringify(ai.faqs),
