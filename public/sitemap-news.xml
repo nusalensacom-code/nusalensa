@@ -3,6 +3,81 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/is-imax-3d-a-better-experience-than-2d-heres-what-to-know</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T15:00:00Z</news:publication_date>
+      <news:title>Is IMAX 3D a better experience than 2D? Here&apos;s what to know</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/is-imax-3d-a-better-experience-than-2d-heres-what-to-know/l-intro-1792845861.jpg</image:loc>
+      <image:title>Is IMAX 3D a better experience than 2D? Here&apos;s what to know</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/vic-mensa-cant-live-without-the-voice-memos-app</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T15:00:00Z</news:publication_date>
+      <news:title>Vic Mensa can’t live without the Voice Memos app</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSCF4167.jpeg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Vic Mensa can’t live without the Voice Memos app</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/best-buy-is-bundling-a-100-gift-card-with-touchscreen-macbook-pro-preorders</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T15:00:00Z</news:publication_date>
+      <news:title>Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0048.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/why-snes-games-are-so-expensive</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T14:45:00Z</news:publication_date>
+      <news:title>Why SNES games are so expensive</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/why-snes-games-are-so-expensive/l-intro-1793285100.jpg</image:loc>
+      <image:title>Why SNES games are so expensive</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/5-samsung-one-ui-features-you-wont-get-with-other-android-phones</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T14:30:00Z</news:publication_date>
+      <news:title>5 Samsung One UI features you won&apos;t get with other Android phones</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/5-samsung-one-ui-features-you-wont-get-with-other-android-phones/l-intro-1793169184.jpg</image:loc>
+      <image:title>5 Samsung One UI features you won&apos;t get with other Android phones</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/tablets/apple-reveals-new-ipad-mini039s-battery-capacity</loc>
     <news:news>
       <news:publication>
@@ -15,6 +90,21 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/10/iPad-mini-OLED-feature-3.jpg</image:loc>
       <image:title>Apple Reveals New iPad Mini&amp;#039;s Battery Capacity</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/what-is-a-pdf-reader-and-do-you-really-need-a-dedicated-one-on-your-phone</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T14:15:00Z</news:publication_date>
+      <news:title>What is a PDF reader and do you really need a dedicated one on your phone?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/what-is-a-pdf-reader-and-do-you-really-need-a-dedicated-one-on-your-phone/l-intro-1792788909.jpg</image:loc>
+      <image:title>What is a PDF reader and do you really need a dedicated one on your phone?</image:title>
     </image:image>
   </url>
   <url>
@@ -4110,66 +4200,6 @@
     <image:image>
       <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/07/S26-Ultra-Z-Fold-8-Ultra-and-Z-Fold-8.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
       <image:title>Samsung teases Galaxy S27 plans, foldable lineup expansion, more</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/fromsoftware-delays-the-duskbloods-until-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T15:02:41Z</news:publication_date>
-      <news:title>FromSoftware delays The Duskbloods until 2027</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/fromsoftware-delays-the-duskbloods-until-2027/l-intro-1793286117.jpg</image:loc>
-      <image:title>FromSoftware delays The Duskbloods until 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-galaxy-s26-ultra-512gb-plunges-by-472-in-one-of-its-best-deals-ever</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T14:48:22Z</news:publication_date>
-      <news:title>Samsung Galaxy S26 Ultra 512GB plunges by $472 in one of its best deals ever</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Samsung-Galaxy-S26-Ultra-in-a-persons-hand.jpg</image:loc>
-      <image:title>Samsung Galaxy S26 Ultra 512GB plunges by $472 in one of its best deals ever</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-nyt-cooking-app-is-testing-ai-recipe-modifications</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T14:39:37Z</news:publication_date>
-      <news:title>The NYT Cooking app is testing AI recipe modifications</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/NYT-Cooking-AI-recipe-modification-feature-hero.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>The NYT Cooking app is testing AI recipe modifications</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/where-to-pre-order-apple039s-new-macbooks-ipad-mini-and-imac</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T14:35:15Z</news:publication_date>
-      <news:title>Where to Pre-Order Apple&amp;#039;s New MacBooks, iPad Mini, and iMac</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/imac-macbook-pre-order.jpg</image:loc>
-      <image:title>Where to Pre-Order Apple&amp;#039;s New MacBooks, iPad Mini, and iMac</image:title>
     </image:image>
   </url>
 </urlset>
