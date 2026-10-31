@@ -81,7 +81,7 @@ export function PopularComparisons() {
       slug: 'xperia-1-vi-vs-samsung-galaxy-s25-ultra',
       device1: {
         name: 'Xperia 1 VI',
-        image: 'https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=200&q=80',
+        image: 'https://images.unsplash.com/photo-1580910051074-3eb694886505?auto=format&fit=crop&w=200&q=80',
         brand: 'Sony',
       },
       device2: {

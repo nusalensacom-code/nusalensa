@@ -63,6 +63,9 @@ export const metadata: Metadata = {
   },
   verification: {
     google: process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION || undefined,
+    other: {
+      'google-adsense-account': siteConfig.monetization.adsenseClientId,
+    },
   },
 };
 
@@ -140,6 +143,15 @@ export default async function RootLayout({
               }}
             />
           </>
+        )}
+        {/* Google AdSense Script */}
+        {siteConfig.monetization.adsenseClientId && (
+          <Script
+            id="google-adsense-script"
+            strategy="afterInteractive"
+            src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${siteConfig.monetization.adsenseClientId}`}
+            crossOrigin="anonymous"
+          />
         )}
         <PublicLayoutWrapper categories={categories} brands={brands}>
           {children}

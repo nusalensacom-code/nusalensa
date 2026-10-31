@@ -404,7 +404,7 @@ async function main() {
     if (!baseSlug) baseSlug = `tech-brief-${Date.now()}`;
 
     const ai = generateAiAssistance(item, topic);
-    const featuredImage = item.imageUrl || FALLBACK_IMAGES[topic] || FALLBACK_IMAGES.default;
+    const featuredImage = item.imageUrl || getDiverseTopicImage(topic, item.title);
 
     let publishedArticleId = null;
 

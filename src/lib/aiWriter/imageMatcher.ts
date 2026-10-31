@@ -340,7 +340,7 @@ export const EDITORIAL_IMAGE_CATALOG: Record<string, Array<{ id: string; default
 
   general_tech: [
     {
-      id: 'photo-1511707171634-5f897ff02aa9',
+      id: 'photo-1498050108023-c5249f4df085',
       defaultAlt: 'Smartphones and computing hardware on tech newsroom workbench',
       defaultCaption: 'Comparative evaluation and benchmark analysis by NusaLensa editors.',
       label: 'Newsroom Hardware Workbench',

@@ -3,6 +3,111 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/the-anker-maggo-power-bank-2-pro-is-brilliant-but-not-for-android</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T11:30:29Z</news:publication_date>
+      <news:title>The Anker MagGo Power Bank 2 Pro is brilliant, but not for Android</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/IMG_0422-scaled.jpeg</image:loc>
+      <image:title>The Anker MagGo Power Bank 2 Pro is brilliant, but not for Android</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/this-niagara-inspired-launcher-could-eventually-be-better-than-the-original</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T11:00:58Z</news:publication_date>
+      <news:title>This Niagara-inspired launcher could (eventually) be better than the original</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/victoria-launcher-home-screen-1.jpg</image:loc>
+      <image:title>This Niagara-inspired launcher could (eventually) be better than the original</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/google-joins-openai-and-anthropic-in-promising-new-scraping-controls</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T10:34:31Z</news:publication_date>
+      <news:title>Google joins OpenAI and Anthropic in promising new scraping controls</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/google-joins-openai-and-anthropic-in-promising-new-scraping-controls/l-intro-1793442580.jpg</image:loc>
+      <image:title>Google joins OpenAI and Anthropic in promising new scraping controls</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-10-best-custom-chat-themes-i-made-in-google-messages</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T10:30:04Z</news:publication_date>
+      <news:title>The 10 best custom chat themes I made in Google Messages</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/google-messages-chat-themes-2-scaled.jpg</image:loc>
+      <image:title>The 10 best custom chat themes I made in Google Messages</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/skipped-upgrading-this-year-5-upcoming-android-phones-worth-saving-for</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T10:00:40Z</news:publication_date>
+      <news:title>Skipped upgrading this year? 5 upcoming Android phones worth saving for</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-galaxy-s26-pixel-10-a-galaxy-trifold-scaled.jpg</image:loc>
+      <image:title>Skipped upgrading this year? 5 upcoming Android phones worth saving for</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/whatsapp-announces-new-features-including-group-status</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T09:31:02Z</news:publication_date>
+      <news:title>WhatsApp announces new features, including Group Status</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/whatsapp-group-status/gsmarena_001.jpg</image:loc>
+      <image:title>WhatsApp announces new features, including Group Status</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/i8217d-choose-these-earbuds-over-the-pixel-buds-pro-2-every-time-for-one-simple-reason</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T09:30:49Z</news:publication_date>
+      <news:title>I&amp;#8217;d choose these earbuds over the Pixel Buds Pro 2 every time, for one simple reason</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/oppo-enco-x4-music-pixel-buds-pro-2-scaled.jpg</image:loc>
+      <image:title>I&amp;#8217;d choose these earbuds over the Pixel Buds Pro 2 every time, for one simple reason</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/i-hate-samsung8217s-default-camera-app-here8217s-what-i-use-instead</loc>
     <news:news>
       <news:publication>
@@ -613,7 +718,7 @@
       <news:title>iPhone Duo Review: One Week Later</news:title>
     </news:news>
     <image:image>
-      <image:loc>https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
+      <image:loc>https://images.unsplash.com/photo-1565849904461-04a58ad377e0?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
       <image:title>iPhone Duo Review: One Week Later</image:title>
     </image:image>
   </url>
@@ -3945,381 +4050,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/applemacbookprotouch.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Apple finally combined a toaster and a refrigerator</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-releasing-homepod-mini-2-tomorrow-with-these-new-features</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T13:00:13Z</news:publication_date>
-      <news:title>Apple Releasing HomePod Mini 2 Tomorrow With These New Features</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/homepod-mini-2-feature2.jpg</image:loc>
-      <image:title>Apple Releasing HomePod Mini 2 Tomorrow With These New Features</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T12:58:34Z</news:publication_date>
-      <news:title>Massive leak exposes 41,000 DHS workers and undercover ICE agents</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/ice-agent-1024x648.jpg</image:loc>
-      <image:title>Massive leak exposes 41,000 DHS workers and undercover ICE agents</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/how-macos-adapts-its-controls-for-touch-on-the-new-macbook-pro</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T12:33:47Z</news:publication_date>
-      <news:title>How macOS Adapts Its Controls for Touch on the New MacBook Pro</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/macbook-pro-proled-touch.jpg</image:loc>
-      <image:title>How macOS Adapts Its Controls for Touch on the New MacBook Pro</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/doordash-acquires-instacart-in-17-billion-delivery-service-merger</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T12:24:06Z</news:publication_date>
-      <news:title>DoorDash acquires Instacart in $17 billion delivery service merger</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/doordash-acquires-instacart-in-17-billion-delivery-service-merger/l-intro-1793276637.jpg</image:loc>
-      <image:title>DoorDash acquires Instacart in $17 billion delivery service merger</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-reportedly-lowered-its-iphone-duo-qa-standards-to-get-more-units-out-in-time</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T12:04:02Z</news:publication_date>
-      <news:title>Apple reportedly lowered its iPhone Duo QA standards to get more units out in time</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/apple-reportedly-lowered-qa-standards-iphone-duo/gsmarena_000.jpg</image:loc>
-      <image:title>Apple reportedly lowered its iPhone Duo QA standards to get more units out in time</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/easysmx-s10-lite-review-a-switch-2-fidget-toy-with-a-weird-removable-faceplate</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T12:00:00Z</news:publication_date>
-      <news:title>EasySMX S10 Lite review: A Switch 2 fidget toy with a weird removable faceplate</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/easysmx-s10-lite-review-a-switch-2-fidget-toy-with-a-weird-removable-faceplate/l-intro-1792686295.jpg</image:loc>
-      <image:title>EasySMX S10 Lite review: A Switch 2 fidget toy with a weird removable faceplate</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/doordash-is-acquiring-instacart-for-17-billion</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T11:56:35Z</news:publication_date>
-      <news:title>DoorDash is acquiring Instacart for $17 billion</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
-      <image:title>DoorDash is acquiring Instacart for $17 billion</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/garmin-messenger-is-placing-too-much-trust-in-sms-verification-and-this-might-not-end-well</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T11:52:06Z</news:publication_date>
-      <news:title>Garmin Messenger is placing too much trust in SMS verification, and this might not end well</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/11/Garmin-Venu-4-Sleep-scaled.jpg</image:loc>
-      <image:title>Garmin Messenger is placing too much trust in SMS verification, and this might not end well</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/7-android-settings-i-always-turn-off-on-my-google-pixel-phone</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T11:30:26Z</news:publication_date>
-      <news:title>7 Android settings I always turn off on my Google Pixel phone</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-1-scaled.jpg</image:loc>
-      <image:title>7 Android settings I always turn off on my Google Pixel phone</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/this-beefy-android-handheld-quietly-got-a-gigantic-10000mah-battery</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T11:23:41Z</news:publication_date>
-      <news:title>This beefy Android handheld quietly got a gigantic, 10,000mAh battery</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/12/mangmi-pocket-max-white.jpg</image:loc>
-      <image:title>This beefy Android handheld quietly got a gigantic, 10,000mAh battery</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/new-certification-corroborates-samsung-galaxy-s27s-charging-speed</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T11:04:03Z</news:publication_date>
-      <news:title>New certification corroborates Samsung Galaxy S27&apos;s charging speed</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/samsung-galaxy-s27-demko-certification/gsmarena_001.jpg</image:loc>
-      <image:title>New certification corroborates Samsung Galaxy S27&apos;s charging speed</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/i-hope-the-motorola-signature-27-is-great-but-i-have-2-big-concerns-i-can8217t-shake</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T11:00:48Z</news:publication_date>
-      <news:title>I hope the Motorola Signature 27 is great, but I have 2 big concerns I can&amp;#8217;t shake</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/moto-signature-27-green.jpg</image:loc>
-      <image:title>I hope the Motorola Signature 27 is great, but I have 2 big concerns I can&amp;#8217;t shake</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T11:00:08Z</news:publication_date>
-      <news:title>SpaceX no longer needs NASA, and that&apos;s a problem for America&apos;s space agency</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/spacex-nasa-slots-1152x648.jpg</image:loc>
-      <image:title>SpaceX no longer needs NASA, and that&apos;s a problem for America&apos;s space agency</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/motorola-has-already-confirmed-its-signature-27-flagship-is-launching-in-november</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T11:00:00Z</news:publication_date>
-      <news:title>Motorola has already confirmed its Signature 27 flagship is launching in November</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/09/motorola-signature-27-3.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Motorola has already confirmed its Signature 27 flagship is launching in November</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-had-a-very-good-very-bad-q3</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T11:00:00Z</news:publication_date>
-      <news:title>Google had a very good, very bad Q3</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2025/05/Google-Logo-HQ-2.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Google had a very good, very bad Q3</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/just-got-an-iphone-duo-try-these-features-first</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T10:53:27Z</news:publication_date>
-      <news:title>Just Got an iPhone Duo? Try These Features First</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/iPhone-Duo-New-Features-Feature.jpg</image:loc>
-      <image:title>Just Got an iPhone Duo? Try These Features First</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/apple-and-google-fined-in-south-korea-over-app-store-violations</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T10:42:26Z</news:publication_date>
-      <news:title>Apple and Google fined in South Korea over app store violations</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/apple-and-google-fined-in-south-korea-for-app-store-violations/l-intro-1793270417.jpg</image:loc>
-      <image:title>Apple and Google fined in South Korea over app store violations</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-iphone-18-pro-is-the-antithesis-to-androids-ai-era</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T10:30:56Z</news:publication_date>
-      <news:title>The iPhone 18 Pro is the antithesis to Android’s AI era</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/iPhone-18-Pro-Siri-AI.jpg</image:loc>
-      <image:title>The iPhone 18 Pro is the antithesis to Android’s AI era</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-announced-scott-forstall039s-departure-14-years-ago-today</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T10:23:39Z</news:publication_date>
-      <news:title>Apple Announced Scott Forstall&amp;#039;s Departure 14 Years Ago Today</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2017/06/scott-forstall-original-iphone.jpg</image:loc>
-      <image:title>Apple Announced Scott Forstall&amp;#039;s Departure 14 Years Ago Today</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/i8217ve-tested-plenty-of-chargers-but-this-is-the-one-staying-on-my-desk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T10:00:25Z</news:publication_date>
-      <news:title>I&amp;#8217;ve tested plenty of chargers, but this is the one staying on my desk</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Baseus-PicoGo-Pro-100W-GaN-charger-in-dark-cherry-color.jpg</image:loc>
-      <image:title>I&amp;#8217;ve tested plenty of chargers, but this is the one staying on my desk</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/ai-has-come-for-arizonas-water</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T10:00:04Z</news:publication_date>
-      <news:title>AI has come for Arizona’s water</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268658_Data_center_AZ_LEDE_VOSSS50.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>AI has come for Arizona’s water</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/wobble-to-launch-its-second-smartphone-the-speed-5g</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T09:47:02Z</news:publication_date>
-      <news:title>Wobble to launch its second smartphone, the Speed 5G</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/wobble-speed-india-launch/gsmarena_000.jpg</image:loc>
-      <image:title>Wobble to launch its second smartphone, the Speed 5G</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/googles-gemini-4-carbon-promises-significant-leap-in-ai-coding-and-cybersecurity</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T09:41:58Z</news:publication_date>
-      <news:title>Google&apos;s Gemini 4 Carbon promises &apos;significant leap&apos; in AI coding and cybersecurity</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/googles-gemini-4-carbon-promises-significant-leap-in-ai-coding-and-cybersecurity/l-intro-1793266804.jpg</image:loc>
-      <image:title>Google&apos;s Gemini 4 Carbon promises &apos;significant leap&apos; in AI coding and cybersecurity</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/survey-says-the-fitbit-edge8217s-biggest-rival-could-be-its-own-google-sibling</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T09:33:57Z</news:publication_date>
-      <news:title>Survey says the Fitbit Edge&amp;#8217;s biggest rival could be its own Google sibling</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/fitbit-edge-review-workout-screen-scaled.jpg</image:loc>
-      <image:title>Survey says the Fitbit Edge&amp;#8217;s biggest rival could be its own Google sibling</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/trump-phone-passes-the-bend-test-fails-the-originality-test</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T09:11:59Z</news:publication_date>
-      <news:title>Trump Phone passes the bend test, fails the originality test</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/T1-Trum-Mobile-Trump-Phone-3-of-3.jpg</image:loc>
-      <image:title>Trump Phone passes the bend test, fails the originality test</image:title>
     </image:image>
   </url>
 </urlset>

@@ -30,7 +30,7 @@ export const siteConfig = {
     telegram: 'https://t.me/nusalensa',
   },
   monetization: {
-    adsenseClientId: process.env.NEXT_PUBLIC_ADSENSE_CLIENT_ID || '',
+    adsenseClientId: process.env.NEXT_PUBLIC_ADSENSE_CLIENT_ID || 'ca-pub-6500451499082051',
     showAds: true,
   },
   analytics: {

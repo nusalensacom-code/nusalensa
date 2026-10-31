@@ -135,6 +135,10 @@ const headersContent = `/*
   Content-Type: application/xml; charset=utf-8
   Cache-Control: public, max-age=3600, s-maxage=3600
 
+/ads.txt
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: public, max-age=3600, s-maxage=3600
+
 /robots.txt
   Content-Type: text/plain; charset=utf-8
   Cache-Control: public, max-age=86400, s-maxage=86400
@@ -163,6 +167,7 @@ const sitemapFiles = [
   'rss.xml',
   'nusalensa-indexnow-key-2026.txt',
   'indexnow.txt',
+  'ads.txt',
 ];
 
 for (const sf of sitemapFiles) {

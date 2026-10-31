@@ -630,7 +630,7 @@ export function ArticleForm({
               </button>
               <button
                 type="button"
-                onClick={() => insertFormatting('![Image Description](https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80)')}
+                onClick={() => insertFormatting('![Image Description](https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80)')}
                 className="px-2 py-1 bg-white hover:bg-slate-200 border border-slate-200 rounded text-slate-700 text-[11px]"
                 title="Image"
               >

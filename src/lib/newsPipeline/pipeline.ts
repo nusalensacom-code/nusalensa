@@ -6,6 +6,7 @@ import { classifyNews } from './classifier';
 import { generateAiNewsDraft } from './aiGenerator';
 import { generateSeoPackage } from './seoGenerator';
 import { revalidateHomepageAndNews } from '@/lib/revalidate';
+import { getMatchedEditorialImage } from '@/lib/aiWriter/imageMatcher';
 
 export interface PipelineExecutionReport {
   sourcesScanned: number;
@@ -86,7 +87,7 @@ export async function runNewsPipeline(options: { maxItemsPerSource?: number; for
           // Fallback image
           const finalImage =
             raw.imageUrl ||
-            'https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80';
+            getMatchedEditorialImage(aiDraft.title || classification.categoryName, 'NEWS').url;
 
           let publishedArticleId: number | null = null;
 
