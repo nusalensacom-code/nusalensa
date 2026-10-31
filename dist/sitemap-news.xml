@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/xbox-manager-says-ai-is-already-being-used-in-game-development</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T20:00:00Z</news:publication_date>
+      <news:title>Xbox manager says AI is already being used in game development</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/xbox-manager-says-ai-is-already-being-used-in-game-development/l-intro-1793296757.jpg</image:loc>
+      <image:title>Xbox manager says AI is already being used in game development</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/keyboards-of-the-verge</loc>
     <news:news>
       <news:publication>
@@ -3600,141 +3615,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2156843221.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Patrick Stewart has died at age 86</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/pentagon-ig-refuses-to-investigate-starlinkstarshield-slowdown-in-ukraine</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T20:08:10Z</news:publication_date>
-      <news:title>Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/starlink-ukraine-1152x648-1792605015.jpg</image:loc>
-      <image:title>Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google8217s-got-some-big-updates-landing-for-pretty-much-everything-in-your-smart-home</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T20:07:38Z</news:publication_date>
-      <news:title>Google&amp;#8217;s got some big updates landing for pretty much everything in your smart home</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/09/google_home_nest_camera_2.jpg</image:loc>
-      <image:title>Google&amp;#8217;s got some big updates landing for pretty much everything in your smart home</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/reddit-will-force-everyone-to-log-in</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T20:07:00Z</news:publication_date>
-      <news:title>Reddit will force everyone to log in</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK115_Reddit_04.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Reddit will force everyone to log in</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/here039s-a-hands-on-look-at-homepod-mini-2039s-new-two-tone-colors</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T20:04:54Z</news:publication_date>
-      <news:title>Here&amp;#039;s a Hands-On Look at HomePod Mini 2&amp;#039;s New Two-Tone Colors</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/homepod-mini-colors-close.jpg</image:loc>
-      <image:title>Here&amp;#039;s a Hands-On Look at HomePod Mini 2&amp;#039;s New Two-Tone Colors</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/rivians-r2-is-officially-its-best-selling-vehicle</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T20:02:00Z</news:publication_date>
-      <news:title>Rivian’s R2 is officially its best-selling vehicle</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268434_Rivian_Factory_ATahlier_0015.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Rivian’s R2 is officially its best-selling vehicle</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-ultrahuman-ring-pro-is-on-sale-across-the-us-online-and-in-stores</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T19:57:02Z</news:publication_date>
-      <news:title>The Ultrahuman Ring Pro is on sale across the US online and in stores</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/ultrahuman-ring-pro-in-stores-in-the-us/gsmarena_000.jpg</image:loc>
-      <image:title>The Ultrahuman Ring Pro is on sale across the US online and in stores</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/moto-buds-2-plus-deal-brings-bose-tuned-buds-under-100</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T19:51:30Z</news:publication_date>
-      <news:title>Moto Buds 2 Plus deal brings Bose-tuned buds under $100</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/04/Motorola-Moto-Buds-2-Plus-Earbuds-Outside-of-Case.jpg</image:loc>
-      <image:title>Moto Buds 2 Plus deal brings Bose-tuned buds under $100</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/save-102-on-lenovos-big-screen-idea-tab-pro-gen-2-tablet</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T19:43:52Z</news:publication_date>
-      <news:title>Save $102 on Lenovo’s big-screen Idea Tab Pro Gen 2 tablet</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/03/Lenovo-Idea-Tab-Pro-Gen-2-scaled.jpg</image:loc>
-      <image:title>Save $102 on Lenovo’s big-screen Idea Tab Pro Gen 2 tablet</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/popcorn-bucket-innovation-is-at-an-all-time-low-and-the-dune-part-three-double-sandworm-is-proof</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T19:40:27Z</news:publication_date>
-      <news:title>Popcorn bucket innovation is at an all-time low and the Dune: Part Three &apos;Double Sandworm&apos; is proof</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/popcorn-bucket-innovation-is-at-an-all-time-low-and-the-dune-part-three-double-sandworm-is-proof/l-intro-1793302293.jpg</image:loc>
-      <image:title>Popcorn bucket innovation is at an all-time low and the Dune: Part Three &apos;Double Sandworm&apos; is proof</image:title>
     </image:image>
   </url>
 </urlset>
