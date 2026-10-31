@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/iphone-18-pro-sales-surge-in-china-offsetting-decline-in-us-and-japan</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T05:55:35Z</news:publication_date>
+      <news:title>iPhone 18 Pro Sales Surge in China, Offsetting Decline in U.S. and Japan</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/iPhone-18-Pro-Pre-Orders-Feature-Sans-Text.jpg</image:loc>
+      <image:title>iPhone 18 Pro Sales Surge in China, Offsetting Decline in U.S. and Japan</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/samsung-galaxy-fit4-leaks-key-features-revealed</loc>
     <news:news>
       <news:publication>
@@ -4395,36 +4410,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2022/10/Samsung-Wallet-1.jpg</image:loc>
       <image:title>Samsung Wallet’s new cash back perks can help you pay for dinner or settle up with a friend</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iqoo-pad-pro-brings-the-ultras-165hz-screen-and-big-battery-for-less</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T06:02:02Z</news:publication_date>
-      <news:title>iQOO Pad Pro brings the Ultra&apos;s 165Hz screen and big battery for less</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/iqoo-pad-pro-official/gsmarena_000.jpg</image:loc>
-      <image:title>iQOO Pad Pro brings the Ultra&apos;s 165Hz screen and big battery for less</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/your-google-messages-chats-are-getting-a-chatgpt-upgrade</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T05:59:53Z</news:publication_date>
-      <news:title>Your Google Messages chats are getting a ChatGPT upgrade</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/ChatGPT-Dots.jpg</image:loc>
-      <image:title>Your Google Messages chats are getting a ChatGPT upgrade</image:title>
     </image:image>
   </url>
 </urlset>
