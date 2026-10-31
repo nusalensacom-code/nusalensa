@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/5-netflix-tips-we-all-wish-we-knew-sooner</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T22:00:00Z</news:publication_date>
+      <news:title>5 Netflix tips we all wish we knew sooner</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/5-netflix-tips-we-all-wish-we-knew-sooner/l-intro-1792783972.jpg</image:loc>
+      <image:title>5 Netflix tips we all wish we knew sooner</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/nothing-phone-4a-4a-pro-3a-and-3a-pro-are-now-receiving-the-stable-update-to-android-17</loc>
     <news:news>
       <news:publication>
@@ -3375,66 +3390,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/sony-is-working-on-a-film-adaptation-of-viral-indie-horror-game-mouthwashing/l-intro-1793314079.jpg</image:loc>
       <image:title>Sony is working on a film adaptation of viral indie horror game Mouthwashing</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/reddits-ceo-says-googles-ai-mode-does-not-drive-traffic</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T22:19:32Z</news:publication_date>
-      <news:title>Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/meta-is-testing-threads-friends-for-sharing-posts-with-smaller-groups</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T22:05:39Z</news:publication_date>
-      <news:title>Meta is testing &apos;Threads Friends&apos; for sharing posts with smaller groups</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/meta-is-testing-threads-friends-for-sharing-posts-with-smaller-groups/l-intro-1793307612.jpg</image:loc>
-      <image:title>Meta is testing &apos;Threads Friends&apos; for sharing posts with smaller groups</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/vrchat-says-its-not-adding-ai-labels-despite-user-survey-showing-people-want-that</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T21:48:05Z</news:publication_date>
-      <news:title>VRChat says it&apos;s not adding AI labels despite user survey showing people want that</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/vrchat-says-its-not-adding-ai-labels-despite-user-survey-showing-people-want-that/l-intro-1793310428.jpg</image:loc>
-      <image:title>VRChat says it&apos;s not adding AI labels despite user survey showing people want that</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/reddit-is-moving-to-a-logged-in-only-experience-ceo-says</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T21:47:57Z</news:publication_date>
-      <news:title>Reddit is moving to “a logged-in-only experience,” CEO says</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2025/07/reddit-icon-1152x648-1752522571.jpg</image:loc>
-      <image:title>Reddit is moving to “a logged-in-only experience,” CEO says</image:title>
     </image:image>
   </url>
 </urlset>
