@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/homeview-software-272-wallpapers-control-center-and-more</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T23:15:55Z</news:publication_date>
+      <news:title>HomeView Software 27.2: Wallpapers, Control Center, and More</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/homeview_home_screen_feature-1.jpg</image:loc>
+      <image:title>HomeView Software 27.2: Wallpapers, Control Center, and More</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/apple-iphone-18-pro-vs-iphone-18-pro-max</loc>
     <news:news>
       <news:publication>
@@ -4440,51 +4455,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/sk-hynix-q3-report/gsmarena_000.jpg</image:loc>
       <image:title>SK hynix reports record Q3 numbers, warns that the memory shortage will last through 2030</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/motorola-edge-70-pro-starts-receiving-the-update-to-android-17</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T23:47:01Z</news:publication_date>
-      <news:title>Motorola Edge 70 Pro starts receiving the update to Android 17</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/motorola-edge-70-pro-android-17-update/gsmarena_000.jpg</image:loc>
-      <image:title>Motorola Edge 70 Pro starts receiving the update to Android 17</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/fcc-chair-wants-to-let-prisons-jam-illegal-cellphones</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T23:09:22Z</news:publication_date>
-      <news:title>FCC chair wants to let prisons jam illegal cellphones</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/fcc-chair-wants-to-let-prisons-jam-illegal-cellphones/l-intro-1793228522.jpg</image:loc>
-      <image:title>FCC chair wants to let prisons jam illegal cellphones</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/adam-mosseri-says-negativity-around-ai-is-going-to-get-worse</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T23:05:39Z</news:publication_date>
-      <news:title>Adam Mosseri says negativity around AI is ‘going to get worse’</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2239561028.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Adam Mosseri says negativity around AI is ‘going to get worse’</image:title>
     </image:image>
   </url>
 </urlset>

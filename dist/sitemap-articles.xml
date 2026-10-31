@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/homeview-software-272-wallpapers-control-center-and-more</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/homeview_home_screen_feature-1.jpg</image:loc>
+      <image:title>HomeView Software 27.2: Wallpapers, Control Center, and More</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/apple-iphone-18-pro-vs-iphone-18-pro-max</loc>
     <lastmod>2026-10-30</lastmod>
     <changefreq>daily</changefreq>
