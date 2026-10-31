@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/4-drawbacks-you-should-know-before-buying-a-playstation-5</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T18:00:00Z</news:publication_date>
+      <news:title>4 drawbacks you should know before buying a PlayStation 5</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/4-drawbacks-you-should-know-before-buying-a-playstation-5/l-intro-1793035591.jpg</image:loc>
+      <image:title>4 drawbacks you should know before buying a PlayStation 5</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/happy-pikmin-day-eve</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T17:50:12Z</news:publication_date>
+      <news:title>Happy Pikmin Day Eve</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/7-1lQh551UY-HD.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Happy Pikmin Day Eve</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/bolt-graphics-powers-on-its-first-zeus-gpu</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T17:30:00Z</news:publication_date>
+      <news:title>Bolt Graphics powers on its first Zeus GPU</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/bolt-graphics-powers-on-its-first-zeus-gpu/l-intro-1793343335.jpg</image:loc>
+      <image:title>Bolt Graphics powers on its first Zeus GPU</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/these-samsung-galaxy-watches-wont-be-getting-the-new-one-ui-update</loc>
     <news:news>
       <news:publication>
@@ -3900,126 +3945,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268444_Ikea_Varmblixt_lamp_JTuohy_0006.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Ikea&amp;#8217;s colorful donut-shaped smart lamp is $20 off</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/turning-a-solar-power-system-into-its-own-backup</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T18:02:26Z</news:publication_date>
-      <news:title>Turning a solar power system into its own backup</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-2-1152x648.jpeg</image:loc>
-      <image:title>Turning a solar power system into its own backup</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/todays-android-app-deals-and-freebies-bendy-lone-wolf-the-room-old-sins-more</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T18:00:06Z</news:publication_date>
-      <news:title>Today’s Android app deals and freebies: Bendy Lone Wolf, The Room Old Sins, more</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Google-Play-collage-f0d80e.webp?w=1600</image:loc>
-      <image:title>Today’s Android app deals and freebies: Bendy Lone Wolf, The Room Old Sins, more</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-brings-richer-document-editing-to-gemini-on-mobile-and-the-web</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T17:59:47Z</news:publication_date>
-      <news:title>Google brings richer document editing to Gemini on mobile and the web</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/Gemini-Neural-Expressive-1-scaled.jpg</image:loc>
-      <image:title>Google brings richer document editing to Gemini on mobile and the web</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/amazon-ember-50-inch-4k-tv-hits-its-lowest-price-in-months</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T17:56:37Z</news:publication_date>
-      <news:title>Amazon Ember 50-inch 4K TV hits its lowest price in months</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Amazon-Ember-50-inch-4-Series-with-Fire-TV-Press-Image.jpg</image:loc>
-      <image:title>Amazon Ember 50-inch 4K TV hits its lowest price in months</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/earfun-air-pro-4-falls-33-on-amazon-to-53</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T17:50:14Z</news:publication_date>
-      <news:title>EarFun Air Pro 4 falls 33% on Amazon to $53</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/08/EarFun-AirPro-4-earbud-exterior.jpg</image:loc>
-      <image:title>EarFun Air Pro 4 falls 33% on Amazon to $53</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apples-new-laptop-supports-one-of-the-coolest-features-for-color-pros</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T17:48:09Z</news:publication_date>
-      <news:title>Apple’s new laptop supports one of the coolest features for color pros</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0039.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Apple’s new laptop supports one of the coolest features for color pros</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/amazon-cuts-latest-ring-battery-doorbell-2k-by-55</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T17:41:20Z</news:publication_date>
-      <news:title>Amazon cuts latest Ring Battery Doorbell 2K by $55</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/Ring-Battery-Doorbell-Gen-2-Press-Image.jpg</image:loc>
-      <image:title>Amazon cuts latest Ring Battery Doorbell 2K by $55</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/utah-charges-kalshi-and-its-ceo-with-illegally-promoting-online-gambling</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T17:40:23Z</news:publication_date>
-      <news:title>Utah charges Kalshi and its CEO with illegally promoting online gambling</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB383_KALSHI_A.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Utah charges Kalshi and its CEO with illegally promoting online gambling</image:title>
     </image:image>
   </url>
 </urlset>
