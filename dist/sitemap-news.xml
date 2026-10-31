@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/these-samsung-galaxy-watches-wont-be-getting-the-new-one-ui-update</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T17:15:00Z</news:publication_date>
+      <news:title>These Samsung Galaxy Watches won&apos;t be getting the new One UI update</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/these-samsung-galaxy-watches-wont-be-getting-the-new-one-ui-update/l-intro-1793353080.jpg</image:loc>
+      <image:title>These Samsung Galaxy Watches won&apos;t be getting the new One UI update</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/how-to-fix-your-phone-screen-when-its-unresponsive-to-touch</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T17:00:00Z</news:publication_date>
+      <news:title>How to fix your phone screen when it&apos;s unresponsive to touch​</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/how-to-fix-your-phone-screen-when-its-unresponsive-to-touch/l-intro-1793286831.jpg</image:loc>
+      <image:title>How to fix your phone screen when it&apos;s unresponsive to touch​</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/how-building-a-cheap-home-server-could-save-you-money-in-the-long-run</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T16:45:00Z</news:publication_date>
+      <news:title>How building a cheap home server could save you money in the long run</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/how-building-a-cheap-home-server-could-save-you-money-in-the-long-run/l-intro-1793284498.jpg</image:loc>
+      <image:title>How building a cheap home server could save you money in the long run</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/why-your-spotify-might-be-using-so-much-storage</loc>
     <news:news>
       <news:publication>
@@ -3975,96 +4020,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB383_KALSHI_A.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Utah charges Kalshi and its CEO with illegally promoting online gambling</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/oneplus-ace-7-and-ace-7-pro-announced-with-cooling-fans-and-185hz-displays</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T17:18:01Z</news:publication_date>
-      <news:title>OnePlus Ace 7 and Ace 7 Pro announced with cooling fans and 185Hz displays</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/oneplus-ace-7-series-offic/gsmarena_000.jpg</image:loc>
-      <image:title>OnePlus Ace 7 and Ace 7 Pro announced with cooling fans and 185Hz displays</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/old-039popcorn-time039-app-left-hundreds-of-thousands-of-macs-at-risk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T17:12:59Z</news:publication_date>
-      <news:title>Old &amp;#039;Popcorn Time&amp;#039; App Left Hundreds of Thousands of Macs at Risk</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/popcorn-time-hero.jpg</image:loc>
-      <image:title>Old &amp;#039;Popcorn Time&amp;#039; App Left Hundreds of Thousands of Macs at Risk</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/data-centers-could-send-us-climate-pollution-skyrocketing</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T17:10:46Z</news:publication_date>
-      <news:title>Data centers could send US climate pollution skyrocketing</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_A.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Data centers could send US climate pollution skyrocketing</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-odyssey-g7-drops-to-49999-saving-you-400</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T16:59:13Z</news:publication_date>
-      <news:title>Samsung Odyssey G7 drops to $499.99, saving you $400</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Samsung-37-inch-Odyssey-G7-G75F-Series-4K-UHD-Curved-Gaming-Monitor-Press-Image.jpg</image:loc>
-      <image:title>Samsung Odyssey G7 drops to $499.99, saving you $400</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/you-can-turn-off-the-new-macbook-pro039s-touchscreen-functionality</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T16:58:53Z</news:publication_date>
-      <news:title>You Can Turn Off the New MacBook Pro&amp;#039;s Touchscreen Functionality</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/MacBook-Pro-PROLED-Touch-1.jpg</image:loc>
-      <image:title>You Can Turn Off the New MacBook Pro&amp;#039;s Touchscreen Functionality</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-just-released-a-new-foldable-that-you-probably-wouldn8217t-buy-even-if-you-could</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T16:50:00Z</news:publication_date>
-      <news:title>Samsung just released a new foldable that you probably wouldn&amp;#8217;t buy even if you could</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/07/Galaxy-Z-Fold-8-Ultra-27.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Samsung just released a new foldable that you probably wouldn&amp;#8217;t buy even if you could</image:title>
     </image:image>
   </url>
 </urlset>
