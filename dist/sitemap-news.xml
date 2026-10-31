@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/why-your-apple-airpods-wont-connect-to-your-iphone-and-how-can-you-fix-it</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T21:00:00Z</news:publication_date>
+      <news:title>Why your Apple AirPods won&apos;t connect to your iPhone and how can you fix it</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/why-your-apple-airpods-wont-connect-to-your-iphone-and-how-can-you-fix-it/l-intro-1793293868.jpg</image:loc>
+      <image:title>Why your Apple AirPods won&apos;t connect to your iPhone and how can you fix it</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/xbox-manager-says-ai-is-already-being-used-in-game-development</loc>
     <news:news>
       <news:publication>
@@ -3480,141 +3495,6 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/10/iPad-mini-OLED-feature-1.jpg</image:loc>
       <image:title>Apple Executive Comments on New iPad Mini Lacking 120Hz Display</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/android-17-qpr3-beta-3-brings-back-app-lock-and-fixes-dozens-of-bugs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T20:51:36Z</news:publication_date>
-      <news:title>Android 17 QPR3 Beta 3 brings back app lock and fixes dozens of bugs</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/02/Android-17-stock-image.jpg</image:loc>
-      <image:title>Android 17 QPR3 Beta 3 brings back app lock and fixes dozens of bugs</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/here8217s-everything-new-in-android-17-qpr3-beta-3-gallery</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T20:38:07Z</news:publication_date>
-      <news:title>Here&amp;#8217;s everything new in Android 17 QPR3 Beta 3 [Gallery]</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/08/google-pixel-11-pro-fold-review-2.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Here&amp;#8217;s everything new in Android 17 QPR3 Beta 3 [Gallery]</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/reddit-will-soon-be-a-8216logged-in-only8217-website-forcing-you-to-have-an-account</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T20:35:00Z</news:publication_date>
-      <news:title>Reddit will soon be a &amp;#8216;logged-in-only&amp;#8217; website, forcing you to have an account</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/reddit-logo.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1200</image:loc>
-      <image:title>Reddit will soon be a &amp;#8216;logged-in-only&amp;#8217; website, forcing you to have an account</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/reddit-will-move-to-logged-in-only-as-ai-eats-search-traffic</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T20:32:49Z</news:publication_date>
-      <news:title>Reddit will move to logged-in only as AI eats search traffic</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/reddit-will-move-to-logged-in-only-as-ai-eats-search-traffic/l-intro-1793305910.jpg</image:loc>
-      <image:title>Reddit will move to logged-in only as AI eats search traffic</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/google-fixes-an-annoying-photos-bug-that-hid-edited-images-from-other-apps</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T20:26:24Z</news:publication_date>
-      <news:title>Google fixes an annoying Photos bug that hid edited images from other apps</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/google-fixes-an-annoying-photos-bug-that-hid-edited-images-from-other-apps/l-intro-1793305492.jpg</image:loc>
-      <image:title>Google fixes an annoying Photos bug that hid edited images from other apps</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/android-17-qpr3-beta-3-rolling-out-with-26-pixel-fixes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T20:21:06Z</news:publication_date>
-      <news:title>Android 17 QPR3 Beta 3 rolling out with 26 Pixel fixes</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/09/Pixel-11-Pro-XL-and-9-Pro-XL-top-down.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Android 17 QPR3 Beta 3 rolling out with 26 Pixel fixes</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T20:18:49Z</news:publication_date>
-      <news:title>Windows 11 gets right-click menu improvements as PC revenue slides</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/Hero-Bloom-Logo-1000x563_Windows_11_MS.jpg</image:loc>
-      <image:title>Windows 11 gets right-click menu improvements as PC revenue slides</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/google-brings-ai-mode-advertisements-to-more-countries</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T20:18:24Z</news:publication_date>
-      <news:title>Google brings AI Mode advertisements to more countries</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/google-brings-ai-mode-advertisements-to-more-countries/l-intro-1793305012.jpg</image:loc>
-      <image:title>Google brings AI Mode advertisements to more countries</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/patrick-stewart-has-died-at-age-86</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T20:10:02Z</news:publication_date>
-      <news:title>Patrick Stewart has died at age 86</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2156843221.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Patrick Stewart has died at age 86</image:title>
     </image:image>
   </url>
 </urlset>
