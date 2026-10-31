@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/039pluribus039-season-2-reportedly-starts-production-today</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T06:41:45Z</news:publication_date>
+      <news:title>&amp;#039;Pluribus&amp;#039; Season 2 Reportedly Starts Production Today</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2025/10/Pluribus_Poster_0101.jpg</image:loc>
+      <image:title>&amp;#039;Pluribus&amp;#039; Season 2 Reportedly Starts Production Today</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/deals-iphone-17-series-on-sale-oled-packing-ipad-mini-and-touch-enabled-macbook-pro-launch</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T06:31:02Z</news:publication_date>
+      <news:title>Deals: iPhone 17 series on sale, OLED-packing iPad mini and touch-enabled MacBook Pro launch</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/deals-30/gsmarena_de.jpg</image:loc>
+      <image:title>Deals: iPhone 17 series on sale, OLED-packing iPad mini and touch-enabled MacBook Pro launch</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/iphone-18-pro-sales-surge-in-china-offsetting-decline-in-us-and-japan</loc>
     <news:news>
       <news:publication>
@@ -4350,66 +4380,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-1-scaled.jpg</image:loc>
       <image:title>Gemini&amp;#8217;s new &amp;#8216;immersive explorations&amp;#8217; turn it into an interactive encyclopedia</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-next-big-threat-to-rcs-isn8217t-another-messaging-app</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T07:27:12Z</news:publication_date>
-      <news:title>The next big threat to RCS isn&amp;#8217;t another messaging app</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/03/Google-Messages-upcoming-Redesign_2-scaled.jpg</image:loc>
-      <image:title>The next big threat to RCS isn&amp;#8217;t another messaging app</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/oppo-find-x10-and-find-x10-pro-max-go-on-sale-in-india</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T07:12:02Z</news:publication_date>
-      <news:title>Oppo Find X10 and Find X10 Pro Max go on sale in India</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/oppo-find-x10-series-india-price-sale-date/gsmarena_001.jpg</image:loc>
-      <image:title>Oppo Find X10 and Find X10 Pro Max go on sale in India</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-ai-mode-is-getting-more-ads-whether-you-like-it-or-not</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T07:04:27Z</news:publication_date>
-      <news:title>Google AI Mode is getting more ads, whether you like it or not</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/05/google-ai-mode-vs-google-search-hero-photo-5-scaled.jpg</image:loc>
-      <image:title>Google AI Mode is getting more ads, whether you like it or not</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-wallets-new-cash-back-perks-can-help-you-pay-for-dinner-or-settle-up-with-a-friend</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T06:51:45Z</news:publication_date>
-      <news:title>Samsung Wallet’s new cash back perks can help you pay for dinner or settle up with a friend</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2022/10/Samsung-Wallet-1.jpg</image:loc>
-      <image:title>Samsung Wallet’s new cash back perks can help you pay for dinner or settle up with a friend</image:title>
     </image:image>
   </url>
 </urlset>
