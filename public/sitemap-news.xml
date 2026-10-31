@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/i-hate-samsung8217s-default-camera-app-here8217s-what-i-use-instead</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T09:00:52Z</news:publication_date>
+      <news:title>I hate Samsung&amp;#8217;s default camera app — here&amp;#8217;s what I use instead</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Samsung-Galaxy-S26-Ultras-camera-module-zoomed-in.jpg</image:loc>
+      <image:title>I hate Samsung&amp;#8217;s default camera app — here&amp;#8217;s what I use instead</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/039pluribus039-season-2-reportedly-starts-production-today</loc>
     <news:news>
       <news:publication>
@@ -4305,51 +4320,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/T1-Trum-Mobile-Trump-Phone-3-of-3.jpg</image:loc>
       <image:title>Trump Phone passes the bend test, fails the originality test</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-is-killing-another-key-galaxy-service</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T08:49:53Z</news:publication_date>
-      <news:title>Samsung is killing another key Galaxy service</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/one-ui-9-frowning-plush-scaled.jpg</image:loc>
-      <image:title>Samsung is killing another key Galaxy service</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/hackers-leaked-details-of-more-than-41000-homeland-security-personnel</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T08:33:46Z</news:publication_date>
-      <news:title>Hackers leaked details of more than 41,000 Homeland Security personnel</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/hackers-leaked-details-of-more-than-41000-homeland-security-personnel/l-intro-1793262738.jpg</image:loc>
-      <image:title>Hackers leaked details of more than 41,000 Homeland Security personnel</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/gemini-in-google-sheets-is-getting-faster-smarter-and-easier-to-trust</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T08:24:59Z</news:publication_date>
-      <news:title>Gemini in Google Sheets is getting faster, smarter, and easier to trust</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2022/02/Google-Sheets-next-to-calculator-stock-photo-3.jpg</image:loc>
-      <image:title>Gemini in Google Sheets is getting faster, smarter, and easier to trust</image:title>
     </image:image>
   </url>
 </urlset>
