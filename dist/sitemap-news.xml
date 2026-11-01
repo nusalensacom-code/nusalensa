@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/deals-the-pixel-11-series-is-on-sale-and-so-is-the-galaxy-s26-series</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T21:31:02Z</news:publication_date>
+      <news:title>Deals: the Pixel 11 series is on sale and so is the Galaxy S26 series</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/deals-30/gsmarena_us.jpg</image:loc>
+      <image:title>Deals: the Pixel 11 series is on sale and so is the Galaxy S26 series</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/nasa-hopes-the-commercial-space-industry-can-help-save-hubble</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T21:09:21Z</news:publication_date>
+      <news:title>NASA hopes the commercial space industry can help save Hubble</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13237317/PIA18165_large.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>NASA hopes the commercial space industry can help save Hubble</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T21:08:32Z</news:publication_date>
+      <news:title>Anthropic updates Claude to stop it from recreating existing video games</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games/l-intro-1793566610.jpg</image:loc>
+      <image:title>Anthropic updates Claude to stop it from recreating existing video games</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/ceramic-vs-titanium-apple-watch-which-material-is-better-for-overall-durability</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T21:00:00Z</news:publication_date>
+      <news:title>Ceramic vs Titanium Apple Watch: Which material is better for overall durability?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/ceramic-vs-titanium-apple-watch-which-material-is-better-for-overall-durability/l-intro-1793034841.jpg</image:loc>
+      <image:title>Ceramic vs Titanium Apple Watch: Which material is better for overall durability?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/wear-os-adding-system-status-bar-to-apps-wear-os-71-coming</loc>
     <news:news>
       <news:publication>
@@ -2070,111 +2130,6 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Display-Cracking.jpg</image:loc>
       <image:title>Apple Alerts Stores to iPhone Duo&amp;#039;s Display Cracking Issue</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/ios-273-will-enable-these-apple-intelligence-features-in-china</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T21:46:00Z</news:publication_date>
-      <news:title>iOS 27.3 Will Enable These Apple Intelligence Features in China</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/Apple-Intelligence-China.jpg</image:loc>
-      <image:title>iOS 27.3 Will Enable These Apple Intelligence Features in China</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-says-ios-273-beta-coming-next-week-with-apple-intelligence-on-iphone-in-china</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T21:45:09Z</news:publication_date>
-      <news:title>Apple Says iOS 27.3 Beta Coming Next Week With Apple Intelligence on iPhone in China</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/iOS-27.3-Feature.jpg</image:loc>
-      <image:title>Apple Says iOS 27.3 Beta Coming Next Week With Apple Intelligence on iPhone in China</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/supersonic-airliner-in-doubt-as-company-shifts-to-powering-ai-data-centers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T21:41:54Z</news:publication_date>
-      <news:title>Supersonic airliner in doubt as company shifts to powering AI data centers</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/Superpower-Superfactory-1152x648.jpg</image:loc>
-      <image:title>Supersonic airliner in doubt as company shifts to powering AI data centers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-watch-ultra-4-falls-to-69999-in-first-major-price-cut</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T21:36:53Z</news:publication_date>
-      <news:title>Apple Watch Ultra 4 falls to $699.99 in first major price cut</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Apple-Watch-Ultra-4-Product-Image.jpg</image:loc>
-      <image:title>Apple Watch Ultra 4 falls to $699.99 in first major price cut</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-galaxy-s27-ultra-chipset-saga-continues-heres-the-latest-twist</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T21:31:02Z</news:publication_date>
-      <news:title>The Galaxy S27 Ultra chipset saga continues, here&apos;s the latest twist</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/samsung-galaxy-s27-ultra-new-chipset-twist/gsmarena_000.jpg</image:loc>
-      <image:title>The Galaxy S27 Ultra chipset saga continues, here&apos;s the latest twist</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/bose-soundlink-plus-drops-back-to-its-all-time-low-on-amazon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T21:23:26Z</news:publication_date>
-      <news:title>Bose SoundLink Plus drops back to its all-time low on Amazon</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Bose-SoundLink-Plus-Portable-Bluetooth-Speaker-Press-Image.jpg</image:loc>
-      <image:title>Bose SoundLink Plus drops back to its all-time low on Amazon</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T21:09:54Z</news:publication_date>
-      <news:title>Anthropic VS code extension on Cursor backdoored for nearly 12 hours</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg</image:loc>
-      <image:title>Anthropic VS code extension on Cursor backdoored for nearly 12 hours</image:title>
     </image:image>
   </url>
 </urlset>

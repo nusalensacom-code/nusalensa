@@ -468,6 +468,46 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/deals-the-pixel-11-series-is-on-sale-and-so-is-the-galaxy-s26-series</loc>
+    <lastmod>2026-11-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/deals-30/gsmarena_us.jpg</image:loc>
+      <image:title>Deals: the Pixel 11 series is on sale and so is the Galaxy S26 series</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/nasa-hopes-the-commercial-space-industry-can-help-save-hubble</loc>
+    <lastmod>2026-11-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13237317/PIA18165_large.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>NASA hopes the commercial space industry can help save Hubble</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games</loc>
+    <lastmod>2026-11-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games/l-intro-1793566610.jpg</image:loc>
+      <image:title>Anthropic updates Claude to stop it from recreating existing video games</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/ceramic-vs-titanium-apple-watch-which-material-is-better-for-overall-durability</loc>
+    <lastmod>2026-11-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/ceramic-vs-titanium-apple-watch-which-material-is-better-for-overall-durability/l-intro-1793034841.jpg</image:loc>
+      <image:title>Ceramic vs Titanium Apple Watch: Which material is better for overall durability?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/wear-os-adding-system-status-bar-to-apps-wear-os-71-coming</loc>
     <lastmod>2026-11-01</lastmod>
     <changefreq>daily</changefreq>
