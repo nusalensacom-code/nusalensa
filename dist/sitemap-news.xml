@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/how-to-clean-your-playstation-5-without-damaging-it</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T23:00:00Z</news:publication_date>
+      <news:title>How to clean your PlayStation 5 without damaging it</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/how-to-clean-your-playstation-5-without-damaging-it/l-intro-1793029905.jpg</image:loc>
+      <image:title>How to clean your PlayStation 5 without damaging it</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/which-samsung-s-pens-can-be-located-using-smartthings-find</loc>
     <news:news>
       <news:publication>
@@ -2055,36 +2070,6 @@
     <image:image>
       <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/hst_vantor-1080x648.jpg</image:loc>
       <image:title>Think you can save the Hubble Space Telescope? NASA wants to know.</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/homeview-software-272-wallpapers-control-center-and-more</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T23:15:55Z</news:publication_date>
-      <news:title>HomeView Software 27.2: Wallpapers, Control Center, and More</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/homeview_home_screen_feature-1.jpg</image:loc>
-      <image:title>HomeView Software 27.2: Wallpapers, Control Center, and More</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-iphone-18-pro-vs-iphone-18-pro-max</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T22:59:02Z</news:publication_date>
-      <news:title>Apple iPhone 18 Pro vs. iPhone 18 Pro Max</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/apple-iphone-18-pro-vs-iphone-18-pro-max/gsmarena_000.jpg</image:loc>
-      <image:title>Apple iPhone 18 Pro vs. iPhone 18 Pro Max</image:title>
     </image:image>
   </url>
 </urlset>
