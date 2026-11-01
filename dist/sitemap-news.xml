@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/all-the-leaks-for-the-portal-prequel-f-stop-have-been-compiled-into-a-playable-game</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T17:54:34Z</news:publication_date>
+      <news:title>All the leaks for the Portal prequel F-Stop have been compiled into a playable game</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/all-the-leaks-for-the-portal-prequel-f-stop-have-been-compiled-into-a-playable-game/l-intro-1793554498.jpg</image:loc>
+      <image:title>All the leaks for the Portal prequel F-Stop have been compiled into a playable game</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-reason-why-your-xbox-controller-still-uses-aa-batteries</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T17:45:00Z</news:publication_date>
+      <news:title>The reason why your Xbox controller still uses AA batteries</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/the-reason-why-your-xbox-controller-still-uses-aa-batteries/l-intro-1793022945.jpg</image:loc>
+      <image:title>The reason why your Xbox controller still uses AA batteries</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/nearly-every-m5-macbook-air-now-36200-off-on-amazon</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T17:33:43Z</news:publication_date>
+      <news:title>Nearly Every M5 MacBook Air Now &amp;#36;200 Off on Amazon</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/06/m5-macbook-air-prime-day.jpeg</image:loc>
+      <image:title>Nearly Every M5 MacBook Air Now &amp;#36;200 Off on Amazon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/5-nifty-ways-you-can-reuse-your-old-laptop</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T17:30:00Z</news:publication_date>
+      <news:title>5 nifty ways you can reuse your old laptop</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/5-nifty-ways-you-can-reuse-your-old-laptop/l-intro-1793246677.jpg</image:loc>
+      <image:title>5 nifty ways you can reuse your old laptop</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores</loc>
     <news:news>
       <news:publication>
@@ -2310,111 +2370,6 @@
     <image:image>
       <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-3-1152x648.jpeg</image:loc>
       <image:title>Rare meteorite from Mars gives us a view into its ancient crust</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/is-github-down-for-you-here8217s-what8217s-going-on</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T18:10:24Z</news:publication_date>
-      <news:title>Is GitHub down for you? Here&amp;#8217;s what&amp;#8217;s going on</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2017/06/Add-Any-GitHub-Library-to-Android-Studio-Using-Maven-JCenter-and-JitPack.jpg</image:loc>
-      <image:title>Is GitHub down for you? Here&amp;#8217;s what&amp;#8217;s going on</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/fridays-android-app-deals-and-freebies-thronefall-demon-castle-story-pocket-academy-3-dungeon-village-2-more</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T17:58:04Z</news:publication_date>
-      <news:title>Friday’s Android app deals and freebies: Thronefall, Demon Castle Story, Pocket Academy 3, Dungeon Village 2, more</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Google-Play-collage-af8b04.webp?w=1600</image:loc>
-      <image:title>Friday’s Android app deals and freebies: Thronefall, Demon Castle Story, Pocket Academy 3, Dungeon Village 2, more</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/pixel-11-hits-lowest-record-low-price-with-200-discount</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T17:53:58Z</news:publication_date>
-      <news:title>Pixel 11 hits lowest record-low price with $200 discount</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-15-scaled.jpg</image:loc>
-      <image:title>Pixel 11 hits lowest record-low price with $200 discount</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/save-60-on-eufys-dual-lens-solocam-s340-security-camera</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T17:45:00Z</news:publication_date>
-      <news:title>Save $60 on Eufy’s dual-lens SoloCam S340 security camera</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/03/Eufy-Security-3K-SoloCam-S340-Press-Image-scaled.jpg</image:loc>
-      <image:title>Save $60 on Eufy’s dual-lens SoloCam S340 security camera</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/openai-caves-to-backlash-and-reverses-course-on-reducing-chatgpt-usage-limits</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T17:38:32Z</news:publication_date>
-      <news:title>OpenAI caves to backlash and reverses course on reducing ChatGPT usage limits</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/Open-AI-ChatGPT-logo-on-phone-stock-photo-7.jpg</image:loc>
-      <image:title>OpenAI caves to backlash and reverses course on reducing ChatGPT usage limits</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T17:38:19Z</news:publication_date>
-      <news:title>Fujifilm to boost tape production 5x as AI fuels archiving demand</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2202649793-1152x648.jpg</image:loc>
-      <image:title>Fujifilm to boost tape production 5x as AI fuels archiving demand</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/starbucks-wants-to-use-ai-to-show-you-a-personalized-digital-menu-at-the-drive-thru</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T17:38:04Z</news:publication_date>
-      <news:title>Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2268681559.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru</image:title>
     </image:image>
   </url>
 </urlset>
