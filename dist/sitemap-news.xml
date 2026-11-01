@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/tesla-is-ditching-its-solar-roof-tiles-for-a-good-reason</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T13:30:00Z</news:publication_date>
+      <news:title>Tesla is ditching its solar roof tiles for a good reason</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/tesla-is-ditching-its-solar-roof-tiles-for-a-good-reason/l-intro-1792787873.jpg</image:loc>
+      <image:title>Tesla is ditching its solar roof tiles for a good reason</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/how-to-clear-the-cache-on-your-android-device</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T13:15:00Z</news:publication_date>
+      <news:title>How to clear the cache on your Android device</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/how-to-clear-the-cache-on-your-android-device/l-intro-1792951353.jpg</image:loc>
+      <image:title>How to clear the cache on your Android device</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/prop-45-in-california-could-be-hiding-a-loophole-for-data-centers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T13:00:00Z</news:publication_date>
+      <news:title>Prop 45 in California could be hiding a loophole for data centers</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Prop 45 in California could be hiding a loophole for data centers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T13:00:00Z</news:publication_date>
+      <news:title>New Zelda and GTA represent a games industry that no longer exists</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/NS2_TheLegendofZeldaOcarinaofTime_scrn_01.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>New Zelda and GTA represent a games industry that no longer exists</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/deals-apple-oppo-and-samsungs-flagship-smartphones-are-available-at-reduced-prices</loc>
     <news:news>
       <news:publication>
@@ -2640,141 +2700,6 @@
     <image:image>
       <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/motorola-signature-27-1.jpeg?quality=82&amp;#038;strip=all&amp;#038;w=1200</image:loc>
       <image:title>Motorola is officially launching its Signature 27 flagship next week</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/local-code-launches-as-free-private-ai-assistant-tool-for-mac</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T13:38:25Z</news:publication_date>
-      <news:title>Local Code Launches as Free, Private AI Assistant Tool for Mac</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/local-code-mac.jpg</image:loc>
-      <image:title>Local Code Launches as Free, Private AI Assistant Tool for Mac</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-pixel-11-11-pro-and-fold-just-hit-an-all-time-low-price-weeks-ahead-of-black-friday</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T13:20:00Z</news:publication_date>
-      <news:title>The Pixel 11, 11 Pro, and Fold just hit an all-time low price weeks ahead of Black Friday</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Pixel-11-Pro-Canyon-8.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>The Pixel 11, 11 Pro, and Fold just hit an all-time low price weeks ahead of Black Friday</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/oppo-reno17-f-5g-gets-nbtc-certified</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T13:17:01Z</news:publication_date>
-      <news:title>Oppo Reno17 F 5G gets NBTC certified</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/oppo-reno17-f-5g-nbtc-certified/gsmarena_001.jpg</image:loc>
-      <image:title>Oppo Reno17 F 5G gets NBTC certified</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/silicon-valley-wants-you-to-invest-in-miracles</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T13:11:05Z</news:publication_date>
-      <news:title>Silicon Valley wants you to invest in miracles</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Anthropic_miracles_K_Radtke_b5ca50.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Silicon Valley wants you to invest in miracles</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-acquires-ascendio</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T13:06:28Z</news:publication_date>
-      <news:title>Apple Acquires Ascend.io</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/Ascend-io.jpg</image:loc>
-      <image:title>Apple Acquires Ascend.io</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/harley-davidsons-electric-motorbike-brand-has-substantial-doubt-about-its-future</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T13:06:06Z</news:publication_date>
-      <news:title>Harley-Davidson&apos;s electric motorbike brand has &apos;substantial doubt&apos; about its future</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/harley-davidsons-electric-motorbike-brand-has-substantial-doubt-about-its-future/l-intro-1793365250.jpg</image:loc>
-      <image:title>Harley-Davidson&apos;s electric motorbike brand has &apos;substantial doubt&apos; about its future</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/homepod-mini-2-launches-today-all-the-new-features</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T13:05:17Z</news:publication_date>
-      <news:title>HomePod Mini 2 Launches Today: All the New Features</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/homepod-mini-2-feature2.jpg</image:loc>
-      <image:title>HomePod Mini 2 Launches Today: All the New Features</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/sam-altman-sympathizes-with-mathematicians-but-says-openais-math-onslaught-wont-stop</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T13:01:14Z</news:publication_date>
-      <news:title>Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Vrg_illo_Sam_Altman_stock_trial.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-homeview-and-echo-show-16-could-be-the-family-computers-ive-been-asking-for</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T13:00:00Z</news:publication_date>
-      <news:title>The HomeView and Echo Show 16 could be the family computers I’ve been asking for</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268837_HomeView_and_Show_16_smart_display_report_CVirginia2.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>The HomeView and Echo Show 16 could be the family computers I’ve been asking for</image:title>
     </image:image>
   </url>
 </urlset>
