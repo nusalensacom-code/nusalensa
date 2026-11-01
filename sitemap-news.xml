@@ -3,6 +3,81 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T17:17:42Z</news:publication_date>
+      <news:title>Meta reportedly built a humanoid robot prototype that can do household chores</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/l-intro-1793552988.jpg</image:loc>
+      <image:title>Meta reportedly built a humanoid robot prototype that can do household chores</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/apples-homeview-could-add-security-camera-features</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T17:16:07Z</news:publication_date>
+      <news:title>Apple’s HomeView could add security camera features</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6101.jpeg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Apple’s HomeView could add security camera features</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/heres-how-to-tell-which-gen-airpods-you-own</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T17:15:00Z</news:publication_date>
+      <news:title>Here&apos;s how to tell which gen AirPods you own</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/heres-how-to-tell-which-gen-airpods-you-own/l-intro-1793112446.jpg</image:loc>
+      <image:title>Here&apos;s how to tell which gen AirPods you own</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/whatever-happened-to-8k-tvs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T17:00:00Z</news:publication_date>
+      <news:title>Whatever happened to 8K TVs?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/whatever-happened-to-8k-tvs/l-intro-1793385761.jpg</image:loc>
+      <image:title>Whatever happened to 8K TVs?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/heres-what-your-fitbit-heart-rate-variability-actually-tells-you</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T16:45:00Z</news:publication_date>
+      <news:title>Here&apos;s what your Fitbit heart rate variability actually tells you</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/heres-what-your-fitbit-heart-rate-variability-actually-tells-you/l-intro-1793215121.jpg</image:loc>
+      <image:title>Here&apos;s what your Fitbit heart rate variability actually tells you</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/how-to-tell-if-your-smart-tv-has-a-camera-and-how-to-disable-it</loc>
     <news:news>
       <news:publication>
@@ -2340,216 +2415,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2268681559.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-music-70-for-android-rolls-out-with-liquid-glass-redesign</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T17:26:48Z</news:publication_date>
-      <news:title>Apple Music 7.0 for Android rolls out with Liquid Glass redesign</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/09/Apple-Music-7-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Apple Music 7.0 for Android rolls out with Liquid Glass redesign</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-delightfully-messy-state-of-apple-gadgets</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T17:25:20Z</news:publication_date>
-      <news:title>The delightfully messy state of Apple gadgets</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_1030_SiteB.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>The delightfully messy state of Apple gadgets</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/chrome8217s-working-on-two-text-search-upgrades-that-you8217ll-actually-use</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T17:23:50Z</news:publication_date>
-      <news:title>Chrome&amp;#8217;s working on two text-search upgrades that you&amp;#8217;ll actually use</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/Chrome-logo-on-phone-stock-photo-1.jpg</image:loc>
-      <image:title>Chrome&amp;#8217;s working on two text-search upgrades that you&amp;#8217;ll actually use</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/bose-lifestyle-ultra-soundbar-gets-a-rare-200-amazon-discount</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T17:22:22Z</news:publication_date>
-      <news:title>Bose Lifestyle Ultra Soundbar gets a rare $200 Amazon discount</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Bose-New-Lifestyle-Ultra-Soundbar-Press-Image.jpg</image:loc>
-      <image:title>Bose Lifestyle Ultra Soundbar gets a rare $200 Amazon discount</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-mocks-iphone-duo-display-cracks-in-new-ad-campaign</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T17:20:31Z</news:publication_date>
-      <news:title>Samsung Mocks iPhone Duo Display Cracks in New Ad Campaign</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/samsung-canada-iphone-duo-ad.jpg</image:loc>
-      <image:title>Samsung Mocks iPhone Duo Display Cracks in New Ad Campaign</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/rivians-autonomy-gamble-faces-its-first-real-test</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T17:16:09Z</news:publication_date>
-      <news:title>Rivian’s autonomy gamble faces its first real test</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2277183149.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Rivian’s autonomy gamble faces its first real test</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/oppo-reno17-series-confirmed-to-launch-next-month-blind-pre-orders-go-live</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T17:02:02Z</news:publication_date>
-      <news:title>Oppo Reno17 series confirmed to launch next month, blind pre-orders go live</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/oppo-reno17-pad-air-6-watch-5-launch/gsmarena_00.jpg</image:loc>
-      <image:title>Oppo Reno17 series confirmed to launch next month, blind pre-orders go live</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/vizios-discounted-mini-led-tv-lets-you-skip-the-sign-ups-and-smarts</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T17:01:07Z</news:publication_date>
-      <news:title>Vizio’s discounted Mini LED TV lets you skip the sign-ups and smarts</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268611_Vizio_Mini_LED_Quantum_TV_JHiggins_0009.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Vizio’s discounted Mini LED TV lets you skip the sign-ups and smarts</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/deep-google-store-discounts-on-pixel-11-pixel-watch-5-start-early</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T16:57:47Z</news:publication_date>
-      <news:title>Deep Google Store discounts on Pixel 11, Pixel Watch 5 start early</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/09/Pixel-11-family.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Deep Google Store discounts on Pixel 11, Pixel Watch 5 start early</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google8217s-working-on-a-pixel-upgrade-for-handling-calls-on-your-commute</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T16:57:31Z</news:publication_date>
-      <news:title>Google&amp;#8217;s working on a Pixel upgrade for handling calls on your commute</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-10-pro-phone-app-leave-a-message-scaled.jpg</image:loc>
-      <image:title>Google&amp;#8217;s working on a Pixel upgrade for handling calls on your commute</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/amazon-cuts-apple-airtag-2-to-23-with-21-off</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T16:55:48Z</news:publication_date>
-      <news:title>Amazon cuts Apple AirTag 2 to $23 with 21% off</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/Apple-AirTag-2-in-a-persons-hand.jpg</image:loc>
-      <image:title>Amazon cuts Apple AirTag 2 to $23 with 21% off</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/thousands-of-ghost-students-use-ai-to-steal-millions-in-student-loans-doj-says</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T16:53:49Z</news:publication_date>
-      <news:title>Thousands of “ghost students” use AI to steal millions in student loans, DOJ says</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1425343562-1152x648.jpg</image:loc>
-      <image:title>Thousands of “ghost students” use AI to steal millions in student loans, DOJ says</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/the-macrumors-show-oled-macbook-pro-ipad-mini-8-and-more</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T16:50:22Z</news:publication_date>
-      <news:title>The MacRumors Show: OLED MacBook Pro, iPad Mini 8, and More</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
-      <image:title>The MacRumors Show: OLED MacBook Pro, iPad Mini 8, and More</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/macbook-pro-with-touch-display-15-more-details-revealed</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T16:45:00Z</news:publication_date>
-      <news:title>MacBook Pro With Touch Display: 15 More Details Revealed</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/MacBook-Pro-PROLED-XDR-Display.jpg</image:loc>
-      <image:title>MacBook Pro With Touch Display: 15 More Details Revealed</image:title>
     </image:image>
   </url>
 </urlset>
