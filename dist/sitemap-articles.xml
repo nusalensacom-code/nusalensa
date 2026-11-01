@@ -2,6 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/weekly-poll-results-the-oppo-find-x10-pro-max-is-too-expensive-and-so-is-the-find-x10</loc>
+    <lastmod>2026-11-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/weekly-poll-results-oppo-find-x10-pro-x10-pro-max/gsmarena_000.jpg</image:loc>
+      <image:title>Weekly poll results: the Oppo Find X10 Pro Max is too expensive and so is the Find X10</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/5-expensive-hobbies-where-owning-a-3d-printer-actually-saves-you-money</loc>
+    <lastmod>2026-11-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/5-expensive-hobbies-where-owning-a-3d-printer-actually-saves-you-money/l-intro-1793110234.jpg</image:loc>
+      <image:title>5 expensive hobbies where owning a 3D printer actually saves you money</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/amazon-made-the-aux-input-on-older-alexa-devices-less-useful</loc>
+    <lastmod>2026-11-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/amazon-made-the-aux-input-on-older-alexa-devices-less-useful/l-intro-1793052674.jpg</image:loc>
+      <image:title>Amazon made the AUX input on older Alexa devices less useful</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/how-big-and-powerful-is-spacexs-starship-rocket</loc>
+    <lastmod>2026-11-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/how-big-and-powerful-is-spacexs-starship-rocket/l-intro-1793113657.jpg</image:loc>
+      <image:title>How big and powerful is SpaceX&apos;s Starship rocket?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/why-your-apple-airpods-battery-drains-so-fast-and-how-to-make-it-last-longer</loc>
     <lastmod>2026-10-31</lastmod>
     <changefreq>daily</changefreq>
