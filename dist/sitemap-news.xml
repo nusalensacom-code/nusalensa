@@ -3,6 +3,81 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/5-of-the-best-new-android-apps-you-need-to-try-this-november</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T15:00:22Z</news:publication_date>
+      <news:title>5 of the best new Android apps you need to try this November</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/victoria-launcher-home-screen-1.jpg</image:loc>
+      <image:title>5 of the best new Android apps you need to try this November</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/5-spotify-settings-youll-wish-you-changed-sooner</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T15:00:00Z</news:publication_date>
+      <news:title>5 Spotify settings you&apos;ll wish you changed sooner</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/5-spotify-settings-youll-wish-you-changed-sooner/l-intro-1793297764.jpg</image:loc>
+      <image:title>5 Spotify settings you&apos;ll wish you changed sooner</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/which-android-is-the-closest-counterpart-to-the-iphone-18-pro-max</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T14:45:00Z</news:publication_date>
+      <news:title>Which Android is the closest counterpart to the iPhone 18 Pro Max?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/which-android-is-the-closest-counterpart-to-the-iphone-18-pro-max/l-intro-1793079780.jpg</image:loc>
+      <image:title>Which Android is the closest counterpart to the iPhone 18 Pro Max?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/north-korea-linked-to-massive-binance-crypto-heist</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T14:33:11Z</news:publication_date>
+      <news:title>North Korea linked to massive Binance crypto heist</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK428_CRYPTO_2_B.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>North Korea linked to massive Binance crypto heist</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/how-to-check-if-your-upcoming-flight-has-starlink-wi-fi</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T14:30:00Z</news:publication_date>
+      <news:title>How to check if your upcoming flight has Starlink Wi-Fi</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/how-to-check-if-your-upcoming-flight-has-starlink-wi-fi/l-intro-1793040764.jpg</image:loc>
+      <image:title>How to check if your upcoming flight has Starlink Wi-Fi</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/macbook-pro-battery-life-in-2011-vs-2026-how-much-has-it-really-improved-in-15-years</loc>
     <news:news>
       <news:publication>
@@ -2535,96 +2610,6 @@
     <image:image>
       <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/9to5Google-Oct-30.webp?w=1600</image:loc>
       <image:title>Deals: Week 1 early Black Friday Doorbusters, Pixel 11 series up to $350 off, Pixel Watch 5 $100 off, more (All-time lows)</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-death-stranding-animes-first-teaser-trailer-arrives-ahead-of-its-disney-debut</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T15:07:09Z</news:publication_date>
-      <news:title>The Death Stranding anime&apos;s first teaser trailer arrives ahead of its Disney+ debut</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/the-death-stranding-animes-first-teaser-trailer-arrives-ahead-of-its-disney-debut/l-intro-1793372769.jpg</image:loc>
-      <image:title>The Death Stranding anime&apos;s first teaser trailer arrives ahead of its Disney+ debut</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/russia-places-apple-on-state-surveillance-registry</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T14:58:16Z</news:publication_date>
-      <news:title>Russia Places Apple on State Surveillance Registry</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/Black-Apple-Event-Logo.jpeg</image:loc>
-      <image:title>Russia Places Apple on State Surveillance Registry</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/pope-leo-calls-for-the-disarmament-of-ai-machines-are-tools-not-persons</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T14:58:06Z</news:publication_date>
-      <news:title>Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2226124908.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/pixel-buds-pro-2-get-a-big-60-amazon-discount</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T14:53:59Z</news:publication_date>
-      <news:title>Pixel Buds Pro 2 get a big $60 Amazon discount</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/08/Google-Pixel-Buds-Pro-2-close-up.jpg</image:loc>
-      <image:title>Pixel Buds Pro 2 get a big $60 Amazon discount</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/pixel-watch-5-matches-all-time-low-price-on-amazon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T14:52:53Z</news:publication_date>
-      <news:title>Pixel Watch 5 matches all-time low price on Amazon</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-Watch-5-and-Pixel-11.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Pixel Watch 5 matches all-time low price on Amazon</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/big-blow-for-qualcomm-this-upcoming-ultra-flagship-could-skip-snapdragon-flagship-socs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T14:43:37Z</news:publication_date>
-      <news:title>Big blow for Qualcomm? This upcoming Ultra flagship could skip Snapdragon flagship SoCs</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/oppo-find-x9-ultra-vs-s26-ultra-3.jpg</image:loc>
-      <image:title>Big blow for Qualcomm? This upcoming Ultra flagship could skip Snapdragon flagship SoCs</image:title>
     </image:image>
   </url>
 </urlset>
