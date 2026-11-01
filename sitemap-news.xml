@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/weekly-poll-do-touchscreens-on-laptops-make-sense</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T03:29:02Z</news:publication_date>
+      <news:title>Weekly poll: do touchscreens on laptops make sense?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/weekly-poll-touchscreens-on-laptops/gsmarena_000.jpg</image:loc>
+      <image:title>Weekly poll: do touchscreens on laptops make sense?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/weekly-poll-results-the-oppo-find-x10-pro-max-is-too-expensive-and-so-is-the-find-x10</loc>
     <news:news>
       <news:publication>
@@ -3345,51 +3360,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-logo-on-smartphone-stock-photo-2.jpg</image:loc>
       <image:title>Gemini&amp;#8217;s latest integration can tell you if you&amp;#8217;re getting faster, one run at a time</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/reddit-is-coming-for-logged-out-browsing-and-users-aren8217t-having-it</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T03:38:38Z</news:publication_date>
-      <news:title>Reddit is coming for logged-out browsing, and users aren&amp;#8217;t having it</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2022/03/Reddit-stock-photo-3.jpg</image:loc>
-      <image:title>Reddit is coming for logged-out browsing, and users aren&amp;#8217;t having it</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/oppo-find-x10-ultra-could-be-heading-for-a-chipset-switch</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T02:59:02Z</news:publication_date>
-      <news:title>Oppo Find X10 Ultra could be heading for a chipset switch</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/oppo-find-x10-ultra-chipset-rumor/gsmarena_000.jpg</image:loc>
-      <image:title>Oppo Find X10 Ultra could be heading for a chipset switch</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/android-17-is-barely-making-a-dent-as-android-11-still-powers-10-of-phones</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T02:50:31Z</news:publication_date>
-      <news:title>Android 17 is barely making a dent as Android 11 still powers 10% of phones</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-7-scaled.jpg</image:loc>
-      <image:title>Android 17 is barely making a dent as Android 11 still powers 10% of phones</image:title>
     </image:image>
   </url>
 </urlset>
