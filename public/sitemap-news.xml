@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/how-to-tell-if-your-smart-tv-has-a-camera-and-how-to-disable-it</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T16:30:00Z</news:publication_date>
+      <news:title>How to tell if your smart TV has a camera (and how to disable it)</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/how-to-tell-if-your-smart-tv-has-a-camera-and-how-to-disable-it/l-intro-1793346234.jpg</image:loc>
+      <image:title>How to tell if your smart TV has a camera (and how to disable it)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/a-fully-playable-version-of-portal-prequel-f-stop-leaked</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T16:19:21Z</news:publication_date>
+      <news:title>A fully playable version of Portal prequel F-Stop leaked</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKB376_VALVE_D.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>A fully playable version of Portal prequel F-Stop leaked</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/you-might-be-neglecting-the-one-thing-that-keeps-your-pc-healthy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T16:15:00Z</news:publication_date>
+      <news:title>You might be neglecting the one thing that keeps your PC healthy</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/you-might-be-neglecting-the-one-thing-that-keeps-your-pc-healthy/l-intro-1793116336.jpg</image:loc>
+      <image:title>You might be neglecting the one thing that keeps your PC healthy</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/openai-adds-stricter-limits-for-teens-asking-about-firearms</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T16:03:12Z</news:publication_date>
+      <news:title>OpenAI adds stricter limits for teens asking about firearms</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/openai-adds-stricter-limits-for-teens-asking-about-firearms/l-intro-1793548561.jpg</image:loc>
+      <image:title>OpenAI adds stricter limits for teens asking about firearms</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/what-is-assistivetouch-on-your-apple-watch-and-when-should-you-use-it</loc>
     <news:news>
       <news:publication>
@@ -2490,96 +2550,6 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/10/MacBook-Pro-PROLED-XDR-Display.jpg</image:loc>
       <image:title>MacBook Pro With Touch Display: 15 More Details Revealed</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/will-galaxy-s27-ultra-and-pixel-12-mark-the-end-of-the-flagship-era-of-smartphones</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T16:30:00Z</news:publication_date>
-      <news:title>Will Galaxy S27 Ultra and Pixel 12 mark the end of the flagship era of smartphones?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/S26-Ultra-Pixel-11-Pro-and-iPhone-17-Pro.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Will Galaxy S27 Ultra and Pixel 12 mark the end of the flagship era of smartphones?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-pixel-11-pro-fold-gets-a-250-amazon-price-drop</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T16:24:12Z</news:publication_date>
-      <news:title>Google Pixel 11 Pro Fold gets a $250 Amazon price drop</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-Pro-Fold-back-in-hand.jpg</image:loc>
-      <image:title>Google Pixel 11 Pro Fold gets a $250 Amazon price drop</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/new-tvos-272-features-to-try-for-an-upgraded-apple-tv-experience</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T16:22:49Z</news:publication_date>
-      <news:title>New tvOS 27.2 features to try for an upgraded Apple TV experience</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/new-tvos-27-2-features-to-try-for-an-upgraded-apple-tv-experience/l-intro-1793349181.jpg</image:loc>
-      <image:title>New tvOS 27.2 features to try for an upgraded Apple TV experience</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/boses-new-lifestyle-ultra-speaker-falls-to-a-record-low</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T16:14:23Z</news:publication_date>
-      <news:title>Bose’s new Lifestyle Ultra Speaker falls to a record low</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Bose-Lifestyle-Ultra-speaker-SoundGuys-scaled.jpg</image:loc>
-      <image:title>Bose’s new Lifestyle Ultra Speaker falls to a record low</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T16:12:59Z</news:publication_date>
-      <news:title>Analysts find looming launch crisis is &quot;more severe&quot; than anticipated</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/falcon-9-1152x648.jpeg</image:loc>
-      <image:title>Analysts find looming launch crisis is &quot;more severe&quot; than anticipated</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/pixel-6-postmortem-how-google8217s-flawed-reboot-defined-future-hardware-video</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T16:05:00Z</news:publication_date>
-      <news:title>Pixel 6 postmortem: How Google&amp;#8217;s flawed reboot defined future hardware [Video]</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2022/11/Google-Pixel-6.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Pixel 6 postmortem: How Google&amp;#8217;s flawed reboot defined future hardware [Video]</image:title>
     </image:image>
   </url>
 </urlset>
