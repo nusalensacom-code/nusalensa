@@ -3332,34 +3332,4 @@
       <image:title>The new OLED iPad mini runs Geekbench, here are the results</image:title>
     </image:image>
   </url>
-  <url>
-    <loc>https://nusalensa.com/phones/motorola-confirms-the-signature-27s-exact-launch-date</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T04:31:02Z</news:publication_date>
-      <news:title>Motorola confirms the Signature 27&apos;s exact launch date</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/motorola-signature-27-launch-date/gsmarena_000.jpg</image:loc>
-      <image:title>Motorola confirms the Signature 27&apos;s exact launch date</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/gemini8217s-latest-integration-can-tell-you-if-you8217re-getting-faster-one-run-at-a-time</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T04:23:32Z</news:publication_date>
-      <news:title>Gemini&amp;#8217;s latest integration can tell you if you&amp;#8217;re getting faster, one run at a time</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-logo-on-smartphone-stock-photo-2.jpg</image:loc>
-      <image:title>Gemini&amp;#8217;s latest integration can tell you if you&amp;#8217;re getting faster, one run at a time</image:title>
-    </image:image>
-  </url>
 </urlset>
