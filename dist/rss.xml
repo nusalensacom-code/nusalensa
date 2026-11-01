@@ -5,8 +5,17 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 01 Nov 2026 18:12:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 18:40:11 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple’s busy week, iPhone Duo troubles and Poco X8s debut, Week 43 in review</title>
+      <link>https://nusalensa.com/phones/apples-busy-week-iphone-duo-troubles-and-poco-x8s-debut-week-43-in-review</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/apples-busy-week-iphone-duo-troubles-and-poco-x8s-debut-week-43-in-review</guid>
+      <description>Another week in the books, so let’s do a recap. Apple had a packed few days, announcing new MacBook Pro models with OLED touchscreens, an OLED iPad mini, and a </description>
+      <category>Smartphones</category>
+      <pubDate>Sun, 01 Nov 2026 18:32:03 GMT</pubDate>
+      <enclosure url="https://fdn.gsmarena.com/imgroot//news/26/10/week-43-in-review/gsmarena_000.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>All the leaks for the Portal prequel F-Stop have been compiled into a playable game</title>
       <link>https://nusalensa.com/technology/all-the-leaks-for-the-portal-prequel-f-stop-have-been-compiled-into-a-playable-game</link>
@@ -267,15 +276,6 @@
       <category>Technology</category>
       <pubDate>Sun, 01 Nov 2026 14:00:00 GMT</pubDate>
       <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268839_HomePod_mini_2_JTuohy_0009.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,6.1688463882248,80.59453125,89.629916092439" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Here&apos;s how to know if your TV is too big for any room</title>
-      <link>https://nusalensa.com/technology/heres-how-to-know-if-your-tv-is-too-big-for-any-room</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/heres-how-to-know-if-your-tv-is-too-big-for-any-room</guid>
-      <description>When purchasing a television, this first instinct is to go big. But before choosing a model, make sure it won&apos;t overpower the room.</description>
-      <category>Technology</category>
-      <pubDate>Sun, 01 Nov 2026 13:45:00 GMT</pubDate>
-      <enclosure url="https://www.engadget.com/img/gallery/heres-how-to-know-if-your-tv-is-too-big-for-any-room/l-intro-1793028876.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>

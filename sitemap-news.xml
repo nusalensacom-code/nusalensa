@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/apples-busy-week-iphone-duo-troubles-and-poco-x8s-debut-week-43-in-review</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T18:32:03Z</news:publication_date>
+      <news:title>Apple’s busy week, iPhone Duo troubles and Poco X8s debut, Week 43 in review</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot//news/26/10/week-43-in-review/gsmarena_000.jpg</image:loc>
+      <image:title>Apple’s busy week, iPhone Duo troubles and Poco X8s debut, Week 43 in review</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/all-the-leaks-for-the-portal-prequel-f-stop-have-been-compiled-into-a-playable-game</loc>
     <news:news>
       <news:publication>
@@ -2310,66 +2325,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/despite-good-initial-hardware-the-googlebook-os-is-holding-the-platform-back/l-intro-1793383802.jpg</image:loc>
       <image:title>Everything you need to know about Googlebooks</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-announces-another-record-breaking-quarter-driven-by-its-memory-business</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T18:31:02Z</news:publication_date>
-      <news:title>Samsung announces another record-breaking quarter, driven by its memory business</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/samsung-q3-report/gsmarena_000.jpg</image:loc>
-      <image:title>Samsung announces another record-breaking quarter, driven by its memory business</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/google8217s-satellite-ai-server-transmits-its-first-response-to-earth</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T18:21:38Z</news:publication_date>
-      <news:title>Google&amp;#8217;s satellite AI server transmits its first response to Earth</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/project-suncatcher-google.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Google&amp;#8217;s satellite AI server transmits its first response to Earth</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/we-asked-which-googlebook-you8217d-buy-and-many-said-theyd-pass</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T18:20:01Z</news:publication_date>
-      <news:title>We asked which Googlebook you&amp;#8217;d buy and many said they’d pass</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Lenovo-Googlebook-15-open-scaled.jpeg</image:loc>
-      <image:title>We asked which Googlebook you&amp;#8217;d buy and many said they’d pass</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T18:13:42Z</news:publication_date>
-      <news:title>Rare meteorite from Mars gives us a view into its ancient crust</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-3-1152x648.jpeg</image:loc>
-      <image:title>Rare meteorite from Mars gives us a view into its ancient crust</image:title>
     </image:image>
   </url>
 </urlset>
