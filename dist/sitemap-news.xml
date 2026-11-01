@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/wear-os-adding-system-status-bar-to-apps-wear-os-71-coming</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T20:44:36Z</news:publication_date>
+      <news:title>Wear OS adding ‘system status bar’ to apps, Wear OS 7.1 coming</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/06/Wear-OS-7-cover.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Wear OS adding ‘system status bar’ to apps, Wear OS 7.1 coming</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/google-says-googlebook-detachables-are-coming-soon</loc>
     <news:news>
       <news:publication>
@@ -15,6 +30,21 @@
     <image:image>
       <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/Googlebook-family-cover.webp?w=1600</image:loc>
       <image:title>Google says Googlebook ‘detachables’ are coming soon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/how-to-know-if-a-usb-c-cable-is-waterproof</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T20:00:00Z</news:publication_date>
+      <news:title>How to know if a USB-C cable is waterproof</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/how-to-know-if-a-usb-c-cable-is-waterproof-or-not/l-intro-1793116949.jpg</image:loc>
+      <image:title>How to know if a USB-C cable is waterproof</image:title>
     </image:image>
   </url>
   <url>
@@ -2145,126 +2175,6 @@
     <image:image>
       <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg</image:loc>
       <image:title>Anthropic VS code extension on Cursor backdoored for nearly 12 hours</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/exclusive-details-about-akais-mpc-sample-key</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T21:01:32Z</news:publication_date>
-      <news:title>Exclusive details about Akai’s MPC Sample Key</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai_Sample_Key_DSC01934_WEB.jpeg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Exclusive details about Akai’s MPC Sample Key</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/pixelated-123-the-primary-value-is-the-clock</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T21:00:00Z</news:publication_date>
-      <news:title>Pixelated 123: The primary value is the clock</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2024/03/Pixelated-cover.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Pixelated 123: The primary value is the clock</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/sam-altman-says-its-better-for-ram-to-be-in-a-data-center-than-on-your-desk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T20:48:43Z</news:publication_date>
-      <news:title>Sam Altman says it’s better for RAM to be in a data center than on your desk</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Sam Altman says it’s better for RAM to be in a data center than on your desk</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/dartmouths-provost-warned-us-about-ai-cheatingbut-his-own-ai-use-cost-him-his-job</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T20:40:13Z</news:publication_date>
-      <news:title>Dartmouth&apos;s provost warned us about AI cheating—but his own AI use cost him his job</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2228700612-1152x648.jpg</image:loc>
-      <image:title>Dartmouth&apos;s provost warned us about AI cheating—but his own AI use cost him his job</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple039s-flash-storage-suppliers-are-finally-039getting-their-revenge039</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T20:28:37Z</news:publication_date>
-      <news:title>Apple&amp;#039;s Flash Storage Suppliers Are Finally &amp;#039;Getting Their Revenge&amp;#039;</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2024/04/apple-silicon-feature-joeblue.jpg</image:loc>
-      <image:title>Apple&amp;#039;s Flash Storage Suppliers Are Finally &amp;#039;Getting Their Revenge&amp;#039;</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-biggest-names-in-ai-are-backing-a-new-way-to-opt-out-of-scraping</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T20:26:10Z</news:publication_date>
-      <news:title>The biggest names in AI are backing a new way to opt out of scraping</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>The biggest names in AI are backing a new way to opt out of scraping</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/meta-settles-another-social-media-addiction-case-just-before-trial</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T20:21:28Z</news:publication_date>
-      <news:title>Meta settles another social media addiction case just before trial</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/meta-settles-another-social-media-addiction-case-just-before-trial/l-intro-1793391515.jpg</image:loc>
-      <image:title>Meta settles another social media addiction case just before trial</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/over-25-of-people-lie-to-get-antibioticsand-their-lies-arent-even-good</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T20:17:50Z</news:publication_date>
-      <news:title>Over 25% of people lie to get antibiotics—and their lies aren&apos;t even good</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1219036990-1152x648.jpg</image:loc>
-      <image:title>Over 25% of people lie to get antibiotics—and their lies aren&apos;t even good</image:title>
     </image:image>
   </url>
 </urlset>
