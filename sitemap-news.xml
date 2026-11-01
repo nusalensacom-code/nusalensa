@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/google-says-googlebook-detachables-are-coming-soon</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T20:07:31Z</news:publication_date>
+      <news:title>Google says Googlebook ‘detachables’ are coming soon</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/Googlebook-family-cover.webp?w=1600</image:loc>
+      <image:title>Google says Googlebook ‘detachables’ are coming soon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/flock-keeps-ignoring-requests-to-cancel-its-contracts</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T19:58:02Z</news:publication_date>
+      <news:title>Flock keeps ignoring requests to cancel its contracts</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268713_Americans_seem_to_agree_that_destroy_Flock_cameras_is_good_CVirginia.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Flock keeps ignoring requests to cancel its contracts</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/5-ways-to-get-amazon-prime-for-free-or-way-cheaper</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T19:45:00Z</news:publication_date>
+      <news:title>5 ways to get Amazon Prime for free (or way cheaper)</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/5-ways-to-get-amazon-prime-for-free-or-way-cheaper/l-intro-1793243550.jpg</image:loc>
+      <image:title>5 ways to get Amazon Prime for free (or way cheaper)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/how-to-turn-on-the-flashlight-on-your-android-phone-without-unlocking-it</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T19:30:00Z</news:publication_date>
+      <news:title>How to turn on the flashlight on your Android phone without unlocking it</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/how-to-turn-on-the-flashlight-on-your-android-phone-without-unlocking-it/l-intro-1792959825.jpg</image:loc>
+      <image:title>How to turn on the flashlight on your Android phone without unlocking it</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/judge-says-xai-must-face-naacp-lawsuit-on-data-center-pollution</loc>
     <news:news>
       <news:publication>
@@ -2205,141 +2265,6 @@
     <image:image>
       <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1219036990-1152x648.jpg</image:loc>
       <image:title>Over 25% of people lie to get antibiotics—and their lies aren&apos;t even good</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/bluesky-now-has-a-dedicated-moderation-inbox</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T20:07:00Z</news:publication_date>
-      <news:title>Bluesky now has a dedicated &apos;moderation inbox&apos;</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/bluesky-now-has-a-dedicated-moderation-inbox/l-intro-1793390683.jpg</image:loc>
-      <image:title>Bluesky now has a dedicated &apos;moderation inbox&apos;</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/a-new-vulnerability-can-brick-your-android-phone-when-receiving-the-sms-of-death</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T20:03:02Z</news:publication_date>
-      <news:title>A new vulnerability can brick your Android phone when receiving the SMS of Death</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/25/02/google-messages-whatsapp-video-call/gsmarena_000.jpg</image:loc>
-      <image:title>A new vulnerability can brick your Android phone when receiving the SMS of Death</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/amazon-slashes-429-off-the-samsung-galaxy-s26-plus-512gb</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T20:00:37Z</news:publication_date>
-      <news:title>Amazon slashes $429 off the Samsung Galaxy S26 Plus 512GB</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Galaxy-S26-Plus-camera.jpg</image:loc>
-      <image:title>Amazon slashes $429 off the Samsung Galaxy S26 Plus 512GB</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/android-auto-can-run-sideloaded-apps-for-free-with-this-new-tool</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T19:59:47Z</news:publication_date>
-      <news:title>Android Auto can run sideloaded apps for free with this new tool</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/android-auto-home-screen-1.jpg</image:loc>
-      <image:title>Android Auto can run sideloaded apps for free with this new tool</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/youtube-bug-keeps-kicking-viewers-out-of-full-screen-and-killing-audio</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T19:52:34Z</news:publication_date>
-      <news:title>YouTube bug keeps kicking viewers out of full screen and killing audio</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/03/youtube-logo-google-pixel-10a-2-scaled.jpg</image:loc>
-      <image:title>YouTube bug keeps kicking viewers out of full screen and killing audio</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/score-a-150-discount-the-apple-watch-ultra-3</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T19:44:50Z</news:publication_date>
-      <news:title>Score a $150 discount the Apple Watch Ultra 3</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/09/Apple-Watch-Ultra-3-1-scaled.jpg</image:loc>
-      <image:title>Score a $150 discount the Apple Watch Ultra 3</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/14-new-things-your-iphone-can-do-in-ios-272</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T19:42:54Z</news:publication_date>
-      <news:title>14 New Things Your iPhone Can Do in iOS 27.2</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/Everything-New-Your-iPhone-Can-Do-on-iOS-27.2-Feature-1.jpg</image:loc>
-      <image:title>14 New Things Your iPhone Can Do in iOS 27.2</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/oppo-find-x10-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T19:39:07Z</news:publication_date>
-      <news:title>Oppo Find X10 review</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/reviews/26/oppo-find-x10/-347x151/gsmarena_001.jpg</image:loc>
-      <image:title>Oppo Find X10 review</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-12th-google-store-is-opening-on-november-6</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T19:37:58Z</news:publication_date>
-      <news:title>The 12th Google Store is opening on November 6</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2023/09/google-store-logo-3.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>The 12th Google Store is opening on November 6</image:title>
     </image:image>
   </url>
 </urlset>
