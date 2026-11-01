@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/deals-apple-oppo-and-samsungs-flagship-smartphones-are-available-at-reduced-prices</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T12:29:02Z</news:publication_date>
+      <news:title>Deals: Apple, Oppo, and Samsung’s flagship smartphones are available at reduced prices</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/deals-30/gsmarena_uk.jpg</image:loc>
+      <image:title>Deals: Apple, Oppo, and Samsung’s flagship smartphones are available at reduced prices</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/this-android-gaming-benchmark-app-does-something-ive-never-seen-before</loc>
     <news:news>
       <news:publication>
@@ -2760,171 +2775,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268837_HomeView_and_Show_16_smart_display_report_CVirginia2.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>The HomeView and Echo Show 16 could be the family computers I’ve been asking for</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/airtag-2-4-pack-drops-to-new-low-price-of-366999</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T12:48:50Z</news:publication_date>
-      <news:title>AirTag 2 4-Pack Drops to New Low Price of &amp;#36;69.99</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/01/Second-Generation-AirTag-Feature.jpg</image:loc>
-      <image:title>AirTag 2 4-Pack Drops to New Low Price of &amp;#36;69.99</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/one-ui-9-with-android-17-is-rolling-out-to-these-two-popular-galaxy-phones-in-the-us</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T12:46:46Z</news:publication_date>
-      <news:title>One UI 9 with Android 17 is rolling out to these two popular Galaxy phones in the US</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/06/Samsung-Galaxy-A35-app-drawer.jpg</image:loc>
-      <image:title>One UI 9 with Android 17 is rolling out to these two popular Galaxy phones in the US</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/android-17-is-on-1-of-devices-after-four-months-android-16-on-over-25</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T12:45:00Z</news:publication_date>
-      <news:title>Android 17 is on 1% of devices after four months, Android 16 on over 25%</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2025/03/android-booth-9.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Android 17 is on 1% of devices after four months, Android 16 on over 25%</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-is-testing-an-ios-style-family-hub-on-the-pixel-1</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T12:44:20Z</news:publication_date>
-      <news:title>Google is testing an iOS-style Family hub on the Pixel</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/04/Expressive_Settings_homepage_in_Android_16_Beta_4-scaled.jpg</image:loc>
-      <image:title>Google is testing an iOS-style Family hub on the Pixel</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-is-testing-an-ios-style-family-hub-on-the-pixel</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T12:44:20Z</news:publication_date>
-      <news:title>Google is testing an iOS-style Family hub on the Pixel</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/04/Expressive_Settings_homepage_in_Android_16_Beta_4-scaled.jpg</image:loc>
-      <image:title>Google is testing an iOS-style Family hub on the Pixel</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/no-internet-no-problem-google-is-working-on-an-offline-mode-for-gemini-live</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T12:42:15Z</news:publication_date>
-      <news:title>No internet, no problem: Google is working on an offline mode for Gemini Live</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/08/Google-Gemini-Live-Maps-extension.jpg</image:loc>
-      <image:title>No internet, no problem: Google is working on an offline mode for Gemini Live</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/nothing8217s-android-17-update-arrives-early-for-four-more-phones</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T12:30:19Z</news:publication_date>
-      <news:title>Nothing&amp;#8217;s Android 17 update arrives early for four more phones</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/04/Nothing-Phone-4a-display-scaled.jpg</image:loc>
-      <image:title>Nothing&amp;#8217;s Android 17 update arrives early for four more phones</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-official-phantom-blade-zero-smart-glasses-from-viture-are-here</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T12:30:00Z</news:publication_date>
-      <news:title>The official Phantom Blade Zero smart glasses from Viture are here</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/viture-phantom-beast-official-01.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>The official Phantom Blade Zero smart glasses from Viture are here</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-apple-pencil-turned-the-duo-into-my-new-favorite-notebook</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T12:30:00Z</news:publication_date>
-      <news:title>The Apple Pencil turned the Duo into my new favorite notebook</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04364_processed.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>The Apple Pencil turned the Duo into my new favorite notebook</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/rian-johnson039s-iphone-camera-app-goes-viral</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T12:23:15Z</news:publication_date>
-      <news:title>Rian Johnson&amp;#039;s iPhone Camera App Goes Viral</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/iPhone-18-Pro-Max-Glacier-Camera.jpg</image:loc>
-      <image:title>Rian Johnson&amp;#039;s iPhone Camera App Goes Viral</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/meta-quietly-launches-an-ai-fashion-app-for-virtually-trying-on-clothes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T12:05:36Z</news:publication_date>
-      <news:title>Meta quietly launches an AI fashion app for virtually trying on clothes</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/meta-quietly-launches-an-ai-fashion-app-for-virtually-trying-on-clothes/l-intro-1793361850.jpg</image:loc>
-      <image:title>Meta quietly launches an AI fashion app for virtually trying on clothes</image:title>
     </image:image>
   </url>
 </urlset>

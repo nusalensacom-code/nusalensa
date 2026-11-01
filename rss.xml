@@ -5,8 +5,17 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 01 Nov 2026 12:04:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 12:50:00 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deals: Apple, Oppo, and Samsung’s flagship smartphones are available at reduced prices</title>
+      <link>https://nusalensa.com/phones/deals-apple-oppo-and-samsungs-flagship-smartphones-are-available-at-reduced-prices</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/deals-apple-oppo-and-samsungs-flagship-smartphones-are-available-at-reduced-prices</guid>
+      <description>The Oppo Find X10 and Find X10 Pro Max went on pre-order last week, and are now available for purchase. Samsung’s Galaxy S26 series and the latest Galaxy foldab</description>
+      <category>Smartphones</category>
+      <pubDate>Sun, 01 Nov 2026 12:29:02 GMT</pubDate>
+      <enclosure url="https://fdn.gsmarena.com/imgroot/news/26/10/deals-30/gsmarena_uk.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>This Android gaming benchmark app does something I’ve never seen before</title>
       <link>https://nusalensa.com/phones/this-android-gaming-benchmark-app-does-something-ive-never-seen-before</link>
@@ -267,15 +276,6 @@
       <category>Smartphones</category>
       <pubDate>Sat, 31 Oct 2026 18:30:00 GMT</pubDate>
       <enclosure url="https://www.engadget.com/img/gallery/how-to-use-claude-duet-when-it-rolls-out-to-you/l-intro-1792786501.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>4 drawbacks you should know before buying a PlayStation 5</title>
-      <link>https://nusalensa.com/technology/4-drawbacks-you-should-know-before-buying-a-playstation-5</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/4-drawbacks-you-should-know-before-buying-a-playstation-5</guid>
-      <description>The PS5 isn&apos;t as good of a buy today as it was early in its life, so you should be aware of the drawbacks in this awkward console generation.</description>
-      <category>Technology</category>
-      <pubDate>Sat, 31 Oct 2026 18:00:00 GMT</pubDate>
-      <enclosure url="https://www.engadget.com/img/gallery/4-drawbacks-you-should-know-before-buying-a-playstation-5/l-intro-1793035591.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
