@@ -5,8 +5,17 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 01 Nov 2026 05:41:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 06:46:45 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lava smartphones will get expensive in India from November 15</title>
+      <link>https://nusalensa.com/phones/lava-smartphones-will-get-expensive-in-india-from-november-15</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/lava-smartphones-will-get-expensive-in-india-from-november-15</guid>
+      <description>Indian handset maker Lava has announced that its smartphones will get expensive in India from November 15, 2026, by up to INR3,000. Lava says the price hike is </description>
+      <category>Smartphones</category>
+      <pubDate>Sun, 01 Nov 2026 06:32:02 GMT</pubDate>
+      <enclosure url="https://fdn.gsmarena.com/imgroot/news/26/10/lava-smartphone-price-hike-india/gsmarena_001.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Weekly poll: do touchscreens on laptops make sense?</title>
       <link>https://nusalensa.com/phones/weekly-poll-do-touchscreens-on-laptops-make-sense</link>
@@ -267,15 +276,6 @@
       <category>Technology</category>
       <pubDate>Sat, 31 Oct 2026 16:07:17 GMT</pubDate>
       <enclosure url="https://www.engadget.com/img/gallery/nasas-second-year-long-mars-simulation-mission-ends-today/l-intro-1793462639.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>I built an AI Tamagotchi before Meta could</title>
-      <link>https://nusalensa.com/technology/i-built-an-ai-tamagotchi-before-meta-could</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/i-built-an-ai-tamagotchi-before-meta-could</guid>
-      <description>Mark Zuckerberg&apos;s Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can </description>
-      <category>Technology</category>
-      <pubDate>Sat, 31 Oct 2026 16:05:00 GMT</pubDate>
-      <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/verge-sean-hollister-muse-gadget-331A2564-01-3.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=4,0,96,94.899920311255" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>

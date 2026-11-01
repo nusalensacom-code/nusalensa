@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/lava-smartphones-will-get-expensive-in-india-from-november-15</loc>
+    <lastmod>2026-11-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/lava-smartphone-price-hike-india/gsmarena_001.jpg</image:loc>
+      <image:title>Lava smartphones will get expensive in India from November 15</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/weekly-poll-do-touchscreens-on-laptops-make-sense</loc>
     <lastmod>2026-11-01</lastmod>
     <changefreq>daily</changefreq>

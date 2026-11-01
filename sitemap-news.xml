@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/lava-smartphones-will-get-expensive-in-india-from-november-15</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T06:32:02Z</news:publication_date>
+      <news:title>Lava smartphones will get expensive in India from November 15</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/lava-smartphone-price-hike-india/gsmarena_001.jpg</image:loc>
+      <image:title>Lava smartphones will get expensive in India from November 15</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/weekly-poll-do-touchscreens-on-laptops-make-sense</loc>
     <news:news>
       <news:publication>
@@ -3300,36 +3315,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/gemini-overlay-sparkle-bubble-animation-ask-gemini-text-box-vivo-x300-ultra.jpg</image:loc>
       <image:title>Google is giving Gemini&amp;#8217;s overlay a literal sparkle on your Android phone</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/motorola-finally-puts-a-date-on-its-galaxy-ultra-challenger</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T06:18:40Z</news:publication_date>
-      <news:title>Motorola finally puts a date on its Galaxy Ultra challenger</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Motorola-Signature-27-2-of-6.jpg</image:loc>
-      <image:title>Motorola finally puts a date on its Galaxy Ultra challenger</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/the-new-oled-ipad-mini-runs-geekbench-here-are-the-results</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T06:01:02Z</news:publication_date>
-      <news:title>The new OLED iPad mini runs Geekbench, here are the results</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/ipad-mini-geekbench/gsmarena_000.jpg</image:loc>
-      <image:title>The new OLED iPad mini runs Geekbench, here are the results</image:title>
     </image:image>
   </url>
 </urlset>
