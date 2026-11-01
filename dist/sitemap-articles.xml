@@ -2,6 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/should-you-repair-your-phone-or-replace-it-we-did-the-math</loc>
+    <lastmod>2026-11-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/06/Xiaomi-17-Ultra-with-Apple-iPhone-17-Pro-and-Samsung-Galaxy-S26-Ultra_9.jpg</image:loc>
+      <image:title>Should you repair your phone or replace it? We did the math</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/here-are-the-easiest-ways-to-share-your-live-location-on-android</loc>
+    <lastmod>2026-11-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/location-sharing-on-an-android-device-in-google-maps-scaled.jpg</image:loc>
+      <image:title>Here are the easiest ways to share your live location on Android</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/heres-how-to-reclaim-15gb-of-storage-after-ios-27-update</loc>
     <lastmod>2026-11-01</lastmod>
     <changefreq>daily</changefreq>

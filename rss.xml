@@ -5,8 +5,26 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 01 Nov 2026 09:37:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 10:34:26 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Should you repair your phone or replace it? We did the math</title>
+      <link>https://nusalensa.com/phones/should-you-repair-your-phone-or-replace-it-we-did-the-math</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/should-you-repair-your-phone-or-replace-it-we-did-the-math</guid>
+      <description>Sometimes, spending hundreds on repairs is the smarter financial decision.</description>
+      <category>Smartphones</category>
+      <pubDate>Sun, 01 Nov 2026 10:30:16 GMT</pubDate>
+      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/06/Xiaomi-17-Ultra-with-Apple-iPhone-17-Pro-and-Samsung-Galaxy-S26-Ultra_9.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Here are the easiest ways to share your live location on Android</title>
+      <link>https://nusalensa.com/phones/here-are-the-easiest-ways-to-share-your-live-location-on-android</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/here-are-the-easiest-ways-to-share-your-live-location-on-android</guid>
+      <description>Chances are you already have one of these apps, even if you didn&apos;t realize you could use it for location sharing.</description>
+      <category>Smartphones</category>
+      <pubDate>Sun, 01 Nov 2026 10:00:57 GMT</pubDate>
+      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/10/location-sharing-on-an-android-device-in-google-maps-scaled.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Here&apos;s how to reclaim 15GB of storage after iOS 27 update</title>
       <link>https://nusalensa.com/phones/heres-how-to-reclaim-15gb-of-storage-after-ios-27-update</link>
@@ -258,24 +276,6 @@
       <category>Technology</category>
       <pubDate>Sat, 31 Oct 2026 16:45:00 GMT</pubDate>
       <enclosure url="https://www.engadget.com/img/gallery/how-building-a-cheap-home-server-could-save-you-money-in-the-long-run/l-intro-1793284498.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Why your Spotify might be using so much storage</title>
-      <link>https://nusalensa.com/technology/why-your-spotify-might-be-using-so-much-storage</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/why-your-spotify-might-be-using-so-much-storage</guid>
-      <description>Spotify can be a storage hog if you don&apos;t have your device&apos;s settings optimized. Here&apos;s what you can do if Spotify is taking up too much storage.</description>
-      <category>Technology</category>
-      <pubDate>Sat, 31 Oct 2026 16:30:00 GMT</pubDate>
-      <enclosure url="https://www.engadget.com/img/gallery/why-your-spotify-might-be-using-so-much-storage/l-intro-1793029233.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>How long is too long for a USB cable?</title>
-      <link>https://nusalensa.com/technology/how-long-is-too-long-for-a-usb-cable</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/how-long-is-too-long-for-a-usb-cable</guid>
-      <description>USB cables, much like their HDMI cousins, have limits on how long they can be. The thing is, those limits are probably much lower than you expected.</description>
-      <category>Technology</category>
-      <pubDate>Sat, 31 Oct 2026 16:15:00 GMT</pubDate>
-      <enclosure url="https://www.engadget.com/img/gallery/how-long-is-too-long-for-a-usb-cable/l-intro-1793267592.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>

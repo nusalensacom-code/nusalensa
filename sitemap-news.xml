@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/should-you-repair-your-phone-or-replace-it-we-did-the-math</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T10:30:16Z</news:publication_date>
+      <news:title>Should you repair your phone or replace it? We did the math</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/06/Xiaomi-17-Ultra-with-Apple-iPhone-17-Pro-and-Samsung-Galaxy-S26-Ultra_9.jpg</image:loc>
+      <image:title>Should you repair your phone or replace it? We did the math</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/here-are-the-easiest-ways-to-share-your-live-location-on-android</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T10:00:57Z</news:publication_date>
+      <news:title>Here are the easiest ways to share your live location on Android</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/location-sharing-on-an-android-device-in-google-maps-scaled.jpg</image:loc>
+      <image:title>Here are the easiest ways to share your live location on Android</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/heres-how-to-reclaim-15gb-of-storage-after-ios-27-update</loc>
     <news:news>
       <news:publication>
@@ -2985,141 +3015,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_MAINE_DATA_CENTERS_CVirginia.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Maine’s data center revolt will decide who controls the Senate</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/android8217s-sms-of-death-bug-can-knock-out-your-phone-but-a-fix-is-coming-soon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T10:33:32Z</news:publication_date>
-      <news:title>Android&amp;#8217;s SMS of Death bug can knock out your phone, but a fix is coming soon</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/Google-Pixel-10-Pro-XL-Android-17-scaled.jpg</image:loc>
-      <image:title>Android&amp;#8217;s SMS of Death bug can knock out your phone, but a fix is coming soon</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-signature-27-is-motorola8217s-last-chance-to-get-android-updates-right</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T10:30:00Z</news:publication_date>
-      <news:title>The Signature 27 is Motorola&amp;#8217;s last chance to get Android updates right</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/04/2026-Motorola-Logo-Pool.jpg</image:loc>
-      <image:title>The Signature 27 is Motorola&amp;#8217;s last chance to get Android updates right</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/waymo-and-toyota-will-soon-start-testing-their-robotaxis-in-japan</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T10:23:52Z</news:publication_date>
-      <news:title>Waymo and Toyota will soon start testing their robotaxis in Japan</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/waymo-and-toyota-will-soon-start-testing-their-robotaxis-japan/l-intro-1793355754.jpg</image:loc>
-      <image:title>Waymo and Toyota will soon start testing their robotaxis in Japan</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/where-did-all-the-iphone-duos-go-mostly-to-apple039s-stores</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T10:10:09Z</news:publication_date>
-      <news:title>Where Did All the iPhone Duos Go? Mostly to Apple&amp;#039;s Stores</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/09/iphone-duo-colors.jpg</image:loc>
-      <image:title>Where Did All the iPhone Duos Go? Mostly to Apple&amp;#039;s Stores</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/senators-are-looking-into-serious-privacy-risks-with-metas-ai-glasses</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T10:08:13Z</news:publication_date>
-      <news:title>Senators are looking into &apos;serious privacy risks&apos; with Meta&apos;s AI glasses</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/senators-are-looking-into-serious-privacy-risks-with-metas-ai-glasses/l-intro-1793354694.jpg</image:loc>
-      <image:title>Senators are looking into &apos;serious privacy risks&apos; with Meta&apos;s AI glasses</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/you-can-now-easily-find-and-add-textbooks-in-gemini-notebook</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T10:03:25Z</news:publication_date>
-      <news:title>You can now easily find and add textbooks in Gemini Notebook</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-Ultra-Gemini-Notebook-scaled.jpg</image:loc>
-      <image:title>You can now easily find and add textbooks in Gemini Notebook</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/i-tested-the-7-most-popular-android-launchers-here8217s-my-ranking</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T10:00:25Z</news:publication_date>
-      <news:title>I tested the 7 most popular Android launchers — here&amp;#8217;s my ranking</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Nothing-Phone-with-Nova-Launcher-home-screen-on-wood-1-scaled.jpg</image:loc>
-      <image:title>I tested the 7 most popular Android launchers — here&amp;#8217;s my ranking</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iphone-duos-cracking-screens-are-already-scaring-off-would-be-buyers-survey-finds</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T09:57:40Z</news:publication_date>
-      <news:title>iPhone Duo’s cracking screens are already scaring off would-be buyers, survey finds</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/iPhone-Duo-Star-White-box.jpg</image:loc>
-      <image:title>iPhone Duo’s cracking screens are already scaring off would-be buyers, survey finds</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/from-dual-screen-handhelds-to-xbox-cloud-gaming-droiddeck-just-got-a-huge-update</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T09:53:47Z</news:publication_date>
-      <news:title>From dual-screen handhelds to Xbox Cloud Gaming, DroidDeck just got a huge update</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/DroidDeck-on-Retroid-Pocket-G2-scaled.jpg</image:loc>
-      <image:title>From dual-screen handhelds to Xbox Cloud Gaming, DroidDeck just got a huge update</image:title>
     </image:image>
   </url>
 </urlset>
