@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/judge-says-xai-must-face-naacp-lawsuit-on-data-center-pollution</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T19:19:22Z</news:publication_date>
+      <news:title>Judge says xAI must face NAACP lawsuit on data center pollution</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/judge-says-xai-must-face-naacp-lawsuit-on-data-center-pollution/l-intro-1793560530.jpg</image:loc>
+      <image:title>Judge says xAI must face NAACP lawsuit on data center pollution</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/this-hidden-windows-11-menu-can-save-you-valuable-time-when-troubleshooting</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T19:00:00Z</news:publication_date>
+      <news:title>This hidden Windows 11 menu can save you valuable time when troubleshooting</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/this-hidden-windows-11-menu-can-save-you-valuable-time-when-troubleshooting/l-intro-1792876075.jpg</image:loc>
+      <image:title>This hidden Windows 11 menu can save you valuable time when troubleshooting</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/apples-busy-week-iphone-duo-troubles-and-poco-x8s-debut-week-43-in-review</loc>
     <news:news>
       <news:publication>
@@ -15,6 +45,51 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot//news/26/10/week-43-in-review/gsmarena_000.jpg</image:loc>
       <image:title>Apple’s busy week, iPhone Duo troubles and Poco X8s debut, Week 43 in review</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-biggest-problem-with-trying-to-directly-power-evs-with-solar-roofs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T18:30:00Z</news:publication_date>
+      <news:title>The biggest problem with trying to directly power EVs with solar roofs</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/the-biggest-problem-with-trying-to-directly-power-evs-with-solar-roofs/l-intro-1793119475.jpg</image:loc>
+      <image:title>The biggest problem with trying to directly power EVs with solar roofs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/how-much-would-it-cost-to-build-a-pc-similar-to-the-xbox-series-s</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T18:15:00Z</news:publication_date>
+      <news:title>How much would it cost to build a PC similar to the Xbox Series S?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/xbox-series-s-pc-similar-how-much-to-build/l-intro-1793244150.jpg</image:loc>
+      <image:title>How much would it cost to build a PC similar to the Xbox Series S?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/5-safety-practices-to-know-before-vibe-coding</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T18:00:00Z</news:publication_date>
+      <news:title>5 safety practices to know before vibe coding</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/vibe-coding-safety-practices/l-intro-1793383938.jpg</image:loc>
+      <image:title>5 safety practices to know before vibe coding</image:title>
     </image:image>
   </url>
   <url>
@@ -2265,66 +2340,6 @@
     <image:image>
       <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2023/09/google-store-logo-3.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
       <image:title>The 12th Google Store is opening on November 6</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/basically-no-one-is-using-ai-agents-for-their-doordash-orders</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T19:30:52Z</news:publication_date>
-      <news:title>Basically no one is using AI agents for their DoorDash orders</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2301817894-1024x648.jpg</image:loc>
-      <image:title>Basically no one is using AI agents for their DoorDash orders</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/boses-new-quietcomfort-ultra-headphones-hit-prime-day-low-again</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T19:24:52Z</news:publication_date>
-      <news:title>Bose’s new QuietComfort Ultra Headphones hit Prime Day low again</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/12/Bose-QuietComfort-Ultra-2nd-Gen-next-to-other-headphones.jpg</image:loc>
-      <image:title>Bose’s new QuietComfort Ultra Headphones hit Prime Day low again</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iphone-duo-review-one-week-later</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T19:06:12Z</news:publication_date>
-      <news:title>iPhone Duo Review: One Week Later</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
-      <image:title>iPhone Duo Review: One Week Later</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/everything-you-need-to-know-about-googlebooks</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T19:00:00Z</news:publication_date>
-      <news:title>Everything you need to know about Googlebooks</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/despite-good-initial-hardware-the-googlebook-os-is-holding-the-platform-back/l-intro-1793383802.jpg</image:loc>
-      <image:title>Everything you need to know about Googlebooks</image:title>
     </image:image>
   </url>
 </urlset>
