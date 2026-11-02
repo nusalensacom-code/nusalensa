@@ -5,8 +5,26 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 02 Nov 2026 05:57:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 07:07:29 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wear OS 7.1 is official, but a future version will copy this key Android phone feature</title>
+      <link>https://nusalensa.com/phones/wear-os-71-is-official-but-a-future-version-will-copy-this-key-android-phone-feature</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/wear-os-71-is-official-but-a-future-version-will-copy-this-key-android-phone-feature</guid>
+      <description>Wear OS will gain a system status bar in apps, but not in Wear OS 7.1.</description>
+      <category>Smartphones</category>
+      <pubDate>Mon, 02 Nov 2026 06:43:28 GMT</pubDate>
+      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-8-scaled-e1786466755516-500w-260h.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>ChatGPT could soon turn your Android health data into something you can actually use</title>
+      <link>https://nusalensa.com/phones/chatgpt-could-soon-turn-your-android-health-data-into-something-you-can-actually-use</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/chatgpt-could-soon-turn-your-android-health-data-into-something-you-can-actually-use</guid>
+      <description>It might finally add the Google Health integration Android users have been missing.</description>
+      <category>Smartphones</category>
+      <pubDate>Mon, 02 Nov 2026 06:36:17 GMT</pubDate>
+      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/07/chatgpt-health-image.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Xiaomi 18 Pro series is going global this month</title>
       <link>https://nusalensa.com/phones/xiaomi-18-pro-series-is-going-global-this-month</link>
@@ -258,24 +276,6 @@
       <category>Smartphones</category>
       <pubDate>Sun, 01 Nov 2026 18:32:03 GMT</pubDate>
       <enclosure url="https://fdn.gsmarena.com/imgroot//news/26/10/week-43-in-review/gsmarena_000.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>The biggest problem with trying to directly power EVs with solar roofs</title>
-      <link>https://nusalensa.com/technology/the-biggest-problem-with-trying-to-directly-power-evs-with-solar-roofs</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/the-biggest-problem-with-trying-to-directly-power-evs-with-solar-roofs</guid>
-      <description>Solar roofs promise a future where EVs rarely need plugging in, but turning that vision into reality presents some surprisingly difficult challenges.</description>
-      <category>Technology</category>
-      <pubDate>Sun, 01 Nov 2026 18:30:00 GMT</pubDate>
-      <enclosure url="https://www.engadget.com/img/gallery/the-biggest-problem-with-trying-to-directly-power-evs-with-solar-roofs/l-intro-1793119475.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>How much would it cost to build a PC similar to the Xbox Series S?</title>
-      <link>https://nusalensa.com/technology/how-much-would-it-cost-to-build-a-pc-similar-to-the-xbox-series-s</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/how-much-would-it-cost-to-build-a-pc-similar-to-the-xbox-series-s</guid>
-      <description>The Xbox Series S offers a solid entry-level experience for those interested in console gaming. Here&apos;s what an equivalent gaming PC would cost you.</description>
-      <category>Technology</category>
-      <pubDate>Sun, 01 Nov 2026 18:15:00 GMT</pubDate>
-      <enclosure url="https://www.engadget.com/img/gallery/xbox-series-s-pc-similar-how-much-to-build/l-intro-1793244150.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>

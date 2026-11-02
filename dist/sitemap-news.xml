@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/wear-os-71-is-official-but-a-future-version-will-copy-this-key-android-phone-feature</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T06:43:28Z</news:publication_date>
+      <news:title>Wear OS 7.1 is official, but a future version will copy this key Android phone feature</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-8-scaled-e1786466755516-500w-260h.jpg</image:loc>
+      <image:title>Wear OS 7.1 is official, but a future version will copy this key Android phone feature</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/chatgpt-could-soon-turn-your-android-health-data-into-something-you-can-actually-use</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T06:36:17Z</news:publication_date>
+      <news:title>ChatGPT could soon turn your Android health data into something you can actually use</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/chatgpt-health-image.jpg</image:loc>
+      <image:title>ChatGPT could soon turn your Android health data into something you can actually use</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/xiaomi-18-pro-series-is-going-global-this-month</loc>
     <news:news>
       <news:publication>
@@ -2160,36 +2190,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Samsung-Galaxy-S26-Ultras-camera-module-zoomed-in.jpg</image:loc>
       <image:title>I hate Samsung&amp;#8217;s default camera app — here&amp;#8217;s what I use instead</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/039pluribus039-season-2-reportedly-starts-production-today</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T06:41:45Z</news:publication_date>
-      <news:title>&amp;#039;Pluribus&amp;#039; Season 2 Reportedly Starts Production Today</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2025/10/Pluribus_Poster_0101.jpg</image:loc>
-      <image:title>&amp;#039;Pluribus&amp;#039; Season 2 Reportedly Starts Production Today</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/deals-iphone-17-series-on-sale-oled-packing-ipad-mini-and-touch-enabled-macbook-pro-launch</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T06:31:02Z</news:publication_date>
-      <news:title>Deals: iPhone 17 series on sale, OLED-packing iPad mini and touch-enabled MacBook Pro launch</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/deals-30/gsmarena_de.jpg</image:loc>
-      <image:title>Deals: iPhone 17 series on sale, OLED-packing iPad mini and touch-enabled MacBook Pro launch</image:title>
     </image:image>
   </url>
 </urlset>
