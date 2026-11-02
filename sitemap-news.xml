@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/ai-glasses-can-replace-your-prescription-glasses-but-should-they</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T00:00:00Z</news:publication_date>
+      <news:title>AI glasses can replace your prescription glasses, but should they?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/ai-glasses-can-replace-your-prescription-glasses-but-should-they/l-intro-1792784878.jpg</image:loc>
+      <image:title>AI glasses can replace your prescription glasses, but should they?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/how-using-one-earbud-more-than-the-other-can-cause-uneven-wear-and-tear</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T23:45:00Z</news:publication_date>
+      <news:title>How using one earbud more than the other can cause uneven wear and tear</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/how-using-one-earbud-more-than-the-other-can-cause-uneven-wear-and-tear/l-intro-1792776566.jpg</image:loc>
+      <image:title>How using one earbud more than the other can cause uneven wear and tear</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/this-is-the-right-way-to-clean-your-vinyl-records</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T23:30:00Z</news:publication_date>
+      <news:title>This is the right way to clean your vinyl records</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/this-is-the-right-way-to-clean-your-vinyl-records/l-intro-1793204302.jpg</image:loc>
+      <image:title>This is the right way to clean your vinyl records</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/how-to-clean-your-playstation-5-without-damaging-it</loc>
     <news:news>
       <news:publication>
