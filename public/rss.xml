@@ -5,8 +5,35 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 02 Nov 2026 00:58:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 01:59:47 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sennheiser Momentum True Wireless 5 review</title>
+      <link>https://nusalensa.com/reviews/sennheiser-momentum-true-wireless-5-review</link>
+      <guid isPermaLink="true">https://nusalensa.com/reviews/sennheiser-momentum-true-wireless-5-review</guid>
+      <description>The Sennheiser Momentum True Wireless 5 are the company’s latest flagship true wireless earbuds. They are a major overhaul of the previous generation Momentum T</description>
+      <category>Reviews</category>
+      <pubDate>Mon, 02 Nov 2026 01:31:02 GMT</pubDate>
+      <enclosure url="https://fdn.gsmarena.com/imgroot/news/26/10/sennheiser-momentum-true-wireless-5-review/gsmarena_000.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>How long is a new Apple TV actually supposed to last?</title>
+      <link>https://nusalensa.com/technology/how-long-is-a-new-apple-tv-actually-supposed-to-last</link>
+      <guid isPermaLink="true">https://nusalensa.com/technology/how-long-is-a-new-apple-tv-actually-supposed-to-last</guid>
+      <description>Past Apple TV models have seen excellent support from Apple compared to some other product lines, but it&apos;s not a guarantee.</description>
+      <category>Technology</category>
+      <pubDate>Mon, 02 Nov 2026 01:30:00 GMT</pubDate>
+      <enclosure url="https://www.engadget.com/img/gallery/how-long-is-a-new-apple-tv-actually-supposed-to-last/l-intro-1793037978.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>6 Google Maps features that work better on Android Auto vs. CarPlay</title>
+      <link>https://nusalensa.com/technology/6-google-maps-features-that-work-better-on-android-auto-vs-carplay</link>
+      <guid isPermaLink="true">https://nusalensa.com/technology/6-google-maps-features-that-work-better-on-android-auto-vs-carplay</guid>
+      <description>You would think that Maps would be the same regardless of your phone&apos;s brand, but there are some differences between the Android Auto and CarPlay experiences.</description>
+      <category>Technology</category>
+      <pubDate>Mon, 02 Nov 2026 01:00:00 GMT</pubDate>
+      <enclosure url="https://www.engadget.com/img/gallery/6-google-maps-features-that-work-better-on-android-auto-vs-carplay/l-intro-1793216852.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>How to add and rearrange apps on your Samsung smart TV</title>
       <link>https://nusalensa.com/technology/how-to-add-and-rearrange-apps-on-your-samsung-smart-tv</link>
@@ -249,33 +276,6 @@
       <category>Smartphones</category>
       <pubDate>Sun, 01 Nov 2026 17:33:43 GMT</pubDate>
       <enclosure url="https://images.macrumors.com/article-new/2026/06/m5-macbook-air-prime-day.jpeg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>5 nifty ways you can reuse your old laptop</title>
-      <link>https://nusalensa.com/technology/5-nifty-ways-you-can-reuse-your-old-laptop</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/5-nifty-ways-you-can-reuse-your-old-laptop</guid>
-      <description>You can do so much more with an old laptop than just throwing it away or leaving it to rot in a drawer. Here are some clever ways to reuse one.</description>
-      <category>Technology</category>
-      <pubDate>Sun, 01 Nov 2026 17:30:00 GMT</pubDate>
-      <enclosure url="https://www.engadget.com/img/gallery/5-nifty-ways-you-can-reuse-your-old-laptop/l-intro-1793246677.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Meta reportedly built a humanoid robot prototype that can do household chores</title>
-      <link>https://nusalensa.com/technology/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores</guid>
-      <description>A report said the company is already working on the second version that&apos;s codenamed Max 2.</description>
-      <category>Technology</category>
-      <pubDate>Sun, 01 Nov 2026 17:17:42 GMT</pubDate>
-      <enclosure url="https://www.engadget.com/img/gallery/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/l-intro-1793552988.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Apple’s HomeView could add security camera features</title>
-      <link>https://nusalensa.com/technology/apples-homeview-could-add-security-camera-features</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/apples-homeview-could-add-security-camera-features</guid>
-      <description>Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub. The strings describe a </description>
-      <category>Technology</category>
-      <pubDate>Sun, 01 Nov 2026 17:16:07 GMT</pubDate>
-      <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6101.jpeg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>

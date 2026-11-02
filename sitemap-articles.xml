@@ -2,6 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/reviews/sennheiser-momentum-true-wireless-5-review</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/sennheiser-momentum-true-wireless-5-review/gsmarena_000.jpg</image:loc>
+      <image:title>Sennheiser Momentum True Wireless 5 review</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/how-long-is-a-new-apple-tv-actually-supposed-to-last</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/how-long-is-a-new-apple-tv-actually-supposed-to-last/l-intro-1793037978.jpg</image:loc>
+      <image:title>How long is a new Apple TV actually supposed to last?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/6-google-maps-features-that-work-better-on-android-auto-vs-carplay</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/6-google-maps-features-that-work-better-on-android-auto-vs-carplay/l-intro-1793216852.jpg</image:loc>
+      <image:title>6 Google Maps features that work better on Android Auto vs. CarPlay</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/how-to-add-and-rearrange-apps-on-your-samsung-smart-tv</loc>
     <lastmod>2026-11-02</lastmod>
     <changefreq>daily</changefreq>
