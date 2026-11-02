@@ -2,6 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/xiaomi-18-pro-series-is-going-global-this-month</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/xiaomi-18-pro-max-global-launch-timeline/gsmarena_000.jpg</image:loc>
+      <image:title>Xiaomi 18 Pro series is going global this month</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/jackery-made-its-portable-power-stations-even-smaller</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/jackery1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Jackery made its portable power stations even smaller</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/spotify-could-make-premium-subscribers-pay-5-more-a-month-for-its-next-big-bet</loc>
     <lastmod>2026-11-02</lastmod>
     <changefreq>daily</changefreq>

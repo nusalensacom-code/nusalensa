@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/xiaomi-18-pro-series-is-going-global-this-month</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T05:30:02Z</news:publication_date>
+      <news:title>Xiaomi 18 Pro series is going global this month</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/xiaomi-18-pro-max-global-launch-timeline/gsmarena_000.jpg</image:loc>
+      <image:title>Xiaomi 18 Pro series is going global this month</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/jackery-made-its-portable-power-stations-even-smaller</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T05:00:00Z</news:publication_date>
+      <news:title>Jackery made its portable power stations even smaller</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/jackery1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Jackery made its portable power stations even smaller</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/spotify-could-make-premium-subscribers-pay-5-more-a-month-for-its-next-big-bet</loc>
     <news:news>
       <news:publication>
@@ -2160,21 +2190,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/deals-30/gsmarena_de.jpg</image:loc>
       <image:title>Deals: iPhone 17 series on sale, OLED-packing iPad mini and touch-enabled MacBook Pro launch</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iphone-18-pro-sales-surge-in-china-offsetting-decline-in-us-and-japan</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T05:55:35Z</news:publication_date>
-      <news:title>iPhone 18 Pro Sales Surge in China, Offsetting Decline in U.S. and Japan</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/iPhone-18-Pro-Pre-Orders-Feature-Sans-Text.jpg</image:loc>
-      <image:title>iPhone 18 Pro Sales Surge in China, Offsetting Decline in U.S. and Japan</image:title>
     </image:image>
   </url>
 </urlset>
