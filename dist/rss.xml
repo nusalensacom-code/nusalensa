@@ -5,8 +5,17 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 02 Nov 2026 07:07:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 08:42:32 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google bug made zooming into images a nightmare, but there&amp;#8217;s a fix</title>
+      <link>https://nusalensa.com/phones/google-bug-made-zooming-into-images-a-nightmare-but-there8217s-a-fix</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/google-bug-made-zooming-into-images-a-nightmare-but-there8217s-a-fix</guid>
+      <description>The strange blackout wasn&apos;t limited to Chrome.</description>
+      <category>Smartphones</category>
+      <pubDate>Mon, 02 Nov 2026 08:24:49 GMT</pubDate>
+      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/09/DSC00477.jpeg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Wear OS 7.1 is official, but a future version will copy this key Android phone feature</title>
       <link>https://nusalensa.com/phones/wear-os-71-is-official-but-a-future-version-will-copy-this-key-android-phone-feature</link>
@@ -267,15 +276,6 @@
       <category>Smartphones</category>
       <pubDate>Sun, 01 Nov 2026 19:00:00 GMT</pubDate>
       <enclosure url="https://www.engadget.com/img/gallery/this-hidden-windows-11-menu-can-save-you-valuable-time-when-troubleshooting/l-intro-1792876075.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Apple’s busy week, iPhone Duo troubles and Poco X8s debut, Week 43 in review</title>
-      <link>https://nusalensa.com/phones/apples-busy-week-iphone-duo-troubles-and-poco-x8s-debut-week-43-in-review</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/apples-busy-week-iphone-duo-troubles-and-poco-x8s-debut-week-43-in-review</guid>
-      <description>Another week in the books, so let’s do a recap. Apple had a packed few days, announcing new MacBook Pro models with OLED touchscreens, an OLED iPad mini, and a </description>
-      <category>Smartphones</category>
-      <pubDate>Sun, 01 Nov 2026 18:32:03 GMT</pubDate>
-      <enclosure url="https://fdn.gsmarena.com/imgroot//news/26/10/week-43-in-review/gsmarena_000.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>

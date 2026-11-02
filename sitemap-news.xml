@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/google-bug-made-zooming-into-images-a-nightmare-but-there8217s-a-fix</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T08:24:49Z</news:publication_date>
+      <news:title>Google bug made zooming into images a nightmare, but there&amp;#8217;s a fix</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/DSC00477.jpeg</image:loc>
+      <image:title>Google bug made zooming into images a nightmare, but there&amp;#8217;s a fix</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/wear-os-71-is-official-but-a-future-version-will-copy-this-key-android-phone-feature</loc>
     <news:news>
       <news:publication>
