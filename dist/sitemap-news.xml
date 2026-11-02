@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/quick-share-will-soon-work-directly-in-android-and-ios-apps</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T22:19:36Z</news:publication_date>
+      <news:title>Quick Share will soon work directly in Android and iOS apps</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/03/Pixel-10a-tips-quick-share.jpg</image:loc>
+      <image:title>Quick Share will soon work directly in Android and iOS apps</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/next-time-your-flight-touches-down-google-maps-could-be-there-with-a-custom-greeting</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T22:05:53Z</news:publication_date>
+      <news:title>Next time your flight touches down, Google Maps could be there with a custom greeting</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/google-maps-ask-maps-chip-home-screen-image.jpg</image:loc>
+      <image:title>Next time your flight touches down, Google Maps could be there with a custom greeting</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-ceo-ternus-says-iphone-duo-shortages-have-no-end-date-in-sight</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T22:03:23Z</news:publication_date>
+      <news:title>Apple CEO Ternus Says iPhone Duo Shortages Have No End Date in Sight</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/hero_medium_2x-feature1.jpg</image:loc>
+      <image:title>Apple CEO Ternus Says iPhone Duo Shortages Have No End Date in Sight</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-set-an-iphone-sales-record-even-without-a-new-standard-iphone</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T22:02:36Z</news:publication_date>
+      <news:title>Apple set an iPhone sales record even without a new standard iPhone</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268735_iPhone_18_Pro_MAX_AKrales_1087.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Apple set an iPhone sales record even without a new standard iPhone</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/apple-reports-4q-2026-results-36307b-profit-on-361145b-revenue</loc>
     <news:news>
       <news:publication>
@@ -30,6 +90,21 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/02/Android-16-driving-mode.jpg</image:loc>
       <image:title>Forget texting and driving, this everyday phone habit sends even more people to the ER</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/third-person-dies-of-bird-flu-since-virus-started-jumping-to-livestock</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T21:21:43Z</news:publication_date>
+      <news:title>Third person dies of bird flu since virus started jumping to livestock</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2190742287-1152x648.jpg</image:loc>
+      <image:title>Third person dies of bird flu since virus started jumping to livestock</image:title>
     </image:image>
   </url>
   <url>
@@ -3060,36 +3135,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/4-important-features-you-should-know-if-you-use-microsoft-teams/l-intro-1792773541.jpg</image:loc>
       <image:title>4 important features you should know if you use Microsoft Teams</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-reason-most-electrical-plug-prongs-have-holes-in-them</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T22:30:00Z</news:publication_date>
-      <news:title>The reason most electrical plug prongs have holes in them</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/the-reason-most-electrical-plug-prongs-have-holes-in-them/l-intro-1792780954.jpg</image:loc>
-      <image:title>The reason most electrical plug prongs have holes in them</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/5-netflix-tips-we-all-wish-we-knew-sooner</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T22:00:00Z</news:publication_date>
-      <news:title>5 Netflix tips we all wish we knew sooner</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/5-netflix-tips-we-all-wish-we-knew-sooner/l-intro-1792783972.jpg</image:loc>
-      <image:title>5 Netflix tips we all wish we knew sooner</image:title>
     </image:image>
   </url>
 </urlset>
