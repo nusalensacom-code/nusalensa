@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/spotify-could-make-premium-subscribers-pay-5-more-a-month-for-its-next-big-bet</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T04:17:41Z</news:publication_date>
+      <news:title>Spotify could make Premium subscribers pay $5 more a month for its next big bet</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2021/12/Spotify-stock-photo-2.jpg</image:loc>
+      <image:title>Spotify could make Premium subscribers pay $5 more a month for its next big bet</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/google-wallet-may-soon-let-you-trade-convenience-for-extra-payment-security</loc>
     <news:news>
       <news:publication>

@@ -5,8 +5,17 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 02 Nov 2026 03:50:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 04:55:04 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spotify could make Premium subscribers pay $5 more a month for its next big bet</title>
+      <link>https://nusalensa.com/phones/spotify-could-make-premium-subscribers-pay-5-more-a-month-for-its-next-big-bet</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/spotify-could-make-premium-subscribers-pay-5-more-a-month-for-its-next-big-bet</guid>
+      <description>Will you play extra for this new Spotify service?</description>
+      <category>Smartphones</category>
+      <pubDate>Mon, 02 Nov 2026 04:17:41 GMT</pubDate>
+      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2021/12/Spotify-stock-photo-2.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Google Wallet may soon let you trade convenience for extra payment security</title>
       <link>https://nusalensa.com/phones/google-wallet-may-soon-let-you-trade-convenience-for-extra-payment-security</link>
@@ -267,15 +276,6 @@
       <category>Technology</category>
       <pubDate>Sun, 01 Nov 2026 17:54:34 GMT</pubDate>
       <enclosure url="https://www.engadget.com/img/gallery/all-the-leaks-for-the-portal-prequel-f-stop-have-been-compiled-into-a-playable-game/l-intro-1793554498.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>The reason why your Xbox controller still uses AA batteries</title>
-      <link>https://nusalensa.com/technology/the-reason-why-your-xbox-controller-still-uses-aa-batteries</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/the-reason-why-your-xbox-controller-still-uses-aa-batteries</guid>
-      <description>Xbox controllers use AA batteries, which may seem like an outdated way of powering a device, but there are reasons for this intentional choice.</description>
-      <category>Technology</category>
-      <pubDate>Sun, 01 Nov 2026 17:45:00 GMT</pubDate>
-      <enclosure url="https://www.engadget.com/img/gallery/the-reason-why-your-xbox-controller-still-uses-aa-batteries/l-intro-1793022945.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
