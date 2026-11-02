@@ -3,6 +3,96 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/apple-homeview-could-double-as-a-security-camera</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T09:57:03Z</news:publication_date>
+      <news:title>Apple HomeView Could Double as a Security Camera</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/homeview_home_screen_feature-2.jpg</image:loc>
+      <image:title>Apple HomeView Could Double as a Security Camera</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/googlebook-detachables-are-coming-and-this-could-be-the-first-one-to-launch</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T09:40:15Z</news:publication_date>
+      <news:title>Googlebook detachables are coming, and this could be the first one to launch</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Googlebook-Acer-10.jpg</image:loc>
+      <image:title>Googlebook detachables are coming, and this could be the first one to launch</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-launching-five-new-products-this-friday</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T09:22:23Z</news:publication_date>
+      <news:title>Apple Launching Five New Products This Friday</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/apple-pro-tell-logo.jpg</image:loc>
+      <image:title>Apple Launching Five New Products This Friday</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/you8217ll-lose-this-critical-cross-device-feature-if-you-root-your-googlebook</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T09:08:23Z</news:publication_date>
+      <news:title>You&amp;#8217;ll lose this critical cross-device feature if you root your Googlebook</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Googlebook-Acer-3.jpg</image:loc>
+      <image:title>You&amp;#8217;ll lose this critical cross-device feature if you root your Googlebook</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/some-older-google-home-smart-clocks-can8217t-tell-the-correct-time</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T09:08:14Z</news:publication_date>
+      <news:title>Some older Google Home smart clocks can&amp;#8217;t tell the correct time</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2019/06/lenovo-smart-clock-vs-google-nest-hub.jpg</image:loc>
+      <image:title>Some older Google Home smart clocks can&amp;#8217;t tell the correct time</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-homeview-is-getting-ready-to-teach-google8217s-pixel-tablet-a-home-security-lesson</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T08:54:10Z</news:publication_date>
+      <news:title>Apple HomeView is getting ready to teach Google&amp;#8217;s Pixel Tablet a home security lesson</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Apple-HomeView-lineup-261013.jpg</image:loc>
+      <image:title>Apple HomeView is getting ready to teach Google&amp;#8217;s Pixel Tablet a home security lesson</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/google-bug-made-zooming-into-images-a-nightmare-but-there8217s-a-fix</loc>
     <news:news>
       <news:publication>
@@ -2160,51 +2250,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-galaxy-s26-pixel-10-a-galaxy-trifold-scaled.jpg</image:loc>
       <image:title>Skipped upgrading this year? 5 upcoming Android phones worth saving for</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/whatsapp-announces-new-features-including-group-status</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T09:31:02Z</news:publication_date>
-      <news:title>WhatsApp announces new features, including Group Status</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/whatsapp-group-status/gsmarena_001.jpg</image:loc>
-      <image:title>WhatsApp announces new features, including Group Status</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/i8217d-choose-these-earbuds-over-the-pixel-buds-pro-2-every-time-for-one-simple-reason</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T09:30:49Z</news:publication_date>
-      <news:title>I&amp;#8217;d choose these earbuds over the Pixel Buds Pro 2 every time, for one simple reason</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/oppo-enco-x4-music-pixel-buds-pro-2-scaled.jpg</image:loc>
-      <image:title>I&amp;#8217;d choose these earbuds over the Pixel Buds Pro 2 every time, for one simple reason</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/i-hate-samsung8217s-default-camera-app-here8217s-what-i-use-instead</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T09:00:52Z</news:publication_date>
-      <news:title>I hate Samsung&amp;#8217;s default camera app — here&amp;#8217;s what I use instead</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Samsung-Galaxy-S26-Ultras-camera-module-zoomed-in.jpg</image:loc>
-      <image:title>I hate Samsung&amp;#8217;s default camera app — here&amp;#8217;s what I use instead</image:title>
     </image:image>
   </url>
 </urlset>
