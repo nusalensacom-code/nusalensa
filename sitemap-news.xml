@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/ive-used-every-android-foldable-released-this-year-heres-how-the-iphone-duo-stacks-up</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T10:30:32Z</news:publication_date>
+      <news:title>I’ve used every Android foldable released this year. Here’s how the iPhone Duo stacks up</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/iPhone-Duo-AA-14.jpg</image:loc>
+      <image:title>I’ve used every Android foldable released this year. Here’s how the iPhone Duo stacks up</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/oneplus-turbo-6vs-debuts-quietly-with-same-specs-as-turbo-6v</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T10:25:02Z</news:publication_date>
+      <news:title>OnePlus Turbo 6Vs debuts quietly with same specs as Turbo 6V</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/oneplus-turbo-6vs-ofic/gsmarena_00.jpg</image:loc>
+      <image:title>OnePlus Turbo 6Vs debuts quietly with same specs as Turbo 6V</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/android-auto-and-one-ui-9-aren8217t-getting-along-for-some-galaxy-owners</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T10:24:45Z</news:publication_date>
+      <news:title>Android Auto and One UI 9 aren&amp;#8217;t getting along for some Galaxy owners</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/06/android-auto-third-party-apps.jpg</image:loc>
+      <image:title>Android Auto and One UI 9 aren&amp;#8217;t getting along for some Galaxy owners</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/samsung-hides-these-useful-camera-features-by-default-here8217s-how-to-unlock-them</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T10:00:51Z</news:publication_date>
+      <news:title>Samsung hides these useful camera features by default — here&amp;#8217;s how to unlock them</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/05/Samsung-Galaxy-S25-Edge-camera-app.jpg</image:loc>
+      <image:title>Samsung hides these useful camera features by default — here&amp;#8217;s how to unlock them</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/apple-homeview-could-double-as-a-security-camera</loc>
     <news:news>
       <news:publication>
@@ -2220,36 +2280,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/victoria-launcher-home-screen-1.jpg</image:loc>
       <image:title>This Niagara-inspired launcher could (eventually) be better than the original</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-10-best-custom-chat-themes-i-made-in-google-messages</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T10:30:04Z</news:publication_date>
-      <news:title>The 10 best custom chat themes I made in Google Messages</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/google-messages-chat-themes-2-scaled.jpg</image:loc>
-      <image:title>The 10 best custom chat themes I made in Google Messages</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/skipped-upgrading-this-year-5-upcoming-android-phones-worth-saving-for</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T10:00:40Z</news:publication_date>
-      <news:title>Skipped upgrading this year? 5 upcoming Android phones worth saving for</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-galaxy-s26-pixel-10-a-galaxy-trifold-scaled.jpg</image:loc>
-      <image:title>Skipped upgrading this year? 5 upcoming Android phones worth saving for</image:title>
     </image:image>
   </url>
 </urlset>
