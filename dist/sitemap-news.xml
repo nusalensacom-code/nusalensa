@@ -3,6 +3,96 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/apple-reports-4q-2026-results-36307b-profit-on-361145b-revenue</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T21:38:18Z</news:publication_date>
+      <news:title>Apple Reports 4Q 2026 Results: &amp;#36;30.7B Profit on &amp;#36;114.5B Revenue</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/aapl-4q26-line.jpg</image:loc>
+      <image:title>Apple Reports 4Q 2026 Results: &amp;#36;30.7B Profit on &amp;#36;114.5B Revenue</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/forget-texting-and-driving-this-everyday-phone-habit-sends-even-more-people-to-the-er</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T21:36:03Z</news:publication_date>
+      <news:title>Forget texting and driving, this everyday phone habit sends even more people to the ER</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/02/Android-16-driving-mode.jpg</image:loc>
+      <image:title>Forget texting and driving, this everyday phone habit sends even more people to the ER</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/meta-will-end-quest-2-os-updates-in-2027</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T21:04:20Z</news:publication_date>
+      <news:title>Meta will end Quest 2 OS updates in 2027</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21869421/akrales_200904_4160_0135.0.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Meta will end Quest 2 OS updates in 2027</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/oneplus-turbo-7-key-specs-leak-and-its-a-big-step-up</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T21:01:02Z</news:publication_date>
+      <news:title>OnePlus Turbo 7 key specs leak, and it&apos;s a big step up</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/oneplus-turbo-7-leak/gsmarena_000.jpg</image:loc>
+      <image:title>OnePlus Turbo 7 key specs leak, and it&apos;s a big step up</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/sneak-peek-google-app-is-preparing-a-big-change-for-its-bottom-bar</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T20:56:09Z</news:publication_date>
+      <news:title>Sneak peek: Google app is preparing a big change for its bottom bar</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/06/Google-logo-on-smartphone-stock-photo-1.jpg</image:loc>
+      <image:title>Sneak peek: Google app is preparing a big change for its bottom bar</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/one-of-google8217s-android-partners-turned-13-million-set-top-boxes-into-a-botnet-1</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T20:37:49Z</news:publication_date>
+      <news:title>One of Google&amp;#8217;s Android partners turned 1.3 million set-top boxes into a botnet</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/videostrong-android-tv-device.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>One of Google&amp;#8217;s Android partners turned 1.3 million set-top boxes into a botnet</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/one-of-google8217s-android-partners-turned-13-million-set-top-boxes-into-a-botnet</loc>
     <news:news>
       <news:publication>
@@ -3000,51 +3090,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/5-netflix-tips-we-all-wish-we-knew-sooner/l-intro-1792783972.jpg</image:loc>
       <image:title>5 Netflix tips we all wish we knew sooner</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/nothing-phone-4a-4a-pro-3a-and-3a-pro-are-now-receiving-the-stable-update-to-android-17</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T21:31:02Z</news:publication_date>
-      <news:title>Nothing Phone (4a), (4a) Pro, (3a), and (3a) Pro are now receiving the stable update to Android 17</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/nothing-phone-3a-3a-pro-4a-4a-pro-nothing-os-5-update/gsmarena_000.jpg</image:loc>
-      <image:title>Nothing Phone (4a), (4a) Pro, (3a), and (3a) Pro are now receiving the stable update to Android 17</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/get-in-the-spirit-with-these-horrors-from-youtube</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T21:06:58Z</news:publication_date>
-      <news:title>Get in the spirit with these horrors from YouTube</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/bloody-youtube-logo.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Get in the spirit with these horrors from YouTube</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/why-your-apple-airpods-wont-connect-to-your-iphone-and-how-can-you-fix-it</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T21:00:00Z</news:publication_date>
-      <news:title>Why your Apple AirPods won&apos;t connect to your iPhone and how can you fix it</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/why-your-apple-airpods-wont-connect-to-your-iphone-and-how-can-you-fix-it/l-intro-1793293868.jpg</image:loc>
-      <image:title>Why your Apple AirPods won&apos;t connect to your iPhone and how can you fix it</image:title>
     </image:image>
   </url>
 </urlset>
