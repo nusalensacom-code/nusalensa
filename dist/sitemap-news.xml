@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/how-to-add-and-rearrange-apps-on-your-samsung-smart-tv</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T00:45:00Z</news:publication_date>
+      <news:title>How to add and rearrange apps on your Samsung smart TV</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/how-to-add-and-rearrange-apps-on-your-samsung-smart-tv/l-intro-1792793521.jpg</image:loc>
+      <image:title>How to add and rearrange apps on your Samsung smart TV</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/android-auto-could-upset-your-work-life-balance-with-its-next-update</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T00:30:00Z</news:publication_date>
+      <news:title>Android Auto could upset your work-life balance with its next update</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/android-auto-could-upset-your-work-life-balance-with-its-next-update/l-intro-1793021238.jpg</image:loc>
+      <image:title>Android Auto could upset your work-life balance with its next update</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/10-ipad-widgets-you-probably-didnt-realize-existed</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T00:15:00Z</news:publication_date>
+      <news:title>10 iPad widgets you probably didn&apos;t realize existed</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/10-ipad-widgets-you-probably-didnt-realize-existed/l-intro-1793198901.jpg</image:loc>
+      <image:title>10 iPad widgets you probably didn&apos;t realize existed</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/ai-glasses-can-replace-your-prescription-glasses-but-should-they</loc>
     <news:news>
       <news:publication>
@@ -2100,21 +2145,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/samsung-glasses-release-month-rumor/gsmarena_000.jpg</image:loc>
       <image:title>Here&apos;s when Samsung plans to release its Android XR glasses and where</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T00:07:22Z</news:publication_date>
-      <news:title>Think you can save the Hubble Space Telescope? NASA wants to know.</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/hst_vantor-1080x648.jpg</image:loc>
-      <image:title>Think you can save the Hubble Space Telescope? NASA wants to know.</image:title>
     </image:image>
   </url>
 </urlset>
