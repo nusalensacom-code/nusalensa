@@ -468,6 +468,106 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/apple-039homeview-ultra039-with-9-inch-360-screen-detailed-in-new-report</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/homeview-side.jpg</image:loc>
+      <image:title>Apple &amp;#039;HomeView Ultra&amp;#039; With 9-Inch 360º Screen Detailed in New Report</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-is-experimenting-with-a-status-bar-for-wear-os</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/wear-os-status-bar-experiment/gsmarena_000.jpg</image:loc>
+      <image:title>Google is experimenting with a status bar for Wear OS</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/your-ps5-can-now-run-android-switch-2-and-pc-games-if-you-get-your-hands-dirty</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2022/04/PS5-stock-images-on-stand-5.jpg</image:loc>
+      <image:title>Your PS5 can now run Android, Switch 2, and PC games, if you get your hands dirty</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/fire-tv-stick-4k-select-deal-brings-4k-streaming-to-2199</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/03/Amazon-Fire-TV-Stick-4K-Select.jpg</image:loc>
+      <image:title>Fire TV Stick 4K Select deal brings 4K streaming to $21.99</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/zoom-and-these-microsoft-apps-now-optimized-for-iphone-duo</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/Apple-iPhone-Duo-optimized-apps-Zoom-Feature-scaled.jpg</image:loc>
+      <image:title>Zoom and These Microsoft Apps Now Optimized for iPhone Duo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/why-its-important-to-use-a-microsd-express-card-with-your-nintendo-switch-2</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/why-its-important-to-use-a-microsd-card-with-your-nintendo-switch-2/l-intro-1791815329.jpg</image:loc>
+      <image:title>Why it&apos;s important to use a microSD Express card with your Nintendo Switch 2</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-tv-4k-pre-order-discount-returns-at-amazon</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/Apple-TV-4K-4th-Generation-Top-View3.jpg</image:loc>
+      <image:title>Apple TV 4K Pre-Order Discount Returns at Amazon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/save-300-on-the-samsung-galaxy-z-fold-8-in-amazon-price-drop</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Samsung-Galaxy-Z-Fold-8-in-hand-showing-folding-screen-scaled-1.jpg</image:loc>
+      <image:title>Save $300 on the Samsung Galaxy Z Fold 8 in Amazon price drop</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/why-software-updates-may-have-an-unexpected-effect-on-your-phone</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/why-software-updates-may-have-an-unexpected-effect-on-your-phone/l-intro-1792415252.jpg</image:loc>
+      <image:title>Why software updates may have an unexpected effect on your phone</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-16gb-raspberry-pi-5-got-another-unavoidable-ram-price-hike</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824338/raspberrypi5_16GB.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>The 16GB Raspberry Pi 5 got another ‘unavoidable’ RAM price hike</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/spacexs-big-mobile-carrier-plans-could-reportedly-involve-buying-boost-mobile</loc>
     <lastmod>2026-11-02</lastmod>
     <changefreq>daily</changefreq>
@@ -485,6 +585,16 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/11/affinity-by-canva-ipad2.jpg</image:loc>
       <image:title>Canva Brings Free All-in-One Affinity App to iPad</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/affinitys-creative-studio-is-now-available-on-ipad-for-free-1</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Canva-Affinity-for-iPad-hero.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Affinity’s creative studio is now available on iPad for free</image:title>
     </image:image>
   </url>
   <url>
