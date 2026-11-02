@@ -3,6 +3,81 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/why-its-important-to-never-plug-power-strips-into-each-other</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T23:30:00Z</news:publication_date>
+      <news:title>Why it&apos;s important to never plug power strips into each other</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/why-its-important-to-never-plug-power-strips-into-each-other/l-intro-1792782959.jpg</image:loc>
+      <image:title>Why it&apos;s important to never plug power strips into each other</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/how-to-use-your-phones-camera-to-translate-anything</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T23:00:00Z</news:publication_date>
+      <news:title>How to use your phone&apos;s camera to translate anything</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/how-to-use-your-phones-camera-to-translate-anything/l-intro-1792778533.jpg</image:loc>
+      <image:title>How to use your phone&apos;s camera to translate anything</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-is-not-able-to-predict-when-it8217ll-have-enough-iphone-duos-to-go-around</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T22:56:11Z</news:publication_date>
+      <news:title>Apple is ‘not able to predict’ when it&amp;#8217;ll have enough iPhone Duos to go around</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1378.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Apple is ‘not able to predict’ when it&amp;#8217;ll have enough iPhone Duos to go around</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/whats-new-in-android-nov-2026-google-system-updates-android-photo-backup-with-quick-share-for-windows</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T22:48:58Z</news:publication_date>
+      <news:title>What’s new in Android Nov. 2026 Google System Updates: Android photo backup with Quick Share for Windows</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2025/01/google-play-services-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>What’s new in Android Nov. 2026 Google System Updates: Android photo backup with Quick Share for Windows</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-meta-quest-2-and-quest-pro-are-receiving-their-last-os-updates-soon-here8217s-what-you-need-to-know</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T22:41:05Z</news:publication_date>
+      <news:title>The Meta Quest 2 and Quest Pro are receiving their last OS updates soon. Here&amp;#8217;s what you need to know</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/meta-quest-2-with-quest-3-in-background.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>The Meta Quest 2 and Quest Pro are receiving their last OS updates soon. Here&amp;#8217;s what you need to know</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/quick-share-will-soon-work-directly-in-android-and-ios-apps</loc>
     <news:news>
       <news:publication>
@@ -135,6 +210,21 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/oneplus-turbo-7-leak/gsmarena_000.jpg</image:loc>
       <image:title>OnePlus Turbo 7 key specs leak, and it&apos;s a big step up</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/how-long-could-hdds-and-ssds-remain-expensive</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T21:00:00Z</news:publication_date>
+      <news:title>How long could HDDs and SSDs remain expensive?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/how-long-could-hdds-and-ssds-remain-expensive/l-intro-1793370181.jpg</image:loc>
+      <image:title>How long could HDDs and SSDs remain expensive?</image:title>
     </image:image>
   </url>
   <url>
@@ -3090,51 +3180,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/how-big-and-powerful-is-spacexs-starship-rocket/l-intro-1793113657.jpg</image:loc>
       <image:title>How big and powerful is SpaceX&apos;s Starship rocket?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/why-your-apple-airpods-battery-drains-so-fast-and-how-to-make-it-last-longer</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T23:30:00Z</news:publication_date>
-      <news:title>Why your Apple AirPods&apos; battery drains so fast and how to make it last longer</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/why-your-apple-airpods-battery-drains-so-fast-and-how-to-make-it-last-longer/l-intro-1793108793.jpg</image:loc>
-      <image:title>Why your Apple AirPods&apos; battery drains so fast and how to make it last longer</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/the-slate-vs-ford-fathom-debate-might-be-settled-by-this-one-key-tech-feature</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T23:00:00Z</news:publication_date>
-      <news:title>The Slate vs Ford Fathom debate might be settled by this one key tech feature</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/the-slate-vs-ford-fathom-debate-might-be-settled-by-this-one-key-tech-feature/l-intro-1793026890.jpg</image:loc>
-      <image:title>The Slate vs Ford Fathom debate might be settled by this one key tech feature</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/4-important-features-you-should-know-if-you-use-microsoft-teams</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T22:45:00Z</news:publication_date>
-      <news:title>4 important features you should know if you use Microsoft Teams</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/4-important-features-you-should-know-if-you-use-microsoft-teams/l-intro-1792773541.jpg</image:loc>
-      <image:title>4 important features you should know if you use Microsoft Teams</image:title>
     </image:image>
   </url>
 </urlset>
