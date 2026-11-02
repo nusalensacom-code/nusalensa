@@ -5,8 +5,17 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 02 Nov 2026 02:48:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 03:50:24 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google Wallet may soon let you trade convenience for extra payment security</title>
+      <link>https://nusalensa.com/phones/google-wallet-may-soon-let-you-trade-convenience-for-extra-payment-security</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/google-wallet-may-soon-let-you-trade-convenience-for-extra-payment-security</guid>
+      <description>Your contactless payments could either become more secure — or more annoying.</description>
+      <category>Smartphones</category>
+      <pubDate>Mon, 02 Nov 2026 02:58:18 GMT</pubDate>
+      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/07/Google-Wallet-logo-on-smartphone-next-to-credit-cards-and-cash-Stock-photo-12-1000w-563h.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Sennheiser Momentum True Wireless 5 review</title>
       <link>https://nusalensa.com/reviews/sennheiser-momentum-true-wireless-5-review</link>
@@ -267,15 +276,6 @@
       <category>Technology</category>
       <pubDate>Sun, 01 Nov 2026 17:45:00 GMT</pubDate>
       <enclosure url="https://www.engadget.com/img/gallery/the-reason-why-your-xbox-controller-still-uses-aa-batteries/l-intro-1793022945.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Nearly Every M5 MacBook Air Now &amp;#36;200 Off on Amazon</title>
-      <link>https://nusalensa.com/phones/nearly-every-m5-macbook-air-now-36200-off-on-amazon</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/nearly-every-m5-macbook-air-now-36200-off-on-amazon</guid>
-      <description>Amazon is taking &amp;#36;200 off nearly every model of the M5 MacBook Air this weekend, with matches of the best post-hike prices we&apos;ve ever seen on the computer. </description>
-      <category>Smartphones</category>
-      <pubDate>Sun, 01 Nov 2026 17:33:43 GMT</pubDate>
-      <enclosure url="https://images.macrumors.com/article-new/2026/06/m5-macbook-air-prime-day.jpeg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>

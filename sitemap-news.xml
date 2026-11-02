@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/google-wallet-may-soon-let-you-trade-convenience-for-extra-payment-security</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T02:58:18Z</news:publication_date>
+      <news:title>Google Wallet may soon let you trade convenience for extra payment security</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/Google-Wallet-logo-on-smartphone-next-to-credit-cards-and-cash-Stock-photo-12-1000w-563h.jpg</image:loc>
+      <image:title>Google Wallet may soon let you trade convenience for extra payment security</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/reviews/sennheiser-momentum-true-wireless-5-review</loc>
     <news:news>
       <news:publication>
@@ -2145,21 +2160,6 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/10/iPhone-18-Pro-Pre-Orders-Feature-Sans-Text.jpg</image:loc>
       <image:title>iPhone 18 Pro Sales Surge in China, Offsetting Decline in U.S. and Japan</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-galaxy-fit4-leaks-key-features-revealed</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T03:31:02Z</news:publication_date>
-      <news:title>Samsung Galaxy Fit4 leaks, key features revealed</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/samsung-galaxy-fit-4-leaks-key-features/gsmarena_000.jpg</image:loc>
-      <image:title>Samsung Galaxy Fit4 leaks, key features revealed</image:title>
     </image:image>
   </url>
 </urlset>
