@@ -3,6 +3,96 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/first-look-google-messages-gets-a-new-gradient-icon</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T12:36:49Z</news:publication_date>
+      <news:title>First look: Google Messages gets a new gradient icon</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/google-messages-logo-pixel-11-pro-close-scaled.jpg</image:loc>
+      <image:title>First look: Google Messages gets a new gradient icon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/iphone-duo-latest-buyer-wait-times</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T12:32:29Z</news:publication_date>
+      <news:title>iPhone Duo: Latest Buyer Wait Times</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/hero_medium_2x-feature2.jpg</image:loc>
+      <image:title>iPhone Duo: Latest Buyer Wait Times</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/one-ui-9-update-praised-by-plenty-of-readers-but-some-can8217t-ignore-a-potential-weakness</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T12:19:03Z</news:publication_date>
+      <news:title>One UI 9 update praised by plenty of readers, but some can&amp;#8217;t ignore a potential weakness</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/one-ui-9-frowning-plush-scaled.jpg</image:loc>
+      <image:title>One UI 9 update praised by plenty of readers, but some can&amp;#8217;t ignore a potential weakness</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/tired-of-slow-android-auto-feature-rollouts-this-new-tool-lets-rooted-users-skip-the-wait</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T11:59:26Z</news:publication_date>
+      <news:title>Tired of slow Android Auto feature rollouts? This new tool lets rooted users skip the wait</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/android-auto-home-screen-joe-hero-scaled.jpg</image:loc>
+      <image:title>Tired of slow Android Auto feature rollouts? This new tool lets rooted users skip the wait</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/this-iphone-duo-screen-setting-is-proving-hard-to-change</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T11:54:39Z</news:publication_date>
+      <news:title>This iPhone Duo Screen Setting Is Proving Hard to Change</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/display-zoom-comparison-iphone-duo-iphone-18-pro.jpeg</image:loc>
+      <image:title>This iPhone Duo Screen Setting Is Proving Hard to Change</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/karbonn-makes-a-comeback-in-india-with-rebel-and-rebel-pro</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T11:51:02Z</news:publication_date>
+      <news:title>Karbonn makes a comeback in India with Rebel and Rebel Pro</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/karbonn-rebel-pro-ofic/gsmarena_00.jpg</image:loc>
+      <image:title>Karbonn makes a comeback in India with Rebel and Rebel Pro</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/if-you8217re-a-true-android-enthusiast-there8217s-only-one-phone-worth-buying-in-2026</loc>
     <news:news>
       <news:publication>
@@ -2190,111 +2280,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/why-your-games-take-up-way-more-drive-space-than-expected-even-when-uninstalled/l-intro-1793197497.jpg</image:loc>
       <image:title>Why your games take up way more drive space than expected (even when uninstalled)</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/how-to-improve-audio-quality-on-your-android-phone-with-bluetooth-or-wired-headphones</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T12:45:00Z</news:publication_date>
-      <news:title>How to improve audio quality on your Android phone with Bluetooth or wired headphones</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/how-to-improve-audio-quality-on-your-android-phone-with-bluetooth-or-wired-headphones/l-intro-1793124520.jpg</image:loc>
-      <image:title>How to improve audio quality on your Android phone with Bluetooth or wired headphones</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-galaxy-z-fold9-to-bring-back-a-long-lost-feature-the-iphone-duo-has</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T12:31:02Z</news:publication_date>
-      <news:title>Samsung Galaxy Z Fold9 to bring back a long-lost feature the iPhone Duo has</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/samsung-galaxy-z-fold9-udc-rumor/gsmarena_000.jpg</image:loc>
-      <image:title>Samsung Galaxy Z Fold9 to bring back a long-lost feature the iPhone Duo has</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-pros-and-cons-of-using-an-all-in-one-desktop-computer</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T12:30:00Z</news:publication_date>
-      <news:title>The pros and cons of using an all-in-one desktop computer</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-an-all-in-one-desktop-computer/l-intro-1793120330.jpg</image:loc>
-      <image:title>The pros and cons of using an all-in-one desktop computer</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/what-happens-when-ai-starts-self-replicating</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T12:30:00Z</news:publication_date>
-      <news:title>What happens when AI starts self-replicating?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/what-happens-when-ai-starts-self-replicating/l-intro-1793389611.jpg</image:loc>
-      <image:title>What happens when AI starts self-replicating?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/motorola-signature-27-specs-detailed-in-new-video-including-tandem-oled-display</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T12:00:00Z</news:publication_date>
-      <news:title>Motorola Signature 27 specs detailed in new video, including Tandem OLED display</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/motorola-signature-27-hands-on-2.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Motorola Signature 27 specs detailed in new video, including Tandem OLED display</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/heres-why-you-can8217t-shake-those-unhinged-political-texts</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T12:00:00Z</news:publication_date>
-      <news:title>Here’s why you can&amp;#8217;t shake those unhinged political texts</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK423_ELECTIONS4.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Here’s why you can&amp;#8217;t shake those unhinged political texts</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/touchscreens-everywhere</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T12:00:00Z</news:publication_date>
-      <news:title>Touchscreens everywhere!</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Installer-150.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Touchscreens everywhere!</image:title>
     </image:image>
   </url>
 </urlset>
