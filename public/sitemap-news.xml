@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/a-major-android-tv-box-maker-just-got-busted-by-google-for-running-a-malware-racket</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T06:53:17Z</news:publication_date>
+      <news:title>A major Android TV box maker just got busted by Google for running a malware racket</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/05/Google-TV-or-Android-TV-UI-on-screen-stock-photo-2.jpg</image:loc>
+      <image:title>A major Android TV box maker just got busted by Google for running a malware racket</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/youtube8217s-latest-8216playables8217-upgrade-fixes-a-major-gaming-problem-on-the-platform</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T06:52:52Z</news:publication_date>
+      <news:title>YouTube&amp;#8217;s latest &amp;#8216;Playables&amp;#8217; upgrade fixes a major gaming problem on the platform</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/03/youtube-logo-google-pixel-10a-1-scaled.jpg</image:loc>
+      <image:title>YouTube&amp;#8217;s latest &amp;#8216;Playables&amp;#8217; upgrade fixes a major gaming problem on the platform</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-end-is-near-for-meta-quest-2-and-quest-pro-but-there8217s-a-silver-lining</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T06:42:44Z</news:publication_date>
+      <news:title>The end is near for Meta Quest 2 and Quest Pro, but there&amp;#8217;s a silver lining</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2021/12/Meta-Quest-2-Desk-Roger-Fingas.jpg</image:loc>
+      <image:title>The end is near for Meta Quest 2 and Quest Pro, but there&amp;#8217;s a silver lining</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/oppo-reno17-and-reno17-pros-specs-colors-and-configurations-leak</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T06:35:02Z</news:publication_date>
+      <news:title>Oppo Reno17 and Reno17 Pro&apos;s specs, colors, and configurations leak</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/oppo-reno17-new-leak/gsmarena_00.jpg</image:loc>
+      <image:title>Oppo Reno17 and Reno17 Pro&apos;s specs, colors, and configurations leak</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/google-confirms-android-family-hub-an-ios-style-home-for-family-controls-in-settings</loc>
     <news:news>
       <news:publication>
@@ -3315,21 +3375,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/apple-intelligence-storrage-issue/gsmarena_001.jpg</image:loc>
       <image:title>Here&apos;s how to reclaim 15GB of storage after iOS 27 update</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/lava-smartphones-will-get-expensive-in-india-from-november-15</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T06:32:02Z</news:publication_date>
-      <news:title>Lava smartphones will get expensive in India from November 15</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/lava-smartphone-price-hike-india/gsmarena_001.jpg</image:loc>
-      <image:title>Lava smartphones will get expensive in India from November 15</image:title>
     </image:image>
   </url>
 </urlset>
