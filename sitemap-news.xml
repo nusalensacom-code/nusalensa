@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/this-is-the-only-refurbished-samsung-phone-i8217d-buy-in-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T10:00:28Z</news:publication_date>
+      <news:title>This is the only refurbished Samsung phone I&amp;#8217;d buy in 2026</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/01/Samsung-Galaxy-S24-in-hand.jpg</image:loc>
+      <image:title>This is the only refurbished Samsung phone I&amp;#8217;d buy in 2026</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/vivo-v80-fe-listed-online-with-dimensity-7400-turbo-soc-and-7000mah-battery</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T09:37:02Z</news:publication_date>
+      <news:title>vivo V80 FE listed online with Dimensity 7400-Turbo SoC and 7,000mAh battery</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/vivo-v80-fe-online-listing/gsmarena_00.jpg</image:loc>
+      <image:title>vivo V80 FE listed online with Dimensity 7400-Turbo SoC and 7,000mAh battery</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-galaxy-a58-beats-the-base-s27-in-one-area-but-it8217s-not-all-great-news</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T09:21:43Z</news:publication_date>
+      <news:title>The Galaxy A58 beats the base S27 in one area, but it&amp;#8217;s not all great news</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/04/Samsung-Galaxy-A57-back.jpg</image:loc>
+      <image:title>The Galaxy A58 beats the base S27 in one area, but it&amp;#8217;s not all great news</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T09:21:36Z</news:publication_date>
+      <news:title>Apple&apos;s latest watchOS 27 beta enables Siri Recap and Live Rewind audio features</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/l-intro-1793697908.jpg</image:loc>
+      <image:title>Apple&apos;s latest watchOS 27 beta enables Siri Recap and Live Rewind audio features</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/google-has-a-growing-gemini-problem-that-readers-find-hard-to-ignore</loc>
     <news:news>
       <news:publication>
@@ -3510,36 +3570,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/06/Xiaomi-17-Ultra-with-Apple-iPhone-17-Pro-and-Samsung-Galaxy-S26-Ultra_9.jpg</image:loc>
       <image:title>Should you repair your phone or replace it? We did the math</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/here-are-the-easiest-ways-to-share-your-live-location-on-android</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T10:00:57Z</news:publication_date>
-      <news:title>Here are the easiest ways to share your live location on Android</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/location-sharing-on-an-android-device-in-google-maps-scaled.jpg</image:loc>
-      <image:title>Here are the easiest ways to share your live location on Android</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/heres-how-to-reclaim-15gb-of-storage-after-ios-27-update</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T09:32:02Z</news:publication_date>
-      <news:title>Here&apos;s how to reclaim 15GB of storage after iOS 27 update</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/apple-intelligence-storrage-issue/gsmarena_001.jpg</image:loc>
-      <image:title>Here&apos;s how to reclaim 15GB of storage after iOS 27 update</image:title>
     </image:image>
   </url>
 </urlset>
