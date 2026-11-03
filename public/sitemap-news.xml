@@ -3,6 +3,171 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/tvos-2721-and-macos-2721-likely-coming-soon</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T13:35:07Z</news:publication_date>
+      <news:title>tvOS 27.2.1 and macOS 27.2.1 Likely Coming Soon</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/Apple-TV-4K-4th-Generation-feature5.jpg</image:loc>
+      <image:title>tvOS 27.2.1 and macOS 27.2.1 Likely Coming Soon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/redmagic-12-pro-review-you8217ve-never-gamed-on-a-phone-like-this-before</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T13:30:00Z</news:publication_date>
+      <news:title>Redmagic 12 Pro review: You&amp;#8217;ve never gamed on a phone like this before</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/redmagic-12-pro-with-switch-and-controllers-02.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Redmagic 12 Pro review: You&amp;#8217;ve never gamed on a phone like this before</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/apple-is-restricting-dating-apps-and-romanceable-chatbots-to-over-18s</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T13:22:38Z</news:publication_date>
+      <news:title>Apple is restricting dating apps and romanceable chatbots to over 18s</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23925968/acastro_STK045_03.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Apple is restricting dating apps and romanceable chatbots to over 18s</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-huawei-watch-d3-rocks-impressive-battery-life-and-health-features</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T13:21:09Z</news:publication_date>
+      <news:title>The HUAWEI Watch D3 rocks impressive battery life and health features</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/HUAWEI-Watch-D3-with-screen-on-2.jpg</image:loc>
+      <image:title>The HUAWEI Watch D3 rocks impressive battery life and health features</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/mkbhd-switches-back-to-iphone-18-pro-after-testing-iphone-duo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T13:10:45Z</news:publication_date>
+      <news:title>MKBHD Switches Back to iPhone 18 Pro After Testing iPhone Duo</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-Burgundy-Feature.jpeg</image:loc>
+      <image:title>MKBHD Switches Back to iPhone 18 Pro After Testing iPhone Duo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google8217s-ocarina-of-time-easter-egg-is-a-blast-from-the-past</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T13:05:44Z</news:publication_date>
+      <news:title>Google&amp;#8217;s Ocarina of Time easter egg is a blast from the past</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-search-zelda-november-2026-02.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Google&amp;#8217;s Ocarina of Time easter egg is a blast from the past</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/samsungs-upgraded-sleep-apnea-feature-is-now-available-on-the-galaxy-ring-and-watch9</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T13:00:02Z</news:publication_date>
+      <news:title>Samsung&apos;s upgraded sleep apnea feature is now available on the Galaxy Ring and Watch9</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/samsung-better-sleep-apnea-detection-live/gsmarena_000.jpg</image:loc>
+      <image:title>Samsung&apos;s upgraded sleep apnea feature is now available on the Galaxy Ring and Watch9</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/samsungs-best-selling-phones-may-finally-get-the-battery-upgrade-theyve-dodged-for-years</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T12:53:02Z</news:publication_date>
+      <news:title>Samsung’s best-selling phones may finally get the battery upgrade they’ve dodged for years</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Samsung-Galaxy-A37-5G-review-image-8.jpg</image:loc>
+      <image:title>Samsung’s best-selling phones may finally get the battery upgrade they’ve dodged for years</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/samsung-changed-galaxy-z-flip8217s-cover-screen-with-one-ui-9-and-a-lot-of-owners-are-not-happy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T12:43:12Z</news:publication_date>
+      <news:title>Samsung changed Galaxy Z Flip&amp;#8217;s cover screen with One UI 9, and a lot of owners are not happy</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Flip-8-with-cover-screen-in-hand-scaled-1.jpg</image:loc>
+      <image:title>Samsung changed Galaxy Z Flip&amp;#8217;s cover screen with One UI 9, and a lot of owners are not happy</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/nasas-swift-observatory-is-expected-to-return-to-earth-on-november-4</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T12:41:51Z</news:publication_date>
+      <news:title>NASA&apos;s Swift observatory is expected to return to Earth on November 4</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/nasas-swift-observatory-is-expected-to-re-enter-earth-on-november-4/l-intro-1793709578.jpg</image:loc>
+      <image:title>NASA&apos;s Swift observatory is expected to return to Earth on November 4</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-arduview-might-be-the-ultimate-tribute-to-retro-translucent-gadgets</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T12:30:00Z</news:publication_date>
+      <news:title>The Arduview might be the ultimate tribute to retro translucent gadgets</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/the-arduview-might-be-the-ultimate-tribute-to-retro-translucent-gadgets/l-intro-1793654433.jpg</image:loc>
+      <image:title>The Arduview might be the ultimate tribute to retro translucent gadgets</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/what-i-learned-after-a-weekend-gaming-on-the-new-snapdragon-8-elite-extreme-gen-6</loc>
     <news:news>
       <news:publication>
@@ -30,6 +195,21 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/redmagic-12-pro-global/gsmarena_000.jpg</image:loc>
       <image:title>RedMagic 12 Pro brings its RGB liquid cooling and 185Hz screen to the global market</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/android-gaming-is-having-a-renaissance-1</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T12:00:00Z</news:publication_date>
+      <news:title>Android gaming is having a renaissance</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/09/razer-prio-controller-3.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1200</image:loc>
+      <image:title>Android gaming is having a renaissance</image:title>
     </image:image>
   </url>
   <url>
@@ -3585,81 +3765,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/heres-how-to-know-if-your-tv-is-too-big-for-any-room/l-intro-1793028876.jpg</image:loc>
       <image:title>Here&apos;s how to know if your TV is too big for any room</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/tesla-is-ditching-its-solar-roof-tiles-for-a-good-reason</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T13:30:00Z</news:publication_date>
-      <news:title>Tesla is ditching its solar roof tiles for a good reason</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/tesla-is-ditching-its-solar-roof-tiles-for-a-good-reason/l-intro-1792787873.jpg</image:loc>
-      <image:title>Tesla is ditching its solar roof tiles for a good reason</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/how-to-clear-the-cache-on-your-android-device</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T13:15:00Z</news:publication_date>
-      <news:title>How to clear the cache on your Android device</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/how-to-clear-the-cache-on-your-android-device/l-intro-1792951353.jpg</image:loc>
-      <image:title>How to clear the cache on your Android device</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/prop-45-in-california-could-be-hiding-a-loophole-for-data-centers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T13:00:00Z</news:publication_date>
-      <news:title>Prop 45 in California could be hiding a loophole for data centers</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Prop 45 in California could be hiding a loophole for data centers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T13:00:00Z</news:publication_date>
-      <news:title>New Zelda and GTA represent a games industry that no longer exists</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/NS2_TheLegendofZeldaOcarinaofTime_scrn_01.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>New Zelda and GTA represent a games industry that no longer exists</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/deals-apple-oppo-and-samsungs-flagship-smartphones-are-available-at-reduced-prices</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T12:29:02Z</news:publication_date>
-      <news:title>Deals: Apple, Oppo, and Samsung’s flagship smartphones are available at reduced prices</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/deals-30/gsmarena_uk.jpg</image:loc>
-      <image:title>Deals: Apple, Oppo, and Samsung’s flagship smartphones are available at reduced prices</image:title>
     </image:image>
   </url>
 </urlset>
