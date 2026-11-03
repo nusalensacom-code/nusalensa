@@ -3,6 +3,231 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/ios-273-adds-vertical-tabs-and-adaptive-dark-mode-to-safari</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T18:51:37Z</news:publication_date>
+      <news:title>iOS 27.3 Adds Vertical Tabs and Adaptive Dark Mode to Safari</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/safari-vertical-tabs.jpg</image:loc>
+      <image:title>iOS 27.3 Adds Vertical Tabs and Adaptive Dark Mode to Safari</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/ipad-mini-8-reviewer-isn039t-satisfied-with-apple039s-excuse-for-lack-of-120hz-display</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T18:42:36Z</news:publication_date>
+      <news:title>iPad Mini 8 Reviewer Isn&amp;#039;t Satisfied With Apple&amp;#039;s Excuse for Lack of 120Hz Display</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/Apple-iPad-mini-Procreate-Dreams-261026-feature.jpg</image:loc>
+      <image:title>iPad Mini 8 Reviewer Isn&amp;#039;t Satisfied With Apple&amp;#039;s Excuse for Lack of 120Hz Display</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/todays-android-app-deals-and-freebies-20-minutes-till-dawn-never-grave-rush-rally-3-more</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T18:39:53Z</news:publication_date>
+      <news:title>Today’s Android app deals and freebies: 20 Minutes Till Dawn, Never Grave, Rush Rally 3, more</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Play-collage-208837.webp?w=1600</image:loc>
+      <image:title>Today’s Android app deals and freebies: 20 Minutes Till Dawn, Never Grave, Rush Rally 3, more</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-spent-months-pushing-ai-mode-now-it-might-be-doing-the-opposite</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T18:38:52Z</news:publication_date>
+      <news:title>Google spent months pushing AI mode — now it might be doing the opposite</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/05/google-ai-mode-vs-google-search-hero-photo-3-scaled.jpg</image:loc>
+      <image:title>Google spent months pushing AI mode — now it might be doing the opposite</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/watchos-273-brings-live-rewind-and-siri-recap-to-apple-watch</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T18:35:24Z</news:publication_date>
+      <news:title>watchOS 27.3 Brings Live Rewind and Siri Recap to Apple Watch</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/siri-recap-live-rewind.jpg</image:loc>
+      <image:title>watchOS 27.3 Brings Live Rewind and Siri Recap to Apple Watch</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apples-latest-watchos-beta-includes-its-new-always-on-audio-intelligence-features</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T18:31:00Z</news:publication_date>
+      <news:title>Apple’s latest watchOS beta includes its new always-on Audio Intelligence features</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Siri-Recap-example.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Apple’s latest watchOS beta includes its new always-on Audio Intelligence features</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/openai-says-chatgpt-is-catching-up-to-google-in-search</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T18:30:42Z</news:publication_date>
+      <news:title>OpenAI says ChatGPT is catching up to Google in search</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>OpenAI says ChatGPT is catching up to Google in search</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/ios-273-beta-brings-back-apple039s-redesigned-health-app</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T18:26:40Z</news:publication_date>
+      <news:title>iOS 27.3 Beta Brings Back Apple&amp;#039;s Redesigned Health App</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/09/ios-27-health-app-longevity.jpg</image:loc>
+      <image:title>iOS 27.3 Beta Brings Back Apple&amp;#039;s Redesigned Health App</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/reddit-is-adding-more-ads</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T18:26:36Z</news:publication_date>
+      <news:title>Reddit is adding more ads</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Reddit is adding more ads</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/8216cyclon8217-uses-an-old-google-pixel-to-let-ai-do-literally-everything-for-you-who-wants-this</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T18:15:00Z</news:publication_date>
+      <news:title>&amp;#8216;Cyclon&amp;#8217; uses an old Google Pixel to let AI do literally everything for you – who wants this?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2024/05/Pixel-8a-angled.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>&amp;#8216;Cyclon&amp;#8217; uses an old Google Pixel to let AI do literally everything for you – who wants this?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/indie-games-are-missing-launch-dates-because-steam-is-backed-up</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T18:14:50Z</news:publication_date>
+      <news:title>Indie games are missing launch dates because Steam is backed up</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ss_51fdf31162fecb3570ff97b0248b2706248e3281.1920x1080.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Indie games are missing launch dates because Steam is backed up</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/googles-gemini-powered-home-speaker-is-already-on-sale-for-20-percent-off</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T18:11:49Z</news:publication_date>
+      <news:title>Google’s Gemini-powered Home Speaker is already on sale for 20 percent off</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268614_Google_Home_Speaker_JTuohy_0002.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Google’s Gemini-powered Home Speaker is already on sale for 20 percent off</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google8217s-stadia-controller-dream-lives-on-in-the-50-xbox-nano-controller</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T18:05:00Z</news:publication_date>
+      <news:title>Google&amp;#8217;s Stadia Controller dream lives on in the $50 Xbox Nano Controller</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2021/07/stadia_controller_android_tv_1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Google&amp;#8217;s Stadia Controller dream lives on in the $50 Xbox Nano Controller</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/netflix-will-show-you-themed-recommendations-through-a-new-ai-discover-tab</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T18:00:00Z</news:publication_date>
+      <news:title>Netflix will show you themed recommendations through a new ‘AI Discover’ tab</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AIDiscover-Product-02.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Netflix will show you themed recommendations through a new ‘AI Discover’ tab</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/garmin-dash-cam-x110-gets-a-rare-50-discount-on-amazon</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T17:48:57Z</news:publication_date>
+      <news:title>Garmin Dash Cam X110 gets a rare $50 discount on Amazon</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Garmin-Dash-Cam-X110-Product-Image.jpg</image:loc>
+      <image:title>Garmin Dash Cam X110 gets a rare $50 discount on Amazon</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/logitech-g-astro-a50-hits-record-low-price-with-102-off-rrp</loc>
     <news:news>
       <news:publication>
@@ -4155,81 +4380,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/this-hidden-windows-11-menu-can-save-you-valuable-time-when-troubleshooting/l-intro-1792876075.jpg</image:loc>
       <image:title>This hidden Windows 11 menu can save you valuable time when troubleshooting</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apples-busy-week-iphone-duo-troubles-and-poco-x8s-debut-week-43-in-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T18:32:03Z</news:publication_date>
-      <news:title>Apple’s busy week, iPhone Duo troubles and Poco X8s debut, Week 43 in review</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot//news/26/10/week-43-in-review/gsmarena_000.jpg</image:loc>
-      <image:title>Apple’s busy week, iPhone Duo troubles and Poco X8s debut, Week 43 in review</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-biggest-problem-with-trying-to-directly-power-evs-with-solar-roofs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T18:30:00Z</news:publication_date>
-      <news:title>The biggest problem with trying to directly power EVs with solar roofs</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/the-biggest-problem-with-trying-to-directly-power-evs-with-solar-roofs/l-intro-1793119475.jpg</image:loc>
-      <image:title>The biggest problem with trying to directly power EVs with solar roofs</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/how-much-would-it-cost-to-build-a-pc-similar-to-the-xbox-series-s</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T18:15:00Z</news:publication_date>
-      <news:title>How much would it cost to build a PC similar to the Xbox Series S?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/xbox-series-s-pc-similar-how-much-to-build/l-intro-1793244150.jpg</image:loc>
-      <image:title>How much would it cost to build a PC similar to the Xbox Series S?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/5-safety-practices-to-know-before-vibe-coding</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T18:00:00Z</news:publication_date>
-      <news:title>5 safety practices to know before vibe coding</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/vibe-coding-safety-practices/l-intro-1793383938.jpg</image:loc>
-      <image:title>5 safety practices to know before vibe coding</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/all-the-leaks-for-the-portal-prequel-f-stop-have-been-compiled-into-a-playable-game</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T17:54:34Z</news:publication_date>
-      <news:title>All the leaks for the Portal prequel F-Stop have been compiled into a playable game</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/all-the-leaks-for-the-portal-prequel-f-stop-have-been-compiled-into-a-playable-game/l-intro-1793554498.jpg</image:loc>
-      <image:title>All the leaks for the Portal prequel F-Stop have been compiled into a playable game</image:title>
     </image:image>
   </url>
 </urlset>
