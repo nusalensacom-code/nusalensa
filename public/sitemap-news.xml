@@ -3,6 +3,96 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/here8217s-when-samsungs-first-android-xr-glasses-could-arrive-in-the-us</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T11:02:12Z</news:publication_date>
+      <news:title>Here&amp;#8217;s when Samsung’s first Android XR glasses could arrive in the US</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-scaled.jpg</image:loc>
+      <image:title>Here&amp;#8217;s when Samsung’s first Android XR glasses could arrive in the US</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/this-30-tracker-looks-just-like-a-credit-card-and-its-never-leaving-my-wallet</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T11:00:50Z</news:publication_date>
+      <news:title>This $30 tracker looks just like a credit card — and it’s never leaving my wallet</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/statik-smartcard-incognito-hands-on-2-scaled.jpg</image:loc>
+      <image:title>This $30 tracker looks just like a credit card — and it’s never leaving my wallet</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-best-ps1-emulator-on-android-is-back-from-life-support-with-a-ton-of-updates</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T11:00:44Z</news:publication_date>
+      <news:title>The best PS1 emulator on Android is back from life support with a ton of updates</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Duckstation-icon-on-Retroid-handheld-scaled.jpg</image:loc>
+      <image:title>The best PS1 emulator on Android is back from life support with a ton of updates</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-reports-record-quarter-iphone-and-mac-sales-are-up-services-reach-an-all-time-high</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T10:36:02Z</news:publication_date>
+      <news:title>Apple reports record quarter - iPhone and Mac sales are up, Services reach an all-time high</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/apple-september-quarter-financials/gsmarena_000.jpg</image:loc>
+      <image:title>Apple reports record quarter - iPhone and Mac sales are up, Services reach an all-time high</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/apple-will-start-mandating-age-requirements-for-dating-apps</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T10:32:28Z</news:publication_date>
+      <news:title>Apple will start mandating age requirements for dating apps</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/apple-will-start-mandating-age-requirements-for-dating-apps/l-intro-1793701818.jpg</image:loc>
+      <image:title>Apple will start mandating age requirements for dating apps</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-is-silently-linking-phone-numbers-across-accounts-the-privacy-risks-and-how-to-stop-them</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T10:30:27Z</news:publication_date>
+      <news:title>Google is silently linking phone numbers across accounts — the privacy risks and how to stop them</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/IMG_0019-scaled.jpg</image:loc>
+      <image:title>Google is silently linking phone numbers across accounts — the privacy risks and how to stop them</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/this-is-the-only-refurbished-samsung-phone-i8217d-buy-in-2026</loc>
     <news:news>
       <news:publication>
@@ -3525,51 +3615,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/DSCF3408-scaled.jpeg</image:loc>
       <image:title>YouTube’s redesign brings one annoying change, but I found a workaround</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-pixel-11-pros-5x-zoom-portrait-mode-is-mind-blowing-and-you-have-to-try-it</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T11:00:26Z</news:publication_date>
-      <news:title>The Pixel 11 Pro’s 5x zoom portrait mode is mind-blowing, and you have to try it</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-11-pro-portrait-car-scaled.jpg</image:loc>
-      <image:title>The Pixel 11 Pro’s 5x zoom portrait mode is mind-blowing, and you have to try it</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iniu-outdoor-rugged-20000-power-bank-heavy-duty-power-for-phones-drones-and-laptops</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T10:45:28Z</news:publication_date>
-      <news:title>INIU Outdoor Rugged 20000 power bank — Heavy-duty power for phones, drones, and laptops</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/iniu-outdoor-rugged-20000-featured.jpg</image:loc>
-      <image:title>INIU Outdoor Rugged 20000 power bank — Heavy-duty power for phones, drones, and laptops</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/should-you-repair-your-phone-or-replace-it-we-did-the-math</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T10:30:16Z</news:publication_date>
-      <news:title>Should you repair your phone or replace it? We did the math</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/06/Xiaomi-17-Ultra-with-Apple-iPhone-17-Pro-and-Samsung-Galaxy-S26-Ultra_9.jpg</image:loc>
-      <image:title>Should you repair your phone or replace it? We did the math</image:title>
     </image:image>
   </url>
 </urlset>
