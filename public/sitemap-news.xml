@@ -3,6 +3,156 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/you-cant-hit-a-wrong-note-when-playing-along-with-songs-on-casios-new-keyboard</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T19:48:41Z</news:publication_date>
+      <news:title>You can’t hit a wrong note when playing along with songs on Casio’s new keyboard</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/casiokeyboard1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>You can’t hit a wrong note when playing along with songs on Casio’s new keyboard</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/this-election-day-remember-which-party-ran-against-evs-and-tethered-us-all-to-the-gas-pump</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T19:44:46Z</news:publication_date>
+      <news:title>This Election Day, remember which party ran against EVs and tethered us all to the gas pump</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302796388.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>This Election Day, remember which party ran against EVs and tethered us all to the gas pump</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-fitness-gets-gym-strength-plans-in-ios-273</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T19:35:33Z</news:publication_date>
+      <news:title>Apple Fitness+ Gets Gym Strength Plans in iOS 27.3</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/apple-fitness-plus-strength.jpg</image:loc>
+      <image:title>Apple Fitness+ Gets Gym Strength Plans in iOS 27.3</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/ios-273-adding-new-standby-mode-features-to-iphone-11-and-newer</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T19:31:18Z</news:publication_date>
+      <news:title>iOS 27.3 Adding New StandBy Mode Features to iPhone 11 and Newer</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2023/06/StandBy-iOS-17.jpg</image:loc>
+      <image:title>iOS 27.3 Adding New StandBy Mode Features to iPhone 11 and Newer</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-releases-new-airpods-beta-firmware</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T19:29:37Z</news:publication_date>
+      <news:title>Apple Releases New AirPods Beta Firmware</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/08/AirPods-Pro-Beta-Firmware-2.jpg</image:loc>
+      <image:title>Apple Releases New AirPods Beta Firmware</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/ios-273-beta-brings-apple-intelligence-to-china</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T19:25:00Z</news:publication_date>
+      <news:title>iOS 27.3 Beta Brings Apple Intelligence to China</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/apple-intelligence-china.jpg</image:loc>
+      <image:title>iOS 27.3 Beta Brings Apple Intelligence to China</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/iphone-duo-gets-reachability-in-ios-273-beta</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T19:19:11Z</news:publication_date>
+      <news:title>iPhone Duo Gets Reachability in iOS 27.3 Beta</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/ios-27-3-reachability-duo.jpg</image:loc>
+      <image:title>iPhone Duo Gets Reachability in iOS 27.3 Beta</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-is-making-it-harder-for-schools-to-say-no-to-ai</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T19:13:14Z</news:publication_date>
+      <news:title>Google is making it harder for schools to say no to AI</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/07/Google-Logo-at-Google-NYC-Headquarters-with-Plants-Surroudning-it.jpg</image:loc>
+      <image:title>Google is making it harder for schools to say no to AI</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/samsung-galaxy-a58s-charging-speed-revealed-by-3c-certification</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T19:02:02Z</news:publication_date>
+      <news:title>Samsung Galaxy A58&apos;s charging speed revealed by 3C certification</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/samsung-galaxy-a58-charging-speed-3c-certification/gsmarena_001.jpg</image:loc>
+      <image:title>Samsung Galaxy A58&apos;s charging speed revealed by 3C certification</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/this-43-inch-xteink-x4-pro-e-reader-is-back-to-its-record-low</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T19:01:55Z</news:publication_date>
+      <news:title>This 4.3-inch XTEINK X4 Pro e-reader is back to its record low</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/XTEINK-X4-Pro-Press-Image.jpg</image:loc>
+      <image:title>This 4.3-inch XTEINK X4 Pro e-reader is back to its record low</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/ios-273-adds-vertical-tabs-and-adaptive-dark-mode-to-safari</loc>
     <news:news>
       <news:publication>
@@ -108,6 +258,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/technology/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T18:30:27Z</news:publication_date>
+      <news:title>NYT demands Brave shut down its paywall blocker and end deals with AI firms</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/brave-1152x648.jpg</image:loc>
+      <image:title>NYT demands Brave shut down its paywall blocker and end deals with AI firms</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/ios-273-beta-brings-back-apple039s-redesigned-health-app</loc>
     <news:news>
       <news:publication>
@@ -135,6 +300,21 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Reddit is adding more ads</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/buttons-are-back-and-storage-is-king-when-it-comes-to-car-interiors</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T18:19:31Z</news:publication_date>
+      <news:title>Buttons are back and storage is king when it comes to car interiors</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/2027-Nissan-Rogue-Hybrid-05-1152x648.jpg</image:loc>
+      <image:title>Buttons are back and storage is king when it comes to car interiors</image:title>
     </image:image>
   </url>
   <url>
@@ -213,6 +393,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/technology/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T17:54:43Z</news:publication_date>
+      <news:title>Google will let schools skip AI tools, but they have to give up search, too</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-grooves-1152x648.jpg</image:loc>
+      <image:title>Google will let schools skip AI tools, but they have to give up search, too</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/garmin-dash-cam-x110-gets-a-rare-50-discount-on-amazon</loc>
     <news:news>
       <news:publication>
@@ -225,6 +420,21 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Garmin-Dash-Cam-X110-Product-Image.jpg</image:loc>
       <image:title>Garmin Dash Cam X110 gets a rare $50 discount on Amazon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/honors-14000mah-smartphone-battery-can-reportedly-last-a-week</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T17:38:01Z</news:publication_date>
+      <news:title>Honor&apos;s 14,000mAh smartphone battery can reportedly last a week</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/honor-14000mah-battery-phone-leak-new/gsmarena_00.jpg</image:loc>
+      <image:title>Honor&apos;s 14,000mAh smartphone battery can reportedly last a week</image:title>
     </image:image>
   </url>
   <url>
@@ -300,6 +510,21 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/10/iPad-mini-OLED-feature-1.jpg</image:loc>
       <image:title>iPad Mini 8 Review Claims Battery Life is Way Better Than Apple Says</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/another-child-dies-of-measles-as-cdc-reportedly-holds-up-health-alert</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T17:21:29Z</news:publication_date>
+      <news:title>Another child dies of measles as CDC reportedly holds up health alert</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2053751760-1152x648.jpg</image:loc>
+      <image:title>Another child dies of measles as CDC reportedly holds up health alert</image:title>
     </image:image>
   </url>
   <url>
@@ -4275,111 +4500,6 @@
     <image:image>
       <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/06/Wear-OS-7-cover.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
       <image:title>Wear OS adding ‘system status bar’ to apps, Wear OS 7.1 coming</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-says-googlebook-detachables-are-coming-soon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T20:07:31Z</news:publication_date>
-      <news:title>Google says Googlebook ‘detachables’ are coming soon</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/Googlebook-family-cover.webp?w=1600</image:loc>
-      <image:title>Google says Googlebook ‘detachables’ are coming soon</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/how-to-know-if-a-usb-c-cable-is-waterproof</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T20:00:00Z</news:publication_date>
-      <news:title>How to know if a USB-C cable is waterproof</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/how-to-know-if-a-usb-c-cable-is-waterproof-or-not/l-intro-1793116949.jpg</image:loc>
-      <image:title>How to know if a USB-C cable is waterproof</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/flock-keeps-ignoring-requests-to-cancel-its-contracts</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T19:58:02Z</news:publication_date>
-      <news:title>Flock keeps ignoring requests to cancel its contracts</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268713_Americans_seem_to_agree_that_destroy_Flock_cameras_is_good_CVirginia.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Flock keeps ignoring requests to cancel its contracts</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/5-ways-to-get-amazon-prime-for-free-or-way-cheaper</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T19:45:00Z</news:publication_date>
-      <news:title>5 ways to get Amazon Prime for free (or way cheaper)</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/5-ways-to-get-amazon-prime-for-free-or-way-cheaper/l-intro-1793243550.jpg</image:loc>
-      <image:title>5 ways to get Amazon Prime for free (or way cheaper)</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/how-to-turn-on-the-flashlight-on-your-android-phone-without-unlocking-it</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T19:30:00Z</news:publication_date>
-      <news:title>How to turn on the flashlight on your Android phone without unlocking it</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/how-to-turn-on-the-flashlight-on-your-android-phone-without-unlocking-it/l-intro-1792959825.jpg</image:loc>
-      <image:title>How to turn on the flashlight on your Android phone without unlocking it</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/judge-says-xai-must-face-naacp-lawsuit-on-data-center-pollution</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T19:19:22Z</news:publication_date>
-      <news:title>Judge says xAI must face NAACP lawsuit on data center pollution</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/judge-says-xai-must-face-naacp-lawsuit-on-data-center-pollution/l-intro-1793560530.jpg</image:loc>
-      <image:title>Judge says xAI must face NAACP lawsuit on data center pollution</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/this-hidden-windows-11-menu-can-save-you-valuable-time-when-troubleshooting</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T19:00:00Z</news:publication_date>
-      <news:title>This hidden Windows 11 menu can save you valuable time when troubleshooting</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/this-hidden-windows-11-menu-can-save-you-valuable-time-when-troubleshooting/l-intro-1792876075.jpg</image:loc>
-      <image:title>This hidden Windows 11 menu can save you valuable time when troubleshooting</image:title>
     </image:image>
   </url>
 </urlset>
