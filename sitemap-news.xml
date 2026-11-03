@@ -3,6 +3,96 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/google-has-a-growing-gemini-problem-that-readers-find-hard-to-ignore</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T09:19:08Z</news:publication_date>
+      <news:title>Google has a growing Gemini problem that readers find hard to ignore</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/AI2-6-scaled.jpg</image:loc>
+      <image:title>Google has a growing Gemini problem that readers find hard to ignore</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/wear-os-8-is-getting-a-system-status-bar-and-here8217s-our-first-look-at-it</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T09:15:25Z</news:publication_date>
+      <news:title>Wear OS 8 is getting a system status bar, and here&amp;#8217;s our first look at it</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-5-scaled.jpg</image:loc>
+      <image:title>Wear OS 8 is getting a system status bar, and here&amp;#8217;s our first look at it</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-released-the-iphone-x-nine-years-ago-today</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T08:58:51Z</news:publication_date>
+      <news:title>Apple Released the iPhone X Nine Years Ago Today</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2025/04/iphone-x-front-back-feature-1.jpg</image:loc>
+      <image:title>Apple Released the iPhone X Nine Years Ago Today</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/youtube8217s-dreaded-server-error-400-is-back-to-haunt-android-users</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T08:51:46Z</news:publication_date>
+      <news:title>YouTube&amp;#8217;s dreaded Server Error 400 is back to haunt Android users</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/03/youtube-logo-google-pixel-10a-1-scaled.jpg</image:loc>
+      <image:title>YouTube&amp;#8217;s dreaded Server Error 400 is back to haunt Android users</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/nudify-apps-are-hiding-in-plain-sight-on-the-apple-app-store-and-google-play-store</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T08:51:10Z</news:publication_date>
+      <news:title>Nudify apps are hiding in plain sight on the Apple App Store and Google Play Store</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/11/free-apps-on-the-google-play-store-scaled.jpg</image:loc>
+      <image:title>Nudify apps are hiding in plain sight on the Apple App Store and Google Play Store</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/creating-your-own-avatar-in-google-vids-just-got-a-lot-easier</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T08:23:49Z</news:publication_date>
+      <news:title>Creating your own avatar in Google Vids just got a lot easier</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/01/Samsung-Galaxy-A56-gemini-app.jpg</image:loc>
+      <image:title>Creating your own avatar in Google Vids just got a lot easier</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/chatgpt-dots-are-getting-smarter-and-you-won8217t-have-to-lift-a-finger</loc>
     <news:news>
       <news:publication>
