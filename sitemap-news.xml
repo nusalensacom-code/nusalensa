@@ -3,6 +3,96 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/what-i-learned-after-a-weekend-gaming-on-the-new-snapdragon-8-elite-extreme-gen-6</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T12:00:41Z</news:publication_date>
+      <news:title>What I learned after a weekend gaming on the new Snapdragon 8 Elite Extreme Gen 6</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/REDMAGIC-12-Pro-hero-image-scaled.jpg</image:loc>
+      <image:title>What I learned after a weekend gaming on the new Snapdragon 8 Elite Extreme Gen 6</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/redmagic-12-pro-brings-its-rgb-liquid-cooling-and-185hz-screen-to-the-global-market</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T12:00:03Z</news:publication_date>
+      <news:title>RedMagic 12 Pro brings its RGB liquid cooling and 185Hz screen to the global market</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/redmagic-12-pro-global/gsmarena_000.jpg</image:loc>
+      <image:title>RedMagic 12 Pro brings its RGB liquid cooling and 185Hz screen to the global market</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/rivian-spinoff-also-wants-to-reinvent-the-wheel-but-first-it-has-to-ship</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T12:00:00Z</news:publication_date>
+      <news:title>Rivian spinoff Also wants to reinvent the wheel — but first, it has to ship</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2242247571.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Rivian spinoff Also wants to reinvent the wheel — but first, it has to ship</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/redmagic-upgrades-its-liquid-cooled-gaming-phone-with-extra-rgbs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T12:00:00Z</news:publication_date>
+      <news:title>Redmagic upgrades its liquid-cooled gaming phone with extra RGBs</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/redmagic-12-pro-3.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Redmagic upgrades its liquid-cooled gaming phone with extra RGBs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-explores-cheaper-way-to-make-new-macbook-pro039s-oled-tech</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T11:47:44Z</news:publication_date>
+      <news:title>Apple Explores Cheaper Way to Make New MacBook Pro&amp;#039;s OLED Tech</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/MacBook-Pro-PROLED-XDR-Display.jpg</image:loc>
+      <image:title>Apple Explores Cheaper Way to Make New MacBook Pro&amp;#039;s OLED Tech</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/youtube-music8217s-playback-controls-could-soon-feel-more-lively</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T11:34:20Z</news:publication_date>
+      <news:title>YouTube Music&amp;#8217;s playback controls could soon feel more lively</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/04/Rasputin-playing-on-YouTube-Music-on-Google-pixel-10a.jpg</image:loc>
+      <image:title>YouTube Music&amp;#8217;s playback controls could soon feel more lively</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/here8217s-when-samsungs-first-android-xr-glasses-could-arrive-in-the-us</loc>
     <news:news>
       <news:publication>
@@ -3570,51 +3660,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/deals-30/gsmarena_uk.jpg</image:loc>
       <image:title>Deals: Apple, Oppo, and Samsung’s flagship smartphones are available at reduced prices</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/this-android-gaming-benchmark-app-does-something-ive-never-seen-before</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T12:00:26Z</news:publication_date>
-      <news:title>This Android gaming benchmark app does something I’ve never seen before</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/evolve-11-scaled.jpg</image:loc>
-      <image:title>This Android gaming benchmark app does something I’ve never seen before</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-offers-steps-to-fix-daylight-saving-time-bug-on-apple-watch</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T11:34:49Z</news:publication_date>
-      <news:title>Apple Offers Steps to Fix Daylight Saving Time Bug on Apple Watch</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2020/09/apple-watch-series-3-design.jpg</image:loc>
-      <image:title>Apple Offers Steps to Fix Daylight Saving Time Bug on Apple Watch</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/youtubes-redesign-brings-one-annoying-change-but-i-found-a-workaround</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T11:30:50Z</news:publication_date>
-      <news:title>YouTube’s redesign brings one annoying change, but I found a workaround</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/DSCF3408-scaled.jpeg</image:loc>
-      <image:title>YouTube’s redesign brings one annoying change, but I found a workaround</image:title>
     </image:image>
   </url>
 </urlset>
