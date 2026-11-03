@@ -3,6 +3,111 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/the-sideload-050-the-phones-samsung-and-google-won8217t-make</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T21:30:00Z</news:publication_date>
+      <news:title>The Sideload 050: The phones Samsung and Google won&amp;#8217;t make</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2025/08/sideload-podcast-wider-copy-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>The Sideload 050: The phones Samsung and Google won&amp;#8217;t make</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/reddit-is-testing-in-app-search-ads-as-traffic-from-google-declines</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T21:27:50Z</news:publication_date>
+      <news:title>Reddit is testing in-app search ads as traffic from Google declines</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/reddit-is-testing-search-ads-as-traffic-from-google-declines/l-intro-1793741097.jpg</image:loc>
+      <image:title>Reddit is testing in-app search ads as traffic from Google declines</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/heres-what-its-like-to-use-audio-intelligence-on-the-apple-watch</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T21:21:04Z</news:publication_date>
+      <news:title>Here’s what it’s like to use Audio Intelligence on the Apple Watch</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/liverewind.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Here’s what it’s like to use Audio Intelligence on the Apple Watch</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-messages-redesigning-pinned-chats-and-moving-search</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T21:14:05Z</news:publication_date>
+      <news:title>Google Messages redesigning pinned chats and moving search</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/09/google-messages-thread-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Google Messages redesigning pinned chats and moving search</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/peak-design8217s-new-wireless-charging-stand-pulls-double-duty-literally</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T21:05:00Z</news:publication_date>
+      <news:title>Peak Design&amp;#8217;s new wireless charging stand pulls double duty, literally</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/Peak-Design-chargers-5.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Peak Design&amp;#8217;s new wireless charging stand pulls double duty, literally</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/those-jeff-bezos-hair-transplant-photos-are-very-fake</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T21:01:07Z</news:publication_date>
+      <news:title>Those Jeff Bezos hair transplant photos are very fake</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Fake-Jeff-Bezos-Jason-Statham-hair-photo-edits.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Those Jeff Bezos hair transplant photos are very fake</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/what-type-of-battery-does-the-slate-truck-use</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T21:00:00Z</news:publication_date>
+      <news:title>What type of battery does the Slate Truck use?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/what-type-of-battery-does-the-slate-truck-use/l-intro-1793394367.jpg</image:loc>
+      <image:title>What type of battery does the Slate Truck use?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/ipados-273-expands-siri-mode-to-camera-app</loc>
     <news:news>
       <news:publication>
@@ -60,6 +165,21 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/sonos-new-voice-assistant-is-launching-in-early-access-on-november-6/l-intro-1793738872.jpg</image:loc>
       <image:title>Sonos&apos; new voice assistant is launching in early access on November 6</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/ukraines-drone-strikes-spur-hasty-russian-plans-for-underground-data-centers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T20:39:55Z</news:publication_date>
+      <news:title>Ukraine’s drone strikes spur hasty Russian plans for underground data centers</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/Russia-Borodinsky-coal-mine-1152x648.jpg</image:loc>
+      <image:title>Ukraine’s drone strikes spur hasty Russian plans for underground data centers</image:title>
     </image:image>
   </url>
   <url>
@@ -363,6 +483,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/technology/how-to-use-your-phone-to-find-hidden-cameras</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T19:00:00Z</news:publication_date>
+      <news:title>How to use your phone to find hidden cameras</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/how-you-can-use-your-phone-to-find-hidden-cameras/l-intro-1792784027.jpg</image:loc>
+      <image:title>How to use your phone to find hidden cameras</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/ios-273-adds-vertical-tabs-and-adaptive-dark-mode-to-safari</loc>
     <news:news>
       <news:publication>
@@ -480,6 +615,21 @@
     <image:image>
       <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/brave-1152x648.jpg</image:loc>
       <image:title>NYT demands Brave shut down its paywall blocker and end deals with AI firms</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/razer-unveils-the-raiju-v3-pro-signature-edition-ps5-controller</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T18:28:03Z</news:publication_date>
+      <news:title>Razer unveils the Raiju V3 Pro Signature Edition PS5 controller</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/razer-unveils-the-raiju-v3-pro-signature-edition-ps5-controller/l-intro-1793730404.jpg</image:loc>
+      <image:title>Razer unveils the Raiju V3 Pro Signature Edition PS5 controller</image:title>
     </image:image>
   </url>
   <url>
@@ -4650,51 +4800,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/which-samsung-s-pens-can-be-located-using-smartthings-find/l-intro-1793021774.jpg</image:loc>
       <image:title>Which Samsung S Pens can be located using SmartThings Find?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/deals-the-pixel-11-series-is-on-sale-and-so-is-the-galaxy-s26-series</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T21:31:02Z</news:publication_date>
-      <news:title>Deals: the Pixel 11 series is on sale and so is the Galaxy S26 series</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/deals-30/gsmarena_us.jpg</image:loc>
-      <image:title>Deals: the Pixel 11 series is on sale and so is the Galaxy S26 series</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/nasa-hopes-the-commercial-space-industry-can-help-save-hubble</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T21:09:21Z</news:publication_date>
-      <news:title>NASA hopes the commercial space industry can help save Hubble</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13237317/PIA18165_large.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>NASA hopes the commercial space industry can help save Hubble</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T21:08:32Z</news:publication_date>
-      <news:title>Anthropic updates Claude to stop it from recreating existing video games</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games/l-intro-1793566610.jpg</image:loc>
-      <image:title>Anthropic updates Claude to stop it from recreating existing video games</image:title>
     </image:image>
   </url>
 </urlset>
