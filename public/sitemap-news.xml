@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/039super-mario-odyssey039-can-now-run-on-apple-tv-thanks-to-ai</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T23:20:15Z</news:publication_date>
+      <news:title>&amp;#039;Super Mario Odyssey&amp;#039; Can Now Run on Apple TV Thanks to AI</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/super-mario-odyssey-apple-tv.jpg</image:loc>
+      <image:title>&amp;#039;Super Mario Odyssey&amp;#039; Can Now Run on Apple TV Thanks to AI</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/snap-has-more-than-30-million-paid-subscribers-across-snapchat-and-other-plans</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T22:55:57Z</news:publication_date>
+      <news:title>Snap has more than 30 million paid subscribers across Snapchat+ and other plans</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/snap-has-more-than-30-million-paid-subscribers-across-snapchat-and-other-plans/l-intro-1793832812.jpg</image:loc>
+      <image:title>Snap has more than 30 million paid subscribers across Snapchat+ and other plans</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/qualcomm-is-betting-big-on-data-centers-as-smartphone-sales-sink</loc>
     <news:news>
       <news:publication>
@@ -5085,96 +5115,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/the-reason-why-some-iphone-calls-dont-have-a-decline-option-and-others-do/l-intro-1793218638.jpg</image:loc>
       <image:title>The reason why some iPhone calls don&apos;t have a decline option, and others do</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/at-home-in-space-opens-caps-air-and-space-museum-renovation</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T23:30:16Z</news:publication_date>
-      <news:title>&quot;At Home in Space&quot; opens, caps Air and Space Museum renovation</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/news-103026a-lg-1152x648.jpg</image:loc>
-      <image:title>&quot;At Home in Space&quot; opens, caps Air and Space Museum renovation</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/why-its-important-to-never-plug-power-strips-into-each-other</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T23:30:00Z</news:publication_date>
-      <news:title>Why it&apos;s important to never plug power strips into each other</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/why-its-important-to-never-plug-power-strips-into-each-other/l-intro-1792782959.jpg</image:loc>
-      <image:title>Why it&apos;s important to never plug power strips into each other</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/how-to-use-your-phones-camera-to-translate-anything</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T23:00:00Z</news:publication_date>
-      <news:title>How to use your phone&apos;s camera to translate anything</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/how-to-use-your-phones-camera-to-translate-anything/l-intro-1792778533.jpg</image:loc>
-      <image:title>How to use your phone&apos;s camera to translate anything</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-is-not-able-to-predict-when-it8217ll-have-enough-iphone-duos-to-go-around</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T22:56:11Z</news:publication_date>
-      <news:title>Apple is ‘not able to predict’ when it&amp;#8217;ll have enough iPhone Duos to go around</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1378.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Apple is ‘not able to predict’ when it&amp;#8217;ll have enough iPhone Duos to go around</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/why-large-dogs-age-faster-than-small-ones-and-other-october-research-highlights</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T22:54:35Z</news:publication_date>
-      <news:title>Why large dogs age faster than small ones, and other October research highlights</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/doggos-1152x648-1793464886.jpg</image:loc>
-      <image:title>Why large dogs age faster than small ones, and other October research highlights</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/whats-new-in-android-nov-2026-google-system-updates-android-photo-backup-with-quick-share-for-windows</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T22:48:58Z</news:publication_date>
-      <news:title>What’s new in Android Nov. 2026 Google System Updates: Android photo backup with Quick Share for Windows</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2025/01/google-play-services-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>What’s new in Android Nov. 2026 Google System Updates: Android photo backup with Quick Share for Windows</image:title>
     </image:image>
   </url>
 </urlset>
