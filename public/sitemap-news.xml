@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/latest-sonos-app-update-can-help-you-fix-your-speaker-setup-faster-but-there8217s-a-catch</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T06:47:21Z</news:publication_date>
+      <news:title>Latest Sonos app update can help you fix your speaker setup faster, but there&amp;#8217;s a catch</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2023/03/Sonos-Era-100-smart-speaker-hero.jpg</image:loc>
+      <image:title>Latest Sonos app update can help you fix your speaker setup faster, but there&amp;#8217;s a catch</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/whatsapp-starts-suggesting-your-latest-photos-and-videos-right-in-your-chats</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T06:01:02Z</news:publication_date>
+      <news:title>WhatsApp starts suggesting your latest photos and videos right in your chats</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/whatsapp-media-suggestions/gsmarena_000.jpg</image:loc>
+      <image:title>WhatsApp starts suggesting your latest photos and videos right in your chats</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/samsung-galaxy-a38s-battery-capacity-leaks-and-its-finally-an-upgrade</loc>
     <news:news>
       <news:publication>
@@ -5025,36 +5055,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/DSC00477.jpeg</image:loc>
       <image:title>Google bug made zooming into images a nightmare, but there&amp;#8217;s a fix</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/wear-os-71-is-official-but-a-future-version-will-copy-this-key-android-phone-feature</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T06:43:28Z</news:publication_date>
-      <news:title>Wear OS 7.1 is official, but a future version will copy this key Android phone feature</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-8-scaled-e1786466755516-500w-260h.jpg</image:loc>
-      <image:title>Wear OS 7.1 is official, but a future version will copy this key Android phone feature</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/chatgpt-could-soon-turn-your-android-health-data-into-something-you-can-actually-use</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T06:36:17Z</news:publication_date>
-      <news:title>ChatGPT could soon turn your Android health data into something you can actually use</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/chatgpt-health-image.jpg</image:loc>
-      <image:title>ChatGPT could soon turn your Android health data into something you can actually use</image:title>
     </image:image>
   </url>
 </urlset>
