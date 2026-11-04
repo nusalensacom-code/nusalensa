@@ -3,6 +3,96 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/apple-music039s-new-selfie-sing-feature-lets-you-record-karaoke-videos</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T00:05:45Z</news:publication_date>
+      <news:title>Apple Music&amp;#039;s New Selfie Sing Feature Lets You Record Karaoke Videos</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/ios-27-3-selfie-sing.jpg</image:loc>
+      <image:title>Apple Music&amp;#039;s New Selfie Sing Feature Lets You Record Karaoke Videos</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/your-desktops-front-usb-ports-may-be-slowing-down-every-device-you-plug-into-them</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T00:00:00Z</news:publication_date>
+      <news:title>Your desktop&apos;s front USB ports may be slowing down every device you plug into them</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/your-desktops-front-usb-ports-may-be-slowing-down-every-device-you-plug-into-them/l-intro-1793642328.jpg</image:loc>
+      <image:title>Your desktop&apos;s front USB ports may be slowing down every device you plug into them</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/please-stop-asking-me-when-the-ai-bubble-will-pop</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T23:37:45Z</news:publication_date>
+      <news:title>Please stop asking me when the AI bubble will pop</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302813651.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Please stop asking me when the AI bubble will pop</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/arkane-and-its-blade-game-may-end-up-at-ubisoft-as-xbox-considers-offers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T23:32:37Z</news:publication_date>
+      <news:title>Arkane and its Blade game may end up at Ubisoft as Xbox considers offers</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/arkane-and-its-blade-game-may-end-up-at-ubisoft-as-xbox-considers-offers/l-intro-1793748584.jpg</image:loc>
+      <image:title>Arkane and its Blade game may end up at Ubisoft as Xbox considers offers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/tipster-brings-bad-news-for-the-galaxy-z-fold9-and-z-fold9-ultra-cameras</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T23:31:03Z</news:publication_date>
+      <news:title>Tipster brings bad news for the Galaxy Z Fold9 and Z Fold9 Ultra cameras</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/samsung-galaxy-z-fold9-camera-leak/gsmarena_000.jpg</image:loc>
+      <image:title>Tipster brings bad news for the Galaxy Z Fold9 and Z Fold9 Ultra cameras</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/android-and-ios-apps-will-be-able-to-bypass-the-share-sheet-next-year</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T23:31:02Z</news:publication_date>
+      <news:title>Android and iOS apps will be able to bypass the share sheet next year</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/quick-share-sdk/gsmarena_000.jpg</image:loc>
+      <image:title>Android and iOS apps will be able to bypass the share sheet next year</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/what-made-nothings-cmf-phone-2-pro-so-much-cheaper-than-others</loc>
     <news:news>
       <news:publication>
@@ -105,6 +195,21 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/metas-quest-2-and-quest-pro-reach-end-of-feature-development/l-intro-1793745475.jpg</image:loc>
       <image:title>Meta&apos;s Quest 2 and Quest Pro reach &apos;end of feature development&apos;</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T22:39:37Z</news:publication_date>
+      <news:title>California fights &quot;preposterous&quot; Trump admin demand to scrap state broadband laws</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2023/06/getty-fiber-1152x648.jpg</image:loc>
+      <image:title>California fights &quot;preposterous&quot; Trump admin demand to scrap state broadband laws</image:title>
     </image:image>
   </url>
   <url>
@@ -4920,51 +5025,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/android-auto-could-upset-your-work-life-balance-with-its-next-update/l-intro-1793021238.jpg</image:loc>
       <image:title>Android Auto could upset your work-life balance with its next update</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/10-ipad-widgets-you-probably-didnt-realize-existed</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T00:15:00Z</news:publication_date>
-      <news:title>10 iPad widgets you probably didn&apos;t realize existed</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/10-ipad-widgets-you-probably-didnt-realize-existed/l-intro-1793198901.jpg</image:loc>
-      <image:title>10 iPad widgets you probably didn&apos;t realize existed</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/ai-glasses-can-replace-your-prescription-glasses-but-should-they</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T00:00:00Z</news:publication_date>
-      <news:title>AI glasses can replace your prescription glasses, but should they?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/ai-glasses-can-replace-your-prescription-glasses-but-should-they/l-intro-1792784878.jpg</image:loc>
-      <image:title>AI glasses can replace your prescription glasses, but should they?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/how-using-one-earbud-more-than-the-other-can-cause-uneven-wear-and-tear</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T23:45:00Z</news:publication_date>
-      <news:title>How using one earbud more than the other can cause uneven wear and tear</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/how-using-one-earbud-more-than-the-other-can-cause-uneven-wear-and-tear/l-intro-1792776566.jpg</image:loc>
-      <image:title>How using one earbud more than the other can cause uneven wear and tear</image:title>
     </image:image>
   </url>
 </urlset>
