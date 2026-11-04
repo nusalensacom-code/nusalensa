@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/don8217t-want-google-using-your-gmail-or-photos-info-for-ads-here8217s-how-to-stop-it</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T10:30:05Z</news:publication_date>
+      <news:title>Don&amp;#8217;t want Google using your Gmail or Photos info for ads? Here&amp;#8217;s how to stop it</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Phone-on-a-table-showing-Connected-connect-apps-menu-scaled.jpg</image:loc>
+      <image:title>Don&amp;#8217;t want Google using your Gmail or Photos info for ads? Here&amp;#8217;s how to stop it</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/this-treadmill-owner-used-claude-to-escape-a-subscription-trap-and-it8217s-glorious</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T10:20:57Z</news:publication_date>
+      <news:title>This treadmill owner used Claude to escape a subscription trap, and it&amp;#8217;s glorious</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/Claude-ChatGPT-Gemini-logos-scaled.jpg</image:loc>
+      <image:title>This treadmill owner used Claude to escape a subscription trap, and it&amp;#8217;s glorious</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/iphone-18-is-getting-two-major-upgrades-but-also-another-price-hike</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T10:09:02Z</news:publication_date>
+      <news:title>iPhone 18 is getting two major upgrades, but also another price hike</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/09/iphone-17-16-17e-air-price-hike/gsmarena_00.jpg</image:loc>
+      <image:title>iPhone 18 is getting two major upgrades, but also another price hike</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/i-tested-the-iphone-18-pros-and-pixel-11-pros-photo-styles-and-theres-a-clear-winner</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T10:00:38Z</news:publication_date>
+      <news:title>I tested the iPhone 18 Pro’s and Pixel 11 Pro’s photo styles, and there’s a clear winner</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/iphone-18-pro-max-pixel-11-pro-xl-scaled.jpg</image:loc>
+      <image:title>I tested the iPhone 18 Pro’s and Pixel 11 Pro’s photo styles, and there’s a clear winner</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/google-is-giving-chrome8217s-three-dot-menu-a-much-needed-brain</loc>
     <news:news>
       <news:publication>
@@ -5055,96 +5115,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/DSCF3401-scaled.jpeg</image:loc>
       <image:title>I made 4 apps with ChatGPT&amp;#8217;s Intelligent UI — it&amp;#8217;s not ready for prime time</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/ive-used-every-android-foldable-released-this-year-heres-how-the-iphone-duo-stacks-up</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T10:30:32Z</news:publication_date>
-      <news:title>I’ve used every Android foldable released this year. Here’s how the iPhone Duo stacks up</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/iPhone-Duo-AA-14.jpg</image:loc>
-      <image:title>I’ve used every Android foldable released this year. Here’s how the iPhone Duo stacks up</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/oneplus-turbo-6vs-debuts-quietly-with-same-specs-as-turbo-6v</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T10:25:02Z</news:publication_date>
-      <news:title>OnePlus Turbo 6Vs debuts quietly with same specs as Turbo 6V</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/oneplus-turbo-6vs-ofic/gsmarena_00.jpg</image:loc>
-      <image:title>OnePlus Turbo 6Vs debuts quietly with same specs as Turbo 6V</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/android-auto-and-one-ui-9-aren8217t-getting-along-for-some-galaxy-owners</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T10:24:45Z</news:publication_date>
-      <news:title>Android Auto and One UI 9 aren&amp;#8217;t getting along for some Galaxy owners</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/06/android-auto-third-party-apps.jpg</image:loc>
-      <image:title>Android Auto and One UI 9 aren&amp;#8217;t getting along for some Galaxy owners</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-hides-these-useful-camera-features-by-default-here8217s-how-to-unlock-them</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T10:00:51Z</news:publication_date>
-      <news:title>Samsung hides these useful camera features by default — here&amp;#8217;s how to unlock them</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/05/Samsung-Galaxy-S25-Edge-camera-app.jpg</image:loc>
-      <image:title>Samsung hides these useful camera features by default — here&amp;#8217;s how to unlock them</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-homeview-could-double-as-a-security-camera</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T09:57:03Z</news:publication_date>
-      <news:title>Apple HomeView Could Double as a Security Camera</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/homeview_home_screen_feature-2.jpg</image:loc>
-      <image:title>Apple HomeView Could Double as a Security Camera</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/googlebook-detachables-are-coming-and-this-could-be-the-first-one-to-launch</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T09:40:15Z</news:publication_date>
-      <news:title>Googlebook detachables are coming, and this could be the first one to launch</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Googlebook-Acer-10.jpg</image:loc>
-      <image:title>Googlebook detachables are coming, and this could be the first one to launch</image:title>
     </image:image>
   </url>
 </urlset>
