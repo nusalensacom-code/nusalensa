@@ -3,6 +3,111 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/amd-rides-data-center-riches-to-8216largest-and-most-profitable8217-quarter-in-history</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T01:15:34Z</news:publication_date>
+      <news:title>AMD rides data center riches to &amp;#8216;largest and most profitable&amp;#8217; quarter in history</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>AMD rides data center riches to &amp;#8216;largest and most profitable&amp;#8217; quarter in history</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/all-the-news-about-the-legend-of-zelda-ocarina-of-time-remake</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T01:02:53Z</news:publication_date>
+      <news:title>All the news about The Legend of Zelda: Ocarina of Time remake</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/NS2_TheLegendofZeldaOcarinaofTime_scrn_15.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>All the news about The Legend of Zelda: Ocarina of Time remake</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-expects-its-highest-revenue-yet-in-q4-but-memory-prices-will-hurt-profits</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T01:02:02Z</news:publication_date>
+      <news:title>Apple expects its highest revenue yet in Q4, but memory prices will hurt profits</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/apple-event-october-28/gsmarena_00.jpg</image:loc>
+      <image:title>Apple expects its highest revenue yet in Q4, but memory prices will hurt profits</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/ipad-mini-oled-vs-ipad-mini-whats-new</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T01:00:00Z</news:publication_date>
+      <news:title>iPad mini OLED vs. iPad mini: What&apos;s new?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/ipad-mini-oled-vs-ipad-mini-whats-new/l-intro-1793601129.jpg</image:loc>
+      <image:title>iPad mini OLED vs. iPad mini: What&apos;s new?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/everything-new-in-the-ios-273-beta</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T00:52:02Z</news:publication_date>
+      <news:title>Everything New in the iOS 27.3 Beta</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/safari-vertical-tabs.jpg</image:loc>
+      <image:title>Everything New in the iOS 27.3 Beta</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-biggest-modding-site-in-pc-gaming-is-taking-a-stance-on-ai</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T00:42:10Z</news:publication_date>
+      <news:title>The biggest modding site in PC gaming is taking a stance on AI</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>The biggest modding site in PC gaming is taking a stance on AI</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/your-phones-apps-could-have-more-permissions-than-they-need-heres-how-to-check</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T00:30:00Z</news:publication_date>
+      <news:title>Your phone&apos;s apps could have more permissions than they need – here&apos;s how to check</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/your-phones-apps-could-have-more-permissions-than-they-need-heres-how-to-check/l-intro-1793264879.jpg</image:loc>
+      <image:title>Your phone&apos;s apps could have more permissions than they need – here&apos;s how to check</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/apple-music039s-new-selfie-sing-feature-lets-you-record-karaoke-videos</loc>
     <news:news>
       <news:publication>
@@ -4950,81 +5055,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/Google-Wallet-logo-on-smartphone-next-to-credit-cards-and-cash-Stock-photo-12-1000w-563h.jpg</image:loc>
       <image:title>Google Wallet may soon let you trade convenience for extra payment security</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/sennheiser-momentum-true-wireless-5-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T01:31:02Z</news:publication_date>
-      <news:title>Sennheiser Momentum True Wireless 5 review</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/sennheiser-momentum-true-wireless-5-review/gsmarena_000.jpg</image:loc>
-      <image:title>Sennheiser Momentum True Wireless 5 review</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/how-long-is-a-new-apple-tv-actually-supposed-to-last</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T01:30:00Z</news:publication_date>
-      <news:title>How long is a new Apple TV actually supposed to last?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/how-long-is-a-new-apple-tv-actually-supposed-to-last/l-intro-1793037978.jpg</image:loc>
-      <image:title>How long is a new Apple TV actually supposed to last?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/6-google-maps-features-that-work-better-on-android-auto-vs-carplay</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T01:00:00Z</news:publication_date>
-      <news:title>6 Google Maps features that work better on Android Auto vs. CarPlay</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/6-google-maps-features-that-work-better-on-android-auto-vs-carplay/l-intro-1793216852.jpg</image:loc>
-      <image:title>6 Google Maps features that work better on Android Auto vs. CarPlay</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/how-to-add-and-rearrange-apps-on-your-samsung-smart-tv</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T00:45:00Z</news:publication_date>
-      <news:title>How to add and rearrange apps on your Samsung smart TV</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/how-to-add-and-rearrange-apps-on-your-samsung-smart-tv/l-intro-1792793521.jpg</image:loc>
-      <image:title>How to add and rearrange apps on your Samsung smart TV</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/android-auto-could-upset-your-work-life-balance-with-its-next-update</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T00:30:00Z</news:publication_date>
-      <news:title>Android Auto could upset your work-life balance with its next update</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/android-auto-could-upset-your-work-life-balance-with-its-next-update/l-intro-1793021238.jpg</image:loc>
-      <image:title>Android Auto could upset your work-life balance with its next update</image:title>
     </image:image>
   </url>
 </urlset>
