@@ -3,6 +3,231 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/nothing-teases-a-mysterious-ai-native-product-launch-for-next-month</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T17:47:32Z</news:publication_date>
+      <news:title>Nothing teases a mysterious ‘AI-native product’ launch for next month</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/06/Nothing-Phone-3a-CMF-Phone-scaled.jpg</image:loc>
+      <image:title>Nothing teases a mysterious ‘AI-native product’ launch for next month</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/macos-273-includes-an-important-security-fix</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T17:41:01Z</news:publication_date>
+      <news:title>macOS 27.3 Includes an Important Security Fix</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/06/macOS-27-next-to-MacBook-Pro-Running-macOS-27.jpg</image:loc>
+      <image:title>macOS 27.3 Includes an Important Security Fix</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/macos-273-brings-live-activities-to-macs-without-dynamic-island</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T17:40:27Z</news:publication_date>
+      <news:title>macOS 27.3 Brings Live Activities to Macs Without Dynamic Island</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/macOS-27-3-Live-Activities-Timer.jpg</image:loc>
+      <image:title>macOS 27.3 Brings Live Activities to Macs Without Dynamic Island</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/hyperx-cloud-jet-falls-50-to-lowest-price-of-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T17:20:30Z</news:publication_date>
+      <news:title>HyperX Cloud Jet falls 50% to lowest price of 2026</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/HyperX-Cloud-Jet-Press-Image.jpg</image:loc>
+      <image:title>HyperX Cloud Jet falls 50% to lowest price of 2026</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/redditor-uses-ai-to-get-switch-games-running-natively-on-apple-tv</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T17:15:09Z</news:publication_date>
+      <news:title>Redditor uses AI to get Switch games running natively on Apple TV</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/redditor-uses-ai-to-get-switch-games-running-natively-on-apple-tv/l-intro-1793812470.jpg</image:loc>
+      <image:title>Redditor uses AI to get Switch games running natively on Apple TV</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/bluetooth-is-going-to-get-a-lot-faster-in-2027</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T17:14:21Z</news:publication_date>
+      <news:title>Bluetooth is going to get a lot faster in 2027</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/bluetooth-is-going-to-get-a-lot-faster-in-2027/l-intro-1793812232.jpg</image:loc>
+      <image:title>Bluetooth is going to get a lot faster in 2027</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/bluetooths-next-big-audio-upgrade-is-coming-but-not-to-your-current-devices</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T17:12:44Z</news:publication_date>
+      <news:title>Bluetooth’s next big audio upgrade is coming, but not to your current devices</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2023/03/Bluetooth-audio-codec-selection-OnePlus-11-aptX-AAC-LDAC-SBC-LHDC.jpg</image:loc>
+      <image:title>Bluetooth’s next big audio upgrade is coming, but not to your current devices</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/amazon-slashes-470-off-the-13-inch-ipad-air-with-m2</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T17:11:40Z</news:publication_date>
+      <news:title>Amazon slashes $470 off the 13-inch iPad Air with M2</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2022/12/Apple-iPad-Pro-M2-2022-rear-3-scaled.jpeg</image:loc>
+      <image:title>Amazon slashes $470 off the 13-inch iPad Air with M2</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/god-of-war-laufey-delayed-until-may</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T17:10:31Z</news:publication_date>
+      <news:title>God of War Laufey delayed until May</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/7fa631fcc57afee84f351918717a3cdab924a583a409f14d.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>God of War Laufey delayed until May</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/amazon-knocks-40-off-the-2nd-gen-bose-soundlink-micro</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T17:06:13Z</news:publication_date>
+      <news:title>Amazon knocks $40 off the 2nd Gen Bose SoundLink Micro</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2019/06/Bose-Soundlink-Micro.jpg</image:loc>
+      <image:title>Amazon knocks $40 off the 2nd Gen Bose SoundLink Micro</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/nintendo-is-losing-a-switch-cartridge-supplier</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T17:03:32Z</news:publication_date>
+      <news:title>Nintendo is losing a Switch cartridge supplier</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/jbareham_180301_2346_nintendo_switch_0094.webp?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Nintendo is losing a Switch cartridge supplier</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/oppo-find-n7-officially-confirmed-to-arrive-in-europe</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T17:02:02Z</news:publication_date>
+      <news:title>Oppo Find N7 officially confirmed to arrive in Europe</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/03/oppo-find-n6-official/gsmarena_000.jpg</image:loc>
+      <image:title>Oppo Find N7 officially confirmed to arrive in Europe</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/elon-musk-spent-nearly-500-million-on-the-midterms-and-lost-big-time</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T17:01:10Z</news:publication_date>
+      <news:title>Elon Musk spent nearly $500 million on the midterms and lost big-time</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/elon-musk-spent-nearly-500-million-on-the-midterms-and-lost-bigtime/l-intro-1793811561.jpg</image:loc>
+      <image:title>Elon Musk spent nearly $500 million on the midterms and lost big-time</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-tv-reportedly-planning-039silo039-spinoff</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T16:57:01Z</news:publication_date>
+      <news:title>Apple TV Reportedly Planning &amp;#039;Silo&amp;#039; Spinoff</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/04/Apple-TV-Silo.jpg</image:loc>
+      <image:title>Apple TV Reportedly Planning &amp;#039;Silo&amp;#039; Spinoff</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/sony-is-rolling-out-android-17-to-the-xperia-10-viii-and-vii-but-there8217s-a-catch</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T16:53:19Z</news:publication_date>
+      <news:title>Sony is rolling out Android 17 to the Xperia 10 VIII and VII, but there&amp;#8217;s a catch</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/09/Sony-Xperia-10-VII_packshot_3colors.jpg</image:loc>
+      <image:title>Sony is rolling out Android 17 to the Xperia 10 VIII and VII, but there&amp;#8217;s a catch</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/deals-pixel-watch-5-up-to-200-off-galaxy-z-fold-8-300-off-200-store-credit-moto-tag-2-anker-more</loc>
     <news:news>
       <news:publication>
@@ -4905,156 +5130,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>The New York Times sues Brave web browser for AI scraping and bypassing paywalls</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/this-samsung-galaxy-problem-sadly-still-exists-in-2026-but-you-can-easily-fix-it</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T17:45:00Z</news:publication_date>
-      <news:title>This Samsung Galaxy problem sadly still exists in 2026, but you can easily fix it</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/this-samsung-galaxy-problem-sadly-still-exists-in-2026-but-you-can-easily-fix-it/l-intro-1792419029.jpg</image:loc>
-      <image:title>This Samsung Galaxy problem sadly still exists in 2026, but you can easily fix it</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/windows-11-now-lets-you-access-android-apps-straight-from-search</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T17:34:11Z</news:publication_date>
-      <news:title>Windows 11 now lets you access Android apps straight from Search</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/07/Samsung-Phone-Link-screen-mirroring-scaled.jpeg</image:loc>
-      <image:title>Windows 11 now lets you access Android apps straight from Search</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-plans-to-refresh-three-ipads-in-the-first-half-of-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T17:21:02Z</news:publication_date>
-      <news:title>Apple plans to refresh three iPads in the first half of 2027</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/three-new-ipads-in-2027-rumor/gsmarena_000.jpg</image:loc>
-      <image:title>Apple plans to refresh three iPads in the first half of 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/gemini-could-be-poking-through-your-emails-heres-how-to-stop-it</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T17:15:00Z</news:publication_date>
-      <news:title>Gemini could be poking through your emails - here&apos;s how to stop it</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/gemini-could-be-poking-through-your-emails-heres-how-to-stop-it/l-intro-1793097394.jpg</image:loc>
-      <image:title>Gemini could be poking through your emails - here&apos;s how to stop it</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/china-publicly-discloses-plan-for-a-lunar-landing-within-three-years</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T17:09:13Z</news:publication_date>
-      <news:title>China publicly discloses plan for a lunar landing within three years</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/china-1-1152x648.jpg</image:loc>
-      <image:title>China publicly discloses plan for a lunar landing within three years</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-rolling-out-gradient-icon-redesigns-for-contacts-messages-and-phone</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T17:07:06Z</news:publication_date>
-      <news:title>Google rolling out gradient icon redesigns for Contacts, Messages, and Phone</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Messages-Phone-Contacts-icon-gradient-redesign.webp?w=1600</image:loc>
-      <image:title>Google rolling out gradient icon redesigns for Contacts, Messages, and Phone</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/apple8217s-ultra-smart-home-robot-might-have-to-wait-until-2028</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T17:06:10Z</news:publication_date>
-      <news:title>Apple&amp;#8217;s ‘Ultra’ smart home robot might have to wait until 2028</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK071_APPLE_H.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Apple&amp;#8217;s ‘Ultra’ smart home robot might have to wait until 2028</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/some-samsung-galaxy-phones-are-having-android-auto-issues-with-one-ui-9</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T17:05:00Z</news:publication_date>
-      <news:title>Some Samsung Galaxy phones are having Android Auto issues with One UI 9</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2025/06/Galaxy-S25-Ultra-camera-system-4.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Some Samsung Galaxy phones are having Android Auto issues with One UI 9</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/amazon-cuts-800-off-samsungs-77-inch-s90h-4k-oled-tv</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T17:01:48Z</news:publication_date>
-      <news:title>Amazon cuts $800 off Samsung’s 77-inch S90H 4K OLED TV</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Samsung-77-Inch-Class-S90H-Series-OLED-4K-Smart-TV-Press-Image.jpg</image:loc>
-      <image:title>Amazon cuts $800 off Samsung’s 77-inch S90H 4K OLED TV</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/here039s-what-spotify-looks-like-on-apple039s-homeview</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T16:56:13Z</news:publication_date>
-      <news:title>Here&amp;#039;s What Spotify Looks Like on Apple&amp;#039;s HomeView</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/HomeView-Spotify-Feature.jpg</image:loc>
-      <image:title>Here&amp;#039;s What Spotify Looks Like on Apple&amp;#039;s HomeView</image:title>
     </image:image>
   </url>
 </urlset>
