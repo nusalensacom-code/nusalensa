@@ -3,6 +3,111 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/apple039s-insider-trading-policy-now-covers-prediction-markets</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T12:45:42Z</news:publication_date>
+      <news:title>Apple&amp;#039;s Insider Trading Policy Now Covers Prediction Markets</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/03/Apple-Park-PR-Handout.jpg</image:loc>
+      <image:title>Apple&amp;#039;s Insider Trading Policy Now Covers Prediction Markets</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/039stick039-season-2-premieres-today-on-apple-tv</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T12:41:35Z</news:publication_date>
+      <news:title>&amp;#039;Stick&amp;#039; Season 2 Premieres Today on Apple TV</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/stick-apple-tv.jpg</image:loc>
+      <image:title>&amp;#039;Stick&amp;#039; Season 2 Premieres Today on Apple TV</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/iphone-18e-rumored-to-focus-on-chip-upgrade-with-few-major-changes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T12:31:01Z</news:publication_date>
+      <news:title>iPhone 18e Rumored to Focus on Chip Upgrade With Few Major Changes</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/03/iphone-17e-notch.jpg</image:loc>
+      <image:title>iPhone 18e Rumored to Focus on Chip Upgrade With Few Major Changes</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-maps-updated-to-fully-support-iphone-duo-displays</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T12:24:12Z</news:publication_date>
+      <news:title>Google Maps Updated to Fully Support iPhone Duo Displays</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/google-maps-iphone-duo.jpeg</image:loc>
+      <image:title>Google Maps Updated to Fully Support iPhone Duo Displays</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/new-info-reveals-the-samsung-galaxy-s27-pro-wont-be-powered-by-the-snapdragon-8-elite-extreme-gen-6</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T12:21:02Z</news:publication_date>
+      <news:title>New info reveals the Samsung Galaxy S27 Pro won&apos;t be powered by the Snapdragon 8 Elite Extreme Gen 6</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/08/samsung-galaxy-s27-pro-leaked-renders/gsmarena_000.jpg</image:loc>
+      <image:title>New info reveals the Samsung Galaxy S27 Pro won&apos;t be powered by the Snapdragon 8 Elite Extreme Gen 6</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/google-hasn8217t-figured-out-how-to-make-ai-pay-like-its-search-engine</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T12:00:00Z</news:publication_date>
+      <news:title>Google hasn&amp;#8217;t figured out how to make AI pay like its search engine</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-106058340.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Google hasn&amp;#8217;t figured out how to make AI pay like its search engine</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/cleaning-up-your-google-photos-library-might-soon-take-just-one-prompt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T11:57:49Z</news:publication_date>
+      <news:title>Cleaning up your Google Photos library might soon take just one prompt</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/google-photos-create-stack-button-android-app-2-scaled.jpg</image:loc>
+      <image:title>Cleaning up your Google Photos library might soon take just one prompt</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/samsung8217s-mysterious-galaxy-t1-fitness-earbuds-are-getting-ready-for-a-us-launch</loc>
     <news:news>
       <news:publication>
@@ -5085,111 +5190,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/ARMSX3-PS3-emulator-XMB-interface-scaled.jpg</image:loc>
       <image:title>ARMSX3 just cloned the PS3&amp;#8217;s UI, and it even supports PS3 theme files</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/redmi-m100-pro-launches-with-dimensity-7300-ultra-soc-and-triple-rear-cameras</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T12:51:02Z</news:publication_date>
-      <news:title>Redmi M100 Pro launches with Dimensity 7300-Ultra SoC and triple-rear cameras</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/redmi-m100-pro-ofic/gsmarena_00.jpg</image:loc>
-      <image:title>Redmi M100 Pro launches with Dimensity 7300-Ultra SoC and triple-rear cameras</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/first-look-google-messages-gets-a-new-gradient-icon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T12:36:49Z</news:publication_date>
-      <news:title>First look: Google Messages gets a new gradient icon</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/google-messages-logo-pixel-11-pro-close-scaled.jpg</image:loc>
-      <image:title>First look: Google Messages gets a new gradient icon</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iphone-duo-latest-buyer-wait-times</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T12:32:29Z</news:publication_date>
-      <news:title>iPhone Duo: Latest Buyer Wait Times</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/hero_medium_2x-feature2.jpg</image:loc>
-      <image:title>iPhone Duo: Latest Buyer Wait Times</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/dell-xps-googlebook-review-beautiful-hardware-for-a-useless-platform</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T12:30:00Z</news:publication_date>
-      <news:title>Dell XPS Googlebook review: Beautiful hardware for a useless platform</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/dell-xps-googlebook-review-beautiful-hardware-for-a-useless-platform/l-intro-1793388008.jpg</image:loc>
-      <image:title>Dell XPS Googlebook review: Beautiful hardware for a useless platform</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/one-ui-9-update-praised-by-plenty-of-readers-but-some-can8217t-ignore-a-potential-weakness</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T12:19:03Z</news:publication_date>
-      <news:title>One UI 9 update praised by plenty of readers, but some can&amp;#8217;t ignore a potential weakness</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/one-ui-9-frowning-plush-scaled.jpg</image:loc>
-      <image:title>One UI 9 update praised by plenty of readers, but some can&amp;#8217;t ignore a potential weakness</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/this-48-e-paper-display-can-be-whatever-you-want-it-to-be</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T12:00:07Z</news:publication_date>
-      <news:title>This $48 e-paper display can be whatever you want it to be</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/TRMNL_Seeed_Kit_Ferengi_Rules-1152x648.jpg</image:loc>
-      <image:title>This $48 e-paper display can be whatever you want it to be</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/tired-of-slow-android-auto-feature-rollouts-this-new-tool-lets-rooted-users-skip-the-wait</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T11:59:26Z</news:publication_date>
-      <news:title>Tired of slow Android Auto feature rollouts? This new tool lets rooted users skip the wait</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/android-auto-home-screen-joe-hero-scaled.jpg</image:loc>
-      <image:title>Tired of slow Android Auto feature rollouts? This new tool lets rooted users skip the wait</image:title>
     </image:image>
   </url>
 </urlset>
