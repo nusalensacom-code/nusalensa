@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/exclusive-youtube-is-cooking-up-something-new-called-8216tamba8217-and-it-looks-pretty-social</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T03:37:06Z</news:publication_date>
+      <news:title>Exclusive: YouTube is cooking up something new called &amp;#8216;Tamba,&amp;#8217; and it looks pretty social</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/02/YouTube-TV-logo-on-smartphone-stock-photo-5.jpg</image:loc>
+      <image:title>Exclusive: YouTube is cooking up something new called &amp;#8216;Tamba,&amp;#8217; and it looks pretty social</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/redmi-turbo-6-max-screen-details-leak-this-could-turn-into-the-poco-x9-pro-max</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T03:01:02Z</news:publication_date>
+      <news:title>Redmi Turbo 6 Max screen details leak, this could turn into the Poco X9 Pro Max</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/07/redmi-turbo-6-max-render-leaks/gsmarena_000.jpg</image:loc>
+      <image:title>Redmi Turbo 6 Max screen details leak, this could turn into the Poco X9 Pro Max</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/amd-rides-data-center-riches-to-8216largest-and-most-profitable8217-quarter-in-history</loc>
     <news:news>
       <news:publication>
@@ -5040,21 +5070,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2021/12/Spotify-stock-photo-2.jpg</image:loc>
       <image:title>Spotify could make Premium subscribers pay $5 more a month for its next big bet</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-wallet-may-soon-let-you-trade-convenience-for-extra-payment-security</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T02:58:18Z</news:publication_date>
-      <news:title>Google Wallet may soon let you trade convenience for extra payment security</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/Google-Wallet-logo-on-smartphone-next-to-credit-cards-and-cash-Stock-photo-12-1000w-563h.jpg</image:loc>
-      <image:title>Google Wallet may soon let you trade convenience for extra payment security</image:title>
     </image:image>
   </url>
 </urlset>
