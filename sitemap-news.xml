@@ -3,6 +3,141 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/samsung-uk-drops-prices-of-galaxy-s26-phones-by-250-z-fold8-price-by-100-for-black-friday</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T15:47:02Z</news:publication_date>
+      <news:title>Samsung UK drops prices of Galaxy S26 phones by £250, Z Fold8 price by £100 for Black Friday</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/samsung-uk-black-friday-deals/gsmarena_000.jpg</image:loc>
+      <image:title>Samsung UK drops prices of Galaxy S26 phones by £250, Z Fold8 price by £100 for Black Friday</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/this-popular-baseus-45w-power-bank-with-built-in-cable-is-40-off</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T15:34:00Z</news:publication_date>
+      <news:title>This popular Baseus 45W power bank with built-in cable is $40 off</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Baseus-PicoGo-AR11-45W-10000mAh-Portable-Charger-Press-Image.jpg</image:loc>
+      <image:title>This popular Baseus 45W power bank with built-in cable is $40 off</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/not-even-200-million-could-help-elon-musk-buy-texas</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T15:33:59Z</news:publication_date>
+      <news:title>Not even $200 million could help Elon Musk buy Texas</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_A.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Not even $200 million could help Elon Musk buy Texas</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/americans-overwhelmingly-voted-against-data-centers-in-the-midterms</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T15:28:52Z</news:publication_date>
+      <news:title>Americans overwhelmingly voted against data centers in the midterms</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/americans-voted-overwhelmingly-against-data-centers-in-the-midterms/l-intro-1793805972.jpg</image:loc>
+      <image:title>Americans overwhelmingly voted against data centers in the midterms</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/bluetooth-is-getting-a-big-boost-to-data-transfer-speeds</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T15:19:54Z</news:publication_date>
+      <news:title>Bluetooth is getting a big boost to data transfer speeds</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/bluetooth1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Bluetooth is getting a big boost to data transfer speeds</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/ring-battery-doorbell-2k-falls-back-to-its-3999-all-time-low</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T15:18:54Z</news:publication_date>
+      <news:title>Ring Battery Doorbell 2K falls back to its $39.99 all-time low</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/Ring-Battery-Doorbell-Gen-2-Press-Image.jpg</image:loc>
+      <image:title>Ring Battery Doorbell 2K falls back to its $39.99 all-time low</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-will-fix-nest-devices-that-didn8217t-adjust-for-daylight-savings-breaking-alarms-and-more</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T15:10:00Z</news:publication_date>
+      <news:title>Google will fix Nest devices that didn&amp;#8217;t adjust for Daylight Savings, breaking alarms and more</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2021/03/Nest-Hub-2nd-gen-cover.jpeg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Google will fix Nest devices that didn&amp;#8217;t adjust for Daylight Savings, breaking alarms and more</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/massive-sale-hits-apple-watch-ultra-3-with-record-low-36250-discounts</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T15:07:33Z</news:publication_date>
+      <news:title>Massive Sale Hits Apple Watch Ultra 3 With Record Low &amp;#36;250 Discounts</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2025/11/apple-watch-ultra-3-black-friday-green.jpeg</image:loc>
+      <image:title>Massive Sale Hits Apple Watch Ultra 3 With Record Low &amp;#36;250 Discounts</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/where8217s-my-subscriptions-tab-users-are-furious-about-youtube8217s-latest-redesign</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T15:03:26Z</news:publication_date>
+      <news:title>Where&amp;#8217;s my Subscriptions tab? Users are furious about YouTube&amp;#8217;s latest redesign</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/screen-after-cancelling-youtube-premium-lite-scaled.jpg</image:loc>
+      <image:title>Where&amp;#8217;s my Subscriptions tab? Users are furious about YouTube&amp;#8217;s latest redesign</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/the-fight-for-tech-accountability-starts-now</loc>
     <news:news>
       <news:publication>
@@ -15,6 +150,21 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK423_ELECTIONS4.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>The fight for tech accountability starts now</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/wallpaper-wednesday-amazing-phone-wallpapers-for-all-to-share-november-4</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T15:00:43Z</news:publication_date>
+      <news:title>Wallpaper Wednesday: Amazing phone wallpapers for all to share (November 4)</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Wallpaper-Wednesday-Scotland-cow-1-scaled.jpg</image:loc>
+      <image:title>Wallpaper Wednesday: Amazing phone wallpapers for all to share (November 4)</image:title>
     </image:image>
   </url>
   <url>
@@ -4920,156 +5070,6 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/11/Black-Friday-Deals-26-10.jpg</image:loc>
       <image:title>Best Early Black Friday Deals on Apple Products Available Now</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-galaxy-z-fold-8-is-300-off-on-amazon-right-now</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T15:52:44Z</news:publication_date>
-      <news:title>The Galaxy Z Fold 8 is $300 off on Amazon right now</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Galaxy-Z-Fold-8-lavender-2.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>The Galaxy Z Fold 8 is $300 off on Amazon right now</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/googles-ocarina-of-time-easter-egg-is-a-link-to-a-past-when-search-wasnt-horrible</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T15:51:36Z</news:publication_date>
-      <news:title>Google&apos;s Ocarina of Time Easter egg is a link to a past when Search wasn&apos;t horrible</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/googles-ocarina-of-time-easter-egg-is-a-link-to-a-past-when-search-wasnt-horrible/l-intro-1793634639.jpg</image:loc>
-      <image:title>Google&apos;s Ocarina of Time Easter egg is a link to a past when Search wasn&apos;t horrible</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-fitbit-edge-lacks-a-useful-contactless-feature</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T15:45:00Z</news:publication_date>
-      <news:title>The Fitbit Edge lacks a useful contactless feature</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/the-fitbit-edge-lacks-a-useful-contactless-feature/l-intro-1792612257.jpg</image:loc>
-      <image:title>The Fitbit Edge lacks a useful contactless feature</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/mark-gurman-apple-initially-aimed-to-release-iphone-duo-in-november</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T15:44:21Z</news:publication_date>
-      <news:title>Mark Gurman: Apple Initially Aimed to Release iPhone Duo in November</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Outer-Display-Hand-scaled.jpg</image:loc>
-      <image:title>Mark Gurman: Apple Initially Aimed to Release iPhone Duo in November</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/gemini-4-carbon-lags-just-behind-claude-in-benchmark-but-wins-in-value</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T15:30:00Z</news:publication_date>
-      <news:title>Gemini 4 Carbon lags just behind Claude in benchmark, but wins in value</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2025/07/gemini-new-logo-2.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Gemini 4 Carbon lags just behind Claude in benchmark, but wins in value</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-isn039t-done-with-2026-here039s-what039s-still-coming</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T15:27:14Z</news:publication_date>
-      <news:title>Apple Isn&amp;#039;t Done With 2026: Here&amp;#039;s What&amp;#039;s Still Coming</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2024/09/Apple-Logo-Top-Half.jpeg</image:loc>
-      <image:title>Apple Isn&amp;#039;t Done With 2026: Here&amp;#039;s What&amp;#039;s Still Coming</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/garmin-vivoactive-5-falls-to-record-low-price-with-130-off</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T15:19:00Z</news:publication_date>
-      <news:title>Garmin Vivoactive 5 falls to record-low price with $130 off</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2023/09/Garmin-vivoactive-5-watch-face-scaled.jpg</image:loc>
-      <image:title>Garmin Vivoactive 5 falls to record-low price with $130 off</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung8217s-android-xr-8216intelligent-eyewear8217-reportedly-launches-in-december</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T15:16:52Z</news:publication_date>
-      <news:title>Samsung&amp;#8217;s Android XR &amp;#8216;Intelligent Eyewear&amp;#8217; reportedly launches in December</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/07/samsung-android-xr-glasses-warby-parker-12.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Samsung&amp;#8217;s Android XR &amp;#8216;Intelligent Eyewear&amp;#8217; reportedly launches in December</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/vivos-first-pro-max-phone-proves-its-ultra-is-still-in-a-league-of-its-own</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T15:15:00Z</news:publication_date>
-      <news:title>Vivo’s first Pro Max phone proves its Ultra is still in a league of its own</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/vivo-x500-pro-max-03.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Vivo’s first Pro Max phone proves its Ultra is still in a league of its own</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/could-data-center-backlash-flip-florida</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T15:05:00Z</news:publication_date>
-      <news:title>Could data center backlash flip Florida?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_FLORIDA_DATA_CENTERS_CVirginia.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Could data center backlash flip Florida?</image:title>
     </image:image>
   </url>
 </urlset>
