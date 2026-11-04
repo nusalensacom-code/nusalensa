@@ -3,6 +3,96 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/snapped-a-photo-of-an-event-poster-google-photos-could-soon-add-it-to-your-calendar</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T14:02:26Z</news:publication_date>
+      <news:title>Snapped a photo of an event poster? Google Photos could soon add it to your calendar</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/google-photos-date-grid-hero-1-scaled.jpg</image:loc>
+      <image:title>Snapped a photo of an event poster? Google Photos could soon add it to your calendar</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/your-next-phone-could-cost-even-more-and-this-time-its-not-just-ram</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T14:02:16Z</news:publication_date>
+      <news:title>Your next phone could cost even more, and this time it’s not just RAM</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/All-the-apps-on-Samsung-Galaxy-S26-Ultra.jpg</image:loc>
+      <image:title>Your next phone could cost even more, and this time it’s not just RAM</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/homeview-pre-order-returns-to-3628999-on-amazon-1</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T13:44:05Z</news:publication_date>
+      <news:title>HomeView Pre-Order Returns to &amp;#36;289.99 on Amazon</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/homeview_home_screen_feature-2.jpg</image:loc>
+      <image:title>HomeView Pre-Order Returns to &amp;#36;289.99 on Amazon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/schools-that-want-google-search-for-students-will-have-to-accept-its-ai-too</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T13:40:02Z</news:publication_date>
+      <news:title>Schools that want Google Search for students will have to accept its AI too</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/google-ai-in-schools/gsmarena_000.jpg</image:loc>
+      <image:title>Schools that want Google Search for students will have to accept its AI too</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-may-phase-out-non-touch-high-end-macbook-pros</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T13:35:32Z</news:publication_date>
+      <news:title>Apple May Phase Out Non-Touch High-End MacBook Pros</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2025/10/14-inch-MacBook-Pro-Keyboard.jpg</image:loc>
+      <image:title>Apple May Phase Out Non-Touch High-End MacBook Pros</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/heres-your-first-look-at-google-photos-upcoming-overnight-backups-feature</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T13:10:40Z</news:publication_date>
+      <news:title>Here’s your first look at Google Photos’ upcoming Overnight backups feature</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/06/Google-Photos-app-icon-on-the-Pixel-10a.jpg</image:loc>
+      <image:title>Here’s your first look at Google Photos’ upcoming Overnight backups feature</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/apple039s-insider-trading-policy-now-covers-prediction-markets</loc>
     <news:news>
       <news:publication>
@@ -5025,171 +5115,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824338/raspberrypi5_16GB.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>The 16GB Raspberry Pi 5 got another ‘unavoidable’ RAM price hike</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/spacexs-big-mobile-carrier-plans-could-reportedly-involve-buying-boost-mobile</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T14:05:34Z</news:publication_date>
-      <news:title>SpaceX’s big mobile carrier plans could reportedly involve buying Boost Mobile</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB355_SPACEX_C.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>SpaceX’s big mobile carrier plans could reportedly involve buying Boost Mobile</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/canva-brings-free-all-in-one-affinity-app-to-ipad</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T14:00:14Z</news:publication_date>
-      <news:title>Canva Brings Free All-in-One Affinity App to iPad</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/affinity-by-canva-ipad2.jpg</image:loc>
-      <image:title>Canva Brings Free All-in-One Affinity App to iPad</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/affinitys-creative-studio-is-now-available-on-ipad-for-free-1</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T14:00:00Z</news:publication_date>
-      <news:title>Affinity’s creative studio is now available on iPad for free</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Canva-Affinity-for-iPad-hero.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Affinity’s creative studio is now available on iPad for free</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/affinitys-creative-studio-is-now-available-on-ipad-for-free</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T14:00:00Z</news:publication_date>
-      <news:title>Affinity’s creative studio is now available on iPad for free</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Canva-Affinity-for-iPad-hero.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Affinity’s creative studio is now available on iPad for free</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/spotify-reportedly-wants-up-to-5-extra-per-month-for-ai-covers-and-remixes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T13:52:02Z</news:publication_date>
-      <news:title>Spotify reportedly wants up to $5 extra per month for AI covers and remixes</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/spotify-ai-remixes/gsmarena_000.jpg</image:loc>
-      <image:title>Spotify reportedly wants up to $5 extra per month for AI covers and remixes</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/heres-how-much-ram-cost-in-2020-vs-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T13:45:00Z</news:publication_date>
-      <news:title>Here&apos;s how much RAM cost in 2020 vs. 2026</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/heres-how-much-ram-cost-in-2020-vs-2026/l-intro-1792417103.jpg</image:loc>
-      <image:title>Here&apos;s how much RAM cost in 2020 vs. 2026</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-messages-update-rolling-out-new-app-icon-with-gradient-design</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T13:35:00Z</news:publication_date>
-      <news:title>Google Messages update rolling out new app icon with gradient design</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-messages-gradient-icon_e18c7d.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1200</image:loc>
-      <image:title>Google Messages update rolling out new app icon with gradient design</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/ayn-downgrades-this-key-odin-3-portal-spec-before-it-even-starts-shipping</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T13:24:11Z</news:publication_date>
-      <news:title>AYN downgrades this key Odin 3 Portal spec before it even starts shipping</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/AYN-Odin-3-Portal-black-model-official.jpg</image:loc>
-      <image:title>AYN downgrades this key Odin 3 Portal spec before it even starts shipping</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/whats-the-difference-between-airpods-noise-cancellation-and-adaptive-audio-modes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T13:15:00Z</news:publication_date>
-      <news:title>What&apos;s the difference between AirPods&apos; Noise Cancellation and Adaptive Audio modes?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/whats-the-difference-between-airpods-noise-cancellation-and-adaptive-audio-modes/l-intro-1793049678.jpg</image:loc>
-      <image:title>What&apos;s the difference between AirPods&apos; Noise Cancellation and Adaptive Audio modes?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/more-european-supermarkets-are-getting-their-freezers-hacked</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T13:00:35Z</news:publication_date>
-      <news:title>More European supermarkets are getting their freezers hacked</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302707314.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>More European supermarkets are getting their freezers hacked</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/armsx3-just-cloned-the-ps38217s-ui-and-it-even-supports-ps3-theme-files</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T12:59:19Z</news:publication_date>
-      <news:title>ARMSX3 just cloned the PS3&amp;#8217;s UI, and it even supports PS3 theme files</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/ARMSX3-PS3-emulator-XMB-interface-scaled.jpg</image:loc>
-      <image:title>ARMSX3 just cloned the PS3&amp;#8217;s UI, and it even supports PS3 theme files</image:title>
     </image:image>
   </url>
 </urlset>
