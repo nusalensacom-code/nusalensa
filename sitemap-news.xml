@@ -3,6 +3,81 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/qualcomm-is-betting-big-on-data-centers-as-smartphone-sales-sink</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T22:42:15Z</news:publication_date>
+      <news:title>Qualcomm is betting big on data centers as smartphone sales sink</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007992/acastro_STK082_qualcomm_02.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Qualcomm is betting big on data centers as smartphone sales sink</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/xiaomi-tipped-to-be-working-on-a-wide-screen-candybar-smartphone</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T22:32:02Z</news:publication_date>
+      <news:title>Xiaomi tipped to be working on a wide-screen candybar smartphone</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/xiaomi-wide-screen-candybar-phone-rumor/gsmarena_00.jpg</image:loc>
+      <image:title>Xiaomi tipped to be working on a wide-screen candybar smartphone</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/how-039resident-evil039-director-zach-cregger-uses-his-iphone-to-make-movies</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T22:11:00Z</news:publication_date>
+      <news:title>How &amp;#039;Resident Evil&amp;#039; Director Zach Cregger Uses His iPhone to Make Movies</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/resident-evil-apple-tv.jpg</image:loc>
+      <image:title>How &amp;#039;Resident Evil&amp;#039; Director Zach Cregger Uses His iPhone to Make Movies</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/samsung-is-getting-the-one-ui-95-beta-ready-for-the-galaxy-s26-series</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T21:58:04Z</news:publication_date>
+      <news:title>Samsung is getting the One UI 9.5 beta ready for the Galaxy S26 series</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Now-Brief-visible-on-Samsung-Galaxy-S26-Ultras-Home-Screen.jpg</image:loc>
+      <image:title>Samsung is getting the One UI 9.5 beta ready for the Galaxy S26 series</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/homepod-mini-2039s-amount-of-ram-confirmed</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T21:50:54Z</news:publication_date>
+      <news:title>HomePod Mini 2&amp;#039;s Amount of RAM Confirmed</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/homepod-mini-2-feature2.jpg</image:loc>
+      <image:title>HomePod Mini 2&amp;#039;s Amount of RAM Confirmed</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/17-better-ways-elon-musk-could-have-wasted-446-million</loc>
     <news:news>
       <news:publication>
@@ -15,6 +90,21 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268859_How_the_tech_right_could_have_spent_all_the_money_they_burned_on_the_midterms_CVirginia.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>17 better ways Elon Musk could have wasted $446 million</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T21:38:49Z</news:publication_date>
+      <news:title>VMware releases vSphere Express for virtualization on up to 128 cores</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2024/01/GettyImages-474325206-1152x648-1753374517.jpg</image:loc>
+      <image:title>VMware releases vSphere Express for virtualization on up to 128 cores</image:title>
     </image:image>
   </url>
   <url>
@@ -45,6 +135,21 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/IMG_1326_edit.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>How I learned to love an obnoxious phone grip</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/amds-record-quarter-data-center-business-doubles-while-gaming-craters</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T21:29:46Z</news:publication_date>
+      <news:title>AMD&apos;s record quarter: Data center business doubles, while gaming craters</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/AMD_Helios_Rack_Instinct_MI455X-1152x540.webp</image:loc>
+      <image:title>AMD&apos;s record quarter: Data center business doubles, while gaming craters</image:title>
     </image:image>
   </url>
   <url>
@@ -108,6 +213,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/technology/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T20:55:50Z</news:publication_date>
+      <news:title>Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2302983449-1024x648.jpg</image:loc>
+      <image:title>Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/henry-cavills-justice-league-mustache-disaster-is-now-a-googlebook-game-for-charity</loc>
     <news:news>
       <news:publication>
@@ -120,6 +240,21 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Henry-Cavill-Googlebook.jpg</image:loc>
       <image:title>Henry Cavill’s Justice League mustache disaster is now a Googlebook game for charity</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/after-texas-blue-wave-what-happens-to-elon-musk-and-spacex</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T20:36:05Z</news:publication_date>
+      <news:title>After Texas&apos; blue wave, what happens to Elon Musk and SpaceX?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/elon-how-do-you-do-fellow-democrats-1152x648.jpg</image:loc>
+      <image:title>After Texas&apos; blue wave, what happens to Elon Musk and SpaceX?</image:title>
     </image:image>
   </url>
   <url>
@@ -270,6 +405,21 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/11/iCloud-Link-Harmful-Content-Feature-1.jpg</image:loc>
       <image:title>Apple Will Check Public iCloud Links for Harmful Content Starting in iOS 27.3</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/ted-cruz-aims-to-stack-fcc-with-republicans-before-democrats-take-senate-control</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T19:08:23Z</news:publication_date>
+      <news:title>Ted Cruz aims to stack FCC with Republicans before Democrats take Senate control</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2025/07/ted-cruz-1152x648-1751388273.jpg</image:loc>
+      <image:title>Ted Cruz aims to stack FCC with Republicans before Democrats take Senate control</image:title>
     </image:image>
   </url>
   <url>
@@ -5025,81 +5175,6 @@
     <image:image>
       <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2025/01/google-play-services-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
       <image:title>What’s new in Android Nov. 2026 Google System Updates: Android photo backup with Quick Share for Windows</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-meta-quest-2-and-quest-pro-are-receiving-their-last-os-updates-soon-here8217s-what-you-need-to-know</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T22:41:05Z</news:publication_date>
-      <news:title>The Meta Quest 2 and Quest Pro are receiving their last OS updates soon. Here&amp;#8217;s what you need to know</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/meta-quest-2-with-quest-3-in-background.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>The Meta Quest 2 and Quest Pro are receiving their last OS updates soon. Here&amp;#8217;s what you need to know</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/quick-share-will-soon-work-directly-in-android-and-ios-apps</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T22:19:36Z</news:publication_date>
-      <news:title>Quick Share will soon work directly in Android and iOS apps</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/03/Pixel-10a-tips-quick-share.jpg</image:loc>
-      <image:title>Quick Share will soon work directly in Android and iOS apps</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/next-time-your-flight-touches-down-google-maps-could-be-there-with-a-custom-greeting</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T22:05:53Z</news:publication_date>
-      <news:title>Next time your flight touches down, Google Maps could be there with a custom greeting</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/google-maps-ask-maps-chip-home-screen-image.jpg</image:loc>
-      <image:title>Next time your flight touches down, Google Maps could be there with a custom greeting</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-ceo-ternus-says-iphone-duo-shortages-have-no-end-date-in-sight</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T22:03:23Z</news:publication_date>
-      <news:title>Apple CEO Ternus Says iPhone Duo Shortages Have No End Date in Sight</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/hero_medium_2x-feature1.jpg</image:loc>
-      <image:title>Apple CEO Ternus Says iPhone Duo Shortages Have No End Date in Sight</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-set-an-iphone-sales-record-even-without-a-new-standard-iphone</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T22:02:36Z</news:publication_date>
-      <news:title>Apple set an iPhone sales record even without a new standard iPhone</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268735_iPhone_18_Pro_MAX_AKrales_1087.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Apple set an iPhone sales record even without a new standard iPhone</image:title>
     </image:image>
   </url>
 </urlset>
