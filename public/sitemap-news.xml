@@ -3,6 +3,126 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/the-fight-for-tech-accountability-starts-now</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T15:02:25Z</news:publication_date>
+      <news:title>The fight for tech accountability starts now</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK423_ELECTIONS4.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>The fight for tech accountability starts now</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/does-homepod-mini-2-have-improved-sound-here039s-what-reviews-say</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T14:52:23Z</news:publication_date>
+      <news:title>Does HomePod Mini 2 Have Improved Sound? Here&amp;#039;s What Reviews Say</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/Four-HomePod-Mini-2-Surround-Sound.jpg</image:loc>
+      <image:title>Does HomePod Mini 2 Have Improved Sound? Here&amp;#039;s What Reviews Say</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/amazon-drops-jbl-tune-flex-earbuds-50-off-from-rrp</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T14:46:10Z</news:publication_date>
+      <news:title>Amazon drops JBL Tune Flex earbuds 50% off from RRP</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/JBL-Tune-Flex-Product-Image.jpg</image:loc>
+      <image:title>Amazon drops JBL Tune Flex earbuds 50% off from RRP</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/sam-altman-addresses-ram-comments-people-should-8216put-as-much-as-they-want-in-their-computers8217</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T14:46:01Z</news:publication_date>
+      <news:title>Sam Altman addresses RAM comments: people should &amp;#8216;put as much as they want in their computers&amp;#8217;</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2236544097.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Sam Altman addresses RAM comments: people should &amp;#8216;put as much as they want in their computers&amp;#8217;</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-photos-now-lets-you-turn-off-background-music-in-memories</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T14:45:00Z</news:publication_date>
+      <news:title>Google Photos now lets you turn off background music in Memories</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/03/google-photos-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Google Photos now lets you turn off background music in Memories</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/oppo-smartphone-with-12000mah-battery-gets-certification</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T14:43:02Z</news:publication_date>
+      <news:title>Oppo smartphone with 12,000mAh battery gets certification</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/oppo-12000-mah-phone-report/gsmarena_00.jpg</image:loc>
+      <image:title>Oppo smartphone with 12,000mAh battery gets certification</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/macos-273-makes-markdown-files-easier-to-read</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T14:39:43Z</news:publication_date>
+      <news:title>macOS 27.3 Makes Markdown Files Easier to Read</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/quick-look-markdown-macos.jpg</image:loc>
+      <image:title>macOS 27.3 Makes Markdown Files Easier to Read</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/spacex-is-working-with-qualcomm-to-build-its-starlink-mobile-5g-network</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T14:38:20Z</news:publication_date>
+      <news:title>SpaceX is working with Qualcomm to build its Starlink Mobile 5G network</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/SpaceXAnnouncement.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>SpaceX is working with Qualcomm to build its Starlink Mobile 5G network</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/snapped-a-photo-of-an-event-poster-google-photos-could-soon-add-it-to-your-calendar</loc>
     <news:news>
       <news:publication>
@@ -30,6 +150,21 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/All-the-apps-on-Samsung-Galaxy-S26-Ultra.jpg</image:loc>
       <image:title>Your next phone could cost even more, and this time it’s not just RAM</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/does-opting-out-of-tv-tracking-work</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T14:00:00Z</news:publication_date>
+      <news:title>Does opting out of TV tracking work?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268611_Vizio_Mini_LED_Quantum_TV_JHiggins_0001.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Does opting out of TV tracking work?</image:title>
     </image:image>
   </url>
   <url>
@@ -4935,186 +5070,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_FLORIDA_DATA_CENTERS_CVirginia.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Could data center backlash flip Florida?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-039homeview-ultra039-with-9-inch-360-screen-detailed-in-new-report</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T15:03:45Z</news:publication_date>
-      <news:title>Apple &amp;#039;HomeView Ultra&amp;#039; With 9-Inch 360º Screen Detailed in New Report</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/homeview-side.jpg</image:loc>
-      <image:title>Apple &amp;#039;HomeView Ultra&amp;#039; With 9-Inch 360º Screen Detailed in New Report</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/youtuber-druski-is-going-to-make-exclusive-content-for-netflix</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T15:00:00Z</news:publication_date>
-      <news:title>YouTuber Druski is going to make exclusive content for Netflix</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2285961938.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>YouTuber Druski is going to make exclusive content for Netflix</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-is-experimenting-with-a-status-bar-for-wear-os</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T14:57:02Z</news:publication_date>
-      <news:title>Google is experimenting with a status bar for Wear OS</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/wear-os-status-bar-experiment/gsmarena_000.jpg</image:loc>
-      <image:title>Google is experimenting with a status bar for Wear OS</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/your-ps5-can-now-run-android-switch-2-and-pc-games-if-you-get-your-hands-dirty</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T14:56:54Z</news:publication_date>
-      <news:title>Your PS5 can now run Android, Switch 2, and PC games, if you get your hands dirty</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2022/04/PS5-stock-images-on-stand-5.jpg</image:loc>
-      <image:title>Your PS5 can now run Android, Switch 2, and PC games, if you get your hands dirty</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-world-has-a-new-plan-to-save-nature-but-it-still-needs-the-money</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T14:56:52Z</news:publication_date>
-      <news:title>The world has a new plan to save nature, but it still needs the money</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2024/11/1620px-Jabiru_-_Garzon_Soldado_Jabiru_mycteria_8576613973-1152x648.jpg</image:loc>
-      <image:title>The world has a new plan to save nature, but it still needs the money</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/fire-tv-stick-4k-select-deal-brings-4k-streaming-to-2199</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T14:49:14Z</news:publication_date>
-      <news:title>Fire TV Stick 4K Select deal brings 4K streaming to $21.99</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/03/Amazon-Fire-TV-Stick-4K-Select.jpg</image:loc>
-      <image:title>Fire TV Stick 4K Select deal brings 4K streaming to $21.99</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/zoom-and-these-microsoft-apps-now-optimized-for-iphone-duo</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T14:48:38Z</news:publication_date>
-      <news:title>Zoom and These Microsoft Apps Now Optimized for iPhone Duo</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/Apple-iPhone-Duo-optimized-apps-Zoom-Feature-scaled.jpg</image:loc>
-      <image:title>Zoom and These Microsoft Apps Now Optimized for iPhone Duo</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/why-its-important-to-use-a-microsd-express-card-with-your-nintendo-switch-2</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T14:45:00Z</news:publication_date>
-      <news:title>Why it&apos;s important to use a microSD Express card with your Nintendo Switch 2</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/why-its-important-to-use-a-microsd-card-with-your-nintendo-switch-2/l-intro-1791815329.jpg</image:loc>
-      <image:title>Why it&apos;s important to use a microSD Express card with your Nintendo Switch 2</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-tv-4k-pre-order-discount-returns-at-amazon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T14:35:25Z</news:publication_date>
-      <news:title>Apple TV 4K Pre-Order Discount Returns at Amazon</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/Apple-TV-4K-4th-Generation-Top-View3.jpg</image:loc>
-      <image:title>Apple TV 4K Pre-Order Discount Returns at Amazon</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/save-300-on-the-samsung-galaxy-z-fold-8-in-amazon-price-drop</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T14:34:15Z</news:publication_date>
-      <news:title>Save $300 on the Samsung Galaxy Z Fold 8 in Amazon price drop</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Samsung-Galaxy-Z-Fold-8-in-hand-showing-folding-screen-scaled-1.jpg</image:loc>
-      <image:title>Save $300 on the Samsung Galaxy Z Fold 8 in Amazon price drop</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/why-software-updates-may-have-an-unexpected-effect-on-your-phone</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T14:15:00Z</news:publication_date>
-      <news:title>Why software updates may have an unexpected effect on your phone</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/why-software-updates-may-have-an-unexpected-effect-on-your-phone/l-intro-1792415252.jpg</image:loc>
-      <image:title>Why software updates may have an unexpected effect on your phone</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-16gb-raspberry-pi-5-got-another-unavoidable-ram-price-hike</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T14:07:22Z</news:publication_date>
-      <news:title>The 16GB Raspberry Pi 5 got another ‘unavoidable’ RAM price hike</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824338/raspberrypi5_16GB.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>The 16GB Raspberry Pi 5 got another ‘unavoidable’ RAM price hike</image:title>
     </image:image>
   </url>
 </urlset>
