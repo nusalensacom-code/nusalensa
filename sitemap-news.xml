@@ -3,6 +3,126 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/17-better-ways-elon-musk-could-have-wasted-446-million</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T21:45:00Z</news:publication_date>
+      <news:title>17 better ways Elon Musk could have wasted $446 million</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268859_How_the_tech_right_could_have_spent_all_the_money_they_burned_on_the_midterms_CVirginia.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>17 better ways Elon Musk could have wasted $446 million</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/over-half-of-readers-say-t-mobile-has-lost-its-un-carrier-edge</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T21:34:27Z</news:publication_date>
+      <news:title>Over half of readers say T-Mobile has lost its Un-Carrier edge</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/05/t-mobile-logo-android-phone-hero-1-scaled.jpg</image:loc>
+      <image:title>Over half of readers say T-Mobile has lost its Un-Carrier edge</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/how-i-learned-to-love-an-obnoxious-phone-grip</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T21:30:00Z</news:publication_date>
+      <news:title>How I learned to love an obnoxious phone grip</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/IMG_1326_edit.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>How I learned to love an obnoxious phone grip</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/chatgpt-finally-adds-the-image-tool-the-internet-has-been-waiting-for</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T21:25:00Z</news:publication_date>
+      <news:title>ChatGPT finally adds the image tool the internet has been waiting for</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/02/chatgpt-caricature-trend-how-to-hero-3-scaled.jpg</image:loc>
+      <image:title>ChatGPT finally adds the image tool the internet has been waiting for</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-tv039s-03912-days-of-snoopy039-special-arrives-november-13</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T21:20:28Z</news:publication_date>
+      <news:title>Apple TV&amp;#039;s &amp;#039;12 Days of Snoopy&amp;#039; Special Arrives November 13</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/apple-tv-snoopy.jpg</image:loc>
+      <image:title>Apple TV&amp;#039;s &amp;#039;12 Days of Snoopy&amp;#039; Special Arrives November 13</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/boses-quietcomfort-headphones-are-more-than-half-off</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T21:13:11Z</news:publication_date>
+      <news:title>Bose’s QuietComfort Headphones are more than half off</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Bose-QuietComfort-Headphones-lifestyle.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Bose’s QuietComfort Headphones are more than half off</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-maps-update-makes-the-app-fully-iphone-duo-compatible</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T21:02:02Z</news:publication_date>
+      <news:title>Google Maps update makes the app fully iPhone Duo compatible</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/google-maps-iphone-duo-support/gsmarena_000.jpg</image:loc>
+      <image:title>Google Maps update makes the app fully iPhone Duo compatible</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/henry-cavills-justice-league-mustache-disaster-is-now-a-googlebook-game-for-charity</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T20:46:06Z</news:publication_date>
+      <news:title>Henry Cavill’s Justice League mustache disaster is now a Googlebook game for charity</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Henry-Cavill-Googlebook.jpg</image:loc>
+      <image:title>Henry Cavill’s Justice League mustache disaster is now a Googlebook game for charity</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/pangram-expands-its-ai-detection-tools-to-video-and-images</loc>
     <news:news>
       <news:publication>
@@ -4980,111 +5100,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268735_iPhone_18_Pro_MAX_AKrales_1087.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Apple set an iPhone sales record even without a new standard iPhone</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-reports-4q-2026-results-36307b-profit-on-361145b-revenue</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T21:38:18Z</news:publication_date>
-      <news:title>Apple Reports 4Q 2026 Results: &amp;#36;30.7B Profit on &amp;#36;114.5B Revenue</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/aapl-4q26-line.jpg</image:loc>
-      <image:title>Apple Reports 4Q 2026 Results: &amp;#36;30.7B Profit on &amp;#36;114.5B Revenue</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/forget-texting-and-driving-this-everyday-phone-habit-sends-even-more-people-to-the-er</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T21:36:03Z</news:publication_date>
-      <news:title>Forget texting and driving, this everyday phone habit sends even more people to the ER</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/02/Android-16-driving-mode.jpg</image:loc>
-      <image:title>Forget texting and driving, this everyday phone habit sends even more people to the ER</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/third-person-dies-of-bird-flu-since-virus-started-jumping-to-livestock</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T21:21:43Z</news:publication_date>
-      <news:title>Third person dies of bird flu since virus started jumping to livestock</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2190742287-1152x648.jpg</image:loc>
-      <image:title>Third person dies of bird flu since virus started jumping to livestock</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/meta-will-end-quest-2-os-updates-in-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T21:04:20Z</news:publication_date>
-      <news:title>Meta will end Quest 2 OS updates in 2027</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21869421/akrales_200904_4160_0135.0.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Meta will end Quest 2 OS updates in 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/oneplus-turbo-7-key-specs-leak-and-its-a-big-step-up</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T21:01:02Z</news:publication_date>
-      <news:title>OnePlus Turbo 7 key specs leak, and it&apos;s a big step up</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/oneplus-turbo-7-leak/gsmarena_000.jpg</image:loc>
-      <image:title>OnePlus Turbo 7 key specs leak, and it&apos;s a big step up</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/how-long-could-hdds-and-ssds-remain-expensive</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T21:00:00Z</news:publication_date>
-      <news:title>How long could HDDs and SSDs remain expensive?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/how-long-could-hdds-and-ssds-remain-expensive/l-intro-1793370181.jpg</image:loc>
-      <image:title>How long could HDDs and SSDs remain expensive?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/sneak-peek-google-app-is-preparing-a-big-change-for-its-bottom-bar</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T20:56:09Z</news:publication_date>
-      <news:title>Sneak peek: Google app is preparing a big change for its bottom bar</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/06/Google-logo-on-smartphone-stock-photo-1.jpg</image:loc>
-      <image:title>Sneak peek: Google app is preparing a big change for its bottom bar</image:title>
     </image:image>
   </url>
 </urlset>
