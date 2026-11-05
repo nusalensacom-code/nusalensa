@@ -3,6 +3,171 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/tablets/ipad-mini-vs-ipad-air-buyer039s-guide-now-just-3650-apart</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T20:41:52Z</news:publication_date>
+      <news:title>iPad Mini vs. iPad Air Buyer&amp;#039;s Guide: Now Just &amp;#36;50 Apart</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/iPad-Air-v-Mini-Feature-scaled.jpg</image:loc>
+      <image:title>iPad Mini vs. iPad Air Buyer&amp;#039;s Guide: Now Just &amp;#36;50 Apart</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/a-bioware-documentary-is-set-to-arrive-next-year</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T20:33:13Z</news:publication_date>
+      <news:title>A BioWare documentary is set to arrive next year</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/a-bioware-documentary-is-set-to-arrive-next-year/l-intro-1793910593.jpg</image:loc>
+      <image:title>A BioWare documentary is set to arrive next year</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/sony-brings-back-the-original-walkman-headphones-with-usb-c</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T20:31:02Z</news:publication_date>
+      <news:title>Sony brings back the original Walkman headphones with USB-C</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/sony-mdr-3r-official/gsmarena_000.jpg</image:loc>
+      <image:title>Sony brings back the original Walkman headphones with USB-C</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/samsung-brings-back-free-doubled-storage-discount-on-galaxy-z-fold-8</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T20:30:00Z</news:publication_date>
+      <news:title>Samsung brings back free doubled storage discount on Galaxy Z Fold 8</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Galaxy-Z-Fold-8-lavender-3.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Samsung brings back free doubled storage discount on Galaxy Z Fold 8</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-forms-will-start-using-gemini-to-summarize-responses-and-uncover-trends</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T20:19:04Z</news:publication_date>
+      <news:title>Google Forms will start using Gemini to summarize responses and uncover trends</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2023/02/google-forms-feature-1.jpg</image:loc>
+      <image:title>Google Forms will start using Gemini to summarize responses and uncover trends</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/qualcomm8217s-latest-snapdragon-chips-are-compatible-with-android8217s-linux-terminal-app</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T20:16:26Z</news:publication_date>
+      <news:title>Qualcomm&amp;#8217;s latest Snapdragon chips are compatible with Android&amp;#8217;s Linux Terminal app</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/03/Android_Linux_Terminal_with_tabs.jpg</image:loc>
+      <image:title>Qualcomm&amp;#8217;s latest Snapdragon chips are compatible with Android&amp;#8217;s Linux Terminal app</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-announces-gemini-omni-12-flash-with-the-ability-to-make-50-longer-video-clips</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T20:11:28Z</news:publication_date>
+      <news:title>Google announces Gemini Omni 1.2 Flash with the ability to make 50% longer video clips</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/gemini-omni-1-2-flash-hero.jpg</image:loc>
+      <image:title>Google announces Gemini Omni 1.2 Flash with the ability to make 50% longer video clips</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/alienware-aw725h-headset-gets-a-solid-50-amazon-discount</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T20:10:40Z</news:publication_date>
+      <news:title>Alienware AW725H headset gets a solid $50 Amazon discount</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Alienware-AW725H-gaming-headset-Product-Image.jpg</image:loc>
+      <image:title>Alienware AW725H headset gets a solid $50 Amazon discount</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/software-squeezes-more-data-out-of-webb-telescope-for-imaging-exoplanets</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T19:59:22Z</news:publication_date>
+      <news:title>Software squeezes more data out of Webb Telescope for imaging exoplanets</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-1-1152x648.png</image:loc>
+      <image:title>Software squeezes more data out of Webb Telescope for imaging exoplanets</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/tiktok-just-released-a-standalone-shop-app-but-its-not-in-america-just-yet</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T19:58:23Z</news:publication_date>
+      <news:title>TikTok just released a standalone Shop app, but it&apos;s not in America just yet</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/tiktok-just-released-a-standalone-shop-app-but-its-not-in-america-just-yet/l-intro-1793908543.jpg</image:loc>
+      <image:title>TikTok just released a standalone Shop app, but it&apos;s not in America just yet</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-xbox-pc-app-is-getting-a-speed-boost</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T19:52:39Z</news:publication_date>
+      <news:title>The Xbox PC app is getting a speed boost</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/the-xbox-pc-app-is-getting-a-speed-boost/l-intro-1793908196.jpg</image:loc>
+      <image:title>The Xbox PC app is getting a speed boost</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/anthropic-rolls-out-claude-personal-finance-with-spending-analysis-and-bill-tracking</loc>
     <news:news>
       <news:publication>
@@ -15,6 +180,51 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/04/Claude-main-screen-scaled.jpg</image:loc>
       <image:title>Anthropic rolls out Claude Personal Finance with spending analysis and bill tracking</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/kalshi-court-losses-pile-up-as-judges-refuse-to-block-state-gambling-laws</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T19:46:37Z</news:publication_date>
+      <news:title>Kalshi court losses pile up as judges refuse to block state gambling laws</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/07/kalshi-ad-1152x648-1783536871.jpg</image:loc>
+      <image:title>Kalshi court losses pile up as judges refuse to block state gambling laws</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/warby-parker-seemingly-spilled-the-beans-on-googles-android-xr-smart-glasses-launch</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T19:39:01Z</news:publication_date>
+      <news:title>Warby Parker seemingly spilled the beans on Google&apos;s Android XR smart glasses launch</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/warby-parker-seemingly-spilled-the-beans-on-googles-android-xr-smart-glasses-launch/l-intro-1793907386.jpg</image:loc>
+      <image:title>Warby Parker seemingly spilled the beans on Google&apos;s Android XR smart glasses launch</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-faa-is-finally-phasing-out-floppy-disks-from-air-traffic-control</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T19:16:43Z</news:publication_date>
+      <news:title>The FAA is finally phasing out floppy disks from air traffic control</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/the-faa-is-finally-phasing-out-floppy-disks-from-air-traffic-control/l-intro-1793906146.jpg</image:loc>
+      <image:title>The FAA is finally phasing out floppy disks from air traffic control</image:title>
     </image:image>
   </url>
   <url>
@@ -1155,6 +1365,21 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/jade-pixel-10-pro-11-pro-black-scaled.jpeg</image:loc>
       <image:title>GrapheneOS brings Linux 6.18 to Pixel 10 series, eyes Android 17 QPR2 for Pixel 11</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/nothing-is-launching-an-ai-native-product-next-month-design-teased</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T12:29:03Z</news:publication_date>
+      <news:title>Nothing is launching an AI-native product next month, design teased</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/nothing-ai-native-product-launch-december/gsmarena_00.jpg</image:loc>
+      <image:title>Nothing is launching an AI-native product next month, design teased</image:title>
     </image:image>
   </url>
   <url>
@@ -4605,141 +4830,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/sonos-new-voice-assistant-is-launching-in-early-access-on-november-6/l-intro-1793738872.jpg</image:loc>
       <image:title>Sonos&apos; new voice assistant is launching in early access on November 6</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/ukraines-drone-strikes-spur-hasty-russian-plans-for-underground-data-centers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T20:39:55Z</news:publication_date>
-      <news:title>Ukraine’s drone strikes spur hasty Russian plans for underground data centers</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/Russia-Borodinsky-coal-mine-1152x648.jpg</image:loc>
-      <image:title>Ukraine’s drone strikes spur hasty Russian plans for underground data centers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iphone-duos-woes-are-a-boon-for-samsung-as-galaxy-z-fold8-sales-go-up-by-20-in-a-week</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T20:38:02Z</news:publication_date>
-      <news:title>iPhone Duo&apos;s woes are a boon for Samsung as Galaxy Z Fold8 sales go up by 20% in a week</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/galaxy-z-fold8-sales-pick-up-after-iphone-duo-troubles/gsmarena_000.jpg</image:loc>
-      <image:title>iPhone Duo&apos;s woes are a boon for Samsung as Galaxy Z Fold8 sales go up by 20% in a week</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-will-disable-search-for-students-unless-schools-accept-ai-features-in-8216guided-learning8217-push</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T20:35:00Z</news:publication_date>
-      <news:title>Google will disable Search for students unless schools accept AI features in &amp;#8216;Guided Learning&amp;#8217; push</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2024/01/Google-logo-CES-2024-6.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Google will disable Search for students unless schools accept AI features in &amp;#8216;Guided Learning&amp;#8217; push</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-pixel-buds-pro-2-have-returned-to-their-lowest-price-to-date</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T20:29:26Z</news:publication_date>
-      <news:title>The Pixel Buds Pro 2 have returned to their lowest price to date</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/pixel-buds-pro-2-roundup.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>The Pixel Buds Pro 2 have returned to their lowest price to date</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/these-muscle-reading-wearables-let-you-use-voice-input-without-speaking-a-word</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T20:26:17Z</news:publication_date>
-      <news:title>These muscle-reading wearables let you use voice input without speaking a word</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/subvocal-speech-muscles.jpg</image:loc>
-      <image:title>These muscle-reading wearables let you use voice input without speaking a word</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/veterans-day-apple-watch-activity-challenge-launches-november-11</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T20:18:29Z</news:publication_date>
-      <news:title>Veterans Day Apple Watch Activity Challenge Launches November 11</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2025/11/veterans-day-2025.jpg</image:loc>
-      <image:title>Veterans Day Apple Watch Activity Challenge Launches November 11</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iphone-18-rumors-suggest-a-bigger-battery-higher-price-next-year</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T20:16:54Z</news:publication_date>
-      <news:title>iPhone 18 rumors suggest a bigger battery, higher price next year</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257946_iPhone_17_AKrales_0063.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>iPhone 18 rumors suggest a bigger battery, higher price next year</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/apple-starts-giving-siri-ai-access-to-third-party-apps</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T20:16:17Z</news:publication_date>
-      <news:title>Apple starts giving Siri AI access to third-party apps</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-6.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Apple starts giving Siri AI access to third-party apps</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/netflix-thinks-ai-might-save-you-from-scrolling-aimlessly-for-something-to-watch</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T19:57:41Z</news:publication_date>
-      <news:title>Netflix thinks AI might save you from scrolling aimlessly for something to watch</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/netflix-thinks-ai-might-save-you-from-scrolling-aimlessly-for-something-to-watch/l-intro-1793735788.jpg</image:loc>
-      <image:title>Netflix thinks AI might save you from scrolling aimlessly for something to watch</image:title>
     </image:image>
   </url>
 </urlset>
