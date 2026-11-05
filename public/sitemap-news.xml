@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/barnes-038-noble-and-tcl-team-up-for-a-new-tab-a1-nxtpaper</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T21:28:43Z</news:publication_date>
+      <news:title>Barnes &amp;#038; Noble and TCL team up for a new Tab A1 NXTPAPER</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Barnes-and-Noble-TCL-Tab-A1-NXTPAPER.jpg</image:loc>
+      <image:title>Barnes &amp;#038; Noble and TCL team up for a new Tab A1 NXTPAPER</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/google-is-ditching-firebase-studio-soon-and-it-wants-you-to-use-its-newer-ai-tools-instead</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T21:01:28Z</news:publication_date>
+      <news:title>Google is ditching Firebase Studio soon, and it wants you to use its newer AI tools instead</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/google-is-ditching-firebase-studio-soon-and-it-wants-you-to-use-its-newer-ai-tools-instead/l-intro-1793825592.jpg</image:loc>
+      <image:title>Google is ditching Firebase Studio soon, and it wants you to use its newer AI tools instead</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/payday-aces-high-review-this-year8217s-must-play-multiplayer-vr-game</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T21:00:00Z</news:publication_date>
+      <news:title>Payday Aces High review: This year&amp;#8217;s must-play multiplayer VR game</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/payday-aces-high-heist-screenshot.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Payday Aces High review: This year&amp;#8217;s must-play multiplayer VR game</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/blue-origins-next-launch-now-wont-happen-until-2027</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T20:47:14Z</news:publication_date>
+      <news:title>Blue Origin’s next launch now won’t happen until 2027</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2281421326.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Blue Origin’s next launch now won’t happen until 2027</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/tablets/ipad-mini-vs-ipad-air-buyer039s-guide-now-just-3650-apart</loc>
     <news:news>
       <news:publication>
@@ -333,6 +393,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/technology/google-meta-and-tiktok-are-all-suing-california-to-block-social-media-law-intended-to-help-kids</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T18:58:07Z</news:publication_date>
+      <news:title>Google, Meta and TikTok are all suing California to block social media law intended to help kids</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/google-meta-and-tiktok-are-all-suing-california-to-block-social-media-law-intended-to-help-kids/l-intro-1793904752.jpg</image:loc>
+      <image:title>Google, Meta and TikTok are all suing California to block social media law intended to help kids</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/one-ui-9-comes-to-samsung8217s-rugged-galaxy-xcover-7-pro-in-the-us</loc>
     <news:news>
       <news:publication>
@@ -435,6 +510,21 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/01/Samsung-Galaxy-Fit-3-HR-scaled.jpg</image:loc>
       <image:title>Samsung Galaxy Fit 4 app listing hints at NFC payment support</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/now-claude-can-help-with-your-finances-too</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T18:00:00Z</news:publication_date>
+      <news:title>Now Claude can help with your finances too</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/now-claude-can-help-with-your-finances-too/l-intro-1793895674.jpg</image:loc>
+      <image:title>Now Claude can help with your finances too</image:title>
     </image:image>
   </url>
   <url>
@@ -4665,171 +4755,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2022/02/Google-Chrome-logo-stock-photo-2.jpg</image:loc>
       <image:title>Chrome could soon make tab overload a lot easier to manage</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-sideload-050-the-phones-samsung-and-google-won8217t-make</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T21:30:00Z</news:publication_date>
-      <news:title>The Sideload 050: The phones Samsung and Google won&amp;#8217;t make</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2025/08/sideload-podcast-wider-copy-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>The Sideload 050: The phones Samsung and Google won&amp;#8217;t make</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/reddit-is-testing-in-app-search-ads-as-traffic-from-google-declines</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T21:27:50Z</news:publication_date>
-      <news:title>Reddit is testing in-app search ads as traffic from Google declines</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/reddit-is-testing-search-ads-as-traffic-from-google-declines/l-intro-1793741097.jpg</image:loc>
-      <image:title>Reddit is testing in-app search ads as traffic from Google declines</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/heres-what-its-like-to-use-audio-intelligence-on-the-apple-watch</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T21:21:04Z</news:publication_date>
-      <news:title>Here’s what it’s like to use Audio Intelligence on the Apple Watch</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/liverewind.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Here’s what it’s like to use Audio Intelligence on the Apple Watch</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-messages-redesigning-pinned-chats-and-moving-search</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T21:14:05Z</news:publication_date>
-      <news:title>Google Messages redesigning pinned chats and moving search</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/09/google-messages-thread-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Google Messages redesigning pinned chats and moving search</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/peak-design8217s-new-wireless-charging-stand-pulls-double-duty-literally</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T21:05:00Z</news:publication_date>
-      <news:title>Peak Design&amp;#8217;s new wireless charging stand pulls double duty, literally</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/Peak-Design-chargers-5.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Peak Design&amp;#8217;s new wireless charging stand pulls double duty, literally</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/those-jeff-bezos-hair-transplant-photos-are-very-fake</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T21:01:07Z</news:publication_date>
-      <news:title>Those Jeff Bezos hair transplant photos are very fake</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Fake-Jeff-Bezos-Jason-Statham-hair-photo-edits.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Those Jeff Bezos hair transplant photos are very fake</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/what-type-of-battery-does-the-slate-truck-use</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T21:00:00Z</news:publication_date>
-      <news:title>What type of battery does the Slate Truck use?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/what-type-of-battery-does-the-slate-truck-use/l-intro-1793394367.jpg</image:loc>
-      <image:title>What type of battery does the Slate Truck use?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/ipados-273-expands-siri-mode-to-camera-app</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T20:56:42Z</news:publication_date>
-      <news:title>iPadOS 27.3 Expands Siri Mode to Camera App</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/Siri-in-Camera-Feature.jpg</image:loc>
-      <image:title>iPadOS 27.3 Expands Siri Mode to Camera App</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/chatgpt-has-hit-roughly-20-of-google-search-volume-openai-says</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T20:55:00Z</news:publication_date>
-      <news:title>ChatGPT has hit roughly 20% of Google Search volume, OpenAI says</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/04/chatgpt-android-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>ChatGPT has hit roughly 20% of Google Search volume, OpenAI says</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/reddit-tests-yet-another-change-that-absolutely-no-users-want</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T20:52:58Z</news:publication_date>
-      <news:title>Reddit tests yet another change that absolutely no users want</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2022/03/Reddit-stock-photo-3.jpg</image:loc>
-      <image:title>Reddit tests yet another change that absolutely no users want</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/sonos-new-voice-assistant-is-launching-in-early-access-on-november-6</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T20:48:49Z</news:publication_date>
-      <news:title>Sonos&apos; new voice assistant is launching in early access on November 6</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/sonos-new-voice-assistant-is-launching-in-early-access-on-november-6/l-intro-1793738872.jpg</image:loc>
-      <image:title>Sonos&apos; new voice assistant is launching in early access on November 6</image:title>
     </image:image>
   </url>
 </urlset>
