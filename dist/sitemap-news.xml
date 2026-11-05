@@ -3,6 +3,186 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/total-repudiation-the-blue-wave-is-about-to-hit-ai</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T17:51:52Z</news:publication_date>
+      <news:title>‘Total repudiation’: The blue wave is about to hit AI</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK423_ELECTIONS2.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>‘Total repudiation’: The blue wave is about to hit AI</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/samsung-android-xr-smart-glasses-pre-orders-get-started-on-november-12</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T17:43:22Z</news:publication_date>
+      <news:title>Samsung Android XR smart glasses pre-orders get started on November 12</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-hand-scaled.jpg</image:loc>
+      <image:title>Samsung Android XR smart glasses pre-orders get started on November 12</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/waze-may-soon-be-able-to-show-cyclists-using-garmin-smartwatches</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T17:40:00Z</news:publication_date>
+      <news:title>Waze may soon be able to show cyclists using Garmin smartwatches</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2024/02/waze-logo-2024.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Waze may soon be able to show cyclists using Garmin smartwatches</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/embers-smallest-self-heating-mug-is-on-sale-for-just-33</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T17:34:23Z</news:publication_date>
+      <news:title>Ember’s smallest self-heating mug is on sale for just $33</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/embercupsixouncewithtea_c325e7.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Ember’s smallest self-heating mug is on sale for just $33</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/tiktok-launched-a-dedicated-tiktok-shop-app</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T17:27:36Z</news:publication_date>
+      <news:title>TikTok launched a dedicated TikTok Shop app</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/unnamed-4.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,21.560786106033,100,38.439126001969</image:loc>
+      <image:title>TikTok launched a dedicated TikTok Shop app</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/nintendo-says-its-not-planning-another-switch-2-price-hike</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T17:24:39Z</news:publication_date>
+      <news:title>Nintendo says it’s not planning another Switch 2 price hike</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0175.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Nintendo says it’s not planning another Switch 2 price hike</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-home-bug-is-repeatedly-asking-some-users-to-set-up-the-app-again</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T17:18:20Z</news:publication_date>
+      <news:title>Google Home bug is repeatedly asking some users to set up the app again</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/06/google-home-speaker-review-9-scaled.jpg</image:loc>
+      <image:title>Google Home bug is repeatedly asking some users to set up the app again</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/droiddeck-review-this-could-change-how-you-game-on-your-phone-video</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T17:15:00Z</news:publication_date>
+      <news:title>DroidDeck review: This could change how you game on your phone [Video]</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/DroidDeck-launchscreen.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>DroidDeck review: This could change how you game on your phone [Video]</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/youtube-bug-makes-the-app-appear-in-half-dark-mode-half-light</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T17:14:15Z</news:publication_date>
+      <news:title>YouTube bug makes the app appear in half dark mode, half light</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/03/youtube-logo-google-pixel-10a-2-scaled.jpg</image:loc>
+      <image:title>YouTube bug makes the app appear in half dark mode, half light</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-android-17-coloros-17-update-is-coming-to-6-more-oneplus-devices-this-month</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T17:14:11Z</news:publication_date>
+      <news:title>The Android 17 ColorOS 17 update is coming to 6 more OnePlus devices this month</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2024/07/OnePlus-12-v11.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>The Android 17 ColorOS 17 update is coming to 6 more OnePlus devices this month</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-faa-is-finally-ditching-floppy-disks</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T17:13:42Z</news:publication_date>
+      <news:title>The FAA is finally ditching floppy disks</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2277873855.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>The FAA is finally ditching floppy disks</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/android-auto8217s-latest-gemini-failing-keeps-asking-8216who-do-you-want-to-call8217</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T17:05:00Z</news:publication_date>
+      <news:title>Android Auto&amp;#8217;s latest Gemini failing keeps asking &amp;#8216;who do you want to call&amp;#8217;</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-Personal-Intelligence-Android-Auto.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Android Auto&amp;#8217;s latest Gemini failing keeps asking &amp;#8216;who do you want to call&amp;#8217;</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/where-is-windows-12</loc>
     <news:news>
       <news:publication>
@@ -123,6 +303,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/oura-ring-5-gets-its-first-real-amazon-discount</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T16:12:20Z</news:publication_date>
+      <news:title>Oura Ring 5 gets its first real Amazon discount</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/Oura-Ring-5-Sensors-scaled.jpg</image:loc>
+      <image:title>Oura Ring 5 gets its first real Amazon discount</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/aawireless-expands-beyond-android-auto-adapters-with-new-cooled-qi2-car-charger-1</loc>
     <news:news>
       <news:publication>
@@ -183,6 +378,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/resy-is-suffering-a-partial-outage-right-now</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T15:51:15Z</news:publication_date>
+      <news:title>Resy is suffering a partial outage right now</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Resy-restuarant.jpg</image:loc>
+      <image:title>Resy is suffering a partial outage right now</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/youtube-rolling-out-app-redesign-without-subscriptions-tab-and-everyone-hates-it</loc>
     <news:news>
       <news:publication>
@@ -195,6 +405,21 @@
     <image:image>
       <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/youtube-app-redesign-subs.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
       <image:title>YouTube rolling out app redesign without Subscriptions tab, and everyone hates it</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/gboard-beta-hints-at-a-smarter-rambler-that-learns-your-words-and-contact-names</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T15:00:06Z</news:publication_date>
+      <news:title>Gboard beta hints at a smarter Rambler that learns your words and contact names</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-gboard-rambler-scaled.jpg</image:loc>
+      <image:title>Gboard beta hints at a smarter Rambler that learns your words and contact names</image:title>
     </image:image>
   </url>
   <url>
@@ -4500,216 +4725,6 @@
     <image:image>
       <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2021/07/stadia_controller_android_tv_1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
       <image:title>Google&amp;#8217;s Stadia Controller dream lives on in the $50 Xbox Nano Controller</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/netflix-will-show-you-themed-recommendations-through-a-new-ai-discover-tab</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T18:00:00Z</news:publication_date>
-      <news:title>Netflix will show you themed recommendations through a new ‘AI Discover’ tab</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AIDiscover-Product-02.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Netflix will show you themed recommendations through a new ‘AI Discover’ tab</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T17:54:43Z</news:publication_date>
-      <news:title>Google will let schools skip AI tools, but they have to give up search, too</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-grooves-1152x648.jpg</image:loc>
-      <image:title>Google will let schools skip AI tools, but they have to give up search, too</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/garmin-dash-cam-x110-gets-a-rare-50-discount-on-amazon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T17:48:57Z</news:publication_date>
-      <news:title>Garmin Dash Cam X110 gets a rare $50 discount on Amazon</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Garmin-Dash-Cam-X110-Product-Image.jpg</image:loc>
-      <image:title>Garmin Dash Cam X110 gets a rare $50 discount on Amazon</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/honors-14000mah-smartphone-battery-can-reportedly-last-a-week</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T17:38:01Z</news:publication_date>
-      <news:title>Honor&apos;s 14,000mAh smartphone battery can reportedly last a week</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/honor-14000mah-battery-phone-leak-new/gsmarena_00.jpg</image:loc>
-      <image:title>Honor&apos;s 14,000mAh smartphone battery can reportedly last a week</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/logitech-g-astro-a50-hits-record-low-price-with-102-off-rrp</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T17:33:51Z</news:publication_date>
-      <news:title>Logitech G Astro A50 hits record-low price with $102 off RRP</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2020/04/A50-PS4-console-shot.png</image:loc>
-      <image:title>Logitech G Astro A50 hits record-low price with $102 off RRP</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/mofts-new-origami-case-adds-a-kickstand-and-grip-to-the-iphone-duo</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T17:27:52Z</news:publication_date>
-      <news:title>Moft’s new origami case adds a kickstand and grip to the iPhone Duo</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/moft1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Moft’s new origami case adds a kickstand and grip to the iPhone Duo</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/one-of-android8217s-biggest-software-rollouts-is-here-with-over-80-devices-on-the-guest-list</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T17:24:15Z</news:publication_date>
-      <news:title>One of Android&amp;#8217;s biggest software rollouts is here, with over 80 devices on the guest list</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/06/Xiaomi-17-Ultra_1.jpg</image:loc>
-      <image:title>One of Android&amp;#8217;s biggest software rollouts is here, with over 80 devices on the guest list</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/smart-homes-are-in-disarray-after-daylight-saving-time-baffles-google-nest-devices</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T17:23:04Z</news:publication_date>
-      <news:title>Smart homes are in disarray after daylight saving time baffles Google Nest devices</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/08/Google-Nest-Learning-Thermostat-rotating-temperature.jpg</image:loc>
-      <image:title>Smart homes are in disarray after daylight saving time baffles Google Nest devices</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/ipad-mini-8-review-claims-battery-life-is-way-better-than-apple-says</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T17:22:12Z</news:publication_date>
-      <news:title>iPad Mini 8 Review Claims Battery Life is Way Better Than Apple Says</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/iPad-mini-OLED-feature-1.jpg</image:loc>
-      <image:title>iPad Mini 8 Review Claims Battery Life is Way Better Than Apple Says</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/another-child-dies-of-measles-as-cdc-reportedly-holds-up-health-alert</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T17:21:29Z</news:publication_date>
-      <news:title>Another child dies of measles as CDC reportedly holds up health alert</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2053751760-1152x648.jpg</image:loc>
-      <image:title>Another child dies of measles as CDC reportedly holds up health alert</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-xbox-nano-has-a-hidden-cloud-secret</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T17:16:04Z</news:publication_date>
-      <news:title>The Xbox Nano has a hidden cloud secret</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/nanowifi.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>The Xbox Nano has a hidden cloud secret</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/amazon-slashes-2nd-gen-quietcomfort-headphones-by-160</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T17:12:34Z</news:publication_date>
-      <news:title>Amazon slashes 2nd Gen QuietComfort Headphones by $160</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/07/Bose-QuietComfort-Headphones-SoundGuys-scaled.jpg</image:loc>
-      <image:title>Amazon slashes 2nd Gen QuietComfort Headphones by $160</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/android-auto-181-update-rolling-out-with-additional-prep-for-light-mode-and-redesign</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T17:10:00Z</news:publication_date>
-      <news:title>Android Auto 18.1 update rolling out with additional prep for light mode and redesign</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/05/Android-Auto-Immerisve-View-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Android Auto 18.1 update rolling out with additional prep for light mode and redesign</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/google-dismantles-botnet-secretly-running-on-13-million-android-tv-boxes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T17:08:21Z</news:publication_date>
-      <news:title>Google dismantles botnet secretly running on 1.3 million Android TV boxes</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/mecool-malware.jpg</image:loc>
-      <image:title>Google dismantles botnet secretly running on 1.3 million Android TV boxes</image:title>
     </image:image>
   </url>
 </urlset>
