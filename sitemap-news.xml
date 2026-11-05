@@ -3,6 +3,96 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/big-googlebook-november-update-rolling-out-with-31-fixes-improvements</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T23:41:44Z</news:publication_date>
+      <news:title>Big Googlebook November update rolling out with 31 fixes, improvements</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/hp-googlebook-logo-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Big Googlebook November update rolling out with 31 fixes, improvements</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/whatsapp-is-bringing-ios-style-chat-previews-to-android</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T23:31:02Z</news:publication_date>
+      <news:title>WhatsApp is bringing iOS-style chat previews to Android</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/whatsapp-chat-previews-android/gsmarena_000.jpg</image:loc>
+      <image:title>WhatsApp is bringing iOS-style chat previews to Android</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/t-mobile-owner-on-elon-musk-launching-a-wireless-carrier-8216welcome-to-the-party8217</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T23:17:10Z</news:publication_date>
+      <news:title>T-Mobile owner on Elon Musk launching a wireless carrier: &amp;#8216;Welcome to the party&amp;#8217;</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2259379374.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>T-Mobile owner on Elon Musk launching a wireless carrier: &amp;#8216;Welcome to the party&amp;#8217;</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/apple039s-first-touchscreen-mac-is-now-arriving-to-customers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T23:12:36Z</news:publication_date>
+      <news:title>Apple&amp;#039;s First Touchscreen Mac is Now Arriving to Customers</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/Apples-First-Touchscreen-Mac-is-Now-Arriving-to-Customers-Feature.jpg</image:loc>
+      <image:title>Apple&amp;#039;s First Touchscreen Mac is Now Arriving to Customers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/claude-gets-personal-finance-feature-with-bank-account-linking</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T22:47:18Z</news:publication_date>
+      <news:title>Claude Gets Personal Finance Feature With Bank Account Linking</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/claude-personal-finance.jpg</image:loc>
+      <image:title>Claude Gets Personal Finance Feature With Bank Account Linking</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/motorola-introduces-polar-powered-moto-watch-2-fit-and-bose-boosted-moto-buds-2-ultra</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T22:42:32Z</news:publication_date>
+      <news:title>Motorola introduces Polar-powered Moto Watch 2 Fit and Bose-boosted Moto Buds 2 Ultra</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Moto-Watch-2-Fit-scaled.jpg</image:loc>
+      <image:title>Motorola introduces Polar-powered Moto Watch 2 Fit and Bose-boosted Moto Buds 2 Ultra</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/perplexity-launches-its-own-take-on-ai-agents-for-work</loc>
     <news:news>
       <news:publication>
@@ -4695,156 +4785,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/your-desktops-front-usb-ports-may-be-slowing-down-every-device-you-plug-into-them/l-intro-1793642328.jpg</image:loc>
       <image:title>Your desktop&apos;s front USB ports may be slowing down every device you plug into them</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/please-stop-asking-me-when-the-ai-bubble-will-pop</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T23:37:45Z</news:publication_date>
-      <news:title>Please stop asking me when the AI bubble will pop</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302813651.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Please stop asking me when the AI bubble will pop</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/arkane-and-its-blade-game-may-end-up-at-ubisoft-as-xbox-considers-offers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T23:32:37Z</news:publication_date>
-      <news:title>Arkane and its Blade game may end up at Ubisoft as Xbox considers offers</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/arkane-and-its-blade-game-may-end-up-at-ubisoft-as-xbox-considers-offers/l-intro-1793748584.jpg</image:loc>
-      <image:title>Arkane and its Blade game may end up at Ubisoft as Xbox considers offers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/tipster-brings-bad-news-for-the-galaxy-z-fold9-and-z-fold9-ultra-cameras</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T23:31:03Z</news:publication_date>
-      <news:title>Tipster brings bad news for the Galaxy Z Fold9 and Z Fold9 Ultra cameras</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/samsung-galaxy-z-fold9-camera-leak/gsmarena_000.jpg</image:loc>
-      <image:title>Tipster brings bad news for the Galaxy Z Fold9 and Z Fold9 Ultra cameras</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/android-and-ios-apps-will-be-able-to-bypass-the-share-sheet-next-year</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T23:31:02Z</news:publication_date>
-      <news:title>Android and iOS apps will be able to bypass the share sheet next year</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/quick-share-sdk/gsmarena_000.jpg</image:loc>
-      <image:title>Android and iOS apps will be able to bypass the share sheet next year</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/what-made-nothings-cmf-phone-2-pro-so-much-cheaper-than-others</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T23:30:00Z</news:publication_date>
-      <news:title>What made Nothing&apos;s CMF Phone 2 Pro so much cheaper than others?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/what-made-nothings-cmf-phone-2-pro-so-much-cheaper-than-others/l-intro-1792141686.jpg</image:loc>
-      <image:title>What made Nothing&apos;s CMF Phone 2 Pro so much cheaper than others?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/redmagic-12-pro-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T23:13:37Z</news:publication_date>
-      <news:title>RedMagic 12 Pro review</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/reviews/26/redmagic-12-pro/-347x151/gsmarena_001.jpg</image:loc>
-      <image:title>RedMagic 12 Pro review</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/watch-too-much-youtube-google-could-be-working-on-a-new-tool-to-help</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T23:04:29Z</news:publication_date>
-      <news:title>Watch too much YouTube? Google could be working on a new tool to help</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2022/04/YouTube-on-smartphone-stock-photo-5.jpg</image:loc>
-      <image:title>Watch too much YouTube? Google could be working on a new tool to help</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/nvidias-controversial-dlss-5-is-coming-to-rtx-remix-to-enhance-older-games</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T23:00:21Z</news:publication_date>
-      <news:title>NVIDIA&apos;s controversial DLSS 5 is coming to RTX Remix to &apos;enhance&apos; older games</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/nvidias-controversial-dlss-5-is-coming-to-rtx-remix-to-enhance-older-games/l-intro-1793746309.jpg</image:loc>
-      <image:title>NVIDIA&apos;s controversial DLSS 5 is coming to RTX Remix to &apos;enhance&apos; older games</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/heres-how-to-adjust-apple-airpods-for-small-ears</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T23:00:00Z</news:publication_date>
-      <news:title>Here&apos;s how to adjust Apple AirPods for small ears</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/heres-how-to-adjust-apple-airpods-for-small-ears/l-intro-1793121569.jpg</image:loc>
-      <image:title>Here&apos;s how to adjust Apple AirPods for small ears</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/canva-is-announcing-changes-and-layoffs-affecting-22-percent-of-its-staff</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T22:59:36Z</news:publication_date>
-      <news:title>Canva is announcing changes and layoffs affecting 22 percent of its staff</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK263_CANVA_D.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Canva is announcing changes and layoffs affecting 22 percent of its staff</image:title>
     </image:image>
   </url>
 </urlset>
