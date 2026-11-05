@@ -3,6 +3,96 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/oppo-find-x10-ultra-and-vivo-x500-ultra-leak-points-to-five-200mp-cameras-between-them</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T12:24:05Z</news:publication_date>
+      <news:title>OPPO Find X10 Ultra and vivo X500 Ultra leak points to five 200MP cameras between them</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/04/OPPO-Find-X9-Ultra-vs-Find-X9-Pro.jpg</image:loc>
+      <image:title>OPPO Find X10 Ultra and vivo X500 Ultra leak points to five 200MP cameras between them</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/macbook-neo-shipments-expected-to-double-in-2027</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T12:21:40Z</news:publication_date>
+      <news:title>MacBook Neo Shipments Expected to Double in 2027</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/08/macbook-neo-pink.jpeg</image:loc>
+      <image:title>MacBook Neo Shipments Expected to Double in 2027</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/no-snapdragon-no-problem-malisx2-is-about-to-bring-a-major-boost-to-gamecube-xbox-emulators</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T12:14:38Z</news:publication_date>
+      <news:title>No Snapdragon? No problem! MaliSX2 is about to bring a major boost to GameCube, Xbox emulators</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/03/Dolphine-Emulator-Pixel-7-Pro.jpg</image:loc>
+      <image:title>No Snapdragon? No problem! MaliSX2 is about to bring a major boost to GameCube, Xbox emulators</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google8217s-ai-search-fumbles-leave-schools-in-the-lurch</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T12:00:00Z</news:publication_date>
+      <news:title>Google&amp;#8217;s AI search fumbles leave schools in the lurch</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2025/12/Lenovo-Chromebook-Duet-11.webp?w=1500</image:loc>
+      <image:title>Google&amp;#8217;s AI search fumbles leave schools in the lurch</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/homeview-code-suggests-future-support-for-ai-chatbot-apps-anti-spoofing-protection</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T11:43:52Z</news:publication_date>
+      <news:title>HomeView Code Suggests Future Support for AI Chatbot Apps, Anti-Spoofing Protection</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/homeview_home_screen_feature-2.jpg</image:loc>
+      <image:title>HomeView Code Suggests Future Support for AI Chatbot Apps, Anti-Spoofing Protection</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/discord-is-ditching-electron-and-its-new-app-uses-less-ram</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T11:39:42Z</news:publication_date>
+      <news:title>Discord is ditching Electron and its new app uses less RAM</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK062_01.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Discord is ditching Electron and its new app uses less RAM</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/i-love-big-si-c-batteries-but-slow-charging-is-a-steep-price-to-pay</loc>
     <news:news>
       <news:publication>
@@ -5040,126 +5130,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/nasas-swift-observatory-is-expected-to-re-enter-earth-on-november-4/l-intro-1793709578.jpg</image:loc>
       <image:title>NASA&apos;s Swift observatory is expected to return to Earth on November 4</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-arduview-might-be-the-ultimate-tribute-to-retro-translucent-gadgets</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T12:30:00Z</news:publication_date>
-      <news:title>The Arduview might be the ultimate tribute to retro translucent gadgets</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/the-arduview-might-be-the-ultimate-tribute-to-retro-translucent-gadgets/l-intro-1793654433.jpg</image:loc>
-      <image:title>The Arduview might be the ultimate tribute to retro translucent gadgets</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/what-i-learned-after-a-weekend-gaming-on-the-new-snapdragon-8-elite-extreme-gen-6</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T12:00:41Z</news:publication_date>
-      <news:title>What I learned after a weekend gaming on the new Snapdragon 8 Elite Extreme Gen 6</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/REDMAGIC-12-Pro-hero-image-scaled.jpg</image:loc>
-      <image:title>What I learned after a weekend gaming on the new Snapdragon 8 Elite Extreme Gen 6</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/redmagic-12-pro-brings-its-rgb-liquid-cooling-and-185hz-screen-to-the-global-market</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T12:00:03Z</news:publication_date>
-      <news:title>RedMagic 12 Pro brings its RGB liquid cooling and 185Hz screen to the global market</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/redmagic-12-pro-global/gsmarena_000.jpg</image:loc>
-      <image:title>RedMagic 12 Pro brings its RGB liquid cooling and 185Hz screen to the global market</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/android-gaming-is-having-a-renaissance-1</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T12:00:00Z</news:publication_date>
-      <news:title>Android gaming is having a renaissance</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/09/razer-prio-controller-3.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1200</image:loc>
-      <image:title>Android gaming is having a renaissance</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/rivian-spinoff-also-wants-to-reinvent-the-wheel-but-first-it-has-to-ship</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T12:00:00Z</news:publication_date>
-      <news:title>Rivian spinoff Also wants to reinvent the wheel — but first, it has to ship</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2242247571.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Rivian spinoff Also wants to reinvent the wheel — but first, it has to ship</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/redmagic-upgrades-its-liquid-cooled-gaming-phone-with-extra-rgbs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T12:00:00Z</news:publication_date>
-      <news:title>Redmagic upgrades its liquid-cooled gaming phone with extra RGBs</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/redmagic-12-pro-3.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Redmagic upgrades its liquid-cooled gaming phone with extra RGBs</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-explores-cheaper-way-to-make-new-macbook-pro039s-oled-tech</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T11:47:44Z</news:publication_date>
-      <news:title>Apple Explores Cheaper Way to Make New MacBook Pro&amp;#039;s OLED Tech</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/MacBook-Pro-PROLED-XDR-Display.jpg</image:loc>
-      <image:title>Apple Explores Cheaper Way to Make New MacBook Pro&amp;#039;s OLED Tech</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/youtube-music8217s-playback-controls-could-soon-feel-more-lively</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T11:34:20Z</news:publication_date>
-      <news:title>YouTube Music&amp;#8217;s playback controls could soon feel more lively</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/04/Rasputin-playing-on-YouTube-Music-on-Google-pixel-10a.jpg</image:loc>
-      <image:title>YouTube Music&amp;#8217;s playback controls could soon feel more lively</image:title>
     </image:image>
   </url>
 </urlset>
