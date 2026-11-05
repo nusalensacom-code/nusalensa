@@ -3,6 +3,156 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/anthropic-rolls-out-claude-personal-finance-with-spending-analysis-and-bill-tracking</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T19:49:52Z</news:publication_date>
+      <news:title>Anthropic rolls out Claude Personal Finance with spending analysis and bill tracking</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/04/Claude-main-screen-scaled.jpg</image:loc>
+      <image:title>Anthropic rolls out Claude Personal Finance with spending analysis and bill tracking</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/samsungs-galaxy-z-fold-8-is-300-off-ahead-of-black-friday</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T19:12:58Z</news:publication_date>
+      <news:title>Samsung’s Galaxy Z Fold 8 is $300 off ahead of Black Friday</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/samsung-galaxy-z-fold-8-roundup.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Samsung’s Galaxy Z Fold 8 is $300 off ahead of Black Friday</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/counterpoint-global-dram-revenue-grows-by-369-in-q3</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T19:11:03Z</news:publication_date>
+      <news:title>Counterpoint: global DRAM revenue grows by 369% in Q3</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/counterpoint-dram-market-report/gsmarena_000.jpg</image:loc>
+      <image:title>Counterpoint: global DRAM revenue grows by 369% in Q3</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/first-ios-273-and-macos-golden-gate-273-public-betas-now-available</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T19:06:09Z</news:publication_date>
+      <news:title>First iOS 27.3 and macOS Golden Gate 27.3 Public Betas Now Available</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/iOS-27.3-Feature.jpg</image:loc>
+      <image:title>First iOS 27.3 and macOS Golden Gate 27.3 Public Betas Now Available</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/pixel-11-and-pixel-10-at-up-to-350-off-are-great-phone-deals-that-will-only-be-harder-to-find-in-ramageddon</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T19:05:00Z</news:publication_date>
+      <news:title>Pixel 11 and Pixel 10 at up to $350 off are great phone deals that will only be harder to find in RAMageddon</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-vs-pixel-10-4.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Pixel 11 and Pixel 10 at up to $350 off are great phone deals that will only be harder to find in RAMageddon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/phone-by-google-246-beta-brings-gradient-icon-redesign-on-android</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T19:04:24Z</news:publication_date>
+      <news:title>Phone by Google 246 beta brings gradient icon redesign on Android</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Messages-Phone-Contacts-icon-gradient-redesign.webp?w=1600</image:loc>
+      <image:title>Phone by Google 246 beta brings gradient icon redesign on Android</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/muse-has-a-voice-mode-now</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T19:03:04Z</news:publication_date>
+      <news:title>Muse has a voice mode now</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Muse has a voice mode now</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/razer-is-getting-back-into-wired-earbuds-with-usb-c-yes-they-have-rgb</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T19:00:27Z</news:publication_date>
+      <news:title>Razer is getting back into wired earbuds with USB-C; yes, they have RGB</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/razer-hammerhead-v3-chroma.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1400</image:loc>
+      <image:title>Razer is getting back into wired earbuds with USB-C; yes, they have RGB</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/one-ui-9-comes-to-samsung8217s-rugged-galaxy-xcover-7-pro-in-the-us</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T18:50:10Z</news:publication_date>
+      <news:title>One UI 9 comes to Samsung&amp;#8217;s rugged Galaxy XCover 7 Pro in the US</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/01/Samsung-Galaxy-Xcover-7-Setos-1.jpg</image:loc>
+      <image:title>One UI 9 comes to Samsung&amp;#8217;s rugged Galaxy XCover 7 Pro in the US</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/is-maha-dyingor-will-it-be-reborn-whats-next-after-crushing-midterm-losses</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T18:49:41Z</news:publication_date>
+      <news:title>Is MAHA dying—or will it be reborn? What&apos;s next after crushing midterm losses?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2301676134-1024x648.jpg</image:loc>
+      <image:title>Is MAHA dying—or will it be reborn? What&apos;s next after crushing midterm losses?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/garmin-isnt-ready-to-abandon-power-efficient-mip-displays-on-wearables-even-as-amoled-improves</loc>
     <news:news>
       <news:publication>
@@ -30,6 +180,21 @@
     <image:image>
       <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/07/samsung-android-xr-glasses-warby-parker-13.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
       <image:title>First Android XR ‘Intelligent Eyewear’ glasses go on pre-order next week</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/ea-is-bringing-25-classic-pc-games-to-steam</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T18:30:00Z</news:publication_date>
+      <news:title>EA is bringing 25 classic PC games to Steam</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/RoadRash_Screenshot_12.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>EA is bringing 25 classic PC games to Steam</image:title>
     </image:image>
   </url>
   <url>
@@ -150,6 +315,21 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-hand-scaled.jpg</image:loc>
       <image:title>Samsung Android XR smart glasses pre-orders get started on November 12</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/gamers-go-to-ridiculous-lengths-to-improve-gta-vi-with-nvidias-dlss-5</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T17:40:27Z</news:publication_date>
+      <news:title>Gamers go to ridiculous lengths to &quot;improve&quot; GTA VI with Nvidia&apos;s DLSS 5</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/gta6dlss-1152x648.png</image:loc>
+      <image:title>Gamers go to ridiculous lengths to &quot;improve&quot; GTA VI with Nvidia&apos;s DLSS 5</image:title>
     </image:image>
   </url>
   <url>
@@ -573,6 +753,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/technology/statehouse-wins-give-democrats-new-power-to-push-clean-energy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T15:59:51Z</news:publication_date>
+      <news:title>Statehouse wins give Democrats new power to push clean energy</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1487351817-1152x648.jpg</image:loc>
+      <image:title>Statehouse wins give Democrats new power to push clean energy</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/best-early-black-friday-deals-on-iphone-18-pro-and-iphone-duo</loc>
     <news:news>
       <news:publication>
@@ -753,6 +948,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/moto-watch-2-fit-and-moto-buds-2-ultra-launch-with-polar-and-bose-on-board</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T14:02:02Z</news:publication_date>
+      <news:title>Moto Watch 2 Fit and Moto Buds 2 Ultra launch with Polar and Bose on board</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/moto-watch-2-fit-moto-buds-2-ultra-official/gsmarena_000.jpg</image:loc>
+      <image:title>Moto Watch 2 Fit and Moto Buds 2 Ultra launch with Polar and Bose on board</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/the-m6-macbook-pro-is-probably-the-last-of-its-kind</loc>
     <news:news>
       <news:publication>
@@ -825,6 +1035,21 @@
     <image:image>
       <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/moto-buds-ultra-27-ecosystem-official.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
       <image:title>Moto Buds Ultra 27 and Watch Fit 27 help complete the company&amp;#8217;s new premium ecosystem</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/motorola-signature-27-is-now-fully-official-with-a-7000-mah-battery-and-a-dedicated-action-sensor</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T13:04:02Z</news:publication_date>
+      <news:title>Motorola Signature 27 is now fully official with a 7,000 mAh battery and a dedicated action sensor</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/motorola-signature-27-official/gsmarena_010.jpg</image:loc>
+      <image:title>Motorola Signature 27 is now fully official with a 7,000 mAh battery and a dedicated action sensor</image:title>
     </image:image>
   </url>
   <url>
@@ -4515,216 +4740,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/netflix-thinks-ai-might-save-you-from-scrolling-aimlessly-for-something-to-watch/l-intro-1793735788.jpg</image:loc>
       <image:title>Netflix thinks AI might save you from scrolling aimlessly for something to watch</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/you-cant-hit-a-wrong-note-when-playing-along-with-songs-on-casios-new-keyboard</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T19:48:41Z</news:publication_date>
-      <news:title>You can’t hit a wrong note when playing along with songs on Casio’s new keyboard</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/casiokeyboard1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>You can’t hit a wrong note when playing along with songs on Casio’s new keyboard</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/this-election-day-remember-which-party-ran-against-evs-and-tethered-us-all-to-the-gas-pump</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T19:44:46Z</news:publication_date>
-      <news:title>This Election Day, remember which party ran against EVs and tethered us all to the gas pump</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302796388.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>This Election Day, remember which party ran against EVs and tethered us all to the gas pump</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-fitness-gets-gym-strength-plans-in-ios-273</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T19:35:33Z</news:publication_date>
-      <news:title>Apple Fitness+ Gets Gym Strength Plans in iOS 27.3</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/apple-fitness-plus-strength.jpg</image:loc>
-      <image:title>Apple Fitness+ Gets Gym Strength Plans in iOS 27.3</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/ios-273-adding-new-standby-mode-features-to-iphone-11-and-newer</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T19:31:18Z</news:publication_date>
-      <news:title>iOS 27.3 Adding New StandBy Mode Features to iPhone 11 and Newer</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2023/06/StandBy-iOS-17.jpg</image:loc>
-      <image:title>iOS 27.3 Adding New StandBy Mode Features to iPhone 11 and Newer</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/dont-throw-away-your-laptops-old-ssds-do-this-instead</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T19:30:00Z</news:publication_date>
-      <news:title>Don&apos;t throw away your laptop&apos;s old SSDs — do this instead</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/dont-throw-away-your-laptops-old-ssds-do-this-instead/l-intro-1792960873.jpg</image:loc>
-      <image:title>Don&apos;t throw away your laptop&apos;s old SSDs — do this instead</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-releases-new-airpods-beta-firmware</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T19:29:37Z</news:publication_date>
-      <news:title>Apple Releases New AirPods Beta Firmware</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/08/AirPods-Pro-Beta-Firmware-2.jpg</image:loc>
-      <image:title>Apple Releases New AirPods Beta Firmware</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/itchio-adds-a-filter-for-games-with-gen-ai-disclosures</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T19:27:28Z</news:publication_date>
-      <news:title>Itch.io adds a filter for games with gen AI disclosures</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/itch-io-adds-a-filter-for-games-with-gen-ai-disclosures/l-intro-1793733979.jpg</image:loc>
-      <image:title>Itch.io adds a filter for games with gen AI disclosures</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/ios-273-beta-brings-apple-intelligence-to-china</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T19:25:00Z</news:publication_date>
-      <news:title>iOS 27.3 Beta Brings Apple Intelligence to China</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/apple-intelligence-china.jpg</image:loc>
-      <image:title>iOS 27.3 Beta Brings Apple Intelligence to China</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iphone-duo-gets-reachability-in-ios-273-beta</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T19:19:11Z</news:publication_date>
-      <news:title>iPhone Duo Gets Reachability in iOS 27.3 Beta</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/ios-27-3-reachability-duo.jpg</image:loc>
-      <image:title>iPhone Duo Gets Reachability in iOS 27.3 Beta</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-is-making-it-harder-for-schools-to-say-no-to-ai</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T19:13:14Z</news:publication_date>
-      <news:title>Google is making it harder for schools to say no to AI</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/07/Google-Logo-at-Google-NYC-Headquarters-with-Plants-Surroudning-it.jpg</image:loc>
-      <image:title>Google is making it harder for schools to say no to AI</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/samsung-galaxy-a58s-charging-speed-revealed-by-3c-certification</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T19:02:02Z</news:publication_date>
-      <news:title>Samsung Galaxy A58&apos;s charging speed revealed by 3C certification</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/samsung-galaxy-a58-charging-speed-3c-certification/gsmarena_001.jpg</image:loc>
-      <image:title>Samsung Galaxy A58&apos;s charging speed revealed by 3C certification</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/this-43-inch-xteink-x4-pro-e-reader-is-back-to-its-record-low</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T19:01:55Z</news:publication_date>
-      <news:title>This 4.3-inch XTEINK X4 Pro e-reader is back to its record low</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/XTEINK-X4-Pro-Press-Image.jpg</image:loc>
-      <image:title>This 4.3-inch XTEINK X4 Pro e-reader is back to its record low</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/how-to-use-your-phone-to-find-hidden-cameras</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T19:00:00Z</news:publication_date>
-      <news:title>How to use your phone to find hidden cameras</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/how-you-can-use-your-phone-to-find-hidden-cameras/l-intro-1792784027.jpg</image:loc>
-      <image:title>How to use your phone to find hidden cameras</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/ios-273-adds-vertical-tabs-and-adaptive-dark-mode-to-safari</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T18:51:37Z</news:publication_date>
-      <news:title>iOS 27.3 Adds Vertical Tabs and Adaptive Dark Mode to Safari</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/safari-vertical-tabs.jpg</image:loc>
-      <image:title>iOS 27.3 Adds Vertical Tabs and Adaptive Dark Mode to Safari</image:title>
     </image:image>
   </url>
 </urlset>
