@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/hackers-used-chrome-and-snapdragon-gpu-flaws-to-hack-android-phones</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T05:36:04Z</news:publication_date>
+      <news:title>Hackers used Chrome and Snapdragon GPU flaws to hack Android phones</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2023/03/Security-and-privacy-option-in-Android-settings-stock-photo-2.jpg</image:loc>
+      <image:title>Hackers used Chrome and Snapdragon GPU flaws to hack Android phones</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/nintendos-designers-strove-for-elegance-when-remaking-ocarina-of-time</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T05:00:00Z</news:publication_date>
+      <news:title>Nintendo’s designers strove for ‘elegance’ when remaking Ocarina of Time</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/NS2_TheLegendofZeldaOcarinaofTime_scrn_15_dce060.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Nintendo’s designers strove for ‘elegance’ when remaking Ocarina of Time</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/redmi-turbo-6-maxs-battery-capacity-leaks-and-its-huge</loc>
     <news:news>
       <news:publication>
@@ -5055,21 +5085,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/oppo-reno17-new-leak/gsmarena_00.jpg</image:loc>
       <image:title>Oppo Reno17 and Reno17 Pro&apos;s specs, colors, and configurations leak</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-confirms-android-family-hub-an-ios-style-home-for-family-controls-in-settings</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T05:03:50Z</news:publication_date>
-      <news:title>Google confirms Android Family Hub, an iOS-style home for family controls in Settings</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/02/pixel-home-screen-system-settings-software-updates-shortcuts.jpg</image:loc>
-      <image:title>Google confirms Android Family Hub, an iOS-style home for family controls in Settings</image:title>
     </image:image>
   </url>
 </urlset>
