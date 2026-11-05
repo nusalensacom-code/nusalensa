@@ -5,8 +5,26 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 05 Nov 2026 07:05:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 08:23:17 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Here&apos;s when the Huawei Mate 80 Air is rumored to launch</title>
+      <link>https://nusalensa.com/phones/heres-when-the-huawei-mate-80-air-is-rumored-to-launch</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/heres-when-the-huawei-mate-80-air-is-rumored-to-launch</guid>
+      <description>Huawei unveiled the Mate 70 Air around one year ago as its entry into the &apos;thin smartphone&apos; segment, and while its successor has been rumored for a while now, i</description>
+      <category>Smartphones</category>
+      <pubDate>Thu, 05 Nov 2026 07:18:02 GMT</pubDate>
+      <enclosure url="https://fdn.gsmarena.com/imgroot/news/26/11/huawei-mate-80-air-rumor/gsmarena_000.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Xbox Cloud Gaming now lets your phone double as a controller on smart TVs</title>
+      <link>https://nusalensa.com/phones/xbox-cloud-gaming-now-lets-your-phone-double-as-a-controller-on-smart-tvs</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/xbox-cloud-gaming-now-lets-your-phone-double-as-a-controller-on-smart-tvs</guid>
+      <description>No controller? No problem.</description>
+      <category>Smartphones</category>
+      <pubDate>Thu, 05 Nov 2026 07:07:13 GMT</pubDate>
+      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2020/11/xbox-logo-series-x-scaled.jpeg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>OnePlus reveals exact Android 17 rollout dates for more phones and tablets</title>
       <link>https://nusalensa.com/phones/oneplus-reveals-exact-android-17-rollout-dates-for-more-phones-and-tablets</link>
@@ -258,24 +276,6 @@
       <category>Smartphones</category>
       <pubDate>Wed, 04 Nov 2026 21:20:28 GMT</pubDate>
       <enclosure url="https://images.macrumors.com/article-new/2026/11/apple-tv-snoopy.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Bose’s QuietComfort Headphones are more than half off</title>
-      <link>https://nusalensa.com/technology/boses-quietcomfort-headphones-are-more-than-half-off</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/boses-quietcomfort-headphones-are-more-than-half-off</guid>
-      <description>It’s not often that some of the best noise-canceling headphones you can buy are over half off. But right now, the first-gen Bose QuietComfort Headphones are on </description>
-      <category>Technology</category>
-      <pubDate>Wed, 04 Nov 2026 21:13:11 GMT</pubDate>
-      <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Bose-QuietComfort-Headphones-lifestyle.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Google Maps update makes the app fully iPhone Duo compatible</title>
-      <link>https://nusalensa.com/phones/google-maps-update-makes-the-app-fully-iphone-duo-compatible</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/google-maps-update-makes-the-app-fully-iphone-duo-compatible</guid>
-      <description>The iPhone Duo has been shipping for a little while now, but plenty of iOS apps still haven&apos;t been adapted to its two displays. Google Maps is no longer one of </description>
-      <category>Smartphones</category>
-      <pubDate>Wed, 04 Nov 2026 21:02:02 GMT</pubDate>
-      <enclosure url="https://fdn.gsmarena.com/imgroot/news/26/11/google-maps-iphone-duo-support/gsmarena_000.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>

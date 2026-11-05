@@ -468,6 +468,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/heres-when-the-huawei-mate-80-air-is-rumored-to-launch</loc>
+    <lastmod>2026-11-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/huawei-mate-80-air-rumor/gsmarena_000.jpg</image:loc>
+      <image:title>Here&apos;s when the Huawei Mate 80 Air is rumored to launch</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/xbox-cloud-gaming-now-lets-your-phone-double-as-a-controller-on-smart-tvs</loc>
+    <lastmod>2026-11-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2020/11/xbox-logo-series-x-scaled.jpeg</image:loc>
+      <image:title>Xbox Cloud Gaming now lets your phone double as a controller on smart TVs</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/oneplus-reveals-exact-android-17-rollout-dates-for-more-phones-and-tablets</loc>
     <lastmod>2026-11-05</lastmod>
     <changefreq>daily</changefreq>
