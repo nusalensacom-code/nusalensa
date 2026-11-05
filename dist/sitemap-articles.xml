@@ -2,6 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/oneplus-reveals-exact-android-17-rollout-dates-for-more-phones-and-tablets</loc>
+    <lastmod>2026-11-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/02/OnePlus-12-scaled.jpg</image:loc>
+      <image:title>OnePlus reveals exact Android 17 rollout dates for more phones and tablets</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/starlink-mobile-finally-has-an-official-rollout-window</loc>
+    <lastmod>2026-11-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2022/02/Samsung-Galaxu-S22-Ultra-5G-Signal-indicator.jpg</image:loc>
+      <image:title>Starlink Mobile finally has an official rollout window</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/samsung-galaxy-buds4-pro-and-buds3-pro-will-soon-work-as-hearing-aids</loc>
+    <lastmod>2026-11-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/samsung-galaxy-buds3-pro-buds4-pro-hearing-aid-approval-korea/gsmarena_000.jpg</image:loc>
+      <image:title>Samsung Galaxy Buds4 Pro and Buds3 Pro will soon work as hearing aids</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/hackers-used-chrome-and-snapdragon-gpu-flaws-to-hack-android-phones</loc>
     <lastmod>2026-11-05</lastmod>
     <changefreq>daily</changefreq>

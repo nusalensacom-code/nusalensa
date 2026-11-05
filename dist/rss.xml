@@ -5,8 +5,35 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 05 Nov 2026 05:58:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 07:05:15 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OnePlus reveals exact Android 17 rollout dates for more phones and tablets</title>
+      <link>https://nusalensa.com/phones/oneplus-reveals-exact-android-17-rollout-dates-for-more-phones-and-tablets</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/oneplus-reveals-exact-android-17-rollout-dates-for-more-phones-and-tablets</guid>
+      <description>November&apos;s update calendar is filling up fast.</description>
+      <category>Smartphones</category>
+      <pubDate>Thu, 05 Nov 2026 06:30:56 GMT</pubDate>
+      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2024/02/OnePlus-12-scaled.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Starlink Mobile finally has an official rollout window</title>
+      <link>https://nusalensa.com/phones/starlink-mobile-finally-has-an-official-rollout-window</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/starlink-mobile-finally-has-an-official-rollout-window</guid>
+      <description>There&apos;s encouraging news if you&apos;d like to switch from your existing carrier.</description>
+      <category>Smartphones</category>
+      <pubDate>Thu, 05 Nov 2026 06:14:56 GMT</pubDate>
+      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2022/02/Samsung-Galaxu-S22-Ultra-5G-Signal-indicator.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Samsung Galaxy Buds4 Pro and Buds3 Pro will soon work as hearing aids</title>
+      <link>https://nusalensa.com/phones/samsung-galaxy-buds4-pro-and-buds3-pro-will-soon-work-as-hearing-aids</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/samsung-galaxy-buds4-pro-and-buds3-pro-will-soon-work-as-hearing-aids</guid>
+      <description>Back in the summer, Samsung&apos;s Hearing Aid feature for the Galaxy Buds got cleared by the FDA in the US. Today, the company announced that its Hearing Test and H</description>
+      <category>Smartphones</category>
+      <pubDate>Thu, 05 Nov 2026 06:02:02 GMT</pubDate>
+      <enclosure url="https://fdn.gsmarena.com/imgroot/news/26/11/samsung-galaxy-buds3-pro-buds4-pro-hearing-aid-approval-korea/gsmarena_000.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Hackers used Chrome and Snapdragon GPU flaws to hack Android phones</title>
       <link>https://nusalensa.com/phones/hackers-used-chrome-and-snapdragon-gpu-flaws-to-hack-android-phones</link>
@@ -249,33 +276,6 @@
       <category>Smartphones</category>
       <pubDate>Wed, 04 Nov 2026 21:02:02 GMT</pubDate>
       <enclosure url="https://fdn.gsmarena.com/imgroot/news/26/11/google-maps-iphone-duo-support/gsmarena_000.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”</title>
-      <link>https://nusalensa.com/technology/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech</guid>
-      <description>Tech industry in denial as US overwhelmingly votes to restrict AI, data centers.</description>
-      <category>Technology</category>
-      <pubDate>Wed, 04 Nov 2026 20:55:50 GMT</pubDate>
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2302983449-1024x648.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Henry Cavill’s Justice League mustache disaster is now a Googlebook game for charity</title>
-      <link>https://nusalensa.com/phones/henry-cavills-justice-league-mustache-disaster-is-now-a-googlebook-game-for-charity</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/henry-cavills-justice-league-mustache-disaster-is-now-a-googlebook-game-for-charity</guid>
-      <description>&quot;Mustache Protocol&quot; turns Henry Cavill&apos;s infamous CGI shave into a 16-bit Googlebook game.</description>
-      <category>Smartphones</category>
-      <pubDate>Wed, 04 Nov 2026 20:46:06 GMT</pubDate>
-      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/09/Henry-Cavill-Googlebook.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>After Texas&apos; blue wave, what happens to Elon Musk and SpaceX?</title>
-      <link>https://nusalensa.com/technology/after-texas-blue-wave-what-happens-to-elon-musk-and-spacex</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/after-texas-blue-wave-what-happens-to-elon-musk-and-spacex</guid>
-      <description>&quot;Data centers in space looking pretty appealing right now.&quot;</description>
-      <category>Technology</category>
-      <pubDate>Wed, 04 Nov 2026 20:36:05 GMT</pubDate>
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/elon-how-do-you-do-fellow-democrats-1152x648.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>

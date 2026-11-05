@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/oneplus-reveals-exact-android-17-rollout-dates-for-more-phones-and-tablets</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T06:30:56Z</news:publication_date>
+      <news:title>OnePlus reveals exact Android 17 rollout dates for more phones and tablets</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/02/OnePlus-12-scaled.jpg</image:loc>
+      <image:title>OnePlus reveals exact Android 17 rollout dates for more phones and tablets</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/starlink-mobile-finally-has-an-official-rollout-window</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T06:14:56Z</news:publication_date>
+      <news:title>Starlink Mobile finally has an official rollout window</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2022/02/Samsung-Galaxu-S22-Ultra-5G-Signal-indicator.jpg</image:loc>
+      <image:title>Starlink Mobile finally has an official rollout window</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/samsung-galaxy-buds4-pro-and-buds3-pro-will-soon-work-as-hearing-aids</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T06:02:02Z</news:publication_date>
+      <news:title>Samsung Galaxy Buds4 Pro and Buds3 Pro will soon work as hearing aids</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/samsung-galaxy-buds3-pro-buds4-pro-hearing-aid-approval-korea/gsmarena_000.jpg</image:loc>
+      <image:title>Samsung Galaxy Buds4 Pro and Buds3 Pro will soon work as hearing aids</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/hackers-used-chrome-and-snapdragon-gpu-flaws-to-hack-android-phones</loc>
     <news:news>
       <news:publication>
@@ -5025,66 +5070,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/05/t-mobile-logo-android-phone-hero-1-scaled.jpg</image:loc>
       <image:title>T-Mobile&amp;#8217;s fastest internet plan yet comes with a surprising 10-year promise</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/a-major-android-tv-box-maker-just-got-busted-by-google-for-running-a-malware-racket</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T06:53:17Z</news:publication_date>
-      <news:title>A major Android TV box maker just got busted by Google for running a malware racket</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/05/Google-TV-or-Android-TV-UI-on-screen-stock-photo-2.jpg</image:loc>
-      <image:title>A major Android TV box maker just got busted by Google for running a malware racket</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/youtube8217s-latest-8216playables8217-upgrade-fixes-a-major-gaming-problem-on-the-platform</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T06:52:52Z</news:publication_date>
-      <news:title>YouTube&amp;#8217;s latest &amp;#8216;Playables&amp;#8217; upgrade fixes a major gaming problem on the platform</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/03/youtube-logo-google-pixel-10a-1-scaled.jpg</image:loc>
-      <image:title>YouTube&amp;#8217;s latest &amp;#8216;Playables&amp;#8217; upgrade fixes a major gaming problem on the platform</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-end-is-near-for-meta-quest-2-and-quest-pro-but-there8217s-a-silver-lining</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T06:42:44Z</news:publication_date>
-      <news:title>The end is near for Meta Quest 2 and Quest Pro, but there&amp;#8217;s a silver lining</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2021/12/Meta-Quest-2-Desk-Roger-Fingas.jpg</image:loc>
-      <image:title>The end is near for Meta Quest 2 and Quest Pro, but there&amp;#8217;s a silver lining</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/oppo-reno17-and-reno17-pros-specs-colors-and-configurations-leak</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T06:35:02Z</news:publication_date>
-      <news:title>Oppo Reno17 and Reno17 Pro&apos;s specs, colors, and configurations leak</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/oppo-reno17-new-leak/gsmarena_00.jpg</image:loc>
-      <image:title>Oppo Reno17 and Reno17 Pro&apos;s specs, colors, and configurations leak</image:title>
     </image:image>
   </url>
 </urlset>
