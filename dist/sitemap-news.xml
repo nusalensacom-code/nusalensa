@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/redmi-turbo-6-maxs-battery-capacity-leaks-and-its-huge</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T04:31:02Z</news:publication_date>
+      <news:title>Redmi Turbo 6 Max&apos;s battery capacity leaks, and it&apos;s huge</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/redmi-turbo-6-max-battery/gsmarena_000.jpg</image:loc>
+      <image:title>Redmi Turbo 6 Max&apos;s battery capacity leaks, and it&apos;s huge</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/tablets/huaweis-upcoming-sub-brand-gets-an-english-name-first-two-phones-detailed</loc>
     <news:news>
       <news:publication>
@@ -5055,21 +5070,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/02/pixel-home-screen-system-settings-software-updates-shortcuts.jpg</image:loc>
       <image:title>Google confirms Android Family Hub, an iOS-style home for family controls in Settings</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-just-rolled-out-the-android-backup-feature-we8217ve-been-waiting-for-all-year</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T04:33:14Z</news:publication_date>
-      <news:title>Google just rolled out the Android backup feature we&amp;#8217;ve been waiting for all year</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/11/airdrop-quick-share-hero-11-scaled.jpg</image:loc>
-      <image:title>Google just rolled out the Android backup feature we&amp;#8217;ve been waiting for all year</image:title>
     </image:image>
   </url>
 </urlset>
