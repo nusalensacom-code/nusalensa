@@ -3,6 +3,231 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/where-is-windows-12</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T17:00:00Z</news:publication_date>
+      <news:title>Where is Windows 12?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Windows-FY27-CONS-C2-Wallpaper-EverydayProductivity.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Where is Windows 12?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/openai-says-its-new-cybersecurity-model-is-better-at-not-hacking-other-companies</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T17:00:00Z</news:publication_date>
+      <news:title>OpenAI says its new cybersecurity model is better at not hacking other companies</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_D.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>OpenAI says its new cybersecurity model is better at not hacking other companies</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/xbox-overhauls-its-pc-web-and-cloud-apps-with-a-faster-design</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T17:00:00Z</news:publication_date>
+      <news:title>Xbox overhauls its PC, web, and cloud apps with a faster design</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ApplicationFrameHost_463qT9deYw.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Xbox overhauls its PC, web, and cloud apps with a faster design</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/grimes-is-going-to-star-in-an-ai-movie-thats-coming-to-theaters</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T17:00:00Z</news:publication_date>
+      <news:title>Grimes is going to star in an AI movie that’s coming to theaters</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GDGG_Grimes_2.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Grimes is going to star in an AI movie that’s coming to theaters</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/deals-latest-nest-learning-thermostat-up-to-120-off-pixelsnap-cases-hue-bridge-pro-bundle-galaxy-book-750-off-more</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T16:56:00Z</news:publication_date>
+      <news:title>Deals: Latest Nest Learning Thermostat up to $120 off, Pixelsnap cases, Hue Bridge Pro bundle, Galaxy Book $750 off, more</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/9to5Google-Nov-5.webp?w=1600</image:loc>
+      <image:title>Deals: Latest Nest Learning Thermostat up to $120 off, Pixelsnap cases, Hue Bridge Pro bundle, Galaxy Book $750 off, more</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/samsung8217s-next-cheap-phone-will-have-a-much-bigger-battery-than-the-galaxy-s26-ultra</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T16:30:00Z</news:publication_date>
+      <news:title>Samsung&amp;#8217;s next cheap phone will have a much bigger battery than the Galaxy S26 Ultra</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/03/galaxy-s26-ultra-review-15.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Samsung&amp;#8217;s next cheap phone will have a much bigger battery than the Galaxy S26 Ultra</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/tapo-magcam-4k-kit-with-solar-panels-is-140-off-on-amazon</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T16:25:50Z</news:publication_date>
+      <news:title>Tapo MagCam 4K kit with solar panels is $140 off on Amazon</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Tapo-MagCam-4K-Outdoor-Wireless-Security-Camera-Kit-Product-Image.jpg</image:loc>
+      <image:title>Tapo MagCam 4K kit with solar panels is $140 off on Amazon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/amazon-cuts-nothing-ear-by-37-back-to-all-time-low</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T16:15:18Z</news:publication_date>
+      <news:title>Amazon cuts Nothing Ear by 37%, back to all-time low</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/04/nothing-ear-black-2.jpg</image:loc>
+      <image:title>Amazon cuts Nothing Ear by 37%, back to all-time low</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/aawireless-expands-beyond-android-auto-adapters-with-new-cooled-qi2-car-charger-1</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T16:05:54Z</news:publication_date>
+      <news:title>AAWireless expands beyond Android Auto adapters with new cooled Qi2 car charger</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/aawireless-charge-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>AAWireless expands beyond Android Auto adapters with new cooled Qi2 car charger</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/sony-revives-the-walkman8217s-iconic-mdr-3-headphones-with-usb-c-for-60</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T16:00:00Z</news:publication_date>
+      <news:title>Sony revives the Walkman&amp;#8217;s iconic MDR-3 headphones with USB-C for $60</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/sony-mdr-3r-1_c24aeb.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1440</image:loc>
+      <image:title>Sony revives the Walkman&amp;#8217;s iconic MDR-3 headphones with USB-C for $60</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/camp-snap-made-a-smaller-kid-friendly-version-of-its-retro-digital-camcorder</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T16:00:00Z</news:publication_date>
+      <news:title>Camp Snap made a smaller kid-friendly version of its retro digital camcorder</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/campsnap1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Camp Snap made a smaller kid-friendly version of its retro digital camcorder</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/sonys-retro-headphones-brought-me-back-to-my-childhood-in-the-best-way</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T16:00:00Z</news:publication_date>
+      <news:title>Sony’s retro headphones brought me back to my childhood in the best way</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268854_Sony_MDR-3R_JHiggins_0002.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Sony’s retro headphones brought me back to my childhood in the best way</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/youtube-rolling-out-app-redesign-without-subscriptions-tab-and-everyone-hates-it</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T15:35:00Z</news:publication_date>
+      <news:title>YouTube rolling out app redesign without Subscriptions tab, and everyone hates it</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/youtube-app-redesign-subs.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>YouTube rolling out app redesign without Subscriptions tab, and everyone hates it</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/whatsapp-will-let-you-invite-friends-to-events-who-arent-on-the-app</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T15:00:00Z</news:publication_date>
+      <news:title>WhatsApp will let you invite friends to events who aren’t on the app</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/whatsapp-events.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>WhatsApp will let you invite friends to events who aren’t on the app</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-hidden-supply-chain-costs-of-the-ai-boom</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T15:00:00Z</news:publication_date>
+      <news:title>The hidden supply chain costs of the AI boom</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24792604/The_Verge_Decoder_Tileart.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
+      <image:title>The hidden supply chain costs of the AI boom</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/apple-creator-studio-app-updates-rolling-out-starting-with-logic-pro</loc>
     <news:news>
       <news:publication>
@@ -4485,471 +4710,6 @@
     <image:image>
       <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/mecool-malware.jpg</image:loc>
       <image:title>Google dismantles botnet secretly running on 1.3 million Android TV boxes</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/save-110-on-baseus-spacemate-rd1-plus-14-in-1-dock-with-this-code</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T17:00:19Z</news:publication_date>
-      <news:title>Save $110 on Baseus Spacemate RD1 Plus 14-in-1 dock with this code</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Baseus-Spacemate-RD1-Plus-Docking-Station-14-in-1-Press-Image.jpg</image:loc>
-      <image:title>Save $110 on Baseus Spacemate RD1 Plus 14-in-1 dock with this code</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-is-entirely-disabling-search-in-schools-that-don8217t-want-ai</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T17:00:04Z</news:publication_date>
-      <news:title>Google is entirely disabling Search in schools that don&amp;#8217;t want AI</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_GOOGLE_A-1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Google is entirely disabling Search in schools that don&amp;#8217;t want AI</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/windows-11-is-now-up-to-40-percent-faster-on-pcs-with-8gb-of-ram</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T17:00:00Z</news:publication_date>
-      <news:title>Windows 11 is now ‘up to 40 percent faster’ on PCs with 8GB of RAM</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2299110674.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Windows 11 is now ‘up to 40 percent faster’ on PCs with 8GB of RAM</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/xboxs-smallest-ever-controller-is-surprisingly-comfortable</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T17:00:00Z</news:publication_date>
-      <news:title>Xbox’s smallest-ever controller is surprisingly comfortable</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VLS_5915.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Xbox’s smallest-ever controller is surprisingly comfortable</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/bh-photo-launches-early-black-friday-sale-with-discounts-on-macs-and-accessories</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T16:59:21Z</news:publication_date>
-      <news:title>B&amp;H Photo Launches Early Black Friday Sale With Discounts on Macs and Accessories</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/bh-photo-early-black-friday.jpeg</image:loc>
-      <image:title>B&amp;H Photo Launches Early Black Friday Sale With Discounts on Macs and Accessories</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T16:50:32Z</news:publication_date>
-      <news:title>This space company is betting its future on a propellant available everywhere</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/Argonaut-Transit-to-Moon-16x9-1-1152x648.jpg</image:loc>
-      <image:title>This space company is betting its future on a propellant available everywhere</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/deals-pixel-11-up-to-580-off-google-home-speaker-all-time-low-dell-xps-13-200-off-new-fire-tv-stick-58-off-more</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T16:49:55Z</news:publication_date>
-      <news:title>Deals: Pixel 11 up to $580 off, Google Home Speaker all-time low, Dell XPS 13 $200 off, new Fire TV Stick 58% off, more</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/9to5Google-Nov-3.webp?w=1600</image:loc>
-      <image:title>Deals: Pixel 11 up to $580 off, Google Home Speaker all-time low, Dell XPS 13 $200 off, new Fire TV Stick 58% off, more</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iphone-duo-could-take-nearly-30-of-foldable-market-in-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T16:47:34Z</news:publication_date>
-      <news:title>iPhone Duo Could Take Nearly 30% of Foldable Market in 2027</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/iphone-duo-dark.jpg</image:loc>
-      <image:title>iPhone Duo Could Take Nearly 30% of Foldable Market in 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/garmins-compact-venu-3s-smartwatch-is-150-off-on-amazon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T16:42:27Z</news:publication_date>
-      <news:title>Garmin’s compact Venu 3S smartwatch is $150 off on Amazon</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2023/09/Garmin-Vivoactive-5-Venu-3S-Activies-Menu-scaled.jpg</image:loc>
-      <image:title>Garmin’s compact Venu 3S smartwatch is $150 off on Amazon</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/microsoft-authenticator-is-ditching-its-own-password-backup-for-google-one</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T16:35:00Z</news:publication_date>
-      <news:title>Microsoft Authenticator is ditching its own password backup for Google One</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/microsoft-authenticator-android.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Microsoft Authenticator is ditching its own password backup for Google One</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-galaxy-s27-ultras-dummy-unit-surfaces</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T16:21:02Z</news:publication_date>
-      <news:title>Samsung Galaxy S27 Ultra&apos;s dummy unit surfaces</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/samsung-galaxy-s27-ultra-dummy-unit/gsmarena_001.jpg</image:loc>
-      <image:title>Samsung Galaxy S27 Ultra&apos;s dummy unit surfaces</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-confirms-something-was-draining-pixel-watch-batteries-fix-rolling-out</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T16:16:40Z</news:publication_date>
-      <news:title>Google confirms something was draining Pixel Watch batteries, fix rolling out</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-Watch-5-Display-4.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Google confirms something was draining Pixel Watch batteries, fix rolling out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/save-120-on-the-ceramic-midnight-oura-ring-4-in-record-low-deal</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T16:13:45Z</news:publication_date>
-      <news:title>Save $120 on the Ceramic Midnight Oura Ring 4 in record-low deal</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/01/Oura-ring-4-ceramic-ring-scaled.jpg</image:loc>
-      <image:title>Save $120 on the Ceramic Midnight Oura Ring 4 in record-low deal</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/this-tp-link-tri-band-wi-fi-7-router-just-returned-to-its-lowest-ever-price</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T16:10:26Z</news:publication_date>
-      <news:title>This TP-Link Tri-Band Wi-Fi 7 router just returned to its lowest-ever price</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/TP-Link-Tri-Band-BE15000-WiFi-7-Router-Product-Image.jpg</image:loc>
-      <image:title>This TP-Link Tri-Band Wi-Fi 7 router just returned to its lowest-ever price</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T16:03:13Z</news:publication_date>
-      <news:title>UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-1000x648.jpg</image:loc>
-      <image:title>UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-watch-automatically-identifies-songs-playing-around-you</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T16:02:14Z</news:publication_date>
-      <news:title>Apple Watch Automatically Identifies Songs Playing Around You</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/apple-watch-sound-recognition-Shazam-interface.jpg</image:loc>
-      <image:title>Apple Watch Automatically Identifies Songs Playing Around You</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/midterm-elections-2026-all-the-news</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T15:58:39Z</news:publication_date>
-      <news:title>Midterm elections 2026: all the news</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK423_ELECTIONS2.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Midterm elections 2026: all the news</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/best-early-black-friday-mac-deals-save-hundreds-on-macbook-air-mac-mini-and-more</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T15:55:58Z</news:publication_date>
-      <news:title>Best Early Black Friday Mac Deals: Save Hundreds on MacBook Air, Mac Mini, and More</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/macs-black-friday.jpeg</image:loc>
-      <image:title>Best Early Black Friday Mac Deals: Save Hundreds on MacBook Air, Mac Mini, and More</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iphone-18-rumored-to-get-larger-battery-and-potential-price-increase</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T15:50:21Z</news:publication_date>
-      <news:title>iPhone 18 Rumored to Get Larger Battery and Potential Price Increase</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2025/09/iphone-17-models.jpg</image:loc>
-      <image:title>iPhone 18 Rumored to Get Larger Battery and Potential Price Increase</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/trump-wanted-to-give-no-kings-no-air-then-meta-suspended-its-instagram</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T15:39:30Z</news:publication_date>
-      <news:title>Trump wanted to give No Kings no air. Then, Meta suspended its Instagram.</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/zuck-trump-no-kings-1152x648.jpg</image:loc>
-      <image:title>Trump wanted to give No Kings no air. Then, Meta suspended its Instagram.</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-store-in-uk-permanently-closing-later-this-month</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T15:35:09Z</news:publication_date>
-      <news:title>Apple Store in UK Permanently Closing Later This Month</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/Apple-Festival-Place-scaled.jpeg</image:loc>
-      <image:title>Apple Store in UK Permanently Closing Later This Month</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/galaxy-s26-fe-256gb-gets-a-100-amazon-discount</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T15:27:49Z</news:publication_date>
-      <news:title>Galaxy S26 FE 256GB gets a $100 Amazon discount</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Galaxy-S26FE-pistachio.jpg</image:loc>
-      <image:title>Galaxy S26 FE 256GB gets a $100 Amazon discount</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/is-straight-talk-down-for-you-here8217s-what8217s-going-on</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T15:25:52Z</news:publication_date>
-      <news:title>Is Straight Talk down for you? Here&amp;#8217;s what&amp;#8217;s going on</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Straight-Talk-logo-on-phone-2.jpg</image:loc>
-      <image:title>Is Straight Talk down for you? Here&amp;#8217;s what&amp;#8217;s going on</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-is-all-in-on-ai-its-own-and-everyone-else8217s</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T15:24:51Z</news:publication_date>
-      <news:title>Apple is all in on AI — its own and everyone else&amp;#8217;s</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951261/VRG_Illo_N_Barclay_5_apple.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Apple is all in on AI — its own and everyone else&amp;#8217;s</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/sleep-cooler-for-less-sweetnight8217s-coolnest-ultra-gets-early-black-friday-pricing</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T15:18:53Z</news:publication_date>
-      <news:title>Sleep cooler for less: SweetNight&amp;#8217;s CoolNest Ultra gets early Black Friday pricing</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/sweetnight-featured-scaled.jpg</image:loc>
-      <image:title>Sleep cooler for less: SweetNight&amp;#8217;s CoolNest Ultra gets early Black Friday pricing</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/galaxy-z-fold-8-sales-spike-amid-iphone-duo-release-and-8216crackgate8217-debacle</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T15:15:00Z</news:publication_date>
-      <news:title>Galaxy Z Fold 8 sales spike amid iPhone Duo release and &amp;#8216;crackgate&amp;#8217; debacle</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Galaxy-Z-Fold-8-lavender.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Galaxy Z Fold 8 sales spike amid iPhone Duo release and &amp;#8216;crackgate&amp;#8217; debacle</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/gta-vi8217s-download-will-need-up-to-212gb-of-hard-drive-space</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T15:15:00Z</news:publication_date>
-      <news:title>GTA VI&amp;#8217;s download will need up to 212GB of hard drive space</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-27-at-4.13.31-PM.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>GTA VI&amp;#8217;s download will need up to 212GB of hard drive space</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/galaxy-z-fold-9-and-9-ultra-leak-points-to-a-cautious-camera-strategy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T15:13:40Z</news:publication_date>
-      <news:title>Galaxy Z Fold 9 and 9 Ultra leak points to a cautious camera strategy</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/z-fold-8-launch-day-7.jpg</image:loc>
-      <image:title>Galaxy Z Fold 9 and 9 Ultra leak points to a cautious camera strategy</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/realme-17t-design-revealed-in-leaked-live-images</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T15:09:02Z</news:publication_date>
-      <news:title>Realme 17T design revealed in leaked live images</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/realme-17t-design-leak/gsmarena_00.jpg</image:loc>
-      <image:title>Realme 17T design revealed in leaked live images</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-elder-scrolls-vi-officially-has-a-name-sentinel</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T15:07:39Z</news:publication_date>
-      <news:title>The Elder Scrolls VI officially has a name: Sentinel</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chrome_eg3cbwE9Id.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>The Elder Scrolls VI officially has a name: Sentinel</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/openai-is-quietly-renaming-data-centers-compute-campuses</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T15:00:44Z</news:publication_date>
-      <news:title>OpenAI is quietly renaming data centers ‘compute campuses’</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2236733575.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>OpenAI is quietly renaming data centers ‘compute campuses’</image:title>
     </image:image>
   </url>
 </urlset>
