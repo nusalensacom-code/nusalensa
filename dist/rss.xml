@@ -5,8 +5,17 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 05 Nov 2026 02:04:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 03:00:19 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Huawei&apos;s upcoming sub-brand gets an English name, first two phones detailed</title>
+      <link>https://nusalensa.com/tablets/huaweis-upcoming-sub-brand-gets-an-english-name-first-two-phones-detailed</link>
+      <guid isPermaLink="true">https://nusalensa.com/tablets/huaweis-upcoming-sub-brand-gets-an-english-name-first-two-phones-detailed</guid>
+      <description>Last month, a report claimed that Huawei was preparing a new sub-brand called Xingmang, which translates to &quot;Starlight&quot; or &quot;Starburst&quot;. Shortly after, a tipster</description>
+      <category>Tablets</category>
+      <pubDate>Thu, 05 Nov 2026 02:01:01 GMT</pubDate>
+      <enclosure url="https://fdn.gsmarena.com/imgroot/news/26/11/huawei-sub-brand-name/gsmarena_000.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>X says its updated web app is way faster</title>
       <link>https://nusalensa.com/technology/x-says-its-updated-web-app-is-way-faster</link>
@@ -267,15 +276,6 @@
       <category>Smartphones</category>
       <pubDate>Wed, 04 Nov 2026 20:20:29 GMT</pubDate>
       <enclosure url="https://images.macrumors.com/article-new/2026/01/Apple-Logo-Black.jpeg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Android Canary 2611 is out today for Google&amp;#8217;s most adventurous testers</title>
-      <link>https://nusalensa.com/phones/android-canary-2611-is-out-today-for-google8217s-most-adventurous-testers</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/android-canary-2611-is-out-today-for-google8217s-most-adventurous-testers</guid>
-      <description>If you&apos;ve got a Pixel 6a or newer, you can try out Google&apos;s very latest Android tweaks.</description>
-      <category>Smartphones</category>
-      <pubDate>Wed, 04 Nov 2026 20:09:20 GMT</pubDate>
-      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/09/Pixel-11-Pro-XL-with-game-controller-in-background.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>

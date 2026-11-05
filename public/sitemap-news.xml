@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/tablets/huaweis-upcoming-sub-brand-gets-an-english-name-first-two-phones-detailed</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T02:01:01Z</news:publication_date>
+      <news:title>Huawei&apos;s upcoming sub-brand gets an English name, first two phones detailed</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/huawei-sub-brand-name/gsmarena_000.jpg</image:loc>
+      <image:title>Huawei&apos;s upcoming sub-brand gets an English name, first two phones detailed</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/x-says-its-updated-web-app-is-way-faster</loc>
     <news:news>
       <news:publication>
@@ -5085,21 +5100,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/spacex-boost-mobile-talks/gsmarena_000.jpg</image:loc>
       <image:title>Elon Musk&apos;s SpaceX may buy Boost Mobile to make Starlink into a full-fledged carrier</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/galaxy-s27-ultra-goes-head-to-head-with-pixel-11-pro-iphone-18-pro-and-s26-ultra-in-new-leak</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T02:49:21Z</news:publication_date>
-      <news:title>Galaxy S27 Ultra goes head-to-head with Pixel 11 Pro, iPhone 18 Pro, and S26 Ultra in new leak</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Pixel-11-Pro-vs-S27-Ultra.jpeg</image:loc>
-      <image:title>Galaxy S27 Ultra goes head-to-head with Pixel 11 Pro, iPhone 18 Pro, and S26 Ultra in new leak</image:title>
     </image:image>
   </url>
 </urlset>
