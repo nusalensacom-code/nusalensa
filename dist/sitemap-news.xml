@@ -3,6 +3,216 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/perplexity-launches-its-own-take-on-ai-agents-for-work</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T22:26:50Z</news:publication_date>
+      <news:title>Perplexity launches its own take on AI agents for work</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Perplexity launches its own take on AI agents for work</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-arcade-adds-crossy-road-rush-and-nba-2k27</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T22:12:30Z</news:publication_date>
+      <news:title>Apple Arcade Adds Crossy Road Rush and NBA 2K27</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/crossy-road-rush.jpg</image:loc>
+      <image:title>Apple Arcade Adds Crossy Road Rush and NBA 2K27</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/blue-origins-new-glenn-launch-delay-will-continue-into-2027</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T22:10:09Z</news:publication_date>
+      <news:title>Blue Origin&apos;s New Glenn launch delay will continue into 2027</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/blue-origins-new-glenn-launch-delay-will-continue-into-2027/l-intro-1793916473.jpg</image:loc>
+      <image:title>Blue Origin&apos;s New Glenn launch delay will continue into 2027</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/youtube-confirms-your-half-dark-half-light-viewing-experience-is-a-test</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T22:09:53Z</news:publication_date>
+      <news:title>YouTube confirms your half-dark, half-light viewing experience is a test</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2022/04/YouTube-on-smartphone-stock-photo-5.jpg</image:loc>
+      <image:title>YouTube confirms your half-dark, half-light viewing experience is a test</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/samsung-one-ui-95-brings-notable-changes-to-health-and-calendar</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T22:09:37Z</news:publication_date>
+      <news:title>Samsung One UI 9.5 brings notable changes to Health and Calendar</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/03/Samsung-Galaxy-S26-Ultra-showing-One-UI-home-screen.jpg</image:loc>
+      <image:title>Samsung One UI 9.5 brings notable changes to Health and Calendar</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/salon-is-shutting-down-after-31-years</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T22:08:14Z</news:publication_date>
+      <news:title>Salon is shutting down after 31 years</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-05-at-1.59.05-PM.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Salon is shutting down after 31 years</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/samsungs-over-ear-headphones-said-to-be-called-galaxy-studio-design-details-surface</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T22:01:01Z</news:publication_date>
+      <news:title>Samsung&apos;s over-ear headphones said to be called Galaxy Studio, design details surface</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/galaxy-studio-headphones-design-leak/gsmarena_00.jpg</image:loc>
+      <image:title>Samsung&apos;s over-ear headphones said to be called Galaxy Studio, design details surface</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/sony-revives-the-original-walkman-headphones-adds-usb-c</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T21:56:36Z</news:publication_date>
+      <news:title>Sony revives the original Walkman headphones, adds USB-C</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/assets_MS2027641_000001_feature-2-3-D-1152x648.jpg</image:loc>
+      <image:title>Sony revives the original Walkman headphones, adds USB-C</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-midterms-proved-once-and-for-all-that-x-is-not-real-life</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T21:55:00Z</news:publication_date>
+      <news:title>The midterms proved once and for all that X is not real life</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25532395/STK204_JD_VANCE_B.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>The midterms proved once and for all that X is not real life</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple039s-new-homeview-smart-home-hub-here039s-how-much-ram-it-has</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T21:47:48Z</news:publication_date>
+      <news:title>Apple&amp;#039;s New HomeView Smart Home Hub: Here&amp;#039;s How Much RAM It Has</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/homeview_home_screen_feature-1.jpg</image:loc>
+      <image:title>Apple&amp;#039;s New HomeView Smart Home Hub: Here&amp;#039;s How Much RAM It Has</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T21:40:36Z</news:publication_date>
+      <news:title>Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg</image:loc>
+      <image:title>Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T21:39:40Z</news:publication_date>
+      <news:title>Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2240656304-1024x648.jpg</image:loc>
+      <image:title>Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/bose-recalls-s1-pro-battery-packs-due-to-fire-and-overheating-risks</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T21:39:22Z</news:publication_date>
+      <news:title>Bose recalls S1 Pro battery packs due to fire and overheating risks</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/bose-recalls-s1-pro-battery-packs-due-to-fire-and-overheating-risks/l-intro-1793914388.jpg</image:loc>
+      <image:title>Bose recalls S1 Pro battery packs due to fire and overheating risks</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/google-find-hub-rolls-out-notify-when-left-behind-tracker-alerts-on-android</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T21:30:00Z</news:publication_date>
+      <news:title>Google Find Hub rolls out ‘Notify when left behind’ tracker alerts on Android</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/07/find-hub-bluetooth.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Google Find Hub rolls out ‘Notify when left behind’ tracker alerts on Android</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/barnes-038-noble-and-tcl-team-up-for-a-new-tab-a1-nxtpaper</loc>
     <news:news>
       <news:publication>
@@ -60,6 +270,21 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2281421326.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Blue Origin’s next launch now won’t happen until 2027</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/bmw-bumps-battery-for-the-better-the-2027-i7-60-xdrive-driven</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T20:45:50Z</news:publication_date>
+      <news:title>BMW bumps battery for the better: The 2027 i7 60 xDrive, driven</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/BMW_i7_60_xD_Vancouver-Green_023-1152x648.jpg</image:loc>
+      <image:title>BMW bumps battery for the better: The 2027 i7 60 xDrive, driven</image:title>
     </image:image>
   </url>
   <url>
@@ -4620,141 +4845,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK263_CANVA_D.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Canva is announcing changes and layoffs affecting 22 percent of its staff</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/metas-quest-2-and-quest-pro-reach-end-of-feature-development</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T22:43:06Z</news:publication_date>
-      <news:title>Meta&apos;s Quest 2 and Quest Pro reach &apos;end of feature development&apos;</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/metas-quest-2-and-quest-pro-reach-end-of-feature-development/l-intro-1793745475.jpg</image:loc>
-      <image:title>Meta&apos;s Quest 2 and Quest Pro reach &apos;end of feature development&apos;</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T22:39:37Z</news:publication_date>
-      <news:title>California fights &quot;preposterous&quot; Trump admin demand to scrap state broadband laws</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2023/06/getty-fiber-1152x648.jpg</image:loc>
-      <image:title>California fights &quot;preposterous&quot; Trump admin demand to scrap state broadband laws</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/sonos-adds-new-presets-and-prepares-for-the-27voice-ai-beta</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T22:20:50Z</news:publication_date>
-      <news:title>Sonos adds new Presets and prepares for the 27voice AI beta</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25651509/_STK084_SONOS_C.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Sonos adds new Presets and prepares for the 27voice AI beta</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iphone-jailbreak-gets-past-lockdown-mode-and-survives-an-update</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T22:20:33Z</news:publication_date>
-      <news:title>iPhone Jailbreak Gets Past Lockdown Mode and Survives an Update</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2022/07/Lockdown-Mode-Feature.jpg</image:loc>
-      <image:title>iPhone Jailbreak Gets Past Lockdown Mode and Survives an Update</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/casio8217s-cute-digital-ring-watch-just-got-a-successor</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T22:19:44Z</news:publication_date>
-      <news:title>Casio&amp;#8217;s cute digital ring watch just got a successor</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Casio-CRW-002.jpg</image:loc>
-      <image:title>Casio&amp;#8217;s cute digital ring watch just got a successor</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/valve-is-making-changes-to-deal-with-a-significant-increase-in-steam-game-submissions</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T22:15:33Z</news:publication_date>
-      <news:title>Valve is making changes to deal with a ‘significant increase’ in Steam game submissions</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK138_Stream_Kradtke_01.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Valve is making changes to deal with a ‘significant increase’ in Steam game submissions</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/binance-says-hackers-used-fake-job-interviews-and-an-internal-ai-tool-to-pull-off-the-63-billion-heist</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T22:04:02Z</news:publication_date>
-      <news:title>Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23932848/acastro_STK018__02.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iphone-duo-shortages-will-continue-for-the-foreseeable-future-apple-ceo-says</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T22:01:02Z</news:publication_date>
-      <news:title>iPhone Duo shortages will continue for the foreseeable future, Apple CEO says</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/iphone-duo-supply-constraints-ongoing/gsmarena_000.jpg</image:loc>
-      <image:title>iPhone Duo shortages will continue for the foreseeable future, Apple CEO says</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/chrome-could-soon-make-tab-overload-a-lot-easier-to-manage</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T22:00:53Z</news:publication_date>
-      <news:title>Chrome could soon make tab overload a lot easier to manage</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2022/02/Google-Chrome-logo-stock-photo-2.jpg</image:loc>
-      <image:title>Chrome could soon make tab overload a lot easier to manage</image:title>
     </image:image>
   </url>
 </urlset>
