@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/x-says-its-updated-web-app-is-way-faster</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T00:25:12Z</news:publication_date>
+      <news:title>X says its updated web app is way faster</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK160_X_TWITTER_2__A.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>X says its updated web app is way faster</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/apple-releases-safari-technology-preview-256-with-bug-fixes-and-performance-improvements</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T00:21:48Z</news:publication_date>
+      <news:title>Apple Releases Safari Technology Preview 256 With Bug Fixes and Performance Improvements</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2024/07/Safari-Technology-Preview-Updated-Feature-1.jpg</image:loc>
+      <image:title>Apple Releases Safari Technology Preview 256 With Bug Fixes and Performance Improvements</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apps-can-now-try-to-stop-you-from-canceling-subscriptions</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T00:11:27Z</news:publication_date>
+      <news:title>Apps Can Now Try to Stop You From Canceling Subscriptions</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/app-store-subscription-retention.jpg</image:loc>
+      <image:title>Apps Can Now Try to Stop You From Canceling Subscriptions</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/oppos-new-f35-pro-gets-the-coloros-17-update</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T00:02:02Z</news:publication_date>
+      <news:title>Oppo&apos;s new F35 Pro gets the ColorOS 17 update</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/oppo-f35pro-coloros17/gsmarena_000.jpg</image:loc>
+      <image:title>Oppo&apos;s new F35 Pro gets the ColorOS 17 update</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/039super-mario-odyssey039-can-now-run-on-apple-tv-thanks-to-ai</loc>
     <news:news>
       <news:publication>
@@ -30,6 +90,21 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/snap-has-more-than-30-million-paid-subscribers-across-snapchat-and-other-plans/l-intro-1793832812.jpg</image:loc>
       <image:title>Snap has more than 30 million paid subscribers across Snapchat+ and other plans</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/nintendos-biggest-rom-chip-supplier-is-bowing-out-of-the-business</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T22:47:51Z</news:publication_date>
+      <news:title>Nintendo&apos;s biggest ROM chip supplier is bowing out of the business</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/switchcarts-1152x648.jpg</image:loc>
+      <image:title>Nintendo&apos;s biggest ROM chip supplier is bowing out of the business</image:title>
     </image:image>
   </url>
   <url>
@@ -63,6 +138,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/technology/hackers-exploited-ios-and-android-flaws-to-infect-phones</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T22:26:49Z</news:publication_date>
+      <news:title>Hackers exploited iOS and Android flaws to infect phones</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2023/05/malware-1000x648.jpg</image:loc>
+      <image:title>Hackers exploited iOS and Android flaws to infect phones</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/how-039resident-evil039-director-zach-cregger-uses-his-iphone-to-make-movies</loc>
     <news:news>
       <news:publication>
@@ -90,6 +180,21 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Now-Brief-visible-on-Samsung-Galaxy-S26-Ultras-Home-Screen.jpg</image:loc>
       <image:title>Samsung is getting the One UI 9.5 beta ready for the Galaxy S26 series</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/uranium-cubes-reveal-why-the-german-nuclear-project-failed</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T21:56:29Z</news:publication_date>
+      <news:title>Uranium cubes reveal why the German nuclear project failed</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/cube1-1152x648-1793713257.jpg</image:loc>
+      <image:title>Uranium cubes reveal why the German nuclear project failed</image:title>
     </image:image>
   </url>
   <url>
@@ -5040,81 +5145,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/10/android-auto-launcher-home-screen-1.jpg</image:loc>
       <image:title>Google already has a fix rolling out for those Android Auto One UI 9 connectivity problems</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-requiring-developers-to-disclose-location-sharing-and-dating-features-in-apps</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T00:43:57Z</news:publication_date>
-      <news:title>Apple Requiring Developers to Disclose Location Sharing and Dating Features in Apps</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2025/12/Liquid-Glass-App-Store-Feature.jpg</image:loc>
-      <image:title>Apple Requiring Developers to Disclose Location Sharing and Dating Features in Apps</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/is-it-actually-safe-to-charge-your-iphone-at-airport-usb-ports</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T00:30:00Z</news:publication_date>
-      <news:title>Is it actually safe to charge your iPhone at airport USB ports?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/is-it-actually-safe-to-charge-your-iphone-at-airport-usb-ports/l-intro-1791316236.jpg</image:loc>
-      <image:title>Is it actually safe to charge your iPhone at airport USB ports?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple039s-q4-2026-earnings-call-takeaways</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T00:27:08Z</news:publication_date>
-      <news:title>Apple&amp;#039;s Q4 2026 Earnings Call Takeaways</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2022/01/Apple-Logo-Cash-Feature-Blue.jpg</image:loc>
-      <image:title>Apple&amp;#039;s Q4 2026 Earnings Call Takeaways</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-dodges-question-on-more-price-hikes-as-memory-costs-climb</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T00:02:11Z</news:publication_date>
-      <news:title>Apple Dodges Question on More Price Hikes as Memory Costs Climb</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/m6-macbook-pro-blue.jpg</image:loc>
-      <image:title>Apple Dodges Question on More Price Hikes as Memory Costs Climb</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-reason-why-some-iphone-calls-dont-have-a-decline-option-and-others-do</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T00:00:00Z</news:publication_date>
-      <news:title>The reason why some iPhone calls don&apos;t have a decline option, and others do</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/the-reason-why-some-iphone-calls-dont-have-a-decline-option-and-others-do/l-intro-1793218638.jpg</image:loc>
-      <image:title>The reason why some iPhone calls don&apos;t have a decline option, and others do</image:title>
     </image:image>
   </url>
 </urlset>
