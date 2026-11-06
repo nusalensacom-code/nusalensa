@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/google-says-almost-no-one-wants-nfc-in-the-fitbit-edge-but-readers-strongly-disagree</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T18:59:50Z</news:publication_date>
+      <news:title>Google says almost no one wants NFC in the Fitbit Edge but readers strongly disagree</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/fitbit-edge-hands-on-10-scaled.jpg</image:loc>
+      <image:title>Google says almost no one wants NFC in the Fitbit Edge but readers strongly disagree</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-says-more-than-100000-apps-optimized-for-iphone-duo-here039s-what039s-still-missing</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T18:56:35Z</news:publication_date>
+      <news:title>Apple Says More Than 100,000 Apps Optimized for iPhone Duo, Here&amp;#039;s What&amp;#039;s Still Missing</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/iPhone-Duo-Flighty.jpeg</image:loc>
+      <image:title>Apple Says More Than 100,000 Apps Optimized for iPhone Duo, Here&amp;#039;s What&amp;#039;s Still Missing</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/lame-duck-congress-might-actually-do-something-speed-up-energy-projects</loc>
     <news:news>
       <news:publication>
@@ -15,6 +45,36 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268857_cutting_red_tape_to_build_more_powerlines__CVirginia-1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Lame-duck Congress might actually do something: speed up energy projects</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-folks-behind-john-wick-are-back-with-karshi-trailer</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T18:30:19Z</news:publication_date>
+      <news:title>The folks behind John Wick are back with Karōshi trailer</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-12.24.52-PM-1152x648.png</image:loc>
+      <image:title>The folks behind John Wick are back with Karōshi trailer</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/you-know-the-launch-market-is-tough-when-satellite-companies-start-building-rockets</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T18:20:47Z</news:publication_date>
+      <news:title>You know the launch market is tough when satellite companies start building rockets</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/Abel__Jason-1152x648.jpg</image:loc>
+      <image:title>You know the launch market is tough when satellite companies start building rockets</image:title>
     </image:image>
   </url>
   <url>
@@ -90,6 +150,21 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Lenovo-Legion-RGB-Gaming-in-Ear-Headphones-E510-Press-Image.jpg</image:loc>
       <image:title>Lenovo Legion E510 earbuds hit their lowest price this year</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T17:43:02Z</news:publication_date>
+      <news:title>“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1363244761-1152x648.jpg</image:loc>
+      <image:title>“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.</image:title>
     </image:image>
   </url>
   <url>
@@ -4365,156 +4440,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/xbox-is-testing-two-new-cloud-gaming-controller-options/l-intro-1793822568.jpg</image:loc>
       <image:title>Xbox is testing two new controller options for Cloud Gaming</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/mid-week-android-app-deals-and-freebies-poker-ya-joker-despotism-potion-permit-more</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T19:46:32Z</news:publication_date>
-      <news:title>Mid-week Android app deals and freebies: Poker Ya Joker, Despotism, Potion Permit, more</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Play-collage-55388a.webp?w=1600</image:loc>
-      <image:title>Mid-week Android app deals and freebies: Poker Ya Joker, Despotism, Potion Permit, more</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/apple-releases-first-ios-273-developer-beta-heres-whats-new</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T19:44:01Z</news:publication_date>
-      <news:title>Apple releases first iOS 27.3 developer beta, here&apos;s what&apos;s new</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/ios-27-3-beta-released/gsmarena_00.jpg</image:loc>
-      <image:title>Apple releases first iOS 27.3 developer beta, here&apos;s what&apos;s new</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-results-are-in-more-of-you-are-using-premium-gemini-than-we-expected</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T19:40:51Z</news:publication_date>
-      <news:title>The results are in: More of you are using premium Gemini than we expected</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/New-Gemini-app-2026-design-refresh-scaled.jpg</image:loc>
-      <image:title>The results are in: More of you are using premium Gemini than we expected</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-releases-xcode-273-beta-with-three-new-features</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T19:27:15Z</news:publication_date>
-      <news:title>Apple Releases Xcode 27.3 Beta With Three New Features</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/02/macOS-26-Xcode.jpg</image:loc>
-      <image:title>Apple Releases Xcode 27.3 Beta With Three New Features</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/apple-will-check-public-icloud-links-for-harmful-content-starting-in-ios-273</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T19:12:27Z</news:publication_date>
-      <news:title>Apple Will Check Public iCloud Links for Harmful Content Starting in iOS 27.3</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/iCloud-Link-Harmful-Content-Feature-1.jpg</image:loc>
-      <image:title>Apple Will Check Public iCloud Links for Harmful Content Starting in iOS 27.3</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/ted-cruz-aims-to-stack-fcc-with-republicans-before-democrats-take-senate-control</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T19:08:23Z</news:publication_date>
-      <news:title>Ted Cruz aims to stack FCC with Republicans before Democrats take Senate control</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2025/07/ted-cruz-1152x648-1751388273.jpg</image:loc>
-      <image:title>Ted Cruz aims to stack FCC with Republicans before Democrats take Senate control</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/xbox-previews-two-new-ways-to-control-cloud-games</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T19:00:00Z</news:publication_date>
-      <news:title>Xbox previews two new ways to control cloud games</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22478836/acastro_210429_1777_0004.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Xbox previews two new ways to control cloud games</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/googles-pixel-11-phones-are-up-to-27-percent-off</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T19:00:00Z</news:publication_date>
-      <news:title>Google’s Pixel 11 phones are up to 27 percent off</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-review-photos-5.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Google’s Pixel 11 phones are up to 27 percent off</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/cyclists-using-garmin-could-soon-be-safer-with-live-location-sharing-on-waze</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T18:55:58Z</news:publication_date>
-      <news:title>Cyclists using Garmin could soon be safer with live location sharing on Waze</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/02/android-auto-waze-1.jpg</image:loc>
-      <image:title>Cyclists using Garmin could soon be safer with live location sharing on Waze</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/meet-the-20-first-place-apps-from-revenuecats-shipaton-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T18:53:22Z</news:publication_date>
-      <news:title>Meet the 20 first-place apps from RevenueCat’s Shipaton 2026</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/revenuecat-shipaton-2026.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Meet the 20 first-place apps from RevenueCat’s Shipaton 2026</image:title>
     </image:image>
   </url>
 </urlset>
