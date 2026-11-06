@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/google8217s-original-nest-doorbell-is-broken-for-many-right-now</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T23:15:00Z</news:publication_date>
+      <news:title>Google&amp;#8217;s original Nest Doorbell is broken for many right now</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2020/07/google_nest_hello_doorbell_1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Google&amp;#8217;s original Nest Doorbell is broken for many right now</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/china-reportedly-recruited-ai-exec-to-spy-on-jensen-huang</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T23:00:44Z</news:publication_date>
+      <news:title>China reportedly recruited AI exec to spy on Jensen Huang</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>China reportedly recruited AI exec to spy on Jensen Huang</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/starlink-mobile-all-the-news-on-spacex8217s-major-mobile-carrier-ambitions</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T22:45:43Z</news:publication_date>
+      <news:title>Starlink Mobile: All the news on SpaceX&amp;#8217;s major mobile carrier ambitions</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB355_SPACEX_C.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Starlink Mobile: All the news on SpaceX&amp;#8217;s major mobile carrier ambitions</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/android-xr-glasses-officially-get-a-december-release-date-video</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T22:40:00Z</news:publication_date>
+      <news:title>Android XR glasses officially get a December release date [Video]</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/07/samsung-android-xr-glasses-gentle-monster-7.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Android XR glasses officially get a December release date [Video]</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/google-messages-new-pinned-chats-are-dividing-users-and-we-want-your-take</loc>
     <news:news>
       <news:publication>
@@ -4305,66 +4365,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/oppo-f35pro-coloros17/gsmarena_000.jpg</image:loc>
       <image:title>Oppo&apos;s new F35 Pro gets the ColorOS 17 update</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/039super-mario-odyssey039-can-now-run-on-apple-tv-thanks-to-ai</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T23:20:15Z</news:publication_date>
-      <news:title>&amp;#039;Super Mario Odyssey&amp;#039; Can Now Run on Apple TV Thanks to AI</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/super-mario-odyssey-apple-tv.jpg</image:loc>
-      <image:title>&amp;#039;Super Mario Odyssey&amp;#039; Can Now Run on Apple TV Thanks to AI</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/snap-has-more-than-30-million-paid-subscribers-across-snapchat-and-other-plans</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T22:55:57Z</news:publication_date>
-      <news:title>Snap has more than 30 million paid subscribers across Snapchat+ and other plans</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/snap-has-more-than-30-million-paid-subscribers-across-snapchat-and-other-plans/l-intro-1793832812.jpg</image:loc>
-      <image:title>Snap has more than 30 million paid subscribers across Snapchat+ and other plans</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/nintendos-biggest-rom-chip-supplier-is-bowing-out-of-the-business</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T22:47:51Z</news:publication_date>
-      <news:title>Nintendo&apos;s biggest ROM chip supplier is bowing out of the business</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/switchcarts-1152x648.jpg</image:loc>
-      <image:title>Nintendo&apos;s biggest ROM chip supplier is bowing out of the business</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/qualcomm-is-betting-big-on-data-centers-as-smartphone-sales-sink</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T22:42:15Z</news:publication_date>
-      <news:title>Qualcomm is betting big on data centers as smartphone sales sink</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007992/acastro_STK082_qualcomm_02.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Qualcomm is betting big on data centers as smartphone sales sink</image:title>
     </image:image>
   </url>
 </urlset>
