@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/honor-700-series-design-officially-revealed-all-models-to-include-a-rear-display</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T06:00:02Z</news:publication_date>
+      <news:title>Honor 700 series design officially revealed, all models to include a rear display</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/honor-700-pro-s-design-pre-order/gsmarena_00.jpg</image:loc>
+      <image:title>Honor 700 series design officially revealed, all models to include a rear display</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/iqoo-16s-gets-certified-and-its-eerily-familiar</loc>
     <news:news>
       <news:publication>
@@ -4680,66 +4695,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/04/a-remote-held-in-a-hand-with-the-google-tv-interface-on-a-screen-in-the-background.jpg</image:loc>
       <image:title>Something strange is happening with Android TV remotes, and it&amp;#8217;s driving users crazy</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/vivo-x500-fe-and-v80-fe-pick-up-more-certifications</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T07:02:01Z</news:publication_date>
-      <news:title>vivo X500 FE and V80 FE pick up more certifications</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/vivo-x500-fe-v80-fe-certifications/gsmarena_000.jpg</image:loc>
-      <image:title>vivo X500 FE and V80 FE pick up more certifications</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-photos-now-lets-you-stop-memories-from-ruining-the-mood</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T07:01:04Z</news:publication_date>
-      <news:title>Google Photos now lets you stop Memories from ruining the mood</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/google-photos-date-grid-hero-1-scaled.jpg</image:loc>
-      <image:title>Google Photos now lets you stop Memories from ruining the mood</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/latest-sonos-app-update-can-help-you-fix-your-speaker-setup-faster-but-there8217s-a-catch</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T06:47:21Z</news:publication_date>
-      <news:title>Latest Sonos app update can help you fix your speaker setup faster, but there&amp;#8217;s a catch</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2023/03/Sonos-Era-100-smart-speaker-hero.jpg</image:loc>
-      <image:title>Latest Sonos app update can help you fix your speaker setup faster, but there&amp;#8217;s a catch</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/whatsapp-starts-suggesting-your-latest-photos-and-videos-right-in-your-chats</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T06:01:02Z</news:publication_date>
-      <news:title>WhatsApp starts suggesting your latest photos and videos right in your chats</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/whatsapp-media-suggestions/gsmarena_000.jpg</image:loc>
-      <image:title>WhatsApp starts suggesting your latest photos and videos right in your chats</image:title>
     </image:image>
   </url>
 </urlset>
