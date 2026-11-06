@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/google-find-hub-is-catching-up-to-apple-find-my-with-left-behind-alerts</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T09:25:09Z</news:publication_date>
+      <news:title>Google Find Hub is catching up to Apple Find My with left-behind alerts</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/06/Motorola-Moto-Tag-in-hand.jpg</image:loc>
+      <image:title>Google Find Hub is catching up to Apple Find My with left-behind alerts</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/spotify-tests-dedicated-pins-carousel-to-declutter-your-library-on-mobile</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T09:12:59Z</news:publication_date>
+      <news:title>Spotify tests dedicated ‘Pins’ carousel to declutter Your Library on mobile</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/04/Apple-iPhone-16e-running-Spotify-scaled.jpg</image:loc>
+      <image:title>Spotify tests dedicated ‘Pins’ carousel to declutter Your Library on mobile</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/sonys-walkman-era-mdr-3-headphones-are-back-with-usb-c-and-a-60-price-tag</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T08:54:21Z</news:publication_date>
+      <news:title>Sony’s Walkman-era MDR-3 headphones are back with USB-C and a $60 price tag</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/SG_Sony-MDR-3R-USB-C-27-1536x864.jpg.webp</image:loc>
+      <image:title>Sony’s Walkman-era MDR-3 headphones are back with USB-C and a $60 price tag</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-fixes-daylight-saving-time-bug-affecting-nest-and-lenovo-smart-home-devices</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T08:40:57Z</news:publication_date>
+      <news:title>Google fixes daylight saving time bug affecting Nest and Lenovo smart home devices</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/Google-Nest-Hub-vs-Home-Speaker-1-scaled.jpg</image:loc>
+      <image:title>Google fixes daylight saving time bug affecting Nest and Lenovo smart home devices</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/airbnb-is-threatening-to-launch-an-ai-travel-agent-next-year</loc>
     <news:news>
       <news:publication>
@@ -4620,81 +4680,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/iphone-18-pro-max-pixel-11-pro-xl-scaled.jpg</image:loc>
       <image:title>I tested the iPhone 18 Pro’s and Pixel 11 Pro’s photo styles, and there’s a clear winner</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-is-giving-chrome8217s-three-dot-menu-a-much-needed-brain</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T09:07:53Z</news:publication_date>
-      <news:title>Google is giving Chrome&amp;#8217;s three-dot menu a much-needed brain</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/01/google-chrome-vertical-tabs-hero-2-scaled.jpg</image:loc>
-      <image:title>Google is giving Chrome&amp;#8217;s three-dot menu a much-needed brain</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/new-motorola-ones-design-revealed-as-it-gets-qi-certified-geekbench-reveals-key-specs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T09:04:02Z</news:publication_date>
-      <news:title>New Motorola One&apos;s design revealed as it gets Qi certified, Geekbench reveals key specs</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/new-motorola-one-key-specs-wireless-certification/gsmarena_001.jpg</image:loc>
-      <image:title>New Motorola One&apos;s design revealed as it gets Qi certified, Geekbench reveals key specs</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/brace-for-more-foldable-phones-with-this-form-factor-if-readers-get-their-way</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T09:03:16Z</news:publication_date>
-      <news:title>Brace for more foldable phones with this form factor (if readers get their way)</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Samsung-Galaxy-Z-Fold-8-DS-emulation.jpg</image:loc>
-      <image:title>Brace for more foldable phones with this form factor (if readers get their way)</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/binance-attackers-used-fake-job-interviews-to-pull-off-63-billion-crypto-heist</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T08:50:36Z</news:publication_date>
-      <news:title>Binance attackers used fake job interviews to pull off $6.3 billion crypto heist</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/binance-reveals-how-attackers-used-fake-job-interviews-to-launch-6-3-billion-crypto-heist/l-intro-1793781948.jpg</image:loc>
-      <image:title>Binance attackers used fake job interviews to pull off $6.3 billion crypto heist</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/valve-just-changed-its-steam-release-rules-amid-a-flood-of-ai-games</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T08:28:09Z</news:publication_date>
-      <news:title>Valve just changed its Steam release rules amid a flood of AI games</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/valve-just-changed-its-steam-release-rules-amid-a-flood-of-ai-games/l-intro-1793780767.jpg</image:loc>
-      <image:title>Valve just changed its Steam release rules amid a flood of AI games</image:title>
     </image:image>
   </url>
 </urlset>
