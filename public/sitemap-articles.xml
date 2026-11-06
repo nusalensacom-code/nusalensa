@@ -2,6 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/openai-is-stepping-back-from-ndas-for-data-center-projects</loc>
+    <lastmod>2026-11-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>OpenAI is stepping back from NDAs for data center projects</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-surveys-iphone-duo-buyers-about-crease-and-camera</loc>
+    <lastmod>2026-11-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/hero_medium_2x-feature1.jpg</image:loc>
+      <image:title>Apple Surveys iPhone Duo Buyers About Crease and Camera</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/airbnb-is-working-on-an-ai-travel-agent</loc>
+    <lastmod>2026-11-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK090_06.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Airbnb is working on an AI travel agent</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-new-york-times-is-in-talks-to-buy-letterboxd-for-around-330-million</loc>
+    <lastmod>2026-11-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-05-at-3.41.44-PM.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,92.583676239766</image:loc>
+      <image:title>The New York Times is in talks to buy Letterboxd for around $330 million</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/big-googlebook-november-update-rolling-out-with-31-fixes-improvements</loc>
     <lastmod>2026-11-05</lastmod>
     <changefreq>daily</changefreq>
@@ -39,6 +79,26 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/11/Apples-First-Touchscreen-Mac-is-Now-Arriving-to-Customers-Feature.jpg</image:loc>
       <image:title>Apple&amp;#039;s First Touchscreen Mac is Now Arriving to Customers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/meet-sshole-the-vulnerability-that-lets-hackers-ssh-into-linux-devices</loc>
+    <lastmod>2026-11-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2017/05/getty-hacking-1152x648.jpg</image:loc>
+      <image:title>Meet *sshole, the vulnerability that lets hackers SSH into Linux devices</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/nasa-unveils-mysterious-x-70-experimental-aircraft-using-ai-generated-image</loc>
+    <lastmod>2026-11-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/nasa-x-70-image-1152x648.jpeg</image:loc>
+      <image:title>NASA unveils mysterious X-70 experimental aircraft using AI-generated image</image:title>
     </image:image>
   </url>
   <url>

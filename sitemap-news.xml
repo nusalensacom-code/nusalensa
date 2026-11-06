@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/openai-is-stepping-back-from-ndas-for-data-center-projects</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T00:37:56Z</news:publication_date>
+      <news:title>OpenAI is stepping back from NDAs for data center projects</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>OpenAI is stepping back from NDAs for data center projects</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-surveys-iphone-duo-buyers-about-crease-and-camera</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T00:22:52Z</news:publication_date>
+      <news:title>Apple Surveys iPhone Duo Buyers About Crease and Camera</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/hero_medium_2x-feature1.jpg</image:loc>
+      <image:title>Apple Surveys iPhone Duo Buyers About Crease and Camera</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/airbnb-is-working-on-an-ai-travel-agent</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T00:06:12Z</news:publication_date>
+      <news:title>Airbnb is working on an AI travel agent</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK090_06.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Airbnb is working on an AI travel agent</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-new-york-times-is-in-talks-to-buy-letterboxd-for-around-330-million</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T23:45:10Z</news:publication_date>
+      <news:title>The New York Times is in talks to buy Letterboxd for around $330 million</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-05-at-3.41.44-PM.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,92.583676239766</image:loc>
+      <image:title>The New York Times is in talks to buy Letterboxd for around $330 million</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/big-googlebook-november-update-rolling-out-with-31-fixes-improvements</loc>
     <news:news>
       <news:publication>
@@ -60,6 +120,36 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/11/Apples-First-Touchscreen-Mac-is-Now-Arriving-to-Customers-Feature.jpg</image:loc>
       <image:title>Apple&amp;#039;s First Touchscreen Mac is Now Arriving to Customers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/meet-sshole-the-vulnerability-that-lets-hackers-ssh-into-linux-devices</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T23:09:36Z</news:publication_date>
+      <news:title>Meet *sshole, the vulnerability that lets hackers SSH into Linux devices</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2017/05/getty-hacking-1152x648.jpg</image:loc>
+      <image:title>Meet *sshole, the vulnerability that lets hackers SSH into Linux devices</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/nasa-unveils-mysterious-x-70-experimental-aircraft-using-ai-generated-image</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T22:49:03Z</news:publication_date>
+      <news:title>NASA unveils mysterious X-70 experimental aircraft using AI-generated image</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/nasa-x-70-image-1152x648.jpeg</image:loc>
+      <image:title>NASA unveils mysterious X-70 experimental aircraft using AI-generated image</image:title>
     </image:image>
   </url>
   <url>
@@ -4725,66 +4815,6 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/11/safari-vertical-tabs.jpg</image:loc>
       <image:title>Everything New in the iOS 27.3 Beta</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-biggest-modding-site-in-pc-gaming-is-taking-a-stance-on-ai</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T00:42:10Z</news:publication_date>
-      <news:title>The biggest modding site in PC gaming is taking a stance on AI</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>The biggest modding site in PC gaming is taking a stance on AI</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/your-phones-apps-could-have-more-permissions-than-they-need-heres-how-to-check</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T00:30:00Z</news:publication_date>
-      <news:title>Your phone&apos;s apps could have more permissions than they need – here&apos;s how to check</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/your-phones-apps-could-have-more-permissions-than-they-need-heres-how-to-check/l-intro-1793264879.jpg</image:loc>
-      <image:title>Your phone&apos;s apps could have more permissions than they need – here&apos;s how to check</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-music039s-new-selfie-sing-feature-lets-you-record-karaoke-videos</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T00:05:45Z</news:publication_date>
-      <news:title>Apple Music&amp;#039;s New Selfie Sing Feature Lets You Record Karaoke Videos</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/ios-27-3-selfie-sing.jpg</image:loc>
-      <image:title>Apple Music&amp;#039;s New Selfie Sing Feature Lets You Record Karaoke Videos</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/your-desktops-front-usb-ports-may-be-slowing-down-every-device-you-plug-into-them</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T00:00:00Z</news:publication_date>
-      <news:title>Your desktop&apos;s front USB ports may be slowing down every device you plug into them</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/your-desktops-front-usb-ports-may-be-slowing-down-every-device-you-plug-into-them/l-intro-1793642328.jpg</image:loc>
-      <image:title>Your desktop&apos;s front USB ports may be slowing down every device you plug into them</image:title>
     </image:image>
   </url>
 </urlset>
