@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/airbnb-is-threatening-to-launch-an-ai-travel-agent-next-year</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T07:51:42Z</news:publication_date>
+      <news:title>Airbnb is threatening to launch an AI travel agent next year</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/airbnb-is-threatening-to-launch-an-ai-travel-agent-next-year/l-intro-1793951259.jpg</image:loc>
+      <image:title>Airbnb is threatening to launch an AI travel agent next year</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/t-mobile-taps-breaking-bad-star-bryan-cranston-to-sell-you-its-new-t-mix-plans</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T07:43:54Z</news:publication_date>
+      <news:title>T-Mobile taps Breaking Bad star Bryan Cranston to sell you its new T-Mix plans</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/04/T-Mobile-logo-on-smartphone-1.jpg</image:loc>
+      <image:title>T-Mobile taps Breaking Bad star Bryan Cranston to sell you its new T-Mix plans</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/googlebooks-giant-november-update-frees-up-to-6gb-of-ram</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T07:36:01Z</news:publication_date>
+      <news:title>Googlebook’s giant November update frees up to 6GB of RAM</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/ASUS-Googlebook-14-logo-scaled.jpeg</image:loc>
+      <image:title>Googlebook’s giant November update frees up to 6GB of RAM</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/metas-muse-ai-agent-gets-a-voice-chat-mode-with-hundreds-of-voices</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T07:20:07Z</news:publication_date>
+      <news:title>Meta’s Muse AI agent gets a voice chat mode with hundreds of voices</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/meta-muse-ai-voice-conversations-hero-image.jpg</image:loc>
+      <image:title>Meta’s Muse AI agent gets a voice chat mode with hundreds of voices</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/honor-700-series-design-officially-revealed-all-models-to-include-a-rear-display</loc>
     <news:news>
       <news:publication>
@@ -4635,66 +4695,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/valve-just-changed-its-steam-release-rules-amid-a-flood-of-ai-games/l-intro-1793780767.jpg</image:loc>
       <image:title>Valve just changed its Steam release rules amid a flood of AI games</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-galaxy-s27-pro-might-have-a-chip-problem-and-it8217s-not-exynos</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T08:12:17Z</news:publication_date>
-      <news:title>The Galaxy S27 Pro might have a chip problem, and it&amp;#8217;s not Exynos</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/galaxy-s27-cad-render-ah-1.jpg</image:loc>
-      <image:title>The Galaxy S27 Pro might have a chip problem, and it&amp;#8217;s not Exynos</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-watch-series-12-and-ultra-4s-controversial-ai-features-are-going-live</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T08:04:03Z</news:publication_date>
-      <news:title>Apple Watch Series 12 and Ultra 4&apos;s controversial AI features are going live</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/watchos-27-3-beta-live-rewind-siri-recap/gsmarena_000.jpg</image:loc>
-      <image:title>Apple Watch Series 12 and Ultra 4&apos;s controversial AI features are going live</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/this-app-brings-free-internet-radio-to-android-auto-and-it8217s-only-getting-better-by-the-day</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T07:44:42Z</news:publication_date>
-      <news:title>This app brings free internet radio to Android Auto, and it&amp;#8217;s only getting better by the day</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/radioshake-android-auto-internet-radio-app-hero-image-2.jpg</image:loc>
-      <image:title>This app brings free internet radio to Android Auto, and it&amp;#8217;s only getting better by the day</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/something-strange-is-happening-with-android-tv-remotes-and-it8217s-driving-users-crazy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T07:41:17Z</news:publication_date>
-      <news:title>Something strange is happening with Android TV remotes, and it&amp;#8217;s driving users crazy</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/04/a-remote-held-in-a-hand-with-the-google-tv-interface-on-a-screen-in-the-background.jpg</image:loc>
-      <image:title>Something strange is happening with Android TV remotes, and it&amp;#8217;s driving users crazy</image:title>
     </image:image>
   </url>
 </urlset>
