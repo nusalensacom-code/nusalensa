@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/samsung-galaxy-s27-is-headed-to-india-new-certification-reveals</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T03:01:01Z</news:publication_date>
+      <news:title>Samsung Galaxy S27 is headed to India, new certification reveals</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/samsung-galaxy-s27-bis-certified/gsmarena_000.jpg</image:loc>
+      <image:title>Samsung Galaxy S27 is headed to India, new certification reveals</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/heres-when-samsungs-android-xr-glasses-finally-go-up-for-pre-order</loc>
     <news:news>
       <news:publication>
@@ -4740,21 +4755,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/google-messages-logo-pixel-11-pro-close-scaled.jpg</image:loc>
       <image:title>Google Messages&amp;#8217; pinned chats UI makeover is finally landing for users</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/exclusive-youtube-is-cooking-up-something-new-called-8216tamba8217-and-it-looks-pretty-social</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T03:37:06Z</news:publication_date>
-      <news:title>Exclusive: YouTube is cooking up something new called &amp;#8216;Tamba,&amp;#8217; and it looks pretty social</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/02/YouTube-TV-logo-on-smartphone-stock-photo-5.jpg</image:loc>
-      <image:title>Exclusive: YouTube is cooking up something new called &amp;#8216;Tamba,&amp;#8217; and it looks pretty social</image:title>
     </image:image>
   </url>
 </urlset>
