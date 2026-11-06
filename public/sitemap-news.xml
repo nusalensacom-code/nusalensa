@@ -3,6 +3,96 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/samsung-health-bug-leaves-users-with-missing-step-history</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T20:37:20Z</news:publication_date>
+      <news:title>Samsung Health bug leaves users with missing step history</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2023/09/Samsung-Health-Home-scaled.jpg</image:loc>
+      <image:title>Samsung Health bug leaves users with missing step history</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/some-nest-doorbells-have-stopped-showing-the-live-video-feed</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T20:04:09Z</news:publication_date>
+      <news:title>Some Nest doorbells have stopped showing the live video feed</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/03/google-nest-doorbell-scaled.jpg</image:loc>
+      <image:title>Some Nest doorbells have stopped showing the live video feed</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/control-the-glowing-apple-logo-on-your-new-macbook-pro</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T20:03:09Z</news:publication_date>
+      <news:title>Control the Glowing Apple Logo on Your New MacBook Pro</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/macbook-apple-logo.jpg</image:loc>
+      <image:title>Control the Glowing Apple Logo on Your New MacBook Pro</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/all-the-latest-updates-on-ai-data-centers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T20:02:22Z</news:publication_date>
+      <news:title>All the latest updates on AI data centers</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>All the latest updates on AI data centers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-health-512-rolling-out-with-manual-blood-pressure-038-pregnancy-logging-more</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T20:01:43Z</news:publication_date>
+      <news:title>Google Health 5.12 rolling out with manual blood pressure &amp;#038; pregnancy logging, more</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/fitbit-edge-google-health-app.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Google Health 5.12 rolling out with manual blood pressure &amp;#038; pregnancy logging, more</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/shures-popular-podcasting-and-streaming-mic-is-almost-50-off</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T19:47:02Z</news:publication_date>
+      <news:title>Shure’s popular podcasting and streaming mic is almost $50 off</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/shure-mv7-plus-breakout.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Shure’s popular podcasting and streaming mic is almost $50 off</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/google-says-almost-no-one-wants-nfc-in-the-fitbit-edge-but-readers-strongly-disagree</loc>
     <news:news>
       <news:publication>
@@ -4350,96 +4440,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Henry-Cavill-Googlebook.jpg</image:loc>
       <image:title>Henry Cavill’s Justice League mustache disaster is now a Googlebook game for charity</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/after-texas-blue-wave-what-happens-to-elon-musk-and-spacex</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T20:36:05Z</news:publication_date>
-      <news:title>After Texas&apos; blue wave, what happens to Elon Musk and SpaceX?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/elon-how-do-you-do-fellow-democrats-1152x648.jpg</image:loc>
-      <image:title>After Texas&apos; blue wave, what happens to Elon Musk and SpaceX?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/pangram-expands-its-ai-detection-tools-to-video-and-images</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T20:28:18Z</news:publication_date>
-      <news:title>Pangram expands its AI detection tools to video and images</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/pangram-expands-its-ai-detection-tools-to-video-and-images/l-intro-1793824046.jpg</image:loc>
-      <image:title>Pangram expands its AI detection tools to video and images</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/gemini-for-home-now-plugs-into-at038ts-smart-security-system</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T20:23:24Z</news:publication_date>
-      <news:title>Gemini for Home now plugs into AT&amp;#038;T’s smart security system</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/att-connected-life.webp?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Gemini for Home now plugs into AT&amp;#038;T’s smart security system</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-is-putting-employees-on-an-ai-budget</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T20:20:29Z</news:publication_date>
-      <news:title>Apple is Putting Employees on an AI Budget</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/01/Apple-Logo-Black.jpeg</image:loc>
-      <image:title>Apple is Putting Employees on an AI Budget</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/android-canary-2611-is-out-today-for-google8217s-most-adventurous-testers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T20:09:20Z</news:publication_date>
-      <news:title>Android Canary 2611 is out today for Google&amp;#8217;s most adventurous testers</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Pixel-11-Pro-XL-with-game-controller-in-background.jpg</image:loc>
-      <image:title>Android Canary 2611 is out today for Google&amp;#8217;s most adventurous testers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/xbox-is-testing-two-new-controller-options-for-cloud-gaming</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T20:04:21Z</news:publication_date>
-      <news:title>Xbox is testing two new controller options for Cloud Gaming</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/xbox-is-testing-two-new-cloud-gaming-controller-options/l-intro-1793822568.jpg</image:loc>
-      <image:title>Xbox is testing two new controller options for Cloud Gaming</image:title>
     </image:image>
   </url>
 </urlset>
