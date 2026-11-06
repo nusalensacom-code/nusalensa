@@ -5,8 +5,17 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 06 Nov 2026 04:55:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 05:57:20 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>iQOO 16s gets certified and it&apos;s eerily familiar</title>
+      <link>https://nusalensa.com/phones/iqoo-16s-gets-certified-and-its-eerily-familiar</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/iqoo-16s-gets-certified-and-its-eerily-familiar</guid>
+      <description>The upcoming iQOO 16R received its first certification in Indonesia last month, and today it showed up in another database, but with a twist. Malaysia&apos;s SIRIM c</description>
+      <category>Smartphones</category>
+      <pubDate>Fri, 06 Nov 2026 05:02:02 GMT</pubDate>
+      <enclosure url="https://fdn.gsmarena.com/imgroot/news/26/11/iqoo-16s-certified/gsmarena_000.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Samsung Galaxy S27 is headed to India, new certification reveals</title>
       <link>https://nusalensa.com/phones/samsung-galaxy-s27-is-headed-to-india-new-certification-reveals</link>
@@ -267,15 +276,6 @@
       <category>Reviews</category>
       <pubDate>Thu, 05 Nov 2026 21:30:00 GMT</pubDate>
       <enclosure url="https://9to5google.com/wp-content/uploads/sites/4/2026/07/find-hub-bluetooth.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Barnes &amp;#038; Noble and TCL team up for a new Tab A1 NXTPAPER</title>
-      <link>https://nusalensa.com/phones/barnes-038-noble-and-tcl-team-up-for-a-new-tab-a1-nxtpaper</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/barnes-038-noble-and-tcl-team-up-for-a-new-tab-a1-nxtpaper</guid>
-      <description>A new variant of the TCL Tab A1 NXTPAPER is up for pre-order.</description>
-      <category>Smartphones</category>
-      <pubDate>Thu, 05 Nov 2026 21:28:43 GMT</pubDate>
-      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/11/Barnes-and-Noble-TCL-Tab-A1-NXTPAPER.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
