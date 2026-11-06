@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/this-googlebook-omission-is-a-deal-breaker-for-me</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T10:30:45Z</news:publication_date>
+      <news:title>This Googlebook omission is a deal-breaker for me</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Dell-XPS-Googlebook-open-with-create-my-widget-scaled.jpeg</image:loc>
+      <image:title>This Googlebook omission is a deal-breaker for me</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/boxshelf-is-a-new-android-front-end-that-turns-your-roms-into-a-virtual-collection</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T10:28:16Z</news:publication_date>
+      <news:title>Boxshelf is a new Android front-end that turns your ROMs into a virtual collection</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Boxshelf-on-Ayaneo-handheld-scaled-e1793958861211-500w-260h.jpg</image:loc>
+      <image:title>Boxshelf is a new Android front-end that turns your ROMs into a virtual collection</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-new-york-times-company-is-reportedly-trying-to-buy-letterboxd-for-330-million</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T10:17:23Z</news:publication_date>
+      <news:title>The New York Times Company is reportedly trying to buy Letterboxd for $330 million</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/the-new-york-times-company-is-reportedly-trying-to-buy-letterboxd-for-330-million/l-intro-1793960053.jpg</image:loc>
+      <image:title>The New York Times Company is reportedly trying to buy Letterboxd for $330 million</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/4-reasons-why-i8217d-recommend-a-foldable-and-4-reasons-why-i-wouldn8217t</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T10:00:09Z</news:publication_date>
+      <news:title>4 reasons why I&amp;#8217;d recommend a foldable (and 4 reasons why I wouldn&amp;#8217;t)</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/samsung-galaxy-z-fold-8-ultra-review-3-scaled.jpg</image:loc>
+      <image:title>4 reasons why I&amp;#8217;d recommend a foldable (and 4 reasons why I wouldn&amp;#8217;t)</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/google-find-hub-is-catching-up-to-apple-find-my-with-left-behind-alerts</loc>
     <news:news>
       <news:publication>
@@ -4620,66 +4680,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/NS2_TheLegendofZeldaOcarinaofTime_scrn_02.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>The Legend of Zelda: Ocarina of Time never gets old</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/don8217t-want-google-using-your-gmail-or-photos-info-for-ads-here8217s-how-to-stop-it</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T10:30:05Z</news:publication_date>
-      <news:title>Don&amp;#8217;t want Google using your Gmail or Photos info for ads? Here&amp;#8217;s how to stop it</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Phone-on-a-table-showing-Connected-connect-apps-menu-scaled.jpg</image:loc>
-      <image:title>Don&amp;#8217;t want Google using your Gmail or Photos info for ads? Here&amp;#8217;s how to stop it</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/this-treadmill-owner-used-claude-to-escape-a-subscription-trap-and-it8217s-glorious</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T10:20:57Z</news:publication_date>
-      <news:title>This treadmill owner used Claude to escape a subscription trap, and it&amp;#8217;s glorious</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/Claude-ChatGPT-Gemini-logos-scaled.jpg</image:loc>
-      <image:title>This treadmill owner used Claude to escape a subscription trap, and it&amp;#8217;s glorious</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iphone-18-is-getting-two-major-upgrades-but-also-another-price-hike</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T10:09:02Z</news:publication_date>
-      <news:title>iPhone 18 is getting two major upgrades, but also another price hike</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/09/iphone-17-16-17e-air-price-hike/gsmarena_00.jpg</image:loc>
-      <image:title>iPhone 18 is getting two major upgrades, but also another price hike</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/i-tested-the-iphone-18-pros-and-pixel-11-pros-photo-styles-and-theres-a-clear-winner</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T10:00:38Z</news:publication_date>
-      <news:title>I tested the iPhone 18 Pro’s and Pixel 11 Pro’s photo styles, and there’s a clear winner</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/iphone-18-pro-max-pixel-11-pro-xl-scaled.jpg</image:loc>
-      <image:title>I tested the iPhone 18 Pro’s and Pixel 11 Pro’s photo styles, and there’s a clear winner</image:title>
     </image:image>
   </url>
 </urlset>
