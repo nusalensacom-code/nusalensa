@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/google-messages-new-pinned-chats-are-dividing-users-and-we-want-your-take</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T22:27:43Z</news:publication_date>
+      <news:title>Google Messages’ new pinned chats are dividing users, and we want your take</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/google-messages-pinned-chats.jpg</image:loc>
+      <image:title>Google Messages’ new pinned chats are dividing users, and we want your take</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/pixelated-124-is-it-time-for-a-nest-hub-comeback</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T22:00:00Z</news:publication_date>
+      <news:title>Pixelated 124: Is it time for a Nest Hub comeback?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2024/03/Pixelated-cover.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Pixelated 124: Is it time for a Nest Hub comeback?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-health-app-512-update-revamps-glucose-blood-pressure-and-resilience-tracking</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T21:50:40Z</news:publication_date>
+      <news:title>Google Health app 5.12 update revamps glucose, blood pressure, and resilience tracking</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/Google-Health-app-scaled.jpg</image:loc>
+      <image:title>Google Health app 5.12 update revamps glucose, blood pressure, and resilience tracking</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/microsofts-2026-surface-laptop-gets-a-450-amazon-discount</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T21:38:51Z</news:publication_date>
+      <news:title>Microsoft’s 2026 Surface Laptop gets a $450 Amazon discount</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/microsoft-surface-laptop-2026-featured.jpg</image:loc>
+      <image:title>Microsoft’s 2026 Surface Laptop gets a $450 Amazon discount</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/gentle-monster-teases-samsung-android-xr-glasses-with-some-help-from-joaquin-phoenix</loc>
     <news:news>
       <news:publication>
@@ -4305,111 +4365,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007992/acastro_STK082_qualcomm_02.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Qualcomm is betting big on data centers as smartphone sales sink</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/xiaomi-tipped-to-be-working-on-a-wide-screen-candybar-smartphone</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T22:32:02Z</news:publication_date>
-      <news:title>Xiaomi tipped to be working on a wide-screen candybar smartphone</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/xiaomi-wide-screen-candybar-phone-rumor/gsmarena_00.jpg</image:loc>
-      <image:title>Xiaomi tipped to be working on a wide-screen candybar smartphone</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/hackers-exploited-ios-and-android-flaws-to-infect-phones</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T22:26:49Z</news:publication_date>
-      <news:title>Hackers exploited iOS and Android flaws to infect phones</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2023/05/malware-1000x648.jpg</image:loc>
-      <image:title>Hackers exploited iOS and Android flaws to infect phones</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/how-039resident-evil039-director-zach-cregger-uses-his-iphone-to-make-movies</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T22:11:00Z</news:publication_date>
-      <news:title>How &amp;#039;Resident Evil&amp;#039; Director Zach Cregger Uses His iPhone to Make Movies</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/resident-evil-apple-tv.jpg</image:loc>
-      <image:title>How &amp;#039;Resident Evil&amp;#039; Director Zach Cregger Uses His iPhone to Make Movies</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-is-getting-the-one-ui-95-beta-ready-for-the-galaxy-s26-series</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T21:58:04Z</news:publication_date>
-      <news:title>Samsung is getting the One UI 9.5 beta ready for the Galaxy S26 series</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Now-Brief-visible-on-Samsung-Galaxy-S26-Ultras-Home-Screen.jpg</image:loc>
-      <image:title>Samsung is getting the One UI 9.5 beta ready for the Galaxy S26 series</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/uranium-cubes-reveal-why-the-german-nuclear-project-failed</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T21:56:29Z</news:publication_date>
-      <news:title>Uranium cubes reveal why the German nuclear project failed</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/cube1-1152x648-1793713257.jpg</image:loc>
-      <image:title>Uranium cubes reveal why the German nuclear project failed</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/homepod-mini-2039s-amount-of-ram-confirmed</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T21:50:54Z</news:publication_date>
-      <news:title>HomePod Mini 2&amp;#039;s Amount of RAM Confirmed</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/homepod-mini-2-feature2.jpg</image:loc>
-      <image:title>HomePod Mini 2&amp;#039;s Amount of RAM Confirmed</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/17-better-ways-elon-musk-could-have-wasted-446-million</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T21:45:00Z</news:publication_date>
-      <news:title>17 better ways Elon Musk could have wasted $446 million</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268859_How_the_tech_right_could_have_spent_all_the_money_they_burned_on_the_midterms_CVirginia.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>17 better ways Elon Musk could have wasted $446 million</image:title>
     </image:image>
   </url>
 </urlset>
