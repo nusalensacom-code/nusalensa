@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/heres-when-samsungs-android-xr-glasses-finally-go-up-for-pre-order</loc>
+    <lastmod>2026-11-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/samsung-android-xr-glasses-pre-order-start-day/gsmarena_000.jpg</image:loc>
+      <image:title>Here&apos;s when Samsung&apos;s Android XR glasses finally go up for pre-order</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/openai-is-stepping-back-from-ndas-for-data-center-projects</loc>
     <lastmod>2026-11-06</lastmod>
     <changefreq>daily</changefreq>
@@ -19,6 +29,16 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/10/hero_medium_2x-feature1.jpg</image:loc>
       <image:title>Apple Surveys iPhone Duo Buyers About Crease and Camera</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/blue-origin-says-it-is-building-a-higher-performing-rocket-engine-at-14-the-cost</loc>
+    <lastmod>2026-11-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/News_BlueOrigin-Northstar-Engine-1152x648.webp</image:loc>
+      <image:title>Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost</image:title>
     </image:image>
   </url>
   <url>
