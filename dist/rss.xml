@@ -5,8 +5,62 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 06 Nov 2026 17:49:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 18:50:44 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lame-duck Congress might actually do something: speed up energy projects</title>
+      <link>https://nusalensa.com/technology/lame-duck-congress-might-actually-do-something-speed-up-energy-projects</link>
+      <guid isPermaLink="true">https://nusalensa.com/technology/lame-duck-congress-might-actually-do-something-speed-up-energy-projects</guid>
+      <description>A massive permitting bill that could help energy projects come online much quicker and potentially lower utility bills for Americans is advancing with bipartisa</description>
+      <category>Technology</category>
+      <pubDate>Fri, 06 Nov 2026 18:42:30 GMT</pubDate>
+      <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268857_cutting_red_tape_to_build_more_powerlines__CVirginia-1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Discord is about to get way, way faster on your Android phone</title>
+      <link>https://nusalensa.com/phones/discord-is-about-to-get-way-way-faster-on-your-android-phone</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/discord-is-about-to-get-way-way-faster-on-your-android-phone</guid>
+      <description>A new Discord client built in Rust is looking pretty shiny and clean, even on low-end Android phones. more…</description>
+      <category>Smartphones</category>
+      <pubDate>Fri, 06 Nov 2026 18:13:09 GMT</pubDate>
+      <enclosure url="https://9to5google.com/wp-content/uploads/sites/4/2026/11/discord-redmagic-12-pro.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Meta&amp;#8217;s Muse AI can create custom &amp;#8216;spaces&amp;#8217; for the version of the app you need right now</title>
+      <link>https://nusalensa.com/technology/meta8217s-muse-ai-can-create-custom-8216spaces8217-for-the-version-of-the-app-you-need-right-now</link>
+      <guid isPermaLink="true">https://nusalensa.com/technology/meta8217s-muse-ai-can-create-custom-8216spaces8217-for-the-version-of-the-app-you-need-right-now</guid>
+      <description>Meta will now allow you to build customized, app-like experiences within its Muse AI assistant. The new feature, called &quot;spaces,&quot; allows Muse to build things li</description>
+      <category>Technology</category>
+      <pubDate>Fri, 06 Nov 2026 18:10:10 GMT</pubDate>
+      <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png?quality=90&amp;#038;strip=all&amp;#038;crop=8.0752843063528,0,91.924715693647,74.471659887186" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Google is bringing iOS-style Settings icons to Chrome for Android</title>
+      <link>https://nusalensa.com/phones/google-is-bringing-ios-style-settings-icons-to-chrome-for-android</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/google-is-bringing-ios-style-settings-icons-to-chrome-for-android</guid>
+      <description>The UI makeover is taking shape in Canary.</description>
+      <category>Smartphones</category>
+      <pubDate>Fri, 06 Nov 2026 18:07:34 GMT</pubDate>
+      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/11/Chrome-on-android-settings-redesign-2.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Amazon is now making a Melania Trump TV series</title>
+      <link>https://nusalensa.com/technology/amazon-is-now-making-a-melania-trump-tv-series</link>
+      <guid isPermaLink="true">https://nusalensa.com/technology/amazon-is-now-making-a-melania-trump-tv-series</guid>
+      <description>Following the Melania documentary movie that premiered earlier this year, Amazon is now planning to release a two-part Prime Video series focusing on the first </description>
+      <category>Technology</category>
+      <pubDate>Fri, 06 Nov 2026 17:56:58 GMT</pubDate>
+      <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2303179993.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Lenovo Legion E510 earbuds hit their lowest price this year</title>
+      <link>https://nusalensa.com/phones/lenovo-legion-e510-earbuds-hit-their-lowest-price-this-year</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/lenovo-legion-e510-earbuds-hit-their-lowest-price-this-year</guid>
+      <description>Lenovo Legion E510 gaming earbuds drop to $48.99 on Amazon, their lowest price this year with USB-C and 7.1 surround sound.</description>
+      <category>Smartphones</category>
+      <pubDate>Fri, 06 Nov 2026 17:45:48 GMT</pubDate>
+      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/11/Lenovo-Legion-RGB-Gaming-in-Ear-Headphones-E510-Press-Image.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Just about anyone can rent access to White House IP addresses</title>
       <link>https://nusalensa.com/phones/just-about-anyone-can-rent-access-to-white-house-ip-addresses</link>
@@ -222,60 +276,6 @@
       <category>Smartphones</category>
       <pubDate>Fri, 06 Nov 2026 15:19:02 GMT</pubDate>
       <enclosure url="https://www.androidauthority.com/wp-content/uploads/2024/10/Sony-WH-1000XM5-headphones-laying-flat-on-wooden-table.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>4 fresh AI apps and tools worth trying this week, including an Arc Browser replacement</title>
-      <link>https://nusalensa.com/phones/4-fresh-ai-apps-and-tools-worth-trying-this-week-including-an-arc-browser-replacement</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/4-fresh-ai-apps-and-tools-worth-trying-this-week-including-an-arc-browser-replacement</guid>
-      <description>A vibecoded mapping tool, a file-sending service, and a useful screenshot utility for Android also feature.</description>
-      <category>Smartphones</category>
-      <pubDate>Fri, 06 Nov 2026 15:15:27 GMT</pubDate>
-      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/11/tao-browser-ai-tool-1.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Apple has a secret list of banned autocomplete phrases including ‘dictator Trump’ and ‘covid is a hoax’</title>
-      <link>https://nusalensa.com/technology/apple-has-a-secret-list-of-banned-autocomplete-phrases-including-dictator-trump-and-covid-is-a-hoax</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/apple-has-a-secret-list-of-banned-autocomplete-phrases-including-dictator-trump-and-covid-is-a-hoax</guid>
-      <description>A researcher found over 100,000 words and phrases in &quot;every major language&quot; that are blocked from autocomplete and swipe-type in iOS, Reuters reports. The resea</description>
-      <category>Technology</category>
-      <pubDate>Fri, 06 Nov 2026 15:10:28 GMT</pubDate>
-      <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/DSC_2327.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>A Stranger Things prequel series is coming to Netflix in 2028</title>
-      <link>https://nusalensa.com/technology/a-stranger-things-prequel-series-is-coming-to-netflix-in-2028</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/a-stranger-things-prequel-series-is-coming-to-netflix-in-2028</guid>
-      <description>Other Worlds: A Stranger Things Adventure takes place in Nevada in the 1950s.</description>
-      <category>Technology</category>
-      <pubDate>Fri, 06 Nov 2026 15:09:52 GMT</pubDate>
-      <enclosure url="https://www.engadget.com/img/gallery/a-stranger-things-prequel-series-is-coming-to-netflix-in-2028/l-intro-1793977602.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Big Google Antigravity update brings Remote Agents, Voice Mode, and redesign</title>
-      <link>https://nusalensa.com/phones/big-google-antigravity-update-brings-remote-agents-voice-mode-and-redesign</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/big-google-antigravity-update-brings-remote-agents-voice-mode-and-redesign</guid>
-      <description>Google is rolling out a big update to Antigravity this week that features a new design, Voice Mode, and Remote Agents. more…</description>
-      <category>Smartphones</category>
-      <pubDate>Fri, 06 Nov 2026 15:01:00 GMT</pubDate>
-      <enclosure url="https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Antigravity-redesign-cover.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Fox bought Roku</title>
-      <link>https://nusalensa.com/technology/fox-bought-roku</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/fox-bought-roku</guid>
-      <description>Fox has officially closed its $22 billion acquisition of Roku, the companies announced on Friday. With Roku under its umbrella, Fox now controls a major streami</description>
-      <category>Technology</category>
-      <pubDate>Fri, 06 Nov 2026 15:00:56 GMT</pubDate>
-      <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STK284_AParkin_2.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>The Verge’s 2026 holiday gift guide</title>
-      <link>https://nusalensa.com/technology/the-verges-2026-holiday-gift-guide</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/the-verges-2026-holiday-gift-guide</guid>
-      <description>Gift-giving isn&apos;t just about grabbing something solid under a determined spending limit. It&apos;s an expression of love, a way to show someone how well you really k</description>
-      <category>Technology</category>
-      <pubDate>Fri, 06 Nov 2026 15:00:00 GMT</pubDate>
-      <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_MAIN_STILL0_09b4c3.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
