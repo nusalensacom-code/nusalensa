@@ -33,6 +33,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/technology/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T23:09:45Z</news:publication_date>
+      <news:title>Man unexpectedly recovers from a knife wound through his eye and brain</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/bmjcr-2026-November-19-11-F2.large_-1152x648-1794006532.jpg</image:loc>
+      <image:title>Man unexpectedly recovers from a knife wound through his eye and brain</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/china-reportedly-recruited-ai-exec-to-spy-on-jensen-huang</loc>
     <news:news>
       <news:publication>
@@ -63,6 +78,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/technology/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T22:41:37Z</news:publication_date>
+      <news:title>Ships loiter near subsea cables amid Iran&apos;s warnings to Trump</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/Iranian-oil-tanker-and-flag-1152x648.jpg</image:loc>
+      <image:title>Ships loiter near subsea cables amid Iran&apos;s warnings to Trump</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/android-xr-glasses-officially-get-a-december-release-date-video</loc>
     <news:news>
       <news:publication>
@@ -90,6 +120,21 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/google-messages-pinned-chats.jpg</image:loc>
       <image:title>Google Messages’ new pinned chats are dividing users, and we want your take</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/re-releases-of-wing-commander-ultima-titles-hit-steam-and-gog</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T22:08:47Z</news:publication_date>
+      <news:title>Re-releases of Wing Commander, Ultima titles hit Steam and GOG</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/EACOM-News-EA_Classics_Feature_Article_16x9-Screenshot_09.avif</image:loc>
+      <image:title>Re-releases of Wing Commander, Ultima titles hit Steam and GOG</image:title>
     </image:image>
   </url>
   <url>
@@ -4320,51 +4365,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/huawei-sub-brand-name/gsmarena_000.jpg</image:loc>
       <image:title>Huawei&apos;s upcoming sub-brand gets an English name, first two phones detailed</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/x-says-its-updated-web-app-is-way-faster</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T00:25:12Z</news:publication_date>
-      <news:title>X says its updated web app is way faster</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK160_X_TWITTER_2__A.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>X says its updated web app is way faster</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/apple-releases-safari-technology-preview-256-with-bug-fixes-and-performance-improvements</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T00:21:48Z</news:publication_date>
-      <news:title>Apple Releases Safari Technology Preview 256 With Bug Fixes and Performance Improvements</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2024/07/Safari-Technology-Preview-Updated-Feature-1.jpg</image:loc>
-      <image:title>Apple Releases Safari Technology Preview 256 With Bug Fixes and Performance Improvements</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apps-can-now-try-to-stop-you-from-canceling-subscriptions</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T00:11:27Z</news:publication_date>
-      <news:title>Apps Can Now Try to Stop You From Canceling Subscriptions</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/app-store-subscription-retention.jpg</image:loc>
-      <image:title>Apps Can Now Try to Stop You From Canceling Subscriptions</image:title>
     </image:image>
   </url>
 </urlset>
