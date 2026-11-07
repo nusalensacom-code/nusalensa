@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/ai-broke-the-cybersecurity-world-whats-next</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T15:00:00Z</news:publication_date>
+      <news:title>AI broke the cybersecurity world. What’s next?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_110726.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>AI broke the cybersecurity world. What’s next?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/good-riddance-cybertruck</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T14:40:06Z</news:publication_date>
+      <news:title>Good riddance, Cybertruck!</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/yI0AMBlStYQ-HD.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Good riddance, Cybertruck!</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/early-apple-black-friday-deals-on-apple-watch-macbook-air-and-more</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T14:28:23Z</news:publication_date>
+      <news:title>Early Apple Black Friday Deals on Apple Watch, MacBook Air, and More</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/Black-Friday-Deals-26-9.jpg</image:loc>
+      <image:title>Early Apple Black Friday Deals on Apple Watch, MacBook Air, and More</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/top-stories-apple-product-launches-ios-273-beta-and-more</loc>
     <news:news>
       <news:publication>
@@ -3540,111 +3585,6 @@
     <image:image>
       <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/youtube-app-redesign-subs.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
       <image:title>YouTube rolling out app redesign without Subscriptions tab, and everyone hates it</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/honor-700-series-chipset-details-leak</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T15:11:02Z</news:publication_date>
-      <news:title>Honor 700 series chipset details leak</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/honor-700-pro-chipsets-leak/gsmarena_000.jpg</image:loc>
-      <image:title>Honor 700 series chipset details leak</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/gboard-beta-hints-at-a-smarter-rambler-that-learns-your-words-and-contact-names</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T15:00:06Z</news:publication_date>
-      <news:title>Gboard beta hints at a smarter Rambler that learns your words and contact names</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-gboard-rambler-scaled.jpg</image:loc>
-      <image:title>Gboard beta hints at a smarter Rambler that learns your words and contact names</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/whatsapp-will-let-you-invite-friends-to-events-who-arent-on-the-app</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T15:00:00Z</news:publication_date>
-      <news:title>WhatsApp will let you invite friends to events who aren’t on the app</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/whatsapp-events.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>WhatsApp will let you invite friends to events who aren’t on the app</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-hidden-supply-chain-costs-of-the-ai-boom</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T15:00:00Z</news:publication_date>
-      <news:title>The hidden supply chain costs of the AI boom</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24792604/The_Verge_Decoder_Tileart.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100</image:loc>
-      <image:title>The hidden supply chain costs of the AI boom</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-creator-studio-app-updates-rolling-out-starting-with-logic-pro</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T14:57:46Z</news:publication_date>
-      <news:title>Apple Creator Studio App Updates Rolling Out, Starting With Logic Pro</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/01/Apple-Creator-Studio.jpg</image:loc>
-      <image:title>Apple Creator Studio App Updates Rolling Out, Starting With Logic Pro</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/rare-deal-slashes-302-off-tcls-75-inch-qm6k-gaming-tv</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T14:52:23Z</news:publication_date>
-      <news:title>Rare deal slashes $302 off TCL’s 75-inch QM6K gaming TV</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/TCL-75-Inch-QM6K-Series-QLED-Mini-LED-4K-HDR-Smart-Google-TV-Product-Image.jpg</image:loc>
-      <image:title>Rare deal slashes $302 off TCL’s 75-inch QM6K gaming TV</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/amazon-cuts-asus-rog-tessen-to-6499-its-lowest-price-ever</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T14:36:15Z</news:publication_date>
-      <news:title>Amazon cuts ASUS ROG Tessen to $64.99, its lowest price ever</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/11/ASUS-ROG-Phone-9-Pro-ROG-Tessen-in-hand.jpg</image:loc>
-      <image:title>Amazon cuts ASUS ROG Tessen to $64.99, its lowest price ever</image:title>
     </image:image>
   </url>
 </urlset>
