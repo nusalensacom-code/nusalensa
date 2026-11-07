@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/discogs-kevin-lewandowski-cant-live-without-his-aeropress</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T16:00:00Z</news:publication_date>
+      <news:title>Discogs’ Kevin Lewandowski can’t live without his AeroPress</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/2023-12-7-Discogs-Kevin-1-Warm.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Discogs’ Kevin Lewandowski can’t live without his AeroPress</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/costco-members-can-get-5-off-the-reimagined-ocarina-of-time</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T16:00:00Z</news:publication_date>
+      <news:title>Costco members can get $5 off the reimagined Ocarina of Time</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Ocarina-of-Time-Press-Image.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Costco members can get $5 off the reimagined Ocarina of Time</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/nyt-cookings-ai-assistant-saved-my-weeknight-chicken-but-almost-ruined-my-cake</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T15:50:00Z</news:publication_date>
+      <news:title>NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268844_NY_Times_Cooking_App_JTuohy_0006.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-us-let-nvidia-sell-chips-to-an-empty-office-in-china</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T15:43:45Z</news:publication_date>
+      <news:title>The US let Nvidia sell chips to an empty office in China</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>The US let Nvidia sell chips to an empty office in China</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/ai-broke-the-cybersecurity-world-whats-next</loc>
     <news:news>
       <news:publication>
@@ -3465,126 +3525,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/Oura-Ring-5-Sensors-scaled.jpg</image:loc>
       <image:title>Oura Ring 5 gets its first real Amazon discount</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/aawireless-expands-beyond-android-auto-adapters-with-new-cooled-qi2-car-charger-1</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T16:05:54Z</news:publication_date>
-      <news:title>AAWireless expands beyond Android Auto adapters with new cooled Qi2 car charger</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/aawireless-charge-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>AAWireless expands beyond Android Auto adapters with new cooled Qi2 car charger</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/sony-revives-the-walkman8217s-iconic-mdr-3-headphones-with-usb-c-for-60</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T16:00:00Z</news:publication_date>
-      <news:title>Sony revives the Walkman&amp;#8217;s iconic MDR-3 headphones with USB-C for $60</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/sony-mdr-3r-1_c24aeb.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1440</image:loc>
-      <image:title>Sony revives the Walkman&amp;#8217;s iconic MDR-3 headphones with USB-C for $60</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/camp-snap-made-a-smaller-kid-friendly-version-of-its-retro-digital-camcorder</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T16:00:00Z</news:publication_date>
-      <news:title>Camp Snap made a smaller kid-friendly version of its retro digital camcorder</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/campsnap1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Camp Snap made a smaller kid-friendly version of its retro digital camcorder</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/sonys-retro-headphones-brought-me-back-to-my-childhood-in-the-best-way</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T16:00:00Z</news:publication_date>
-      <news:title>Sony’s retro headphones brought me back to my childhood in the best way</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268854_Sony_MDR-3R_JHiggins_0002.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Sony’s retro headphones brought me back to my childhood in the best way</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/statehouse-wins-give-democrats-new-power-to-push-clean-energy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T15:59:51Z</news:publication_date>
-      <news:title>Statehouse wins give Democrats new power to push clean energy</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1487351817-1152x648.jpg</image:loc>
-      <image:title>Statehouse wins give Democrats new power to push clean energy</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/best-early-black-friday-deals-on-iphone-18-pro-and-iphone-duo</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T15:56:42Z</news:publication_date>
-      <news:title>Best Early Black Friday Deals on iPhone 18 Pro and iPhone Duo</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/iphone-early-black-friday.jpeg</image:loc>
-      <image:title>Best Early Black Friday Deals on iPhone 18 Pro and iPhone Duo</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/resy-is-suffering-a-partial-outage-right-now</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T15:51:15Z</news:publication_date>
-      <news:title>Resy is suffering a partial outage right now</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Resy-restuarant.jpg</image:loc>
-      <image:title>Resy is suffering a partial outage right now</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/youtube-rolling-out-app-redesign-without-subscriptions-tab-and-everyone-hates-it</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T15:35:00Z</news:publication_date>
-      <news:title>YouTube rolling out app redesign without Subscriptions tab, and everyone hates it</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/youtube-app-redesign-subs.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>YouTube rolling out app redesign without Subscriptions tab, and everyone hates it</image:title>
     </image:image>
   </url>
 </urlset>
