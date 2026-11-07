@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/the-uv-tracking-gem-made-me-rethink-how-sunlight-affects-my-health-not-just-my-appearance</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T17:00:00Z</news:publication_date>
+      <news:title>The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268829_The90_Gem_SVasani_0002.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/discogs-kevin-lewandowski-cant-live-without-his-aeropress</loc>
     <news:news>
       <news:publication>
@@ -3315,216 +3330,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2277873855.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>The FAA is finally ditching floppy disks</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/prevent-siri-and-search-from-accessing-specific-iphone-apps</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T17:10:37Z</news:publication_date>
-      <news:title>Prevent Siri and Search From Accessing Specific iPhone Apps</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/Siri-AI-Icon.jpeg</image:loc>
-      <image:title>Prevent Siri and Search From Accessing Specific iPhone Apps</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/android-auto8217s-latest-gemini-failing-keeps-asking-8216who-do-you-want-to-call8217</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T17:05:00Z</news:publication_date>
-      <news:title>Android Auto&amp;#8217;s latest Gemini failing keeps asking &amp;#8216;who do you want to call&amp;#8217;</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-Personal-Intelligence-Android-Auto.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Android Auto&amp;#8217;s latest Gemini failing keeps asking &amp;#8216;who do you want to call&amp;#8217;</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/where-is-windows-12</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T17:00:00Z</news:publication_date>
-      <news:title>Where is Windows 12?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Windows-FY27-CONS-C2-Wallpaper-EverydayProductivity.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Where is Windows 12?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/openai-says-its-new-cybersecurity-model-is-better-at-not-hacking-other-companies</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T17:00:00Z</news:publication_date>
-      <news:title>OpenAI says its new cybersecurity model is better at not hacking other companies</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_D.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>OpenAI says its new cybersecurity model is better at not hacking other companies</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/xbox-overhauls-its-pc-web-and-cloud-apps-with-a-faster-design</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T17:00:00Z</news:publication_date>
-      <news:title>Xbox overhauls its PC, web, and cloud apps with a faster design</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ApplicationFrameHost_463qT9deYw.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Xbox overhauls its PC, web, and cloud apps with a faster design</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/grimes-is-going-to-star-in-an-ai-movie-thats-coming-to-theaters</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T17:00:00Z</news:publication_date>
-      <news:title>Grimes is going to star in an AI movie that’s coming to theaters</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GDGG_Grimes_2.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Grimes is going to star in an AI movie that’s coming to theaters</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/deals-latest-nest-learning-thermostat-up-to-120-off-pixelsnap-cases-hue-bridge-pro-bundle-galaxy-book-750-off-more</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T16:56:00Z</news:publication_date>
-      <news:title>Deals: Latest Nest Learning Thermostat up to $120 off, Pixelsnap cases, Hue Bridge Pro bundle, Galaxy Book $750 off, more</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/9to5Google-Nov-5.webp?w=1600</image:loc>
-      <image:title>Deals: Latest Nest Learning Thermostat up to $120 off, Pixelsnap cases, Hue Bridge Pro bundle, Galaxy Book $750 off, more</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung8217s-next-cheap-phone-will-have-a-much-bigger-battery-than-the-galaxy-s26-ultra</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T16:30:00Z</news:publication_date>
-      <news:title>Samsung&amp;#8217;s next cheap phone will have a much bigger battery than the Galaxy S26 Ultra</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/03/galaxy-s26-ultra-review-15.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Samsung&amp;#8217;s next cheap phone will have a much bigger battery than the Galaxy S26 Ultra</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/qualcomm-will-help-spacex-build-starlink-mobiles-nationwide-us-5g-network</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T16:27:02Z</news:publication_date>
-      <news:title>Qualcomm will help SpaceX build Starlink Mobile&apos;s nationwide US 5G network</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/qualcomm-starlink-partnership/gsmarena_000.jpg</image:loc>
-      <image:title>Qualcomm will help SpaceX build Starlink Mobile&apos;s nationwide US 5G network</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/tapo-magcam-4k-kit-with-solar-panels-is-140-off-on-amazon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T16:25:50Z</news:publication_date>
-      <news:title>Tapo MagCam 4K kit with solar panels is $140 off on Amazon</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Tapo-MagCam-4K-Outdoor-Wireless-Security-Camera-Kit-Product-Image.jpg</image:loc>
-      <image:title>Tapo MagCam 4K kit with solar panels is $140 off on Amazon</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/macbook-pro-proled-xdr-reviews-are-in-is-the-touchscreen-worth-it</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T16:20:40Z</news:publication_date>
-      <news:title>MacBook Pro PROLED XDR Reviews Are In: Is the Touchscreen Worth It?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/MacBook-Pro-PROLED-Touch-1.jpg</image:loc>
-      <image:title>MacBook Pro PROLED XDR Reviews Are In: Is the Touchscreen Worth It?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/amazon-cuts-nothing-ear-by-37-back-to-all-time-low</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T16:15:18Z</news:publication_date>
-      <news:title>Amazon cuts Nothing Ear by 37%, back to all-time low</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/04/nothing-ear-black-2.jpg</image:loc>
-      <image:title>Amazon cuts Nothing Ear by 37%, back to all-time low</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/early-black-friday-accessory-deals-at-amazon-include-tvs-headphones-and-charging-devices</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T16:14:06Z</news:publication_date>
-      <news:title>Early Black Friday Accessory Deals at Amazon Include TVs, Headphones, and Charging Devices</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/Black-Friday-Deals-26-2.jpg</image:loc>
-      <image:title>Early Black Friday Accessory Deals at Amazon Include TVs, Headphones, and Charging Devices</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/oura-ring-5-gets-its-first-real-amazon-discount</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T16:12:20Z</news:publication_date>
-      <news:title>Oura Ring 5 gets its first real Amazon discount</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/Oura-Ring-5-Sensors-scaled.jpg</image:loc>
-      <image:title>Oura Ring 5 gets its first real Amazon discount</image:title>
     </image:image>
   </url>
 </urlset>
