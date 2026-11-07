@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/openai-valued-at-125-trillion-as-rival-anthropic-nears-its-ipo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T23:46:18Z</news:publication_date>
+      <news:title>OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK155_OPEN_AI_CVirginia_2_A.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/google8217s-original-nest-doorbell-is-broken-for-many-right-now</loc>
     <news:news>
       <news:publication>
@@ -4350,21 +4365,6 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/11/app-store-subscription-retention.jpg</image:loc>
       <image:title>Apps Can Now Try to Stop You From Canceling Subscriptions</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/oppos-new-f35-pro-gets-the-coloros-17-update</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T00:02:02Z</news:publication_date>
-      <news:title>Oppo&apos;s new F35 Pro gets the ColorOS 17 update</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/oppo-f35pro-coloros17/gsmarena_000.jpg</image:loc>
-      <image:title>Oppo&apos;s new F35 Pro gets the ColorOS 17 update</image:title>
     </image:image>
   </url>
 </urlset>
