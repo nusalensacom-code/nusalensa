@@ -468,6 +468,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/top-stories-apple-product-launches-ios-273-beta-and-more</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/top-stories-2026-11-07.jpg</image:loc>
+      <image:title>Top Stories: Apple Product Launches, iOS 27.3 Beta, and More</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/zelda-is-back-and-better-than-ever</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Installer-151.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Zelda is back and better than ever</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/oppo-reportedly-cancels-find-x10-ultra-thanks-to-ramageddon</loc>
     <lastmod>2026-11-07</lastmod>
     <changefreq>daily</changefreq>
