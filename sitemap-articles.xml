@@ -2,6 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/the-airpods-5-blew-me-away-but-android-users-should-beware</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Apple-AirPods-5-with-Pixel-10-4-scaled.jpeg</image:loc>
+      <image:title>The AirPods 5 blew me away, but Android users should beware</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/galaxy-phones-have-a-better-document-scanner-now-and-it-just-saved-me-a-ton-of-hassle</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/samsungs-updated-document-scanner-is-impressive-4.jpg</image:loc>
+      <image:title>Galaxy phones have a better document scanner now, and it just saved me a ton of hassle</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/openai-valued-at-125-trillion-as-rival-anthropic-nears-its-ipo</loc>
     <lastmod>2026-11-07</lastmod>
     <changefreq>daily</changefreq>

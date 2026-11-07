@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/the-airpods-5-blew-me-away-but-android-users-should-beware</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T10:30:10Z</news:publication_date>
+      <news:title>The AirPods 5 blew me away, but Android users should beware</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Apple-AirPods-5-with-Pixel-10-4-scaled.jpeg</image:loc>
+      <image:title>The AirPods 5 blew me away, but Android users should beware</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/galaxy-phones-have-a-better-document-scanner-now-and-it-just-saved-me-a-ton-of-hassle</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T10:00:17Z</news:publication_date>
+      <news:title>Galaxy phones have a better document scanner now, and it just saved me a ton of hassle</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/samsungs-updated-document-scanner-is-impressive-4.jpg</image:loc>
+      <image:title>Galaxy phones have a better document scanner now, and it just saved me a ton of hassle</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/openai-valued-at-125-trillion-as-rival-anthropic-nears-its-ipo</loc>
     <news:news>
       <news:publication>
@@ -3975,96 +4005,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/switch-2-sales-fell-by-almost-40-percent-after-nintendo-increased-prices/l-intro-1793875392.jpg</image:loc>
       <image:title>Switch 2 sales fell by almost 40 percent after Nintendo increased prices</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/got-an-iphone-duo-on-launch-day-tomorrow-could-be-your-last-chance-to-return-it</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T10:32:51Z</news:publication_date>
-      <news:title>Got an iPhone Duo on Launch Day? Tomorrow Could Be Your Last Chance to Return It</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/09/iphone-duo-colors.jpg</image:loc>
-      <image:title>Got an iPhone Duo on Launch Day? Tomorrow Could Be Your Last Chance to Return It</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/reading-on-your-phone-is-a-trap-but-this-200-boox-is-my-escape-hatch</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T10:30:08Z</news:publication_date>
-      <news:title>Reading on your phone is a trap, but this $200 BOOX is my escape hatch</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/boox-go-6-sunlights-scaled.jpg</image:loc>
-      <image:title>Reading on your phone is a trap, but this $200 BOOX is my escape hatch</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/vivo-x500-series-and-watch-gt-2-teased-in-india</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T10:21:02Z</news:publication_date>
-      <news:title>vivo X500 series and Watch GT 2 teased in India</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/vivo-x500-series-watch-gt-2-india-launch-teaser/gsmarena_001.jpg</image:loc>
-      <image:title>vivo X500 series and Watch GT 2 teased in India</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/youtube-is-giving-its-android-navigation-bar-a-liquid-glass-y-makeover</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T10:01:19Z</news:publication_date>
-      <news:title>YouTube is giving its Android navigation bar a Liquid Glass-y makeover</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/YouTube-feed-on-iPhone.jpg</image:loc>
-      <image:title>YouTube is giving its Android navigation bar a Liquid Glass-y makeover</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-play-could-finally-catch-up-to-apple-and-steam-with-this-long-missing-store-feature</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T10:00:51Z</news:publication_date>
-      <news:title>Google Play could finally catch up to Apple and Steam with this long-missing store feature</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2023/09/Google-Play-Store-app-next-to-other-Google-Apps-stock-photo.jpg</image:loc>
-      <image:title>Google Play could finally catch up to Apple and Steam with this long-missing store feature</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/nostalgia-this-phone-spoke-to-me-like-no-other</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T10:00:42Z</news:publication_date>
-      <news:title>Nostalgia: This phone spoke to me like no other</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/05/Nokia-Lumia-1020-back-in-hand.jpg</image:loc>
-      <image:title>Nostalgia: This phone spoke to me like no other</image:title>
     </image:image>
   </url>
 </urlset>
