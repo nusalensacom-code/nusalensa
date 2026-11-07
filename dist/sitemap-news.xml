@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/5-bluetooth-trackers-you-should-buy-instead-of-the-samsung-smarttag-3</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T11:30:20Z</news:publication_date>
+      <news:title>5 Bluetooth trackers you should buy instead of the Samsung SmartTag 3</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/smarttag-3-2.jpg</image:loc>
+      <image:title>5 Bluetooth trackers you should buy instead of the Samsung SmartTag 3</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/i-like-google-health8217s-biggest-features-of-2026-but-i-don8217t-trust-them</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T11:00:26Z</news:publication_date>
+      <news:title>I like Google Health&amp;#8217;s biggest features of 2026, but I don&amp;#8217;t trust them</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/google-health-splash-screen-scaled.jpg</image:loc>
+      <image:title>I like Google Health&amp;#8217;s biggest features of 2026, but I don&amp;#8217;t trust them</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/the-airpods-5-blew-me-away-but-android-users-should-beware</loc>
     <news:news>
       <news:publication>
@@ -3885,126 +3915,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK062_01.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Discord is ditching Electron and its new app uses less RAM</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/i-love-big-si-c-batteries-but-slow-charging-is-a-steep-price-to-pay</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T11:30:46Z</news:publication_date>
-      <news:title>I love big Si-C batteries, but slow charging is a steep price to pay</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/02/30W-USB-C-charging-dongle.jpg</image:loc>
-      <image:title>I love big Si-C batteries, but slow charging is a steep price to pay</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/oppo-reno17-series-officially-confirmed-to-arrive-in-a-few-days</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T11:23:02Z</news:publication_date>
-      <news:title>Oppo Reno17 series officially confirmed to arrive in a few days</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/oppo-reno17-series-india/gsmarena_000.jpg</image:loc>
-      <image:title>Oppo Reno17 series officially confirmed to arrive in a few days</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/playstation-and-spider-man-performance-see-sony-profits-surge</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T11:00:15Z</news:publication_date>
-      <news:title>Playstation and Spider-Man performance see Sony profits surge</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/spider-man-brand-new-day.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Playstation and Spider-Man performance see Sony profits surge</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/i-downloaded-the-first-third-party-app-store-from-google-play-and-i8217m-hopeful-for-what8217s-next</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T11:00:11Z</news:publication_date>
-      <news:title>I downloaded the first third-party app store from Google Play, and I&amp;#8217;m hopeful for what&amp;#8217;s next</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/aptoidegames2-scaled.jpeg</image:loc>
-      <image:title>I downloaded the first third-party app store from Google Play, and I&amp;#8217;m hopeful for what&amp;#8217;s next</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/amazon-teams-with-uber-eats-for-new-prime-perks</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T11:00:00Z</news:publication_date>
-      <news:title>Amazon teams with Uber Eats for new Prime perks</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/amazon-teams-with-uber-eats-for-new-prime-perks/l-intro-1793825798.jpg</image:loc>
-      <image:title>Amazon teams with Uber Eats for new Prime perks</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/amazon-is-getting-back-into-restaurant-delivery-with-uber-eats-team-up</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T11:00:00Z</news:publication_date>
-      <news:title>Amazon is getting back into restaurant delivery with Uber Eats team-up</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19218417/acastro_190920_1777_amazon_0001.0.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Amazon is getting back into restaurant delivery with Uber Eats team-up</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/big-techs-big-ai-buildout-will-not-end-until-someone-stops-it</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T10:45:00Z</news:publication_date>
-      <news:title>Big Tech’s big AI buildout will not end until someone stops it</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Big Tech’s big AI buildout will not end until someone stops it</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/switch-2-sales-fell-by-almost-40-percent-after-nintendo-increased-prices</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T10:44:43Z</news:publication_date>
-      <news:title>Switch 2 sales fell by almost 40 percent after Nintendo increased prices</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/switch-2-sales-fell-by-almost-40-percent-after-nintendo-increased-prices/l-intro-1793875392.jpg</image:loc>
-      <image:title>Switch 2 sales fell by almost 40 percent after Nintendo increased prices</image:title>
     </image:image>
   </url>
 </urlset>
