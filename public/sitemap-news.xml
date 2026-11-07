@@ -4232,34 +4232,4 @@
       <image:title>Sony Xperia 10 VII and Xperia 10 VIII receive Android 17 update</image:title>
     </image:image>
   </url>
-  <url>
-    <loc>https://nusalensa.com/phones/heres-when-the-huawei-mate-80-air-is-rumored-to-launch</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T07:18:02Z</news:publication_date>
-      <news:title>Here&apos;s when the Huawei Mate 80 Air is rumored to launch</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/huawei-mate-80-air-rumor/gsmarena_000.jpg</image:loc>
-      <image:title>Here&apos;s when the Huawei Mate 80 Air is rumored to launch</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/xbox-cloud-gaming-now-lets-your-phone-double-as-a-controller-on-smart-tvs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T07:07:13Z</news:publication_date>
-      <news:title>Xbox Cloud Gaming now lets your phone double as a controller on smart TVs</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2020/11/xbox-logo-series-x-scaled.jpeg</image:loc>
-      <image:title>Xbox Cloud Gaming now lets your phone double as a controller on smart TVs</image:title>
-    </image:image>
-  </url>
 </urlset>
