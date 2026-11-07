@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/oppo-reportedly-cancels-find-x10-ultra-thanks-to-ramageddon</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T12:30:00Z</news:publication_date>
+      <news:title>Oppo reportedly cancels Find X10 Ultra thanks to RAMageddon</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/05/oppo-find-x9-ultra-review-17.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Oppo reportedly cancels Find X10 Ultra thanks to RAMageddon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/why-a-new-report-on-anthropic-automating-ai-development-is-alarming-researchers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T12:30:00Z</news:publication_date>
+      <news:title>Why a new report on Anthropic automating AI development is alarming researchers</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2280291125.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Why a new report on Anthropic automating AI development is alarming researchers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-bantu-expansion-changed-africa-scientists-are-still-tracing-how</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T12:15:55Z</news:publication_date>
+      <news:title>The Bantu expansion changed Africa. Scientists are still tracing how.</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/great-zimbabwe-1152x648.jpg</image:loc>
+      <image:title>The Bantu expansion changed Africa. Scientists are still tracing how.</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/these-5-productivity-apps-youve-never-heard-of-deserve-a-spot-on-your-phone</loc>
     <news:news>
       <news:publication>
@@ -30,6 +75,21 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/smarttag-3-2.jpg</image:loc>
       <image:title>5 Bluetooth trackers you should buy instead of the Samsung SmartTag 3</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T11:00:34Z</news:publication_date>
+      <news:title>British soldier ignored order to pull his SIM card, then got blackmailed</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2290156853-1024x648.jpg</image:loc>
+      <image:title>British soldier ignored order to pull his SIM card, then got blackmailed</image:title>
     </image:image>
   </url>
   <url>
@@ -3645,216 +3705,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/MON09105-edit.jpeg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>The touchscreen MacBook Pro is a winner</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/motorola-signature-27-gets-pixel8217s-gemini-intelligence-features-with-rambler-create-my-widget</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T13:15:00Z</news:publication_date>
-      <news:title>Motorola Signature 27 gets Pixel&amp;#8217;s Gemini Intelligence features with Rambler, Create My Widget</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-signature-27-lifestyle-2-copy.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Motorola Signature 27 gets Pixel&amp;#8217;s Gemini Intelligence features with Rambler, Create My Widget</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/moto-buds-ultra-27-and-watch-fit-27-help-complete-the-company8217s-new-premium-ecosystem</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T13:05:00Z</news:publication_date>
-      <news:title>Moto Buds Ultra 27 and Watch Fit 27 help complete the company&amp;#8217;s new premium ecosystem</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/moto-buds-ultra-27-ecosystem-official.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Moto Buds Ultra 27 and Watch Fit 27 help complete the company&amp;#8217;s new premium ecosystem</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/motorola-signature-27-is-now-fully-official-with-a-7000-mah-battery-and-a-dedicated-action-sensor</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T13:04:02Z</news:publication_date>
-      <news:title>Motorola Signature 27 is now fully official with a 7,000 mAh battery and a dedicated action sensor</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/motorola-signature-27-official/gsmarena_010.jpg</image:loc>
-      <image:title>Motorola Signature 27 is now fully official with a 7,000 mAh battery and a dedicated action sensor</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/motorolas-new-signature-27-has-it-all-if-you-can-stomach-the-1600-price-tag</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T13:00:56Z</news:publication_date>
-      <news:title>Motorola&apos;s new Signature 27 has it all if you can stomach the $1,600 price tag</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/signature27-1-1152x648.jpg</image:loc>
-      <image:title>Motorola&apos;s new Signature 27 has it all if you can stomach the $1,600 price tag</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/motorola-signature-27-brings-a-7000mah-battery-and-seven-years-of-android-updates-for-1600</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T13:00:41Z</news:publication_date>
-      <news:title>Motorola Signature 27 brings a 7,000mAh battery and seven years of Android updates for $1,600</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Motorola-Signature-27-design.jpg</image:loc>
-      <image:title>Motorola Signature 27 brings a 7,000mAh battery and seven years of Android updates for $1,600</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/motorola-signature-27-goes-official-with-true-flagship-specs-and-a-1599-price-tag</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T13:00:00Z</news:publication_date>
-      <news:title>Motorola Signature 27 goes official with true flagship specs and a $1,599 price tag</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-signature-27-1-copy.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Motorola Signature 27 goes official with true flagship specs and a $1,599 price tag</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/motorola-is-going-ultra-premium-with-its-1600-signature-phone</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T13:00:00Z</news:publication_date>
-      <news:title>Motorola is going ultra premium with its $1,600 ‘Signature’ phone</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/signature27_lifestyle12.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Motorola is going ultra premium with its $1,600 ‘Signature’ phone</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/spotify-is-coming-to-united-airlines-seatbacks-with-help-from-starlink</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T13:00:00Z</news:publication_date>
-      <news:title>Spotify is coming to United Airlines seatbacks — with help from Starlink</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Image-4.jpg.jpeg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Spotify is coming to United Airlines seatbacks — with help from Starlink</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/siri-ai-waitlist-now-limited-to-times-of-039high-demand039-says-apple</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T12:54:10Z</news:publication_date>
-      <news:title>Siri AI Waitlist Now Limited to Times of &amp;#039;High Demand,&amp;#039; Says Apple</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/Siri-AI-Icon.jpeg</image:loc>
-      <image:title>Siri AI Waitlist Now Limited to Times of &amp;#039;High Demand,&amp;#039; Says Apple</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/grapheneos-brings-linux-618-to-pixel-10-series-eyes-android-17-qpr2-for-pixel-11</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T12:43:48Z</news:publication_date>
-      <news:title>GrapheneOS brings Linux 6.18 to Pixel 10 series, eyes Android 17 QPR2 for Pixel 11</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/jade-pixel-10-pro-11-pro-black-scaled.jpeg</image:loc>
-      <image:title>GrapheneOS brings Linux 6.18 to Pixel 10 series, eyes Android 17 QPR2 for Pixel 11</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/nothing-is-launching-an-ai-native-product-next-month-design-teased</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T12:29:03Z</news:publication_date>
-      <news:title>Nothing is launching an AI-native product next month, design teased</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/nothing-ai-native-product-launch-december/gsmarena_00.jpg</image:loc>
-      <image:title>Nothing is launching an AI-native product next month, design teased</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/oppo-find-x10-ultra-and-vivo-x500-ultra-leak-points-to-five-200mp-cameras-between-them</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T12:24:05Z</news:publication_date>
-      <news:title>OPPO Find X10 Ultra and vivo X500 Ultra leak points to five 200MP cameras between them</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/04/OPPO-Find-X9-Ultra-vs-Find-X9-Pro.jpg</image:loc>
-      <image:title>OPPO Find X10 Ultra and vivo X500 Ultra leak points to five 200MP cameras between them</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/macbook-neo-shipments-expected-to-double-in-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T12:21:40Z</news:publication_date>
-      <news:title>MacBook Neo Shipments Expected to Double in 2027</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/08/macbook-neo-pink.jpeg</image:loc>
-      <image:title>MacBook Neo Shipments Expected to Double in 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/no-snapdragon-no-problem-malisx2-is-about-to-bring-a-major-boost-to-gamecube-xbox-emulators</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T12:14:38Z</news:publication_date>
-      <news:title>No Snapdragon? No problem! MaliSX2 is about to bring a major boost to GameCube, Xbox emulators</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/03/Dolphine-Emulator-Pixel-7-Pro.jpg</image:loc>
-      <image:title>No Snapdragon? No problem! MaliSX2 is about to bring a major boost to GameCube, Xbox emulators</image:title>
     </image:image>
   </url>
 </urlset>
