@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/039backglow039-lets-you-customize-new-macbook-pro039s-glowing-apple-logo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T20:44:15Z</news:publication_date>
+      <news:title>&amp;#039;Backglow&amp;#039; Lets You Customize New MacBook Pro&amp;#039;s Glowing Apple Logo</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/MacBook-Pro-Glowing-Apple-Logo.jpg</image:loc>
+      <image:title>&amp;#039;Backglow&amp;#039; Lets You Customize New MacBook Pro&amp;#039;s Glowing Apple Logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/the-uv-tracking-gem-made-me-rethink-how-sunlight-affects-my-health-not-just-my-appearance</loc>
     <news:news>
       <news:publication>
@@ -2550,81 +2565,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Barnes-and-Noble-TCL-Tab-A1-NXTPAPER.jpg</image:loc>
       <image:title>Barnes &amp;#038; Noble and TCL team up for a new Tab A1 NXTPAPER</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/google-is-ditching-firebase-studio-soon-and-it-wants-you-to-use-its-newer-ai-tools-instead</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T21:01:28Z</news:publication_date>
-      <news:title>Google is ditching Firebase Studio soon, and it wants you to use its newer AI tools instead</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/google-is-ditching-firebase-studio-soon-and-it-wants-you-to-use-its-newer-ai-tools-instead/l-intro-1793825592.jpg</image:loc>
-      <image:title>Google is ditching Firebase Studio soon, and it wants you to use its newer AI tools instead</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/payday-aces-high-review-this-year8217s-must-play-multiplayer-vr-game</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T21:00:00Z</news:publication_date>
-      <news:title>Payday Aces High review: This year&amp;#8217;s must-play multiplayer VR game</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/payday-aces-high-heist-screenshot.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Payday Aces High review: This year&amp;#8217;s must-play multiplayer VR game</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/blue-origins-next-launch-now-wont-happen-until-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T20:47:14Z</news:publication_date>
-      <news:title>Blue Origin’s next launch now won’t happen until 2027</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2281421326.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Blue Origin’s next launch now won’t happen until 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/bmw-bumps-battery-for-the-better-the-2027-i7-60-xdrive-driven</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T20:45:50Z</news:publication_date>
-      <news:title>BMW bumps battery for the better: The 2027 i7 60 xDrive, driven</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/BMW_i7_60_xD_Vancouver-Green_023-1152x648.jpg</image:loc>
-      <image:title>BMW bumps battery for the better: The 2027 i7 60 xDrive, driven</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/ipad-mini-vs-ipad-air-buyer039s-guide-now-just-3650-apart</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T20:41:52Z</news:publication_date>
-      <news:title>iPad Mini vs. iPad Air Buyer&amp;#039;s Guide: Now Just &amp;#36;50 Apart</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/iPad-Air-v-Mini-Feature-scaled.jpg</image:loc>
-      <image:title>iPad Mini vs. iPad Air Buyer&amp;#039;s Guide: Now Just &amp;#36;50 Apart</image:title>
     </image:image>
   </url>
 </urlset>
