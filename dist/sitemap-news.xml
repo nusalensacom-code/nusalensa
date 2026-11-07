@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/these-5-productivity-apps-youve-never-heard-of-deserve-a-spot-on-your-phone</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T12:00:31Z</news:publication_date>
+      <news:title>These 5 productivity apps you’ve never heard of deserve a spot on your phone</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Android-phone-showing-productivity-apps-scaled.jpg</image:loc>
+      <image:title>These 5 productivity apps you’ve never heard of deserve a spot on your phone</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/5-bluetooth-trackers-you-should-buy-instead-of-the-samsung-smarttag-3</loc>
     <news:news>
       <news:publication>
@@ -3840,81 +3855,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/03/Dolphine-Emulator-Pixel-7-Pro.jpg</image:loc>
       <image:title>No Snapdragon? No problem! MaliSX2 is about to bring a major boost to GameCube, Xbox emulators</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T12:00:41Z</news:publication_date>
-      <news:title>Agility Robotics&apos; Nasdaq debut invites scrutiny of humanoid robot market</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/Agility-Digit-5-humanoid-robots-at-work-1152x648.jpg</image:loc>
-      <image:title>Agility Robotics&apos; Nasdaq debut invites scrutiny of humanoid robot market</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/2026-ipad-mini-review-maximizing-the-mini</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T12:00:01Z</news:publication_date>
-      <news:title>2026 iPad mini review: Maximizing the mini</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/20261104_095710-1152x648.jpg</image:loc>
-      <image:title>2026 iPad mini review: Maximizing the mini</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google8217s-ai-search-fumbles-leave-schools-in-the-lurch</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T12:00:00Z</news:publication_date>
-      <news:title>Google&amp;#8217;s AI search fumbles leave schools in the lurch</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2025/12/Lenovo-Chromebook-Duet-11.webp?w=1500</image:loc>
-      <image:title>Google&amp;#8217;s AI search fumbles leave schools in the lurch</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/homeview-code-suggests-future-support-for-ai-chatbot-apps-anti-spoofing-protection</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T11:43:52Z</news:publication_date>
-      <news:title>HomeView Code Suggests Future Support for AI Chatbot Apps, Anti-Spoofing Protection</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/homeview_home_screen_feature-2.jpg</image:loc>
-      <image:title>HomeView Code Suggests Future Support for AI Chatbot Apps, Anti-Spoofing Protection</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/discord-is-ditching-electron-and-its-new-app-uses-less-ram</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T11:39:42Z</news:publication_date>
-      <news:title>Discord is ditching Electron and its new app uses less RAM</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK062_01.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Discord is ditching Electron and its new app uses less RAM</image:title>
     </image:image>
   </url>
 </urlset>
