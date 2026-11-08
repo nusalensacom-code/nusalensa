@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/apples-m5-macbook-air-is-down-to-its-lowest-price-since-july</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T16:00:00Z</news:publication_date>
+      <news:title>Apple’s M5 MacBook Air is down to its lowest price since July</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0005.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Apple’s M5 MacBook Air is down to its lowest price since July</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-taking-new-approach-to-developing-ios-28-and-macos-28</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T15:42:52Z</news:publication_date>
+      <news:title>Apple Taking New Approach to Developing iOS 28 and macOS 28</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/iOS-28-AI.jpg</image:loc>
+      <image:title>Apple Taking New Approach to Developing iOS 28 and macOS 28</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/chatbots-might-be-coming-to-apples-homeview</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T15:00:30Z</news:publication_date>
+      <news:title>Chatbots might be coming to Apple’s HomeView</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0250-1.jpeg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Chatbots might be coming to Apple’s HomeView</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/tablets/android-tablets-are-back-but-are-they-for-you</loc>
     <news:news>
       <news:publication>
@@ -1215,156 +1260,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/gemini-overlay-sparkle-bubble-animation-ask-gemini-text-box-vivo-x300-ultra.jpg</image:loc>
       <image:title>Google is quietly reworking Gemini’s sidebar and testing a new overlay animation</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/13-inch-macbook-air-with-m5-and-1tb-ssd-falls-250</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T15:51:24Z</news:publication_date>
-      <news:title>13-inch MacBook Air with M5 and 1TB SSD falls $250</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Apple-Macbook-Air-M5-Chip-Press-Image.jpg</image:loc>
-      <image:title>13-inch MacBook Air with M5 and 1TB SSD falls $250</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/best-buy039s-black-friday-event-begins-with-sitewide-savings-on-apple-tvs-more</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T15:44:15Z</news:publication_date>
-      <news:title>Best Buy&amp;#039;s Black Friday Event Begins With Sitewide Savings on Apple, TVs, More</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2025/11/best-buy-early-black-friday.jpeg</image:loc>
-      <image:title>Best Buy&amp;#039;s Black Friday Event Begins With Sitewide Savings on Apple, TVs, More</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/galaxy-smarttag-3-hits-samsung-online-store-as-single-tracker-or-four-pack</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T15:38:29Z</news:publication_date>
-      <news:title>Galaxy SmartTag 3 hits Samsung online store as single tracker or four-pack</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/Smarttag-3-2.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1400</image:loc>
-      <image:title>Galaxy SmartTag 3 hits Samsung online store as single tracker or four-pack</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-releasing-yet-another-two-new-products-next-week</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T15:37:01Z</news:publication_date>
-      <news:title>Apple Releasing Yet Another Two New Products Next Week</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/01/Apple-Event-Logo.jpeg</image:loc>
-      <image:title>Apple Releasing Yet Another Two New Products Next Week</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/this-see-through-camera-lets-photographers-maintain-eye-contact-with-their-subjects</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T15:33:03Z</news:publication_date>
-      <news:title>This see-through camera lets photographers maintain eye contact with their subjects</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/camera1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>This see-through camera lets photographers maintain eye contact with their subjects</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/whatsapp-announces-events-home-and-shareable-event-invites</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T15:29:02Z</news:publication_date>
-      <news:title>WhatsApp announces Events Home and shareable event invites</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/whatsapp-events-home/gsmarena_001.jpg</image:loc>
-      <image:title>WhatsApp announces Events Home and shareable event invites</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/its-a-weird-time-to-buy-a-laptop-but-the-new-macbook-pro-doesnt-skimp-on-quality</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T15:28:07Z</news:publication_date>
-      <news:title>It&apos;s a weird time to buy a laptop, but the new MacBook Pro doesn&apos;t skimp on quality</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/MacBook-Pro-closed-lid-1152x648.jpg</image:loc>
-      <image:title>It&apos;s a weird time to buy a laptop, but the new MacBook Pro doesn&apos;t skimp on quality</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/kpop-demon-hunters-on-4k-blu-ray-costs-less-than-a-month-of-netflix-premium</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T15:27:09Z</news:publication_date>
-      <news:title>KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/KpopDemonHunters_ProRes422HQ_SDR_2ch_20250424.01_04_39_22.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/sony-wh-1000xm5-fall-back-to-half-price-on-amazon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T15:19:02Z</news:publication_date>
-      <news:title>Sony WH-1000XM5 fall back to half-price on Amazon</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/10/Sony-WH-1000XM5-headphones-laying-flat-on-wooden-table.jpg</image:loc>
-      <image:title>Sony WH-1000XM5 fall back to half-price on Amazon</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/4-fresh-ai-apps-and-tools-worth-trying-this-week-including-an-arc-browser-replacement</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T15:15:27Z</news:publication_date>
-      <news:title>4 fresh AI apps and tools worth trying this week, including an Arc Browser replacement</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/tao-browser-ai-tool-1.jpg</image:loc>
-      <image:title>4 fresh AI apps and tools worth trying this week, including an Arc Browser replacement</image:title>
     </image:image>
   </url>
 </urlset>
