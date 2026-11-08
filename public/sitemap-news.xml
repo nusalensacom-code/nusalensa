@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/nvidia-is-investigating-jensen-huangs-relationship-with-a-chinese-spy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T20:22:39Z</news:publication_date>
+      <news:title>Nvidia is investigating Jensen Huang’s relationship with a Chinese spy</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Nvidia is investigating Jensen Huang’s relationship with a Chinese spy</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/apple-is-racing-to-make-siri-more-agentic</loc>
     <news:news>
       <news:publication>
@@ -750,156 +765,6 @@
     <image:image>
       <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/chainalysis-1152x648.png</image:loc>
       <image:title>Chainalysis says hackers stole credentials and tokens for all of its customers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-health-bug-leaves-users-with-missing-step-history</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T20:37:20Z</news:publication_date>
-      <news:title>Samsung Health bug leaves users with missing step history</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2023/09/Samsung-Health-Home-scaled.jpg</image:loc>
-      <image:title>Samsung Health bug leaves users with missing step history</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/fridays-android-app-deals-and-freebies-wreckfest-kingdom-rush-5-rites-of-conquest-more</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T20:33:56Z</news:publication_date>
-      <news:title>Friday’s Android app deals and freebies: Wreckfest, Kingdom Rush 5, Rites of Conquest, more</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Play-collage-191cc0.webp?w=1600</image:loc>
-      <image:title>Friday’s Android app deals and freebies: Wreckfest, Kingdom Rush 5, Rites of Conquest, more</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/earths-churning-mantle-may-have-created-the-great-unconformity</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T20:24:20Z</news:publication_date>
-      <news:title>Earth&apos;s churning mantle may have created the Great Unconformity</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1498933988-1152x648.jpg</image:loc>
-      <image:title>Earth&apos;s churning mantle may have created the Great Unconformity</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/nvidia-hardware-worth-114m-vanished-between-oakland-and-texas</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T20:05:30Z</news:publication_date>
-      <news:title>Nvidia hardware worth $11.4M vanished between Oakland and Texas</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2303158972-1152x648.jpg</image:loc>
-      <image:title>Nvidia hardware worth $11.4M vanished between Oakland and Texas</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/some-nest-doorbells-have-stopped-showing-the-live-video-feed</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T20:04:09Z</news:publication_date>
-      <news:title>Some Nest doorbells have stopped showing the live video feed</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/03/google-nest-doorbell-scaled.jpg</image:loc>
-      <image:title>Some Nest doorbells have stopped showing the live video feed</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/control-the-glowing-apple-logo-on-your-new-macbook-pro</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T20:03:09Z</news:publication_date>
-      <news:title>Control the Glowing Apple Logo on Your New MacBook Pro</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/macbook-apple-logo.jpg</image:loc>
-      <image:title>Control the Glowing Apple Logo on Your New MacBook Pro</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/all-the-latest-updates-on-ai-data-centers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T20:02:22Z</news:publication_date>
-      <news:title>All the latest updates on AI data centers</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>All the latest updates on AI data centers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-health-512-rolling-out-with-manual-blood-pressure-038-pregnancy-logging-more</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T20:01:43Z</news:publication_date>
-      <news:title>Google Health 5.12 rolling out with manual blood pressure &amp;#038; pregnancy logging, more</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/fitbit-edge-google-health-app.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Google Health 5.12 rolling out with manual blood pressure &amp;#038; pregnancy logging, more</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/developer-ends-lucrative-screensaver-deal-with-roku-because-fox-bought-it</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T19:50:18Z</news:publication_date>
-      <news:title>Developer ends lucrative screensaver deal with Roku because Fox bought it</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/Screenshot-2026-11-06-134100-1152x648.jpg</image:loc>
-      <image:title>Developer ends lucrative screensaver deal with Roku because Fox bought it</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/shures-popular-podcasting-and-streaming-mic-is-almost-50-off</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T19:47:02Z</news:publication_date>
-      <news:title>Shure’s popular podcasting and streaming mic is almost $50 off</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/shure-mv7-plus-breakout.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Shure’s popular podcasting and streaming mic is almost $50 off</image:title>
     </image:image>
   </url>
 </urlset>

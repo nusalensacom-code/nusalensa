@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/nvidia-is-investigating-jensen-huangs-relationship-with-a-chinese-spy</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Nvidia is investigating Jensen Huang’s relationship with a Chinese spy</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/apple-is-racing-to-make-siri-more-agentic</loc>
     <lastmod>2026-11-08</lastmod>
     <changefreq>daily</changefreq>
