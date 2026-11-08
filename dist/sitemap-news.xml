@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/reviews/epic-games-launcher-is-coming-to-steamos</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T20:52:05Z</news:publication_date>
+      <news:title>Epic Games Launcher is coming to SteamOS</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK108_EPIC_GAMES_C.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Epic Games Launcher is coming to SteamOS</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/nvidia-is-investigating-jensen-huangs-relationship-with-a-chinese-spy</loc>
     <news:news>
       <news:publication>
@@ -735,36 +750,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2023/03/smart-glasses-from-above-scaled.jpg</image:loc>
       <image:title>Gentle Monster teases Samsung Android XR glasses with some help from Joaquin Phoenix</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/ray-ban-meta-audio-review-great-specs-shame-about-the-price-though</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T21:09:14Z</news:publication_date>
-      <news:title>Ray-Ban Meta Audio review: Great specs. Shame about the price, though</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/ray-ban-meta-audio-glasses-burbank-wearing-03.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Ray-Ban Meta Audio review: Great specs. Shame about the price, though</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T20:56:41Z</news:publication_date>
-      <news:title>Chainalysis says hackers stole credentials and tokens for all of its customers</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/chainalysis-1152x648.png</image:loc>
-      <image:title>Chainalysis says hackers stole credentials and tokens for all of its customers</image:title>
     </image:image>
   </url>
 </urlset>
