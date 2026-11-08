@@ -5,8 +5,26 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 08 Nov 2026 10:38:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 11:37:38 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I played Android’s first AI frame-gen game: Mobile just had its DLSS moment</title>
+      <link>https://nusalensa.com/phones/i-played-androids-first-ai-frame-gen-game-mobile-just-had-its-dlss-moment</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/i-played-androids-first-ai-frame-gen-game-mobile-just-had-its-dlss-moment</guid>
+      <description>Like it or not, AI upscaling is the future of mobile gaming.</description>
+      <category>Smartphones</category>
+      <pubDate>Sun, 08 Nov 2026 11:30:32 GMT</pubDate>
+      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-game-main-menu-scaled.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Google wants to lock Android down, but Droynis teaches you how to stay safe instead</title>
+      <link>https://nusalensa.com/phones/google-wants-to-lock-android-down-but-droynis-teaches-you-how-to-stay-safe-instead</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/google-wants-to-lock-android-down-but-droynis-teaches-you-how-to-stay-safe-instead</guid>
+      <description>Droynis keeps me accountable for the security settings I select.</description>
+      <category>Smartphones</category>
+      <pubDate>Sun, 08 Nov 2026 11:00:53 GMT</pubDate>
+      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/11/droynis-android-security-app-1.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>7 apps that still look terrible on foldables, and Google should call them out first</title>
       <link>https://nusalensa.com/phones/7-apps-that-still-look-terrible-on-foldables-and-google-should-call-them-out-first</link>
@@ -258,24 +276,6 @@
       <category>Technology</category>
       <pubDate>Fri, 06 Nov 2026 22:45:43 GMT</pubDate>
       <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB355_SPACEX_C.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Ships loiter near subsea cables amid Iran&apos;s warnings to Trump</title>
-      <link>https://nusalensa.com/technology/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump</guid>
-      <description>Iran threatened to attack subsea cables if US escalates military strikes again.</description>
-      <category>Technology</category>
-      <pubDate>Fri, 06 Nov 2026 22:41:37 GMT</pubDate>
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Iranian-oil-tanker-and-flag-1152x648.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Android XR glasses officially get a December release date [Video]</title>
-      <link>https://nusalensa.com/phones/android-xr-glasses-officially-get-a-december-release-date-video</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/android-xr-glasses-officially-get-a-december-release-date-video</guid>
-      <description>Following a pre-order date announcement earlier this week, Google’s other Android XR launch partner has now confirmed a December release date for this first bat</description>
-      <category>Smartphones</category>
-      <pubDate>Fri, 06 Nov 2026 22:40:00 GMT</pubDate>
-      <enclosure url="https://9to5google.com/wp-content/uploads/sites/4/2026/07/samsung-android-xr-glasses-gentle-monster-7.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>

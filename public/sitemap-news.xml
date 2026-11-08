@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/i-played-androids-first-ai-frame-gen-game-mobile-just-had-its-dlss-moment</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T11:30:32Z</news:publication_date>
+      <news:title>I played Android’s first AI frame-gen game: Mobile just had its DLSS moment</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-game-main-menu-scaled.jpg</image:loc>
+      <image:title>I played Android’s first AI frame-gen game: Mobile just had its DLSS moment</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-wants-to-lock-android-down-but-droynis-teaches-you-how-to-stay-safe-instead</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T11:00:53Z</news:publication_date>
+      <news:title>Google wants to lock Android down, but Droynis teaches you how to stay safe instead</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/droynis-android-security-app-1.jpg</image:loc>
+      <image:title>Google wants to lock Android down, but Droynis teaches you how to stay safe instead</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/7-apps-that-still-look-terrible-on-foldables-and-google-should-call-them-out-first</loc>
     <news:news>
       <news:publication>
@@ -1800,156 +1830,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/tesla-is-winding-down-cybertruck-production-at-its-texas-gigafactory/l-intro-1793965070.jpg</image:loc>
       <image:title>Tesla is &apos;winding down&apos; Cybertruck production at its Texas Gigafactory</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/motorola-razr-fold-gets-a-much-needed-software-update-but-still-no-android-17</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T11:32:24Z</news:publication_date>
-      <news:title>Motorola Razr Fold gets a much-needed software update, but still no Android 17</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/razr-fold-main-cam-selfie-scaled.jpeg</image:loc>
-      <image:title>Motorola Razr Fold gets a much-needed software update, but still no Android 17</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/how-i-freed-up-4gb-of-storage-to-avoid-paying-for-google-one</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T11:30:50Z</news:publication_date>
-      <news:title>How I freed up 4GB of storage to avoid paying for Google One</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Google-One-Stroage-Full-scaled.jpg</image:loc>
-      <image:title>How I freed up 4GB of storage to avoid paying for Google One</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/perplexitys-teammates-are-the-companys-ai-agents-for-daily-work-tasks</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T11:18:59Z</news:publication_date>
-      <news:title>Perplexity&apos;s &apos;teammates&apos; are the company&apos;s AI agents for daily work tasks</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/perplexitys-teammates-are-its-ai-agents-for-ongoing-work/l-intro-1793962197.jpg</image:loc>
-      <image:title>Perplexity&apos;s &apos;teammates&apos; are the company&apos;s AI agents for daily work tasks</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/i-still-can8217t-believe-how-bad-the-google-wallet-redesign-is</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T11:00:06Z</news:publication_date>
-      <news:title>I still can&amp;#8217;t believe how bad the Google Wallet redesign is</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/google-wallet-card-redesign-hero-2026-2-scaled.jpg</image:loc>
-      <image:title>I still can&amp;#8217;t believe how bad the Google Wallet redesign is</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/oled-ipad-mini-m6-imac-and-new-macbook-pros-available-from-today</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T10:51:29Z</news:publication_date>
-      <news:title>OLED iPad Mini, M6 iMac, and New MacBook Pros Available From Today</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/iPad-mini-OLED-feature-2.jpg</image:loc>
-      <image:title>OLED iPad Mini, M6 iMac, and New MacBook Pros Available From Today</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-400-aina-smart-ring-comes-with-a-tiny-display-to-manage-your-ai-agents</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T10:50:39Z</news:publication_date>
-      <news:title>The $400 Aina smart ring comes with a tiny display to manage your AI agents</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Aina-Ring.jpg</image:loc>
-      <image:title>The $400 Aina smart ring comes with a tiny display to manage your AI agents</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-earth-gets-a-new-logo-with-googles-gradient-makeover</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T10:47:25Z</news:publication_date>
-      <news:title>Google Earth gets a new logo with Google’s gradient makeover</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/Google-Earth-opened-on-web-2.jpg</image:loc>
-      <image:title>Google Earth gets a new logo with Google’s gradient makeover</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-apple-watch-series-12-is-still-superb-but-google-has-caught-up</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T10:45:41Z</news:publication_date>
-      <news:title>The Apple Watch Series 12 is still superb, but Google has caught up</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/apple-watch-series-12-pocket-scaled.jpg</image:loc>
-      <image:title>The Apple Watch Series 12 is still superb, but Google has caught up</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-galaxy-fit4-might-have-nfc-for-payments</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T10:43:02Z</news:publication_date>
-      <news:title>Samsung Galaxy Fit4 might have NFC for payments</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/samsung-galaxy-fit4-nfc-support/gsmarena_001.jpg</image:loc>
-      <image:title>Samsung Galaxy Fit4 might have NFC for payments</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/tesla-is-winding-down-production-of-the-cybertruck-next-year</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T10:42:52Z</news:publication_date>
-      <news:title>Tesla is ‘winding down’ production of the Cybertruck next year</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25830320/STKS493_CYBERTRUCK_CVIRGINIA_B.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Tesla is ‘winding down’ production of the Cybertruck next year</image:title>
     </image:image>
   </url>
 </urlset>
