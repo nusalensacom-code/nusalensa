@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/google-messages-homepage-redesign-pinned-chat-avatars-bottom-search-corner-gemini</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T23:08:00Z</news:publication_date>
+      <news:title>Google Messages homepage redesign: Pinned chat avatars, bottom search, corner Gemini</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/09/google-messages-thread-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Google Messages homepage redesign: Pinned chat avatars, bottom search, corner Gemini</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/039backglow039-lets-you-customize-new-macbook-pro039s-glowing-apple-logo</loc>
     <news:news>
       <news:publication>
@@ -2190,111 +2205,6 @@
     <image:image>
       <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/News_BlueOrigin-Northstar-Engine-1152x648.webp</image:loc>
       <image:title>Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/airbnb-is-working-on-an-ai-travel-agent</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T00:06:12Z</news:publication_date>
-      <news:title>Airbnb is working on an AI travel agent</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK090_06.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Airbnb is working on an AI travel agent</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-new-york-times-is-in-talks-to-buy-letterboxd-for-around-330-million</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T23:45:10Z</news:publication_date>
-      <news:title>The New York Times is in talks to buy Letterboxd for around $330 million</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-05-at-3.41.44-PM.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,92.583676239766</image:loc>
-      <image:title>The New York Times is in talks to buy Letterboxd for around $330 million</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/big-googlebook-november-update-rolling-out-with-31-fixes-improvements</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T23:41:44Z</news:publication_date>
-      <news:title>Big Googlebook November update rolling out with 31 fixes, improvements</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/hp-googlebook-logo-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Big Googlebook November update rolling out with 31 fixes, improvements</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/whatsapp-is-bringing-ios-style-chat-previews-to-android</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T23:31:02Z</news:publication_date>
-      <news:title>WhatsApp is bringing iOS-style chat previews to Android</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/whatsapp-chat-previews-android/gsmarena_000.jpg</image:loc>
-      <image:title>WhatsApp is bringing iOS-style chat previews to Android</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/t-mobile-owner-on-elon-musk-launching-a-wireless-carrier-8216welcome-to-the-party8217</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T23:17:10Z</news:publication_date>
-      <news:title>T-Mobile owner on Elon Musk launching a wireless carrier: &amp;#8216;Welcome to the party&amp;#8217;</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2259379374.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>T-Mobile owner on Elon Musk launching a wireless carrier: &amp;#8216;Welcome to the party&amp;#8217;</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/apple039s-first-touchscreen-mac-is-now-arriving-to-customers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T23:12:36Z</news:publication_date>
-      <news:title>Apple&amp;#039;s First Touchscreen Mac is Now Arriving to Customers</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/Apples-First-Touchscreen-Mac-is-Now-Arriving-to-Customers-Feature.jpg</image:loc>
-      <image:title>Apple&amp;#039;s First Touchscreen Mac is Now Arriving to Customers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/meet-sshole-the-vulnerability-that-lets-hackers-ssh-into-linux-devices</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T23:09:36Z</news:publication_date>
-      <news:title>Meet *sshole, the vulnerability that lets hackers SSH into Linux devices</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2017/05/getty-hacking-1152x648.jpg</image:loc>
-      <image:title>Meet *sshole, the vulnerability that lets hackers SSH into Linux devices</image:title>
     </image:image>
   </url>
 </urlset>
