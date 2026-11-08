@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/tablets/android-tablets-are-back-but-are-they-for-you</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T14:00:00Z</news:publication_date>
+      <news:title>Android tablets are back, but are they for you?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/android-tablets-amazon-lenovo-redmagic.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Android tablets are back, but are they for you?</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/theres-no-slowing-down-medias-pivot-to-video-20</loc>
     <news:news>
       <news:publication>
@@ -1350,171 +1365,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/tao-browser-ai-tool-1.jpg</image:loc>
       <image:title>4 fresh AI apps and tools worth trying this week, including an Arc Browser replacement</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/apple-has-a-secret-list-of-banned-autocomplete-phrases-including-dictator-trump-and-covid-is-a-hoax</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T15:10:28Z</news:publication_date>
-      <news:title>Apple has a secret list of banned autocomplete phrases including ‘dictator Trump’ and ‘covid is a hoax’</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/DSC_2327.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Apple has a secret list of banned autocomplete phrases including ‘dictator Trump’ and ‘covid is a hoax’</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/a-stranger-things-prequel-series-is-coming-to-netflix-in-2028</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T15:09:52Z</news:publication_date>
-      <news:title>A Stranger Things prequel series is coming to Netflix in 2028</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/a-stranger-things-prequel-series-is-coming-to-netflix-in-2028/l-intro-1793977602.jpg</image:loc>
-      <image:title>A Stranger Things prequel series is coming to Netflix in 2028</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/big-google-antigravity-update-brings-remote-agents-voice-mode-and-redesign</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T15:01:00Z</news:publication_date>
-      <news:title>Big Google Antigravity update brings Remote Agents, Voice Mode, and redesign</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Antigravity-redesign-cover.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Big Google Antigravity update brings Remote Agents, Voice Mode, and redesign</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/fox-bought-roku</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T15:00:56Z</news:publication_date>
-      <news:title>Fox bought Roku</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STK284_AParkin_2.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Fox bought Roku</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-verges-2026-holiday-gift-guide</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T15:00:00Z</news:publication_date>
-      <news:title>The Verge’s 2026 holiday gift guide</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_MAIN_STILL0_09b4c3.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>The Verge’s 2026 holiday gift guide</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/i-bought-the-knock-off-pixel-watch-and-fitbit-air-bands-and-it8217s-crazy-how-good-they-are-gallery</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T14:30:00Z</news:publication_date>
-      <news:title>I bought the knock-off Pixel Watch and Fitbit Air bands, and it&amp;#8217;s crazy how good they are [Gallery]</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/pixel-watch-band-dupes-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>I bought the knock-off Pixel Watch and Fitbit Air bands, and it&amp;#8217;s crazy how good they are [Gallery]</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/stranger-things-is-getting-a-live-action-spinoff-called-other-worlds</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T14:25:48Z</news:publication_date>
-      <news:title>Stranger Things is getting a live-action spinoff called Other Worlds</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Other_Worlds_Logo_v37_16x9.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Stranger Things is getting a live-action spinoff called Other Worlds</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/oppo-find-x10-ultra-has-reportedly-been-cancelled</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T14:23:02Z</news:publication_date>
-      <news:title>Oppo Find X10 Ultra has reportedly been cancelled</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/oppo-find-x10-ultra-cancelled/gsmarena_000.jpg</image:loc>
-      <image:title>Oppo Find X10 Ultra has reportedly been cancelled</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple039s-extended-return-policy-now-in-effect-for-2026-holiday-season</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T14:21:38Z</news:publication_date>
-      <news:title>Apple&amp;#039;s Extended Return Policy Now in Effect for 2026 Holiday Season</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/apple-logo-holiday-feature.jpg</image:loc>
-      <image:title>Apple&amp;#039;s Extended Return Policy Now in Effect for 2026 Holiday Season</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/leaker-says-oppo-may-have-suspended-the-find-x10-ultra</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T14:19:51Z</news:publication_date>
-      <news:title>Leaker says OPPO may have suspended the Find X10 Ultra</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/04/Oppo-Find-X9-Ultra-stood-up.jpg</image:loc>
-      <image:title>Leaker says OPPO may have suspended the Find X10 Ultra</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/googles-november-pixel-update-is-missing-and-android-17-qpr2-may-explain-why</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T14:19:03Z</news:publication_date>
-      <news:title>Google’s November Pixel update is missing, and Android 17 QPR2 may explain why</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/pixel-11-pro-three-months-later-hero-1-scaled.jpg</image:loc>
-      <image:title>Google’s November Pixel update is missing, and Android 17 QPR2 may explain why</image:title>
     </image:image>
   </url>
 </urlset>
