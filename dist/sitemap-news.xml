@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/7-apps-that-still-look-terrible-on-foldables-and-google-should-call-them-out-first</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T10:30:58Z</news:publication_date>
+      <news:title>7 apps that still look terrible on foldables, and Google should call them out first</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Uber-Eats-on-Galaxy-Z-Fold-8-scaled.jpg</image:loc>
+      <image:title>7 apps that still look terrible on foldables, and Google should call them out first</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-best-android-browser-isn8217t-on-the-play-store-heres-how-to-install-it</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T10:00:33Z</news:publication_date>
+      <news:title>The best Android browser isn&amp;#8217;t on the Play Store. Here’s how to install it</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/solipsism-browser-android-app-aa-home-screen-2.jpg</image:loc>
+      <image:title>The best Android browser isn&amp;#8217;t on the Play Store. Here’s how to install it</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/google-messages-homepage-redesign-pinned-chat-avatars-bottom-search-corner-gemini</loc>
     <news:news>
       <news:publication>
@@ -1920,66 +1950,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25830320/STKS493_CYBERTRUCK_CVIRGINIA_B.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Tesla is ‘winding down’ production of the Cybertruck next year</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/this-googlebook-omission-is-a-deal-breaker-for-me</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T10:30:45Z</news:publication_date>
-      <news:title>This Googlebook omission is a deal-breaker for me</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Dell-XPS-Googlebook-open-with-create-my-widget-scaled.jpeg</image:loc>
-      <image:title>This Googlebook omission is a deal-breaker for me</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/boxshelf-is-a-new-android-front-end-that-turns-your-roms-into-a-virtual-collection</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T10:28:16Z</news:publication_date>
-      <news:title>Boxshelf is a new Android front-end that turns your ROMs into a virtual collection</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Boxshelf-on-Ayaneo-handheld-scaled-e1793958861211-500w-260h.jpg</image:loc>
-      <image:title>Boxshelf is a new Android front-end that turns your ROMs into a virtual collection</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-new-york-times-company-is-reportedly-trying-to-buy-letterboxd-for-330-million</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T10:17:23Z</news:publication_date>
-      <news:title>The New York Times Company is reportedly trying to buy Letterboxd for $330 million</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/the-new-york-times-company-is-reportedly-trying-to-buy-letterboxd-for-330-million/l-intro-1793960053.jpg</image:loc>
-      <image:title>The New York Times Company is reportedly trying to buy Letterboxd for $330 million</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/4-reasons-why-i8217d-recommend-a-foldable-and-4-reasons-why-i-wouldn8217t</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T10:00:09Z</news:publication_date>
-      <news:title>4 reasons why I&amp;#8217;d recommend a foldable (and 4 reasons why I wouldn&amp;#8217;t)</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/samsung-galaxy-z-fold-8-ultra-review-3-scaled.jpg</image:loc>
-      <image:title>4 reasons why I&amp;#8217;d recommend a foldable (and 4 reasons why I wouldn&amp;#8217;t)</image:title>
     </image:image>
   </url>
 </urlset>
