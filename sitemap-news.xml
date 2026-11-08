@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/heres-the-full-text-of-jensen-huangs-memo-to-nvidia</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T22:54:50Z</news:publication_date>
+      <news:title>Here’s the full text of Jensen Huang’s memo to Nvidia</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Here’s the full text of Jensen Huang’s memo to Nvidia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/soul-glos-diaspora-problems-is-a-hardcore-record-like-no-other</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T22:37:22Z</news:publication_date>
+      <news:title>Soul Glo’s Diaspora Problems is a hardcore record like no other</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/a3168552135_10.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Soul Glo’s Diaspora Problems is a hardcore record like no other</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/reviews/epic-games-launcher-is-coming-to-steamos</loc>
     <news:news>
       <news:publication>
@@ -585,96 +615,6 @@
     <image:image>
       <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2020/07/google_nest_hello_doorbell_1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
       <image:title>Google&amp;#8217;s original Nest Doorbell is broken for many right now</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T23:09:45Z</news:publication_date>
-      <news:title>Man unexpectedly recovers from a knife wound through his eye and brain</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/bmjcr-2026-November-19-11-F2.large_-1152x648-1794006532.jpg</image:loc>
-      <image:title>Man unexpectedly recovers from a knife wound through his eye and brain</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/china-reportedly-recruited-ai-exec-to-spy-on-jensen-huang</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T23:00:44Z</news:publication_date>
-      <news:title>China reportedly recruited AI exec to spy on Jensen Huang</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>China reportedly recruited AI exec to spy on Jensen Huang</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/starlink-mobile-all-the-news-on-spacex8217s-major-mobile-carrier-ambitions</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T22:45:43Z</news:publication_date>
-      <news:title>Starlink Mobile: All the news on SpaceX&amp;#8217;s major mobile carrier ambitions</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB355_SPACEX_C.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Starlink Mobile: All the news on SpaceX&amp;#8217;s major mobile carrier ambitions</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T22:41:37Z</news:publication_date>
-      <news:title>Ships loiter near subsea cables amid Iran&apos;s warnings to Trump</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/Iranian-oil-tanker-and-flag-1152x648.jpg</image:loc>
-      <image:title>Ships loiter near subsea cables amid Iran&apos;s warnings to Trump</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/android-xr-glasses-officially-get-a-december-release-date-video</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T22:40:00Z</news:publication_date>
-      <news:title>Android XR glasses officially get a December release date [Video]</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/07/samsung-android-xr-glasses-gentle-monster-7.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Android XR glasses officially get a December release date [Video]</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-messages-new-pinned-chats-are-dividing-users-and-we-want-your-take</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T22:27:43Z</news:publication_date>
-      <news:title>Google Messages’ new pinned chats are dividing users, and we want your take</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/google-messages-pinned-chats.jpg</image:loc>
-      <image:title>Google Messages’ new pinned chats are dividing users, and we want your take</image:title>
     </image:image>
   </url>
 </urlset>
