@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/apple-is-racing-to-make-siri-more-agentic</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T19:18:19Z</news:publication_date>
+      <news:title>Apple is racing to make Siri more agentic</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Apple is racing to make Siri more agentic</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/siri-ai-rumored-to-become-039more-like-an-agent039-as-early-as-next-year</loc>
     <news:news>
       <news:publication>
@@ -885,51 +900,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/shure-mv7-plus-breakout.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Shure’s popular podcasting and streaming mic is almost $50 off</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/faa-to-finally-ditch-floppy-disks-in-what-it-calls-historic-tech-upgrade</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T19:12:28Z</news:publication_date>
-      <news:title>FAA to finally ditch floppy disks in what it calls &quot;historic&quot; tech upgrade</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/sean-duffy-faa-tech-1152x648-1793989923.jpg</image:loc>
-      <image:title>FAA to finally ditch floppy disks in what it calls &quot;historic&quot; tech upgrade</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-says-almost-no-one-wants-nfc-in-the-fitbit-edge-but-readers-strongly-disagree</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T18:59:50Z</news:publication_date>
-      <news:title>Google says almost no one wants NFC in the Fitbit Edge but readers strongly disagree</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/fitbit-edge-hands-on-10-scaled.jpg</image:loc>
-      <image:title>Google says almost no one wants NFC in the Fitbit Edge but readers strongly disagree</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-says-more-than-100000-apps-optimized-for-iphone-duo-here039s-what039s-still-missing</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T18:56:35Z</news:publication_date>
-      <news:title>Apple Says More Than 100,000 Apps Optimized for iPhone Duo, Here&amp;#039;s What&amp;#039;s Still Missing</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/iPhone-Duo-Flighty.jpeg</image:loc>
-      <image:title>Apple Says More Than 100,000 Apps Optimized for iPhone Duo, Here&amp;#039;s What&amp;#039;s Still Missing</image:title>
     </image:image>
   </url>
 </urlset>
