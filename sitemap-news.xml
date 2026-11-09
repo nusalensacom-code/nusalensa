@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/google-wallet-can-now-scan-receipts-and-heres-how-and-why-to-use-it</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T10:54:00Z</news:publication_date>
+      <news:title>Google Wallet can now scan receipts, and here’s how and why to use it</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/google-wallet-card-redesign-hero-2026-1-scaled.jpg</image:loc>
+      <image:title>Google Wallet can now scan receipts, and here’s how and why to use it</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/i-revisited-the-kindle-colorsoft-and-i-can8217t-wait-to-go-back-to-my-kindle-paperwhite</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T10:30:06Z</news:publication_date>
+      <news:title>I revisited the Kindle Colorsoft, and I can&amp;#8217;t wait to go back to my Kindle Paperwhite</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/amazon-kindle-colorsoft-paperwhite-front-scaled.jpg</image:loc>
+      <image:title>I revisited the Kindle Colorsoft, and I can&amp;#8217;t wait to go back to my Kindle Paperwhite</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/i-wouldn8217t-buy-a-phone-released-in-2026-and-neither-should-you</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T10:00:41Z</news:publication_date>
+      <news:title>I wouldn&amp;#8217;t buy a phone released in 2026, and neither should you</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/08/Pixel-10-Pro-XL-vs-OnePlus-13-vs-Galaxy-S25-Ultra.jpg</image:loc>
+      <image:title>I wouldn&amp;#8217;t buy a phone released in 2026, and neither should you</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/samsungs-leaked-memory-app-could-bring-pixel-screenshots-features-to-galaxy-phones</loc>
     <news:news>
       <news:publication>
@@ -705,21 +750,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/google-health-splash-screen-scaled.jpg</image:loc>
       <image:title>I like Google Health&amp;#8217;s biggest features of 2026, but I don&amp;#8217;t trust them</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-airpods-5-blew-me-away-but-android-users-should-beware</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T10:30:10Z</news:publication_date>
-      <news:title>The AirPods 5 blew me away, but Android users should beware</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Apple-AirPods-5-with-Pixel-10-4-scaled.jpeg</image:loc>
-      <image:title>The AirPods 5 blew me away, but Android users should beware</image:title>
     </image:image>
   </url>
 </urlset>
