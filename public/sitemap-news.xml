@@ -3,6 +3,81 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/digital-wellbeing-v150-beta-gives-us-our-first-look-at-weekly-insights-and-gemini-integration</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T11:53:25Z</news:publication_date>
+      <news:title>Digital Wellbeing v1.50 beta gives us our first look at Weekly Insights and Gemini integration</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/digital-wellbeing-tools.jpg</image:loc>
+      <image:title>Digital Wellbeing v1.50 beta gives us our first look at Weekly Insights and Gemini integration</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/armsx3-is-the-best-ps3-emulator-on-android-and-it8217s-now-available-on-ios</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T11:49:58Z</news:publication_date>
+      <news:title>ARMSX3 is the best PS3 emulator on Android, and it&amp;#8217;s now available on iOS</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/ARMSX3-PS3-emulator-on-Android.jpg</image:loc>
+      <image:title>ARMSX3 is the best PS3 emulator on Android, and it&amp;#8217;s now available on iOS</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/after-3-months-with-the-pixel-11-pro-there8217s-no-other-android-phone-i8217d-rather-use</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T11:30:01Z</news:publication_date>
+      <news:title>After 3 months with the Pixel 11 Pro, there&amp;#8217;s no other Android phone I&amp;#8217;d rather use</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/pixel-11-pro-three-months-later-hero-1-scaled.jpg</image:loc>
+      <image:title>After 3 months with the Pixel 11 Pro, there&amp;#8217;s no other Android phone I&amp;#8217;d rather use</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/motorola-razr-flex-2027-surfaces-on-official-company-website</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T11:28:10Z</news:publication_date>
+      <news:title>Motorola Razr Flex 2027 surfaces on official company website</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/motorola-razr-fold-review-standing-back-3-scaled.jpg</image:loc>
+      <image:title>Motorola Razr Flex 2027 surfaces on official company website</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/torrent-underground</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T11:00:05Z</news:publication_date>
+      <news:title>Torrent underground</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268792_private_torrent_trackers_CVirginia_LEDE_1.gif?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Torrent underground</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/google-wallet-can-now-scan-receipts-and-heres-how-and-why-to-use-it</loc>
     <news:news>
       <news:publication>
@@ -705,51 +780,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Android-phone-showing-productivity-apps-scaled.jpg</image:loc>
       <image:title>These 5 productivity apps you’ve never heard of deserve a spot on your phone</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/5-bluetooth-trackers-you-should-buy-instead-of-the-samsung-smarttag-3</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T11:30:20Z</news:publication_date>
-      <news:title>5 Bluetooth trackers you should buy instead of the Samsung SmartTag 3</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/smarttag-3-2.jpg</image:loc>
-      <image:title>5 Bluetooth trackers you should buy instead of the Samsung SmartTag 3</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T11:00:34Z</news:publication_date>
-      <news:title>British soldier ignored order to pull his SIM card, then got blackmailed</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2290156853-1024x648.jpg</image:loc>
-      <image:title>British soldier ignored order to pull his SIM card, then got blackmailed</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/i-like-google-health8217s-biggest-features-of-2026-but-i-don8217t-trust-them</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T11:00:26Z</news:publication_date>
-      <news:title>I like Google Health&amp;#8217;s biggest features of 2026, but I don&amp;#8217;t trust them</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/google-health-splash-screen-scaled.jpg</image:loc>
-      <image:title>I like Google Health&amp;#8217;s biggest features of 2026, but I don&amp;#8217;t trust them</image:title>
     </image:image>
   </url>
 </urlset>
