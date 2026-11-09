@@ -468,6 +468,36 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/samsungs-leaked-memory-app-could-bring-pixel-screenshots-features-to-galaxy-phones</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/Samsung-Galaxy-S26-Ultra-home-screen-black-cat-scaled.jpg</image:loc>
+      <image:title>Samsung’s leaked Memory app could bring Pixel Screenshots features to Galaxy phones</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/snapseed-tests-finer-quality-and-exif-controls-for-saving-and-batch-editing-images</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/snapseed-app-open-in-android-phones-image.jpg</image:loc>
+      <image:title>Snapseed tests finer quality and Exif controls for saving and batch editing images</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/one-ui-95-could-give-samsung-internet-a-dedicated-desktop-mode-for-dex-users</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/11/Samsung-Internet-Browser-stock-image-resized.jpg</image:loc>
+      <image:title>One UI 9.5 could give Samsung Internet a dedicated desktop mode for DeX users</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/samsung-starts-rolling-out-stable-one-ui-9-with-wear-os-7-to-galaxy-watch-8-series</loc>
     <lastmod>2026-11-09</lastmod>
     <changefreq>daily</changefreq>

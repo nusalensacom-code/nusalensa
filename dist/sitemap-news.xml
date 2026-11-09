@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/samsungs-leaked-memory-app-could-bring-pixel-screenshots-features-to-galaxy-phones</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T09:51:25Z</news:publication_date>
+      <news:title>Samsung’s leaked Memory app could bring Pixel Screenshots features to Galaxy phones</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/Samsung-Galaxy-S26-Ultra-home-screen-black-cat-scaled.jpg</image:loc>
+      <image:title>Samsung’s leaked Memory app could bring Pixel Screenshots features to Galaxy phones</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/snapseed-tests-finer-quality-and-exif-controls-for-saving-and-batch-editing-images</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T09:22:16Z</news:publication_date>
+      <news:title>Snapseed tests finer quality and Exif controls for saving and batch editing images</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/snapseed-app-open-in-android-phones-image.jpg</image:loc>
+      <image:title>Snapseed tests finer quality and Exif controls for saving and batch editing images</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/one-ui-95-could-give-samsung-internet-a-dedicated-desktop-mode-for-dex-users</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T09:07:10Z</news:publication_date>
+      <news:title>One UI 9.5 could give Samsung Internet a dedicated desktop mode for DeX users</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/11/Samsung-Internet-Browser-stock-image-resized.jpg</image:loc>
+      <image:title>One UI 9.5 could give Samsung Internet a dedicated desktop mode for DeX users</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/samsung-starts-rolling-out-stable-one-ui-9-with-wear-os-7-to-galaxy-watch-8-series</loc>
     <news:news>
       <news:publication>
@@ -675,21 +720,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Apple-AirPods-5-with-Pixel-10-4-scaled.jpeg</image:loc>
       <image:title>The AirPods 5 blew me away, but Android users should beware</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/galaxy-phones-have-a-better-document-scanner-now-and-it-just-saved-me-a-ton-of-hassle</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T10:00:17Z</news:publication_date>
-      <news:title>Galaxy phones have a better document scanner now, and it just saved me a ton of hassle</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/samsungs-updated-document-scanner-is-impressive-4.jpg</image:loc>
-      <image:title>Galaxy phones have a better document scanner now, and it just saved me a ton of hassle</image:title>
     </image:image>
   </url>
 </urlset>
