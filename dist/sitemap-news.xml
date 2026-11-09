@@ -3,6 +3,96 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/iphone-18e-could-feature-bigger-display-and-battery</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T12:45:29Z</news:publication_date>
+      <news:title>iPhone 18e Could Feature Bigger Display and Battery</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/03/Apple-iPhone-17e-feature.jpg</image:loc>
+      <image:title>iPhone 18e Could Feature Bigger Display and Battery</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/its-official-the-xiaomi-18-pro-and-18-pro-max-are-launching-globally-next-week</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T12:41:02Z</news:publication_date>
+      <news:title>It&apos;s official: the Xiaomi 18 Pro and 18 Pro Max are launching globally next week</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/xiaomi-18-pro-series-global-date-confirmed/gsmarena_000.jpg</image:loc>
+      <image:title>It&apos;s official: the Xiaomi 18 Pro and 18 Pro Max are launching globally next week</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple039s-siri-boss-may-leave-here039s-who-could-take-over</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T12:31:24Z</news:publication_date>
+      <news:title>Apple&amp;#039;s Siri Boss May Leave - Here&amp;#039;s Who Could Take Over</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2024/06/craig-federighi.jpg</image:loc>
+      <image:title>Apple&amp;#039;s Siri Boss May Leave - Here&amp;#039;s Who Could Take Over</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/apple-launching-two-more-new-products-this-friday</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T12:22:04Z</news:publication_date>
+      <news:title>Apple Launching Two More New Products This Friday</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/apple-pro-tell-logo.jpg</image:loc>
+      <image:title>Apple Launching Two More New Products This Friday</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T12:00:05Z</news:publication_date>
+      <news:title>New Democratic Congress will likely strip the gilding from Trump&apos;s Golden Dome</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2219660369-1152x648-1793989587.jpg</image:loc>
+      <image:title>New Democratic Congress will likely strip the gilding from Trump&apos;s Golden Dome</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/instagrams-ai-age-detection-is-expanding-globally</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T12:00:00Z</news:publication_date>
+      <news:title>Instagram’s AI age detection is expanding globally</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK070_INSTAGRAM__A.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Instagram’s AI age detection is expanding globally</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/digital-wellbeing-v150-beta-gives-us-our-first-look-at-weekly-insights-and-gemini-integration</loc>
     <news:news>
       <news:publication>
@@ -30,6 +120,21 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/ARMSX3-PS3-emulator-on-Android.jpg</image:loc>
       <image:title>ARMSX3 is the best PS3 emulator on Android, and it&amp;#8217;s now available on iOS</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/the-oppo-pad-air6-aka-oppo-pad-6-unveiled-sales-start-next-week</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T11:46:02Z</news:publication_date>
+      <news:title>The Oppo Pad Air6 (aka Oppo Pad 6) unveiled, sales start next week</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/oppo-pad-air6-official/gsmarena_000.jpg</image:loc>
+      <image:title>The Oppo Pad Air6 (aka Oppo Pad 6) unveiled, sales start next week</image:title>
     </image:image>
   </url>
   <url>
@@ -75,6 +180,21 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268792_private_torrent_trackers_CVirginia_LEDE_1.gif?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Torrent underground</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/heres-what-vivo-will-probably-call-its-first-gimbal-camera</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T10:57:02Z</news:publication_date>
+      <news:title>Here&apos;s what vivo will probably call its first gimbal camera</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/vivo-pocket-name/gsmarena_000.jpg</image:loc>
+      <image:title>Here&apos;s what vivo will probably call its first gimbal camera</image:title>
     </image:image>
   </url>
   <url>
@@ -135,6 +255,21 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/Samsung-Galaxy-S26-Ultra-home-screen-black-cat-scaled.jpg</image:loc>
       <image:title>Samsung’s leaked Memory app could bring Pixel Screenshots features to Galaxy phones</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/honor-700-devices-teased-to-come-with-an-interesting-feature-on-the-rear-screen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T09:33:02Z</news:publication_date>
+      <news:title>Honor 700 devices teased to come with an interesting feature on the rear screen</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/honor-700-series-heart-rate-sensor-teaser/gsmarena_000.jpg</image:loc>
+      <image:title>Honor 700 devices teased to come with an interesting feature on the rear screen</image:title>
     </image:image>
   </url>
   <url>
@@ -243,6 +378,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/the-oppo-reno17-and-reno17-pro-are-launching-next-week</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T07:00:02Z</news:publication_date>
+      <news:title>The Oppo Reno17 and Reno17 Pro are launching next week</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/oppo-reno17-pro-watch-5-pad-air-6-launch-date/gsmarena_00.jpg</image:loc>
+      <image:title>The Oppo Reno17 and Reno17 Pro are launching next week</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/t-mobiles-t-mix-perk-changes-come-with-a-90-day-lock-in-and-a-15-catch</loc>
     <news:news>
       <news:publication>
@@ -270,6 +420,51 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2025/09/Apple-Store-Downtown-Detroit.jpg</image:loc>
       <image:title>Apple Store Subscription Sign-Up Controversy Exposed</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/how-to-use-your-laptop-as-a-second-monitor</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T01:30:00Z</news:publication_date>
+      <news:title>How to use your laptop as a second monitor</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/how-to-use-your-laptop-as-a-second-monitor/l-intro-1793914883.jpg</image:loc>
+      <image:title>How to use your laptop as a second monitor</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/motorola-signature-27-is-official-honor-magic9-pro-max-at-hq-week-45-in-review</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T01:02:02Z</news:publication_date>
+      <news:title>Motorola Signature 27 is official, Honor Magic9 Pro Max at HQ, Week 45 in review</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/week-45-in-review/gsmarena_000.jpg</image:loc>
+      <image:title>Motorola Signature 27 is official, Honor Magic9 Pro Max at HQ, Week 45 in review</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/why-your-usb-device-isnt-showing-up-on-your-macbook-and-how-you-can-fix-it</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T01:00:00Z</news:publication_date>
+      <news:title>Why your USB device isn&apos;t showing up on your MacBook and how you can fix it</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/why-your-usb-device-isnt-showing-up-on-your-macbook-and-how-you-can-fix-it/l-intro-1793975296.jpg</image:loc>
+      <image:title>Why your USB device isn&apos;t showing up on your MacBook and how you can fix it</image:title>
     </image:image>
   </url>
   <url>
@@ -333,6 +528,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/inside-arri-from-hollywood-cinema-cameras-to-the-honor-magic9-pro-max</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T20:01:02Z</news:publication_date>
+      <news:title>Inside ARRI: From Hollywood cinema cameras to the Honor Magic9 Pro Max</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/honor-arri-collaboration/gsmarena_001.jpg</image:loc>
+      <image:title>Inside ARRI: From Hollywood cinema cameras to the Honor Magic9 Pro Max</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/apple-is-racing-to-make-siri-more-agentic</loc>
     <news:news>
       <news:publication>
@@ -375,6 +585,21 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22202367/517216004.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Elvis and Eminem rights holders are suing Suno</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/deals-latest-samsung-foldables-pixel-11-series-and-more-discounted</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T16:01:02Z</news:publication_date>
+      <news:title>Deals: Latest Samsung foldables, Pixel 11 series, and more discounted</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/weekly-deals-6/gsmarena_uk.jpg</image:loc>
+      <image:title>Deals: Latest Samsung foldables, Pixel 11 series, and more discounted</image:title>
     </image:image>
   </url>
   <url>
@@ -720,66 +945,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Installer-151.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Zelda is back and better than ever</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/oppo-reportedly-cancels-find-x10-ultra-thanks-to-ramageddon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T12:30:00Z</news:publication_date>
-      <news:title>Oppo reportedly cancels Find X10 Ultra thanks to RAMageddon</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/05/oppo-find-x9-ultra-review-17.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Oppo reportedly cancels Find X10 Ultra thanks to RAMageddon</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/why-a-new-report-on-anthropic-automating-ai-development-is-alarming-researchers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T12:30:00Z</news:publication_date>
-      <news:title>Why a new report on Anthropic automating AI development is alarming researchers</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2280291125.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Why a new report on Anthropic automating AI development is alarming researchers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-bantu-expansion-changed-africa-scientists-are-still-tracing-how</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T12:15:55Z</news:publication_date>
-      <news:title>The Bantu expansion changed Africa. Scientists are still tracing how.</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/great-zimbabwe-1152x648.jpg</image:loc>
-      <image:title>The Bantu expansion changed Africa. Scientists are still tracing how.</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/these-5-productivity-apps-youve-never-heard-of-deserve-a-spot-on-your-phone</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T12:00:31Z</news:publication_date>
-      <news:title>These 5 productivity apps you’ve never heard of deserve a spot on your phone</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Android-phone-showing-productivity-apps-scaled.jpg</image:loc>
-      <image:title>These 5 productivity apps you’ve never heard of deserve a spot on your phone</image:title>
     </image:image>
   </url>
 </urlset>
