@@ -587,34 +587,4 @@
       <image:title>Galaxy phones have a better document scanner now, and it just saved me a ton of hassle</image:title>
     </image:image>
   </url>
-  <url>
-    <loc>https://nusalensa.com/technology/openai-valued-at-125-trillion-as-rival-anthropic-nears-its-ipo</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T23:46:18Z</news:publication_date>
-      <news:title>OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK155_OPEN_AI_CVirginia_2_A.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google8217s-original-nest-doorbell-is-broken-for-many-right-now</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T23:15:00Z</news:publication_date>
-      <news:title>Google&amp;#8217;s original Nest Doorbell is broken for many right now</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2020/07/google_nest_hello_doorbell_1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Google&amp;#8217;s original Nest Doorbell is broken for many right now</image:title>
-    </image:image>
-  </url>
 </urlset>
