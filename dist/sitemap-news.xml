@@ -3,6 +3,96 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/macos-2721-fixes-emudhra-certificate-flaw-in-command-line-tools</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T20:26:53Z</news:publication_date>
+      <news:title>macOS 27.2.1 Fixes eMudhra Certificate Flaw in Command-Line Tools</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/03/apple-lock-security-bug-vulnerability-fix-privacy.jpg</image:loc>
+      <image:title>macOS 27.2.1 Fixes eMudhra Certificate Flaw in Command-Line Tools</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/hunter-is-killing-google-home-alexa-controls-for-its-smart-ceiling-fans</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T20:05:00Z</news:publication_date>
+      <news:title>Hunter is killing Google Home, Alexa controls for its smart ceiling fans</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2020/07/hunter_fan_2.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Hunter is killing Google Home, Alexa controls for its smart ceiling fans</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/score-70-off-the-skullcandy-crusher-720-in-this-amazon-deal</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T19:46:22Z</news:publication_date>
+      <news:title>Score $70 off the Skullcandy Crusher 720 in this Amazon deal</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Skullcandy-Crusher-ANC-2-Featured.jpg</image:loc>
+      <image:title>Score $70 off the Skullcandy Crusher 720 in this Amazon deal</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T19:41:34Z</news:publication_date>
+      <news:title>Vulnerability that lets hackers SSH into Linux devices is under active exploitation</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg</image:loc>
+      <image:title>Vulnerability that lets hackers SSH into Linux devices is under active exploitation</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/one-ui-95-leak-reveals-new-shorten-and-translate-shortcuts-in-samsung-keyboard</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T19:40:45Z</news:publication_date>
+      <news:title>One UI 9.5 leak reveals new Shorten and Translate shortcuts in Samsung Keyboard</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/04/samsung-keyboard-galaxy-s26-5-scaled.jpg</image:loc>
+      <image:title>One UI 9.5 leak reveals new Shorten and Translate shortcuts in Samsung Keyboard</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/anthropic-launches-claude-fable-52-and-mythos-52</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T19:38:47Z</news:publication_date>
+      <news:title>Anthropic Launches Claude Fable 5.2 and Mythos 5.2</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2025/09/anthopic-claude.jpg</image:loc>
+      <image:title>Anthropic Launches Claude Fable 5.2 and Mythos 5.2</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/samsung-is-focusing-70-of-its-galaxy-s27-production-on-the-ultra-and-pro</loc>
     <news:news>
       <news:publication>
@@ -30,6 +120,21 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/logicpro.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Apple’s $50 Intelligence Usage Packs extend access to some AI features</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/pentagon-mulls-placing-fleet-of-military-satellites-around-the-moon</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T19:08:37Z</news:publication_date>
+      <news:title>Pentagon mulls placing fleet of military satellites around the Moon</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/55199774765_6e77d97b51_o-1152x648.jpg</image:loc>
+      <image:title>Pentagon mulls placing fleet of military satellites around the Moon</image:title>
     </image:image>
   </url>
   <url>
@@ -165,6 +270,21 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-effect-builder-launch-2.jpeg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Instagram’s Effect Builder makes new filters from AI prompts</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-watch-ultra-4-gets-3699-amazon-discounts-starting-at-3669999</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T17:59:17Z</news:publication_date>
+      <news:title>Apple Watch Ultra 4 Gets &amp;#36;99 Amazon Discounts, Starting at &amp;#36;699.99</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/apple-watch-ultra-4-blue.jpeg</image:loc>
+      <image:title>Apple Watch Ultra 4 Gets &amp;#36;99 Amazon Discounts, Starting at &amp;#36;699.99</image:title>
     </image:image>
   </url>
   <url>
