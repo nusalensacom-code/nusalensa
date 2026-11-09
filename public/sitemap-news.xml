@@ -3,6 +3,111 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/samsung-galaxy-s27-series-camera-specs-leak-and-they8217re-disappointing</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T23:20:00Z</news:publication_date>
+      <news:title>Samsung Galaxy S27 series camera specs leak, and they&amp;#8217;re disappointing</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/02/Galaxy-S26-camera-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Samsung Galaxy S27 series camera specs leak, and they&amp;#8217;re disappointing</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/everything-we-know-so-far-about-the-nvidia-spy-scandal-targeting-ceo-jensen-huang</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T23:07:59Z</news:publication_date>
+      <news:title>Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/here039s-what-apple-fixed-in-ios-2721-and-macos-2721</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T23:07:16Z</news:publication_date>
+      <news:title>Here&amp;#039;s What Apple Fixed in iOS 27.2.1 and macOS 27.2.1</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2023/05/bug-security-vulnerability-issue-fix-larry.jpg</image:loc>
+      <image:title>Here&amp;#039;s What Apple Fixed in iOS 27.2.1 and macOS 27.2.1</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/samsung-galaxy-watch8-is-now-receiving-the-update-to-one-ui-9-watch-based-on-wear-os-7</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T23:01:02Z</news:publication_date>
+      <news:title>Samsung Galaxy Watch8 is now receiving the update to One UI 9 Watch based on Wear OS 7</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/samsung-galaxy-watch8-one-ui-9-watch-wear-os-7-update/gsmarena_000.jpg</image:loc>
+      <image:title>Samsung Galaxy Watch8 is now receiving the update to One UI 9 Watch based on Wear OS 7</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-pros-and-cons-of-using-mesh-wi-fi</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T23:00:00Z</news:publication_date>
+      <news:title>The pros and cons of using mesh Wi-Fi</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-mesh-wi-fi/l-intro-1793389440.jpg</image:loc>
+      <image:title>The pros and cons of using mesh Wi-Fi</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-wallet-gets-alipay-plus-support-with-traveler-qr</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T22:56:21Z</news:publication_date>
+      <news:title>Google Wallet gets Alipay Plus support with Traveler QR</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2023/04/Google-Wallet-logo-on-smartphone-next-to-credit-cards-and-cash-Stock-photo-11.jpg</image:loc>
+      <image:title>Google Wallet gets Alipay Plus support with Traveler QR</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/webex-gets-iphone-duo-support</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T22:31:20Z</news:publication_date>
+      <news:title>Webex Gets iPhone Duo Support</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/webex-app-iphone-duo.jpg</image:loc>
+      <image:title>Webex Gets iPhone Duo Support</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/tablets/whats-new-in-androids-november-2026-google-system-updates-u</loc>
     <news:news>
       <news:publication>
@@ -348,6 +453,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/how-to-use-your-iphone-to-take-the-best-picture-of-the-moon</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T19:30:00Z</news:publication_date>
+      <news:title>How to use your iPhone to take the best picture of the Moon</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/how-to-use-your-iphone-to-take-the-best-picture-of-the-moon/l-intro-1793619969.jpg</image:loc>
+      <image:title>How to use your iPhone to take the best picture of the Moon</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/samsung-is-focusing-70-of-its-galaxy-s27-production-on-the-ultra-and-pro</loc>
     <news:news>
       <news:publication>
@@ -390,6 +510,21 @@
     <image:image>
       <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/55199774765_6e77d97b51_o-1152x648.jpg</image:loc>
       <image:title>Pentagon mulls placing fleet of military satellites around the Moon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/gmail-users-should-know-about-this-little-noticed-feature</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T19:00:00Z</news:publication_date>
+      <news:title>Gmail users should know about this little-noticed feature</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/gmail-users-should-know-about-this-little-noticed-feature/l-intro-1793819117.jpg</image:loc>
+      <image:title>Gmail users should know about this little-noticed feature</image:title>
     </image:image>
   </url>
   <url>
@@ -495,6 +630,21 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/11/Siri-AI-Icon.jpeg</image:loc>
       <image:title>Apple Continues to Say Some AI Features Will Have Fees for Extra Usage</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/how-does-google-wallets-notification-feed-work-and-can-you-disable-it</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T18:15:00Z</news:publication_date>
+      <news:title>How does Google Wallet&apos;s notification feed work and can you disable it?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/how-does-google-wallets-notification-feed-work-and-can-you-disable-it/l-intro-1793810405.jpg</image:loc>
+      <image:title>How does Google Wallet&apos;s notification feed work and can you disable it?</image:title>
     </image:image>
   </url>
   <url>
@@ -2265,21 +2415,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/solipsism-browser-android-app-aa-home-screen-2.jpg</image:loc>
       <image:title>The best Android browser isn&amp;#8217;t on the Play Store. Here’s how to install it</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-messages-homepage-redesign-pinned-chat-avatars-bottom-search-corner-gemini</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T23:08:00Z</news:publication_date>
-      <news:title>Google Messages homepage redesign: Pinned chat avatars, bottom search, corner Gemini</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/09/google-messages-thread-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Google Messages homepage redesign: Pinned chat avatars, bottom search, corner Gemini</image:title>
     </image:image>
   </url>
 </urlset>
