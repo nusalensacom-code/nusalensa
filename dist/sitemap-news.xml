@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/fitbit-sense-038-versa-losing-3rd-party-watch-faces-this-month-existing-downloads-remain</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T21:21:22Z</news:publication_date>
+      <news:title>Fitbit Sense &amp;#038; Versa losing 3rd-party watch faces this month, existing downloads remain</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2022/11/fitbit-sense-2-versa-4-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Fitbit Sense &amp;#038; Versa losing 3rd-party watch faces this month, existing downloads remain</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-global-pledge-to-use-ai-for-climate-good-is-a-cruel-joke</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T21:13:16Z</news:publication_date>
+      <news:title>The global pledge to use AI for climate good is a cruel joke</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2303840643.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>The global pledge to use AI for climate good is a cruel joke</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/googlebook-apps-built-by-googlers-add-macos-like-status-bar-shortcuts-keyboard-commands</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T21:05:00Z</news:publication_date>
+      <news:title>Googlebook apps built by Googlers add macOS-like status bar shortcuts, keyboard commands</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/hp-googlebook-14-4.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Googlebook apps built by Googlers add macOS-like status bar shortcuts, keyboard commands</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/macos-2721-fixes-emudhra-certificate-flaw-in-command-line-tools</loc>
     <news:news>
       <news:publication>
@@ -2010,21 +2055,6 @@
     <image:image>
       <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/09/google-messages-thread-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
       <image:title>Google Messages homepage redesign: Pinned chat avatars, bottom search, corner Gemini</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/039backglow039-lets-you-customize-new-macbook-pro039s-glowing-apple-logo</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T20:44:15Z</news:publication_date>
-      <news:title>&amp;#039;Backglow&amp;#039; Lets You Customize New MacBook Pro&amp;#039;s Glowing Apple Logo</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/MacBook-Pro-Glowing-Apple-Logo.jpg</image:loc>
-      <image:title>&amp;#039;Backglow&amp;#039; Lets You Customize New MacBook Pro&amp;#039;s Glowing Apple Logo</image:title>
     </image:image>
   </url>
 </urlset>
