@@ -2,6 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/samsung-galaxy-a34-gets-updated-to-one-ui-9-based-on-android-17</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/samsung-galaxy-a34-one-ui-9-update/gsmarena_000.jpg</image:loc>
+      <image:title>Samsung Galaxy A34 gets updated to One UI 9 based on Android 17</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/claude-fable-52-brings-big-gains-in-coding-and-robotics-at-a-lower-price</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/claude-voice-mode-featured-image.jpg</image:loc>
+      <image:title>Claude Fable 5.2 brings big gains in coding and robotics at a lower price</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/vivo-x500-x500-pro-and-x500-pro-max-prices-for-india-leak</loc>
     <lastmod>2026-11-10</lastmod>
     <changefreq>daily</changefreq>

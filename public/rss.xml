@@ -5,8 +5,26 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 10 Nov 2026 03:48:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 04:52:30 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Samsung Galaxy A34 gets updated to One UI 9 based on Android 17</title>
+      <link>https://nusalensa.com/phones/samsung-galaxy-a34-gets-updated-to-one-ui-9-based-on-android-17</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/samsung-galaxy-a34-gets-updated-to-one-ui-9-based-on-android-17</guid>
+      <description>Samsung has been on a roll lately with its updates to One UI 9 based on Android 17, and now the latest smartphone to get the update is the Galaxy A34 from 2023.</description>
+      <category>Smartphones</category>
+      <pubDate>Tue, 10 Nov 2026 04:45:03 GMT</pubDate>
+      <enclosure url="https://fdn.gsmarena.com/imgroot/news/26/11/samsung-galaxy-a34-one-ui-9-update/gsmarena_000.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Claude Fable 5.2 brings big gains in coding and robotics at a lower price</title>
+      <link>https://nusalensa.com/phones/claude-fable-52-brings-big-gains-in-coding-and-robotics-at-a-lower-price</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/claude-fable-52-brings-big-gains-in-coding-and-robotics-at-a-lower-price</guid>
+      <description>Claude Fable 5.2 is also faster and more affordable than Fable 5.1.</description>
+      <category>Smartphones</category>
+      <pubDate>Tue, 10 Nov 2026 04:21:38 GMT</pubDate>
+      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/07/claude-voice-mode-featured-image.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>vivo X500, X500 Pro, and X500 Pro Max prices for India leak</title>
       <link>https://nusalensa.com/phones/vivo-x500-x500-pro-and-x500-pro-max-prices-for-india-leak</link>
@@ -258,24 +276,6 @@
       <category>Technology</category>
       <pubDate>Mon, 09 Nov 2026 21:09:51 GMT</pubDate>
       <enclosure url="https://www.engadget.com/img/gallery/youtube-will-once-again-be-part-of-billboard-chart-calculations-in-2027/l-intro-1794258544.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Googlebook apps built by Googlers add macOS-like status bar shortcuts, keyboard commands</title>
-      <link>https://nusalensa.com/phones/googlebook-apps-built-by-googlers-add-macos-like-status-bar-shortcuts-keyboard-commands</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/googlebook-apps-built-by-googlers-add-macos-like-status-bar-shortcuts-keyboard-commands</guid>
-      <description>Googlebooks are a bit starved of desktop-class features at launch, but one of Google’s pitches around this platform is how apps can be built for it, and the com</description>
-      <category>Smartphones</category>
-      <pubDate>Mon, 09 Nov 2026 21:05:00 GMT</pubDate>
-      <enclosure url="https://9to5google.com/wp-content/uploads/sites/4/2026/10/hp-googlebook-14-4.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>5 Nintendo Switch 2 features everyone should know about</title>
-      <link>https://nusalensa.com/technology/5-nintendo-switch-2-features-everyone-should-know-about</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/5-nintendo-switch-2-features-everyone-should-know-about</guid>
-      <description>From finding hidden controllers to sharing games with others, improve your gaming experience on the Nintendo Switch 2 with these useful features.</description>
-      <category>Technology</category>
-      <pubDate>Mon, 09 Nov 2026 21:00:00 GMT</pubDate>
-      <enclosure url="https://www.engadget.com/img/gallery/5-nintendo-switch-2-features-everyone-should-know-about/l-intro-1793628827.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>

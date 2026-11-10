@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/samsung-galaxy-a34-gets-updated-to-one-ui-9-based-on-android-17</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T04:45:03Z</news:publication_date>
+      <news:title>Samsung Galaxy A34 gets updated to One UI 9 based on Android 17</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/samsung-galaxy-a34-one-ui-9-update/gsmarena_000.jpg</image:loc>
+      <image:title>Samsung Galaxy A34 gets updated to One UI 9 based on Android 17</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/claude-fable-52-brings-big-gains-in-coding-and-robotics-at-a-lower-price</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T04:21:38Z</news:publication_date>
+      <news:title>Claude Fable 5.2 brings big gains in coding and robotics at a lower price</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/claude-voice-mode-featured-image.jpg</image:loc>
+      <image:title>Claude Fable 5.2 brings big gains in coding and robotics at a lower price</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/vivo-x500-x500-pro-and-x500-pro-max-prices-for-india-leak</loc>
     <news:news>
       <news:publication>
