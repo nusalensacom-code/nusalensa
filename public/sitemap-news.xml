@@ -3,6 +3,201 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/ableton-live-13-announced-with-a-step-sequencer-new-drum-synth-and-more</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T17:43:49Z</news:publication_date>
+      <news:title>Ableton Live 13 announced with a step sequencer, new drum synth, and more</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/1-l13-stepseq-2.avif?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Ableton Live 13 announced with a step sequencer, new drum synth, and more</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/amazon-cuts-10-off-iniu8217s-45w-mini-portable-charger</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T17:37:15Z</news:publication_date>
+      <news:title>Amazon cuts $10 off INIU&amp;#8217;s 45W mini portable charger</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/INIU-10000mAh-45W-Power-Bank-Featured.jpg</image:loc>
+      <image:title>Amazon cuts $10 off INIU&amp;#8217;s 45W mini portable charger</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-indie-game-community-is-in-disarray-over-ai-and-big-walk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T17:32:47Z</news:publication_date>
+      <news:title>The indie game community is in disarray over AI and Big Walk</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/BigWalk_Screenshot_Jun26_01.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>The indie game community is in disarray over AI and Big Walk</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-fi-is-bringing-back-multiple-cell-network-support-for-better-coverage</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T17:32:39Z</news:publication_date>
+      <news:title>Google Fi is bringing back multiple cell network support for better coverage</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/google-fi-logo-larger.jpeg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Google Fi is bringing back multiple cell network support for better coverage</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-fi8217s-new-super-network-brings-automatic-5g-switching-pixel-deals-and-more</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T17:30:05Z</news:publication_date>
+      <news:title>Google Fi&amp;#8217;s new Super Network brings automatic 5G switching, Pixel deals, and more</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Google-Fi-Wireless-launch.jpg</image:loc>
+      <image:title>Google Fi&amp;#8217;s new Super Network brings automatic 5G switching, Pixel deals, and more</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-fi-brings-back-network-switching-with-secondary-partner-expands-w-beyond-pixel</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T17:30:00Z</news:publication_date>
+      <news:title>Google Fi brings back network switching with ‘secondary’ partner, expands W+ beyond Pixel</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Fi-Wireless-cover.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Google Fi brings back network switching with ‘secondary’ partner, expands W+ beyond Pixel</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/anthropic-has-its-own-ai-powered-office-suite-now</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T17:30:00Z</news:publication_date>
+      <news:title>Anthropic has its own AI-powered office suite now</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Anthropic has its own AI-powered office suite now</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/save-serious-money-with-redpockets-black-friday-plans-that-start-at-5-a-month</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T17:24:50Z</news:publication_date>
+      <news:title>Save serious money with RedPocket’s Black Friday plans that start at $5 a month</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/00947cc8ee4c3fe022e46888fd9a63f8_abt-us-mob.webp?w=1536</image:loc>
+      <image:title>Save serious money with RedPocket’s Black Friday plans that start at $5 a month</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/pixel-tag-tidbits-surprise-nfc-find-hub-setup-038-bellroy-keychain-cases</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T17:05:00Z</news:publication_date>
+      <news:title>Pixel Tag tidbits: Surprise NFC, Find Hub setup, &amp;#038; Bellroy keychain cases</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-pixel-tag-bellroy-2.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Pixel Tag tidbits: Surprise NFC, Find Hub setup, &amp;#038; Bellroy keychain cases</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/ring-is-launching-a-flying-security-camera-to-patrol-your-home</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T17:03:49Z</news:publication_date>
+      <news:title>Ring is launching a flying security camera to patrol your home</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Ring-Drone-Cam.jpg</image:loc>
+      <image:title>Ring is launching a flying security camera to patrol your home</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/i-lost-my-keys-twice-to-test-the-pixel-tag-it-aced-downtown-but-struggled-on-a-quiet-trail</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T17:00:20Z</news:publication_date>
+      <news:title>I lost my keys twice to test the Pixel Tag: It aced downtown but struggled on a quiet trail</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Google-Pixel-Tag-2.jpg</image:loc>
+      <image:title>I lost my keys twice to test the Pixel Tag: It aced downtown but struggled on a quiet trail</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-pixel-tag-initial-review-the-gold-standard-for-find-hub-trackers-whatever-thats-worth</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T17:00:00Z</news:publication_date>
+      <news:title>Google Pixel Tag Initial Review: The gold standard for Find Hub trackers, whatever that’s worth</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-pixel-tag-5_7be7d8.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Google Pixel Tag Initial Review: The gold standard for Find Hub trackers, whatever that’s worth</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/nintendo-switch-2-emulation-on-android-already-has-the-legend-of-zelda-ocarina-of-time-remake-up-and-running</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T16:59:47Z</news:publication_date>
+      <news:title>Nintendo Switch 2 emulation on Android already has The Legend of Zelda: Ocarina of Time remake up and running</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/redmagic-12-pro-zelda-ocarina-of-time-remake.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Nintendo Switch 2 emulation on Android already has The Legend of Zelda: Ocarina of Time remake up and running</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/tablets/deals-amazon-early-black-friday-sale-dell-googlebook-google-home-speaker-galaxy-tab-s12-ultra-up-to-330-off-more</loc>
     <news:news>
       <news:publication>
@@ -63,6 +258,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/technology/high-oil-prices-have-led-to-a-dip-in-global-carbon-emissions</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T16:29:27Z</news:publication_date>
+      <news:title>High oil prices have led to a dip in global carbon emissions</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2297120164-1152x648.jpg</image:loc>
+      <image:title>High oil prices have led to a dip in global carbon emissions</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/ebay-appears-to-have-shut-the-door-on-third-party-ai-agents</loc>
     <news:news>
       <news:publication>
@@ -105,6 +315,21 @@
     <image:image>
       <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2024/01/samsung-keyboard-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
       <image:title>One UI 9.5 might bring Pixel 11&amp;#8217;s &amp;#8216;Rambler&amp;#8217; feature to Samsung Keyboard before Google&amp;#8217;s</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/one-space-station-company-sues-another-for-copying-its-work</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T16:17:51Z</news:publication_date>
+      <news:title>One space station company sues another for copying its work</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/KSC-20230521-PH-CSH01_0001large-1152x648.jpg</image:loc>
+      <image:title>One space station company sues another for copying its work</image:title>
     </image:image>
   </url>
   <url>
@@ -3660,36 +3885,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Apple is racing to make Siri more agentic</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/siri-ai-rumored-to-become-039more-like-an-agent039-as-early-as-next-year</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-08T17:24:45Z</news:publication_date>
-      <news:title>Siri AI Rumored to Become &amp;#039;More Like an Agent&amp;#039; as Early as Next Year</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/Siri-AI-Icon.jpeg</image:loc>
-      <image:title>Siri AI Rumored to Become &amp;#039;More Like an Agent&amp;#039; as Early as Next Year</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/elvis-and-eminem-rights-holders-are-suing-suno</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-08T17:23:19Z</news:publication_date>
-      <news:title>Elvis and Eminem rights holders are suing Suno</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22202367/517216004.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Elvis and Eminem rights holders are suing Suno</image:title>
     </image:image>
   </url>
 </urlset>
