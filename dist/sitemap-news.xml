@@ -3,6 +3,111 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/one-of-our-favorite-multi-filament-3d-printers-is-100-off</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T18:42:03Z</news:publication_date>
+      <news:title>One of our favorite multi-filament 3D printers is $100 off</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/bambu-p2s.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>One of our favorite multi-filament 3D printers is $100 off</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/samsung-officially-details-gallery-sync-with-google-storage</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T18:31:02Z</news:publication_date>
+      <news:title>Samsung officially details Gallery sync with Google storage</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/samsung-gallery-google-sync-details/gsmarena_000.jpg</image:loc>
+      <image:title>Samsung officially details Gallery sync with Google storage</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/nothings-mysterious-upcoming-device-shows-off-a-record-button-in-new-teaser</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T18:15:55Z</news:publication_date>
+      <news:title>Nothing’s mysterious upcoming device shows off a record button in new teaser</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/nothing-ai-hardware-coming-soon-scaled.jpg</image:loc>
+      <image:title>Nothing’s mysterious upcoming device shows off a record button in new teaser</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/reddit-reviews-want-to-turn-user-discussions-into-easily-digestible-product-reviews</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T18:09:58Z</news:publication_date>
+      <news:title>Reddit Reviews want to turn user discussions into easily digestible product reviews</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2022/03/Reddit-stock-photo-5.jpg</image:loc>
+      <image:title>Reddit Reviews want to turn user discussions into easily digestible product reviews</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/pixel-journal-adds-recorder-audio-integration-038-export-option</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T18:00:38Z</news:publication_date>
+      <news:title>Pixel Journal adds Recorder audio integration &amp;#038; export option</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/03/pixel-journal-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Pixel Journal adds Recorder audio integration &amp;#038; export option</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/chatgpt-is-getting-verified-ai-business-agents</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T18:00:00Z</news:publication_date>
+      <news:title>ChatGPT is getting verified AI ‘Business Agents’</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Business-Agent-Customer-Conversation.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>ChatGPT is getting verified AI ‘Business Agents’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/next-ipad-air-likely-to-have-these-10-new-features</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T17:53:26Z</news:publication_date>
+      <news:title>Next iPad Air Likely to Have These 10 New Features</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/iPad-air-the-latest-rumors.jpg</image:loc>
+      <image:title>Next iPad Air Likely to Have These 10 New Features</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/ableton-live-13-announced-with-a-step-sequencer-new-drum-synth-and-more</loc>
     <news:news>
       <news:publication>
@@ -108,6 +213,36 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/apple-announces-swift-student-challenge-ahead-of-wwdc-2027</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T17:28:19Z</news:publication_date>
+      <news:title>Apple Announces Swift Student Challenge Ahead of WWDC 2027</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/apple-swift-student-challenge-2027.jpeg</image:loc>
+      <image:title>Apple Announces Swift Student Challenge Ahead of WWDC 2027</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/steam-deck-performance-gets-a-reality-check-with-valves-new-fps-data</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T17:26:44Z</news:publication_date>
+      <news:title>Steam Deck performance gets a reality check with Valve&apos;s new FPS data</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_8144-scaled-1152x648-1794329069.jpg</image:loc>
+      <image:title>Steam Deck performance gets a reality check with Valve&apos;s new FPS data</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/save-serious-money-with-redpockets-black-friday-plans-that-start-at-5-a-month</loc>
     <news:news>
       <news:publication>
@@ -120,6 +255,36 @@
     <image:image>
       <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/00947cc8ee4c3fe022e46888fd9a63f8_abt-us-mob.webp?w=1536</image:loc>
       <image:title>Save serious money with RedPocket’s Black Friday plans that start at $5 a month</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/ipad-mini-2021-vs-2026-buyer039s-guide-is-it-worth-upgrading</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T17:11:48Z</news:publication_date>
+      <news:title>iPad Mini 2021 vs. 2026 Buyer&amp;#039;s Guide: Is It Worth Upgrading?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/iPad-mini-OLED-feature-4.jpg</image:loc>
+      <image:title>iPad Mini 2021 vs. 2026 Buyer&amp;#039;s Guide: Is It Worth Upgrading?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/new-apple-tv-sign-language-feature-announced</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T17:11:11Z</news:publication_date>
+      <news:title>New Apple TV Sign Language Feature Announced</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/Apple-TV-Sign-Language-Interpretation.jpg</image:loc>
+      <image:title>New Apple TV Sign Language Feature Announced</image:title>
     </image:image>
   </url>
   <url>
@@ -150,6 +315,21 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Ring-Drone-Cam.jpg</image:loc>
       <image:title>Ring is launching a flying security camera to patrol your home</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/xiaomi-18-pro-in-for-review</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T17:01:03Z</news:publication_date>
+      <news:title>Xiaomi 18 Pro in for review</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/xiaomi-18-pro-ifr/gsmarena_000.jpg</image:loc>
+      <image:title>Xiaomi 18 Pro in for review</image:title>
     </image:image>
   </url>
   <url>
@@ -195,6 +375,36 @@
     <image:image>
       <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/redmagic-12-pro-zelda-ocarina-of-time-remake.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
       <image:title>Nintendo Switch 2 emulation on Android already has The Legend of Zelda: Ocarina of Time remake up and running</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/anker039s-early-black-friday-sale-surprises-with-mystery-boxes-and-big-discounts</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T16:58:43Z</news:publication_date>
+      <news:title>Anker&amp;#039;s Early Black Friday Sale Surprises With Mystery Boxes and Big Discounts</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/anker-early-black-friday.jpeg</image:loc>
+      <image:title>Anker&amp;#039;s Early Black Friday Sale Surprises With Mystery Boxes and Big Discounts</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/lgs-2026-65-inch-oled-b6-gets-a-huge-50-discount</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T16:58:39Z</news:publication_date>
+      <news:title>LG’s 2026 65-inch OLED B6 gets a huge 50% discount</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/LG-2026-65-Inch-OLED-B6-Smart-TV-Featured.jpg</image:loc>
+      <image:title>LG’s 2026 65-inch OLED B6 gets a huge 50% discount</image:title>
     </image:image>
   </url>
   <url>
@@ -360,6 +570,21 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/03/Samsung-Galaxy-A25-5G-gallery.jpg</image:loc>
       <image:title>It’s official: Samsung Gallery now uses your Google storage to sync your photos and videos</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/disable-touch-on-macbook-pro-proled-xdr-and-when-using-sidecar</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T16:05:48Z</news:publication_date>
+      <news:title>Disable Touch on MacBook Pro PROLED XDR and When Using Sidecar</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/oled-macbook-pro-touch.jpg</image:loc>
+      <image:title>Disable Touch on MacBook Pro PROLED XDR and When Using Sidecar</image:title>
     </image:image>
   </url>
   <url>
