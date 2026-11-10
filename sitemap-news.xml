@@ -3,6 +3,141 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/oled-ipad-air-rumored-to-launch-in-two-sizes-in-early-2027</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T13:42:52Z</news:publication_date>
+      <news:title>OLED iPad Air Rumored to Launch in Two Sizes in Early 2027</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2025/03/m3-ipad-air-blue.jpeg</image:loc>
+      <image:title>OLED iPad Air Rumored to Launch in Two Sizes in Early 2027</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/hands-on-with-rings-new-ai-drone-camera-for-your-home</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T13:30:00Z</news:publication_date>
+      <news:title>Hands-on with Ring’s new AI drone camera for your home</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC01268.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Hands-on with Ring’s new AI drone camera for your home</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/amazon-turned-its-alexa-robot-into-a-ring-security-patrol-bot</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T13:30:00Z</news:publication_date>
+      <news:title>Amazon turned its Alexa robot into a Ring security patrol bot</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ringrover1_31dee3.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Amazon turned its Alexa robot into a Ring security patrol bot</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/what-does-floating-mean-on-your-anker-smart-chargers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T13:15:00Z</news:publication_date>
+      <news:title>What does &apos;Floating&apos; mean on your Anker smart chargers?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/what-does-floating-mean-on-your-anker-smart-chargers/l-intro-1793653150.jpg</image:loc>
+      <image:title>What does &apos;Floating&apos; mean on your Anker smart chargers?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/huawei-teases-new-matebook-fold-laptop-with-cover-screen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T13:13:02Z</news:publication_date>
+      <news:title>Huawei teases new MateBook Fold laptop with cover screen</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/huawei-matebook-fold-s-teasers/gsmarena_000.jpg</image:loc>
+      <image:title>Huawei teases new MateBook Fold laptop with cover screen</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/spacexs-first-attempt-to-catch-both-starship-stages-takes-place-november-13</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T13:03:18Z</news:publication_date>
+      <news:title>SpaceX&apos;s first attempt to catch both Starship stages takes place November 13</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/spacexs-first-attempt-to-catch-both-starship-stages-takes-place-november-13/l-intro-1794315716.jpg</image:loc>
+      <image:title>SpaceX&apos;s first attempt to catch both Starship stages takes place November 13</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/steelseries-rival-pro-review-rock-solid-connectivity-speed-and-a-nifty-battery-system</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T13:00:00Z</news:publication_date>
+      <news:title>SteelSeries Rival Pro review: Rock solid connectivity, speed and a nifty battery system</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/steelseries-rival-pro-review-rock-solid-connectivity-speed-and-a-nifty-battery-system/l-intro-1794250698.jpg</image:loc>
+      <image:title>SteelSeries Rival Pro review: Rock solid connectivity, speed and a nifty battery system</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-original-ipod-went-on-sale-25-years-ago-today</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T12:54:45Z</news:publication_date>
+      <news:title>The Original iPod Went on Sale 25 Years Ago Today</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/ipod.jpg</image:loc>
+      <image:title>The Original iPod Went on Sale 25 Years Ago Today</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T12:15:32Z</news:publication_date>
+      <news:title>Ukraine’s fiber-optic drones get squeezed by AI data center demand</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/Fiber-optic-drone-cable-1152x648.jpg</image:loc>
+      <image:title>Ukraine’s fiber-optic drones get squeezed by AI data center demand</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/apple-maps-could-factor-parking-into-your-arrival-time</loc>
     <news:news>
       <news:publication>
@@ -33,6 +168,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/reviews/review-apples-m6-macbook-pro-is-good-but-its-missing-all-the-exciting-stuff</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T12:00:21Z</news:publication_date>
+      <news:title>Review: Apple&apos;s M6 MacBook Pro is good, but it&apos;s missing all the exciting stuff</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/IMG_9768-1152x648.jpeg</image:loc>
+      <image:title>Review: Apple&apos;s M6 MacBook Pro is good, but it&apos;s missing all the exciting stuff</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/waze-now-alerts-drivers-to-nearby-cyclists-using-garmin-livetrack</loc>
     <news:news>
       <news:publication>
@@ -60,6 +210,21 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/02/android-auto-waze-1.jpg</image:loc>
       <image:title>Waze&amp;#8217;s new Garmin-powered feature could make roads a lot safer for cyclists</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/samsung8217s-paid-galaxy-ai-plan-has-a-giant-gemini-problem</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T12:00:00Z</news:publication_date>
+      <news:title>Samsung&amp;#8217;s paid Galaxy AI plan has a giant Gemini problem</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/03/galaxy-s26-series-ai-4.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Samsung&amp;#8217;s paid Galaxy AI plan has a giant Gemini problem</image:title>
     </image:image>
   </url>
   <url>
@@ -2925,21 +3090,6 @@
     <image:image>
       <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/android-tablets-amazon-lenovo-redmagic.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
       <image:title>Android tablets are back, but are they for you?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/theres-no-slowing-down-medias-pivot-to-video-20</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-08T13:00:00Z</news:publication_date>
-      <news:title>There’s no slowing down media’s pivot-to-video 2.0</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2264895316.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>There’s no slowing down media’s pivot-to-video 2.0</image:title>
     </image:image>
   </url>
 </urlset>
