@@ -3,6 +3,111 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/one-ui-95-may-introduce-multiple-new-input-options-to-bixby-widgets</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T11:21:39Z</news:publication_date>
+      <news:title>One UI 9.5 may introduce multiple new input options to Bixby widgets</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/bixby-voice-commands.jpg</image:loc>
+      <image:title>One UI 9.5 may introduce multiple new input options to Bixby widgets</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/vivo-x500-ultra-tipped-to-feature-two-sony-lytia-l910-camera-sensors-with-lofic-tech</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T11:06:02Z</news:publication_date>
+      <news:title>vivo X500 Ultra tipped to feature two Sony LYTIA L910 camera sensors with LOFIC tech</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/vivo-x500-ultra-global/gsmarena_000.jpg</image:loc>
+      <image:title>vivo X500 Ultra tipped to feature two Sony LYTIA L910 camera sensors with LOFIC tech</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/seagates-firecuda-forge-moves-your-data-between-a-hard-drive-and-ssd-for-better-performance</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T11:01:00Z</news:publication_date>
+      <news:title>Seagate’s FireCuda Forge moves your data between a hard drive and SSD for better performance</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/seagate1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Seagate’s FireCuda Forge moves your data between a hard drive and SSD for better performance</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/i-ditched-google-chrome-for-firefox-for-a-week-and-i-finally-see-the-appeal</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T11:00:17Z</news:publication_date>
+      <news:title>I ditched Google Chrome for Firefox for a week, and I finally see the appeal</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Windows-laptop-showing-Chrome-and-Firefox-side-by-side-scaled.jpg</image:loc>
+      <image:title>I ditched Google Chrome for Firefox for a week, and I finally see the appeal</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/real-motors-project-ares-is-a-cyberpunk-fantasy-made-real</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T11:00:00Z</news:publication_date>
+      <news:title>Real Motors’ Project Ares is a cyberpunk fantasy made real</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/2026-Real-Motors-Project-Ares-009.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Real Motors’ Project Ares is a cyberpunk fantasy made real</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/i-used-the-pixel-11-pro-xl-and-galaxy-s26-ultra-for-a-week-this-is-the-one-i8217d-keep</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T10:30:02Z</news:publication_date>
+      <news:title>I used the Pixel 11 Pro XL and Galaxy S26 Ultra for a week. This is the one I&amp;#8217;d keep</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Samsung-Galaxy-S26-Ultra-and-Google-Pixel-11-Pro-XL-side-by-side-on-a-table.jpg</image:loc>
+      <image:title>I used the Pixel 11 Pro XL and Galaxy S26 Ultra for a week. This is the one I&amp;#8217;d keep</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/hunter-is-killing-google-home-and-alexa-voice-commands-and-automations-in-favor-of-matter</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T10:27:06Z</news:publication_date>
+      <news:title>Hunter is killing Google Home and Alexa voice commands and automations in favor of Matter</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/06/google-home-speaker-review-8-scaled.jpg</image:loc>
+      <image:title>Hunter is killing Google Home and Alexa voice commands and automations in favor of Matter</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/gta-6-is-now-available-for-preload-if-you-have-a-spare-212gb</loc>
     <news:news>
       <news:publication>
@@ -2775,36 +2880,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-game-main-menu-scaled.jpg</image:loc>
       <image:title>I played Android’s first AI frame-gen game: Mobile just had its DLSS moment</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-wants-to-lock-android-down-but-droynis-teaches-you-how-to-stay-safe-instead</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-08T11:00:53Z</news:publication_date>
-      <news:title>Google wants to lock Android down, but Droynis teaches you how to stay safe instead</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/droynis-android-security-app-1.jpg</image:loc>
-      <image:title>Google wants to lock Android down, but Droynis teaches you how to stay safe instead</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/7-apps-that-still-look-terrible-on-foldables-and-google-should-call-them-out-first</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-08T10:30:58Z</news:publication_date>
-      <news:title>7 apps that still look terrible on foldables, and Google should call them out first</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Uber-Eats-on-Galaxy-Z-Fold-8-scaled.jpg</image:loc>
-      <image:title>7 apps that still look terrible on foldables, and Google should call them out first</image:title>
     </image:image>
   </url>
 </urlset>
