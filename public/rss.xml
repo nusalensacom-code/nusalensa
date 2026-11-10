@@ -5,8 +5,17 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 10 Nov 2026 20:46:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 21:43:18 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sony cancels live-service shooter Fairgames</title>
+      <link>https://nusalensa.com/technology/sony-cancels-live-service-shooter-fairgames</link>
+      <guid isPermaLink="true">https://nusalensa.com/technology/sony-cancels-live-service-shooter-fairgames</guid>
+      <description>Sony has canceled Fairgames, a heist game announced in 2023, according to Bloomberg. Fairgames had once been part of Sony&apos;s big planned push for PlayStation liv</description>
+      <category>Technology</category>
+      <pubDate>Tue, 10 Nov 2026 21:06:12 GMT</pubDate>
+      <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK097_01.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Samsung is getting its Galaxy Wearable app ready for its smart glasses debut</title>
       <link>https://nusalensa.com/phones/samsung-is-getting-its-galaxy-wearable-app-ready-for-its-smart-glasses-debut</link>
@@ -267,15 +276,6 @@
       <category>Smartphones</category>
       <pubDate>Tue, 10 Nov 2026 18:00:38 GMT</pubDate>
       <enclosure url="https://9to5google.com/wp-content/uploads/sites/4/2026/03/pixel-journal-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>ChatGPT is getting verified AI ‘Business Agents’</title>
-      <link>https://nusalensa.com/phones/chatgpt-is-getting-verified-ai-business-agents</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/chatgpt-is-getting-verified-ai-business-agents</guid>
-      <description>ChatGPT is going to let you chat with verified &quot;Business Agents&quot; that represent a brand to help you with things like comparison shopping. The feature, available</description>
-      <category>Smartphones</category>
-      <pubDate>Tue, 10 Nov 2026 18:00:00 GMT</pubDate>
-      <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Business-Agent-Customer-Conversation.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>

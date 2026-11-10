@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/sony-cancels-live-service-shooter-fairgames</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T21:06:12Z</news:publication_date>
+      <news:title>Sony cancels live-service shooter Fairgames</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK097_01.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Sony cancels live-service shooter Fairgames</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/samsung-is-getting-its-galaxy-wearable-app-ready-for-its-smart-glasses-debut</loc>
     <news:news>
       <news:publication>
@@ -4410,21 +4425,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/a3168552135_10.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Soul Glo’s Diaspora Problems is a hardcore record like no other</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/epic-games-launcher-is-coming-to-steamos</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-08T20:52:05Z</news:publication_date>
-      <news:title>Epic Games Launcher is coming to SteamOS</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK108_EPIC_GAMES_C.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Epic Games Launcher is coming to SteamOS</image:title>
     </image:image>
   </url>
 </urlset>
