@@ -5,8 +5,17 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 10 Nov 2026 02:54:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 03:48:07 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>vivo X500, X500 Pro, and X500 Pro Max prices for India leak</title>
+      <link>https://nusalensa.com/phones/vivo-x500-x500-pro-and-x500-pro-max-prices-for-india-leak</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/vivo-x500-x500-pro-and-x500-pro-max-prices-for-india-leak</guid>
+      <description>vivo launched the X500, X500 Pro, and X500 Pro Max in China in September and then they went global last month, but they&apos;re still not officially available in Ind</description>
+      <category>Smartphones</category>
+      <pubDate>Tue, 10 Nov 2026 03:30:02 GMT</pubDate>
+      <enclosure url="https://fdn.gsmarena.com/imgroot/news/26/11/vivo-x500-series-price-in-india/gsmarena_000.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Every senior with an Apple Watch should set up these 5 health alerts</title>
       <link>https://nusalensa.com/phones/every-senior-with-an-apple-watch-should-set-up-these-5-health-alerts</link>
@@ -267,15 +276,6 @@
       <category>Technology</category>
       <pubDate>Mon, 09 Nov 2026 21:00:00 GMT</pubDate>
       <enclosure url="https://www.engadget.com/img/gallery/5-nintendo-switch-2-features-everyone-should-know-about/l-intro-1793628827.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Apple starts offering $50 extended usage packs for AI features in Creator Studio</title>
-      <link>https://nusalensa.com/technology/apple-starts-offering-50-extended-usage-packs-for-ai-features-in-creator-studio</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/apple-starts-offering-50-extended-usage-packs-for-ai-features-in-creator-studio</guid>
-      <description>It&apos;ll cost you to access Logic Pro&apos;s AI assistant after you reach the monthly usage limit.</description>
-      <category>Technology</category>
-      <pubDate>Mon, 09 Nov 2026 20:56:51 GMT</pubDate>
-      <enclosure url="https://www.engadget.com/img/gallery/apple-starts-offering-50-extended-usage-packs-for-ai-features-in-creator-studio/l-intro-1794257746.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
