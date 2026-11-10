@@ -5,8 +5,26 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 10 Nov 2026 07:03:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 08:15:24 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HoverAir Versa review: Convenience and creativity with compromises</title>
+      <link>https://nusalensa.com/reviews/hoverair-versa-review-convenience-and-creativity-with-compromises</link>
+      <guid isPermaLink="true">https://nusalensa.com/reviews/hoverair-versa-review-convenience-and-creativity-with-compromises</guid>
+      <description>The HoverAir Versa is a clever combination that makes a lot of sense, but don&apos;t expect the best of both worlds.</description>
+      <category>Reviews</category>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://www.engadget.com/img/gallery/hoverair-versa-review-convenience-and-creativity-with-compromises/l-intro-1794254958.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>vivo&apos;s 12,000mAh battery is in mass production, says tipster</title>
+      <link>https://nusalensa.com/phones/vivos-12000mah-battery-is-in-mass-production-says-tipster</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/vivos-12000mah-battery-is-in-mass-production-says-tipster</guid>
+      <description>Earlier this year, a tipster revealed that vivo was testing a smartphone battery with a typical capacity of between 11,000mAh and 12,000mAh. Now, the same tipst</description>
+      <category>Smartphones</category>
+      <pubDate>Tue, 10 Nov 2026 07:15:02 GMT</pubDate>
+      <enclosure url="https://fdn.gsmarena.com/imgroot/news/26/11/vivo-12000-mah-battery-rumor/gsmarena_00.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Galaxy Watch 8 users in the US start receiving stable One UI 9 with Wear OS 7</title>
       <link>https://nusalensa.com/phones/galaxy-watch-8-users-in-the-us-start-receiving-stable-one-ui-9-with-wear-os-7</link>
@@ -258,24 +276,6 @@
       <category>Smartphones</category>
       <pubDate>Mon, 09 Nov 2026 21:47:39 GMT</pubDate>
       <enclosure url="https://images.macrumors.com/article-new/2025/09/eufycam.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>MSI’s refurbished QD-OLED gaming monitor is on sale for under $300</title>
-      <link>https://nusalensa.com/technology/msis-refurbished-qd-oled-gaming-monitor-is-on-sale-for-under-300</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/msis-refurbished-qd-oled-gaming-monitor-is-on-sale-for-under-300</guid>
-      <description>One of the best upgrades you can make to your PC gaming setup is an OLED monitor. Fortunately, MSI’s factory-reconditioned Mag 272QP X24 is on sale at Woot thro</description>
-      <category>Technology</category>
-      <pubDate>Mon, 09 Nov 2026 21:43:41 GMT</pubDate>
-      <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/msi-mag-272qp-x24-product.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Xiaomi 18 Pro Max in for review</title>
-      <link>https://nusalensa.com/phones/xiaomi-18-pro-max-in-for-review</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/xiaomi-18-pro-max-in-for-review</guid>
-      <description>We got our hands on the latest Xiaomi 18 Pros, and we&apos;re unboxing both, starting with the Xiaomi 18 Pro Max. Here&apos;s the video unboxing over at our official TikT</description>
-      <category>Smartphones</category>
-      <pubDate>Mon, 09 Nov 2026 21:31:02 GMT</pubDate>
-      <enclosure url="https://fdn.gsmarena.com/imgroot/news/26/11/xiaomi-18-pro-max-ifr/gsmarena_000.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
