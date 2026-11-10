@@ -3,6 +3,81 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/galaxy-watch-8-users-in-the-us-start-receiving-stable-one-ui-9-with-wear-os-7</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T07:02:33Z</news:publication_date>
+      <news:title>Galaxy Watch 8 users in the US start receiving stable One UI 9 with Wear OS 7</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/03/galaxy-watch-8-next-to-a-smartphone-with-sleep-data-scaled.jpg</image:loc>
+      <image:title>Galaxy Watch 8 users in the US start receiving stable One UI 9 with Wear OS 7</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/qualcomm-survey-unsurprisingly-finds-people-want-ai-agents-on-their-wearables</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T06:53:20Z</news:publication_date>
+      <news:title>Qualcomm survey unsurprisingly finds people want AI agents on their wearables</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2023/02/QUALCOMM-LOGO-MWC-2023-scaled.jpg</image:loc>
+      <image:title>Qualcomm survey unsurprisingly finds people want AI agents on their wearables</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/galaxy-s27-series-leak-reveals-all-the-camera-sensors</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T06:04:38Z</news:publication_date>
+      <news:title>Galaxy S27 series leak reveals all the camera sensors</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/02/Samsung-Galaxy-S26-series-showing-backs-1.jpg</image:loc>
+      <image:title>Galaxy S27 series leak reveals all the camera sensors</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-rolls-out-gemini-memory-summary-to-let-you-see-and-edit-what-it-remembers-about-you</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T06:01:14Z</news:publication_date>
+      <news:title>Google rolls out Gemini Memory summary to let you see and edit what it remembers about you</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/gemini-spark-sidebar-option-gemini-app-iphone-hero-image.jpg</image:loc>
+      <image:title>Google rolls out Gemini Memory summary to let you see and edit what it remembers about you</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/xiaomi-18-pro-india-launch-month-leaks-along-with-xiaomi-18t-specs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T06:00:02Z</news:publication_date>
+      <news:title>Xiaomi 18 Pro India launch month leaks along with Xiaomi 18T specs</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/xiaomi-18-pro-india-18t-specs/gsmarena_000.jpg</image:loc>
+      <image:title>Xiaomi 18 Pro India launch month leaks along with Xiaomi 18T specs</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/samsung-galaxy-a34-gets-updated-to-one-ui-9-based-on-android-17</loc>
     <news:news>
       <news:publication>
