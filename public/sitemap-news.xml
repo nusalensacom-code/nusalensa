@@ -3,6 +3,111 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/apple-maps-could-factor-parking-into-your-arrival-time</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T12:15:18Z</news:publication_date>
+      <news:title>Apple Maps Could Factor Parking Into Your Arrival Time</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/04/Apple-Maps-General.jpg</image:loc>
+      <image:title>Apple Maps Could Factor Parking Into Your Arrival Time</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/more-oppo-find-n7-specs-emerge</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T12:07:02Z</news:publication_date>
+      <news:title>More Oppo Find N7 specs emerge</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/more-oppo-find-n7-specs-emerge/gsmarena_000.jpg</image:loc>
+      <image:title>More Oppo Find N7 specs emerge</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/waze-now-alerts-drivers-to-nearby-cyclists-using-garmin-livetrack</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T12:00:10Z</news:publication_date>
+      <news:title>Waze Now Alerts Drivers to Nearby Cyclists Using Garmin LiveTrack</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/waze-garmin-cycling-alerts-scaled.jpg</image:loc>
+      <image:title>Waze Now Alerts Drivers to Nearby Cyclists Using Garmin LiveTrack</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/waze8217s-new-garmin-powered-feature-could-make-roads-a-lot-safer-for-cyclists</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T12:00:01Z</news:publication_date>
+      <news:title>Waze&amp;#8217;s new Garmin-powered feature could make roads a lot safer for cyclists</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/02/android-auto-waze-1.jpg</image:loc>
+      <image:title>Waze&amp;#8217;s new Garmin-powered feature could make roads a lot safer for cyclists</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/garmin-users-can-now-share-their-cycling-location-through-waze-for-extra-safety</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T12:00:00Z</news:publication_date>
+      <news:title>Garmin users can now share their cycling location through Waze for extra safety</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/garmin-users-can-now-share-their-cycling-location-through-waze-for-extra-safety/l-intro-1794247614.jpg</image:loc>
+      <image:title>Garmin users can now share their cycling location through Waze for extra safety</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/iphone-20-pro-ten-big-changes-that-could-redefine-apple039s-flagship</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T11:39:01Z</news:publication_date>
+      <news:title>iPhone 20 Pro: Ten Big Changes That Could Redefine Apple&amp;#039;s Flagship</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/01/Mostly-Screen-iPhone-Purple-Feature-2027.jpg</image:loc>
+      <image:title>iPhone 20 Pro: Ten Big Changes That Could Redefine Apple&amp;#039;s Flagship</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/your-galaxy-phone-could-soon-let-you-record-whatsapp-telegram-and-google-meet-calls</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T11:36:37Z</news:publication_date>
+      <news:title>Your Galaxy phone could soon let you record WhatsApp, Telegram, and Google Meet calls</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/one-ui-9-frowning-plush-scaled.jpg</image:loc>
+      <image:title>Your Galaxy phone could soon let you record WhatsApp, Telegram, and Google Meet calls</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/one-ui-95-may-introduce-multiple-new-input-options-to-bixby-widgets</loc>
     <news:news>
       <news:publication>
@@ -2835,51 +2940,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2264895316.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>There’s no slowing down media’s pivot-to-video 2.0</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-08T12:15:31Z</news:publication_date>
-      <news:title>Physicists listened to electrical noise to crack a superconductor mystery</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-90737843-884x648.jpg</image:loc>
-      <image:title>Physicists listened to electrical noise to crack a superconductor mystery</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/i-tested-coloros-17-on-the-oneplus-15-here-are-3-things-you-need-to-know</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-08T12:00:39Z</news:publication_date>
-      <news:title>I tested ColorOS 17 on the OnePlus 15. Here are 3 things you need to know</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/ColorOS-17-on-OnePlus-15-showing-software-screen.jpg</image:loc>
-      <image:title>I tested ColorOS 17 on the OnePlus 15. Here are 3 things you need to know</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/i-played-androids-first-ai-frame-gen-game-mobile-just-had-its-dlss-moment</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-08T11:30:32Z</news:publication_date>
-      <news:title>I played Android’s first AI frame-gen game: Mobile just had its DLSS moment</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Neural-Dawn-game-main-menu-scaled.jpg</image:loc>
-      <image:title>I played Android’s first AI frame-gen game: Mobile just had its DLSS moment</image:title>
     </image:image>
   </url>
 </urlset>
