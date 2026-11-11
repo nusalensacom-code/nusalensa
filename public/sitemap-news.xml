@@ -3,6 +3,156 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/retroid-pocket-duo-pre-orders-are-now-shipping-in-all-5-colors</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T18:41:17Z</news:publication_date>
+      <news:title>Retroid Pocket Duo pre-orders are now shipping in all 5 colors</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Retroid-Pocket-Duo-2.jpg</image:loc>
+      <image:title>Retroid Pocket Duo pre-orders are now shipping in all 5 colors</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-voice-appears-to-finally-be-working-on-rcs-support</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T18:30:00Z</news:publication_date>
+      <news:title>Google Voice appears to finally be working on RCS support</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/05/google-voice-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Google Voice appears to finally be working on RCS support</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/google-updates-8-translate-widgets-with-a-clean-refined-new-design</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T18:26:06Z</news:publication_date>
+      <news:title>Google updates 8 Translate widgets with a clean, refined new design</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/google-translate-icon-home-screen.jpg</image:loc>
+      <image:title>Google updates 8 Translate widgets with a clean, refined new design</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/peacock-is-redesigning-its-mobile-app-to-focus-more-on-vertical-videos</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T18:24:40Z</news:publication_date>
+      <news:title>Peacock is redesigning its mobile app to focus more on vertical videos</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/peacock-is-redesigning-its-mobile-app-to-focus-more-on-vertical-videos/l-intro-1794421435.jpg</image:loc>
+      <image:title>Peacock is redesigning its mobile app to focus more on vertical videos</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/xiaomi-watch-s5-41mm-xiaomi-smart-band-11-xiaomi-clip-earbuds-will-be-at-next-weeks-event</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T18:19:02Z</news:publication_date>
+      <news:title>Xiaomi Watch S5 41mm, Xiaomi Smart Band 11, Xiaomi Clip earbuds will be at next week&apos;s event</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/xiaomi-watch-band-clip-november-17/gsmarena_000.jpg</image:loc>
+      <image:title>Xiaomi Watch S5 41mm, Xiaomi Smart Band 11, Xiaomi Clip earbuds will be at next week&apos;s event</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/loot-boxes-influencers-and-addictive-features-face-an-eu-crackdown</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T18:13:52Z</news:publication_date>
+      <news:title>Loot boxes, influencers, and addictive features face an EU crackdown</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319789/STK450_EU_E.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Loot boxes, influencers, and addictive features face an EU crackdown</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/you-can-now-play-henry-cavills-mustache-protocol-game-made-on-googlebook-u</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T18:10:00Z</news:publication_date>
+      <news:title>You can now play Henry Cavill’s ‘Mustache Protocol’ game made on Googlebook [U]</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/Henry-Cavill-Mustache-Protocol-Googlebook.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>You can now play Henry Cavill’s ‘Mustache Protocol’ game made on Googlebook [U]</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/blue-phone-gives-google8217s-pixel-10-pro-an-ai-assistant-that-goes-beyond-gemini</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T18:00:13Z</news:publication_date>
+      <news:title>Blue Phone gives Google&amp;#8217;s Pixel 10 Pro an AI assistant that goes beyond Gemini</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-10-pro-screen-on-home-screen-scaled.jpg</image:loc>
+      <image:title>Blue Phone gives Google&amp;#8217;s Pixel 10 Pro an AI assistant that goes beyond Gemini</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-pixel-tag-is-only-available-in-8-countries-and-excludes-europe</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T18:00:00Z</news:publication_date>
+      <news:title>Google Pixel Tag is only available in 8 countries, and excludes Europe</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-pixel-tag-1_232188.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Google Pixel Tag is only available in 8 countries, and excludes Europe</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/how-to-replace-the-battery-on-pixel-tag-video</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T18:00:00Z</news:publication_date>
+      <news:title>How to replace the battery on Pixel Tag [Video]</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Pixel-Tag.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>How to replace the battery on Pixel Tag [Video]</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/roku-will-stop-selling-smart-home-devices-and-refocus-on-streaming</loc>
     <news:news>
       <news:publication>
@@ -4320,156 +4470,6 @@
     <image:image>
       <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Play-collage-f7a79a.webp?w=1600</image:loc>
       <image:title>Monday’s Android app deals and freebies: Absolum, Death Worm, Minabo, more</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/you-can-grab-three-months-of-game-pass-ultimate-for-under-20-per-month</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T18:35:25Z</news:publication_date>
-      <news:title>You can grab three months of Game Pass Ultimate for under $20 per month</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/xbox-game-pass-ultimate-roundup.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>You can grab three months of Game Pass Ultimate for under $20 per month</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-pixel-11-pro-xl-vs-pixel-10-pro-xl</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T18:31:02Z</news:publication_date>
-      <news:title>Google Pixel 11 Pro XL vs. Pixel 10 Pro XL</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/vs-vs-vs-vs-vs-thumbs-vs/gsmarena_001.jpg</image:loc>
-      <image:title>Google Pixel 11 Pro XL vs. Pixel 10 Pro XL</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/google-store-previews-black-friday-2026-deals-starting-nov-19</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T18:29:32Z</news:publication_date>
-      <news:title>Google Store previews Black Friday 2026 deals, starting Nov. 19</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Store-Black-Friday-2026.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Google Store previews Black Friday 2026 deals, starting Nov. 19</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/apple-releases-ios-2721-with-bug-fixes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T18:27:55Z</news:publication_date>
-      <news:title>Apple Releases iOS 27.2.1 With Bug Fixes</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/iOS-27.2.1-Feature.jpg</image:loc>
-      <image:title>Apple Releases iOS 27.2.1 With Bug Fixes</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-continues-to-say-some-ai-features-will-have-fees-for-extra-usage</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T18:23:20Z</news:publication_date>
-      <news:title>Apple Continues to Say Some AI Features Will Have Fees for Extra Usage</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/Siri-AI-Icon.jpeg</image:loc>
-      <image:title>Apple Continues to Say Some AI Features Will Have Fees for Extra Usage</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/how-does-google-wallets-notification-feed-work-and-can-you-disable-it</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T18:15:00Z</news:publication_date>
-      <news:title>How does Google Wallet&apos;s notification feed work and can you disable it?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/how-does-google-wallets-notification-feed-work-and-can-you-disable-it/l-intro-1793810405.jpg</image:loc>
-      <image:title>How does Google Wallet&apos;s notification feed work and can you disable it?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-releases-macos-golden-gate-2721</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T18:13:57Z</news:publication_date>
-      <news:title>Apple Releases macOS Golden Gate 27.2.1</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/06/macOS-27-next-to-MacBook-Pro-Running-macOS-27.jpg</image:loc>
-      <image:title>Apple Releases macOS Golden Gate 27.2.1</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-releases-watchos-2721-and-visionos-2721-with-security-fixes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T18:08:00Z</news:publication_date>
-      <news:title>Apple Releases watchOS 27.2.1 and visionOS 27.2.1 With Security Fixes</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/06/watchos-27.jpg</image:loc>
-      <image:title>Apple Releases watchOS 27.2.1 and visionOS 27.2.1 With Security Fixes</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/instagrams-effect-builder-makes-new-filters-from-ai-prompts</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T18:07:23Z</news:publication_date>
-      <news:title>Instagram’s Effect Builder makes new filters from AI prompts</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-effect-builder-launch-2.jpeg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Instagram’s Effect Builder makes new filters from AI prompts</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-watch-ultra-4-gets-3699-amazon-discounts-starting-at-3669999</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T17:59:17Z</news:publication_date>
-      <news:title>Apple Watch Ultra 4 Gets &amp;#36;99 Amazon Discounts, Starting at &amp;#36;699.99</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/apple-watch-ultra-4-blue.jpeg</image:loc>
-      <image:title>Apple Watch Ultra 4 Gets &amp;#36;99 Amazon Discounts, Starting at &amp;#36;699.99</image:title>
     </image:image>
   </url>
 </urlset>
