@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/samsungs-galaxy-enhance-x-editing-app-is-getting-an-overhaul-in-one-ui-95</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T09:16:36Z</news:publication_date>
+      <news:title>Samsung’s Galaxy Enhance-X editing app is getting an overhaul in One UI 9.5</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2023/04/Galaxy-Enhance-X-app-listing-scaled.jpg</image:loc>
+      <image:title>Samsung’s Galaxy Enhance-X editing app is getting an overhaul in One UI 9.5</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/samsungs-slidable-phone-is-still-a-rumor-but-its-dimensions-might-be-starting-to-take-shape</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T08:42:16Z</news:publication_date>
+      <news:title>Samsung’s slidable phone is still a rumor, but its dimensions might be starting to take shape</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/03/Samsung-Display-Mobile-Slidable-1-scaled.jpg</image:loc>
+      <image:title>Samsung’s slidable phone is still a rumor, but its dimensions might be starting to take shape</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/google-healths-new-blood-pressure-tracking-feature-is-reaching-fitbit-air-users</loc>
     <news:news>
       <news:publication>
@@ -4515,66 +4545,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/Samsung-Galaxy-S26-Ultra-home-screen-black-cat-scaled.jpg</image:loc>
       <image:title>Samsung’s leaked Memory app could bring Pixel Screenshots features to Galaxy phones</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/honor-700-devices-teased-to-come-with-an-interesting-feature-on-the-rear-screen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T09:33:02Z</news:publication_date>
-      <news:title>Honor 700 devices teased to come with an interesting feature on the rear screen</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/honor-700-series-heart-rate-sensor-teaser/gsmarena_000.jpg</image:loc>
-      <image:title>Honor 700 devices teased to come with an interesting feature on the rear screen</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/snapseed-tests-finer-quality-and-exif-controls-for-saving-and-batch-editing-images</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T09:22:16Z</news:publication_date>
-      <news:title>Snapseed tests finer quality and Exif controls for saving and batch editing images</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/snapseed-app-open-in-android-phones-image.jpg</image:loc>
-      <image:title>Snapseed tests finer quality and Exif controls for saving and batch editing images</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/one-ui-95-could-give-samsung-internet-a-dedicated-desktop-mode-for-dex-users</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T09:07:10Z</news:publication_date>
-      <news:title>One UI 9.5 could give Samsung Internet a dedicated desktop mode for DeX users</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/11/Samsung-Internet-Browser-stock-image-resized.jpg</image:loc>
-      <image:title>One UI 9.5 could give Samsung Internet a dedicated desktop mode for DeX users</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-starts-rolling-out-stable-one-ui-9-with-wear-os-7-to-galaxy-watch-8-series</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T08:41:07Z</news:publication_date>
-      <news:title>Samsung starts rolling out stable One UI 9 with Wear OS 7 to Galaxy Watch 8 series</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/08/Gemini-Galaxy-Watch-8-start-workout-scaled.jpg</image:loc>
-      <image:title>Samsung starts rolling out stable One UI 9 with Wear OS 7 to Galaxy Watch 8 series</image:title>
     </image:image>
   </url>
 </urlset>
