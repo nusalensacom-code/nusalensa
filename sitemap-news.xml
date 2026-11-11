@@ -3,6 +3,156 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/roku-will-stop-selling-smart-home-devices-and-refocus-on-streaming</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T17:44:53Z</news:publication_date>
+      <news:title>Roku will stop selling smart home devices and refocus on streaming</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/roku-will-stop-selling-smart-home-devices-and-refocus-on-streaming/l-intro-1794419052.jpg</image:loc>
+      <image:title>Roku will stop selling smart home devices and refocus on streaming</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T17:37:32Z</news:publication_date>
+      <news:title>Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/bigwalkdebate-1152x648.png</image:loc>
+      <image:title>Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-rolling-out-gemini-app-for-carplay</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T17:31:22Z</news:publication_date>
+      <news:title>Google rolling out Gemini app for CarPlay</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-app-CarPlay.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Google rolling out Gemini app for CarPlay</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-lens-bug-traps-chrome-users-by-hiding-the-close-button</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T17:10:30Z</news:publication_date>
+      <news:title>Google Lens bug traps Chrome users by hiding the close button</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/clever-use-cases-for-google-lens-1.jpg</image:loc>
+      <image:title>Google Lens bug traps Chrome users by hiding the close button</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/toyotas-scion-is-back-starting-with-an-american-made-25-mph-kei-truck</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T17:09:58Z</news:publication_date>
+      <news:title>Toyota’s Scion is back, starting with an American-made, 25-mph kei truck</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Scion_Kei_Truck_2027-2.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Toyota’s Scion is back, starting with an American-made, 25-mph kei truck</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/amazon-cuts-105-off-sony-ult-wear-headphones</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T17:06:49Z</news:publication_date>
+      <news:title>Amazon cuts $105 off Sony ULT WEAR headphones</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/02/Sony-ULT-WEAR-headphones-from-Sound-Guys.jpg</image:loc>
+      <image:title>Amazon cuts $105 off Sony ULT WEAR headphones</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/is-it-worth-buying-a-ceramic-apple-watch</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T17:05:11Z</news:publication_date>
+      <news:title>Is It Worth Buying a Ceramic Apple Watch?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/09/series-12-ceramic.jpg</image:loc>
+      <image:title>Is It Worth Buying a Ceramic Apple Watch?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/apple-is-shuttering-its-28-year-old-online-community-forum</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T17:04:26Z</news:publication_date>
+      <news:title>Apple is shuttering its 28-year-old online community forum</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1560398364-966x648.jpg</image:loc>
+      <image:title>Apple is shuttering its 28-year-old online community forum</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/garmin-launches-5-us-armed-forces-watch-faces-for-veterans-and-military-families</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T17:02:45Z</news:publication_date>
+      <news:title>Garmin launches 5 US Armed Forces watch faces for veterans and military families</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/10/Garmin-Fenix-8-AMOLED-voice-controls.jpg</image:loc>
+      <image:title>Garmin launches 5 US Armed Forces watch faces for veterans and military families</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/heres-your-first-look-at-nothings-upcoming-screenless-ai-native-device</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T16:57:02Z</news:publication_date>
+      <news:title>Here&apos;s your first look at Nothing&apos;s upcoming screenless AI-native device</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/nothing-ai-device-design/gsmarena_00.jpg</image:loc>
+      <image:title>Here&apos;s your first look at Nothing&apos;s upcoming screenless AI-native device</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/deals-google-pixel-tag-pixel-watch-5-100-off-googlebook-from-680-lenovo-yoga-mini-460-off-more</loc>
     <news:news>
       <news:publication>
@@ -45,6 +195,21 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/Open-AI-ChatGPT-logo-on-phone-stock-photo-9.jpg</image:loc>
       <image:title>OpenAI is sunsetting ChatGPT Advanced and Standard voice next month</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T16:33:08Z</news:publication_date>
+      <news:title>IBM to offer access to a dual-processor quantum system in 2027</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/IBM-Quantum-Nighthawk-r2-and-r3-processors-comparison-1152x648.jpg</image:loc>
+      <image:title>IBM to offer access to a dual-processor quantum system in 2027</image:title>
     </image:image>
   </url>
   <url>
@@ -4305,201 +4470,6 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/10/apple-watch-ultra-4-blue.jpeg</image:loc>
       <image:title>Apple Watch Ultra 4 Gets &amp;#36;99 Amazon Discounts, Starting at &amp;#36;699.99</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-is-bringing-chromes-real-time-scam-protection-to-incognito-and-guest-modes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T17:54:16Z</news:publication_date>
-      <news:title>Google is bringing Chrome’s real-time scam protection to Incognito and Guest modes</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/DSC00477.jpeg</image:loc>
-      <image:title>Google is bringing Chrome’s real-time scam protection to Incognito and Guest modes</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/james-gunn-is-out-as-dc-movie-leader</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T17:39:57Z</news:publication_date>
-      <news:title>James Gunn is out as DC movie leader</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2299570592.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>James Gunn is out as DC movie leader</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/amazon-drops-samsung-odyssey-g3-200hz-gaming-monitor-to-11999</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T17:37:07Z</news:publication_date>
-      <news:title>Amazon drops Samsung Odyssey G3 200Hz gaming monitor to $119.99</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Samsung-Odyssey-G3-Gaming-Monitor-Press-Image.jpg</image:loc>
-      <image:title>Amazon drops Samsung Odyssey G3 200Hz gaming monitor to $119.99</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-future-of-ai-hinges-on-jensen-huangs-sex-life</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T17:36:08Z</news:publication_date>
-      <news:title>The future of AI hinges on… Jensen Huang’s sex life?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>The future of AI hinges on… Jensen Huang’s sex life?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-bets-that-youll-either-buy-a-galaxy-s27-pro-or-ultra-next-year</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T17:25:00Z</news:publication_date>
-      <news:title>Samsung bets that you’ll either buy a Galaxy S27 Pro or Ultra next year</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/08/galaxy-s27-pro-leak-size-comparison-onl-1.webp?w=1600</image:loc>
-      <image:title>Samsung bets that you’ll either buy a Galaxy S27 Pro or Ultra next year</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/claude-code-is-accidentally-exposing-secrets-all-over-github</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T17:24:26Z</news:publication_date>
-      <news:title>Claude Code is accidentally exposing secrets all over GitHub</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/claude-github-leaks-1152x648.jpg</image:loc>
-      <image:title>Claude Code is accidentally exposing secrets all over GitHub</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/what-the-tiny-blue-dot-on-your-android-phone-is-telling-you</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T17:15:00Z</news:publication_date>
-      <news:title>What the tiny blue dot on your Android phone is telling you</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/what-the-tiny-blue-dot-on-your-android-phone-is-telling-you/l-intro-1793718198.jpg</image:loc>
-      <image:title>What the tiny blue dot on your Android phone is telling you</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/venmo-finally-launches-an-in-app-bill-splitting-feature</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T17:05:15Z</news:publication_date>
-      <news:title>Venmo finally launches an in-app bill splitting feature</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/venmo-finally-launches-an-in-app-bill-splitting-feature/l-intro-1794243863.jpg</image:loc>
-      <image:title>Venmo finally launches an in-app bill splitting feature</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/walmarts-onn-streaming-devices-are-now-10-more-expensive</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T17:03:42Z</news:publication_date>
-      <news:title>Walmart’s Onn streaming devices are now $10 more expensive</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/walmart-onn-4k-pro-2026-streaming-box-hands-on-8-scaled.jpg</image:loc>
-      <image:title>Walmart’s Onn streaming devices are now $10 more expensive</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/leak-details-samsungs-plans-for-galaxy-ai-premium-new-features-on-free-and-paid-tiers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T17:01:02Z</news:publication_date>
-      <news:title>Leak details Samsung&apos;s plans for Galaxy AI Premium: new features on free and paid tiers</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/samsung-galaxy-ai-premium-leak/gsmarena_000.jpg</image:loc>
-      <image:title>Leak details Samsung&apos;s plans for Galaxy AI Premium: new features on free and paid tiers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/uber-is-launching-its-own-parking-reservation-service</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T17:00:00Z</news:publication_date>
-      <news:title>Uber is launching its own parking reservation service</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/uber-is-launching-its-own-parking-reservation-service/l-intro-1793918077.jpg</image:loc>
-      <image:title>Uber is launching its own parking reservation service</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/uber-wants-to-park-your-car-now-too</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T17:00:00Z</news:publication_date>
-      <news:title>Uber wants to park your car now, too</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/IMG_9398.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Uber wants to park your car now, too</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/amazon-slashes-blink-mini-2k-price-to-1599-for-60-off</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T16:59:23Z</news:publication_date>
-      <news:title>Amazon slashes Blink Mini 2K+ price to $15.99 for 60% off</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Blink-Mini-2K-Plus-Product-Image.jpg</image:loc>
-      <image:title>Amazon slashes Blink Mini 2K+ price to $15.99 for 60% off</image:title>
     </image:image>
   </url>
 </urlset>
