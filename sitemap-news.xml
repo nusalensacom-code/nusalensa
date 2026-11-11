@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/apple-is-killing-its-support-community-forum-next-week</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T12:19:10Z</news:publication_date>
+      <news:title>Apple is killing its Support Community forum next week</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Apple-Support-Community-forum.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Apple is killing its Support Community forum next week</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/pixel-journal-update-brings-audio-recording-and-export-options</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T11:50:01Z</news:publication_date>
+      <news:title>Pixel Journal update brings audio recording and export options</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/09/Google-Pixel-10-Pro-XL-pixel-journal.jpg</image:loc>
+      <image:title>Pixel Journal update brings audio recording and export options</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-chip-supplier-tsmc-approves-361-billion-ai-investment</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T11:44:03Z</news:publication_date>
+      <news:title>Apple Chip Supplier TSMC Approves &amp;#36;1 Billion AI Investment</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2024/04/apple-silicon-feature-joeblue.jpg</image:loc>
+      <image:title>Apple Chip Supplier TSMC Approves &amp;#36;1 Billion AI Investment</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/grapheneos-for-pixel-11-is-almost-here-and-there8217s-encouraging-news-for-performance</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T11:39:47Z</news:publication_date>
+      <news:title>GrapheneOS for Pixel 11 is almost here, and there&amp;#8217;s encouraging news for performance</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/pixel-11-pro-three-months-later-hero-1-scaled.jpg</image:loc>
+      <image:title>GrapheneOS for Pixel 11 is almost here, and there&amp;#8217;s encouraging news for performance</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/how-to-see-and-delete-what-gemini-knows-about-you-and-why-you-should</loc>
     <news:news>
       <news:publication>
@@ -15,6 +75,21 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/The-Gemini-app-on-a-smartphone-screen-scaled.jpg</image:loc>
       <image:title>How to see and delete what Gemini knows about you, and why you should</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/even-realities-glasses-are-coming-to-a-job-site-near-you</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T11:03:00Z</news:publication_date>
+      <news:title>Even Realities glasses are coming to a job site near you</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/even-realities-g2-in-charging-case-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Even Realities glasses are coming to a job site near you</image:title>
     </image:image>
   </url>
   <url>
@@ -4425,111 +4500,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/xiaomi-18-pro-series-global-date-confirmed/gsmarena_000.jpg</image:loc>
       <image:title>It&apos;s official: the Xiaomi 18 Pro and 18 Pro Max are launching globally next week</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple039s-siri-boss-may-leave-here039s-who-could-take-over</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T12:31:24Z</news:publication_date>
-      <news:title>Apple&amp;#039;s Siri Boss May Leave - Here&amp;#039;s Who Could Take Over</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2024/06/craig-federighi.jpg</image:loc>
-      <image:title>Apple&amp;#039;s Siri Boss May Leave - Here&amp;#039;s Who Could Take Over</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/apple-launching-two-more-new-products-this-friday</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T12:22:04Z</news:publication_date>
-      <news:title>Apple Launching Two More New Products This Friday</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/apple-pro-tell-logo.jpg</image:loc>
-      <image:title>Apple Launching Two More New Products This Friday</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T12:00:05Z</news:publication_date>
-      <news:title>New Democratic Congress will likely strip the gilding from Trump&apos;s Golden Dome</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2219660369-1152x648-1793989587.jpg</image:loc>
-      <image:title>New Democratic Congress will likely strip the gilding from Trump&apos;s Golden Dome</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/instagrams-ai-age-detection-is-expanding-globally</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T12:00:00Z</news:publication_date>
-      <news:title>Instagram’s AI age detection is expanding globally</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK070_INSTAGRAM__A.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Instagram’s AI age detection is expanding globally</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/digital-wellbeing-v150-beta-gives-us-our-first-look-at-weekly-insights-and-gemini-integration</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T11:53:25Z</news:publication_date>
-      <news:title>Digital Wellbeing v1.50 beta gives us our first look at Weekly Insights and Gemini integration</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/digital-wellbeing-tools.jpg</image:loc>
-      <image:title>Digital Wellbeing v1.50 beta gives us our first look at Weekly Insights and Gemini integration</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/armsx3-is-the-best-ps3-emulator-on-android-and-it8217s-now-available-on-ios</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T11:49:58Z</news:publication_date>
-      <news:title>ARMSX3 is the best PS3 emulator on Android, and it&amp;#8217;s now available on iOS</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/ARMSX3-PS3-emulator-on-Android.jpg</image:loc>
-      <image:title>ARMSX3 is the best PS3 emulator on Android, and it&amp;#8217;s now available on iOS</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/the-oppo-pad-air6-aka-oppo-pad-6-unveiled-sales-start-next-week</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T11:46:02Z</news:publication_date>
-      <news:title>The Oppo Pad Air6 (aka Oppo Pad 6) unveiled, sales start next week</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/oppo-pad-air6-official/gsmarena_000.jpg</image:loc>
-      <image:title>The Oppo Pad Air6 (aka Oppo Pad 6) unveiled, sales start next week</image:title>
     </image:image>
   </url>
 </urlset>
