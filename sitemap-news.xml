@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/039apple-support-community039-permanently-closing-on-november-20</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T03:51:06Z</news:publication_date>
+      <news:title>&amp;#039;Apple Support Community&amp;#039; Permanently Closing on November 20</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/Apple-Support-Community.jpg</image:loc>
+      <image:title>&amp;#039;Apple Support Community&amp;#039; Permanently Closing on November 20</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/apple039s-holiday-gift-guide-highlights-iphone-duo-and-more</loc>
     <news:news>
       <news:publication>
@@ -4560,21 +4575,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/06/T-Mobile-logo-on-smartphone-with-colored-background-stock-photo.jpg</image:loc>
       <image:title>T-Mobile’s T-Mix perk changes come with a 90-day lock-in and a $15 catch</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-store-subscription-sign-up-controversy-exposed</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T03:28:09Z</news:publication_date>
-      <news:title>Apple Store Subscription Sign-Up Controversy Exposed</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2025/09/Apple-Store-Downtown-Detroit.jpg</image:loc>
-      <image:title>Apple Store Subscription Sign-Up Controversy Exposed</image:title>
     </image:image>
   </url>
 </urlset>
