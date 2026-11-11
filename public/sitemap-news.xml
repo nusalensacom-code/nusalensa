@@ -3,6 +3,141 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/rumored-apple-smart-glasses-mentioned-in-supplier039s-earnings-briefing</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T13:49:53Z</news:publication_date>
+      <news:title>Rumored Apple Smart Glasses Mentioned in Supplier&amp;#039;s Earnings Briefing</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2021/01/Apple-Glasses-Blue-Feature.jpg</image:loc>
+      <image:title>Rumored Apple Smart Glasses Mentioned in Supplier&amp;#039;s Earnings Briefing</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/honor-700-pro-may-have-just-run-geekbench-confirming-its-chipset</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T13:47:02Z</news:publication_date>
+      <news:title>Honor 700 Pro may have just run Geekbench confirming its chipset</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/honor-700-pro-geekbench/gsmarena_000.jpg</image:loc>
+      <image:title>Honor 700 Pro may have just run Geekbench confirming its chipset</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/airtag-2-4-pack-hits-record-low-366999-price-ahead-of-black-friday</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T13:42:29Z</news:publication_date>
+      <news:title>AirTag 2 4-Pack Hits Record Low &amp;#36;69.99 Price Ahead of Black Friday</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/airtag-2-new-black-friday.jpeg</image:loc>
+      <image:title>AirTag 2 4-Pack Hits Record Low &amp;#36;69.99 Price Ahead of Black Friday</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/streaming-is-still-trying-to-be-tiktok</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T13:30:00Z</news:publication_date>
+      <news:title>Streaming is still trying to be TikTok</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2271211363.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Streaming is still trying to be TikTok</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/not-everyone-is-loving-their-new-iphone-duo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T13:00:00Z</news:publication_date>
+      <news:title>Not everyone is loving their new iPhone Duo</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0018.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Not everyone is loving their new iPhone Duo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/i-asked-every-tv-manufacturer-17-questions-about-how-they-spy-on-you</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T13:00:00Z</news:publication_date>
+      <news:title>I asked every TV manufacturer 17 questions about how they spy on you</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268797_What_data_are_your_TVs_collecting_and_is_it_protected__CVirginia.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>I asked every TV manufacturer 17 questions about how they spy on you</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/whatsapp-is-bringing-a-transparent-nav-bar-to-its-android-app</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T12:41:02Z</news:publication_date>
+      <news:title>WhatsApp is bringing a transparent nav bar to its Android app</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/whatsapp-floating-nav-bar-android/gsmarena_000.jpg</image:loc>
+      <image:title>WhatsApp is bringing a transparent nav bar to its Android app</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/android-auto-is-getting-a-gemini-upgrade-but-only-if-you-use-a-pixel</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T12:35:00Z</news:publication_date>
+      <news:title>Android Auto is getting a Gemini upgrade, but only if you use a Pixel</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/04/Ask-Gemini-on-Android-Auto.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Android Auto is getting a Gemini upgrade, but only if you use a Pixel</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/serve-robotics-wants-to-democratize-sidewalk-delivery-robots</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T12:30:00Z</news:publication_date>
+      <news:title>Serve Robotics wants to democratize sidewalk delivery robots</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2231498899.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Serve Robotics wants to democratize sidewalk delivery robots</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/apple-is-killing-its-support-community-forum-next-week</loc>
     <news:news>
       <news:publication>
@@ -63,6 +198,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/oppo-a7-ultra-tipped-to-launch-next-month-with-a-12000mah-battery</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T11:39:02Z</news:publication_date>
+      <news:title>Oppo A7 Ultra tipped to launch next month with a 12,000mAh battery</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/oppo-a7-ultra-12000-mah-leak/gsmarena_00.jpg</image:loc>
+      <image:title>Oppo A7 Ultra tipped to launch next month with a 12,000mAh battery</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/how-to-see-and-delete-what-gemini-knows-about-you-and-why-you-should</loc>
     <news:news>
       <news:publication>
@@ -90,6 +240,21 @@
     <image:image>
       <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/even-realities-g2-in-charging-case-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
       <image:title>Even Realities glasses are coming to a job site near you</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/harman-unveils-drops</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T10:41:02Z</news:publication_date>
+      <news:title>Harman unveils Drops</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/harman-introduces-drops-music-discovery-app/gsmarena_000.jpg</image:loc>
+      <image:title>Harman unveils Drops</image:title>
     </image:image>
   </url>
   <url>
@@ -183,6 +348,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/ifixit-teardown-reveals-the-tech-behind-the-macbook-proleds-light-up-apple-logo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T09:37:02Z</news:publication_date>
+      <news:title>iFixit teardown reveals the tech behind the MacBook PROLED&apos;s light up Apple logo</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/apple-ifixit-proled/gsmarena_000.jpg</image:loc>
+      <image:title>iFixit teardown reveals the tech behind the MacBook PROLED&apos;s light up Apple logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/samsungs-galaxy-enhance-x-editing-app-is-getting-an-overhaul-in-one-ui-95</loc>
     <news:news>
       <news:publication>
@@ -213,6 +393,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/samsung-could-allow-one-ui-95-users-to-record-whatsapp-and-telegram-voice-calls</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T08:03:02Z</news:publication_date>
+      <news:title>Samsung could allow One UI 9.5 users to record WhatsApp and Telegram voice calls</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/samsung-one-ui-9-5-voip-voice-call-recording/gsmarena_001.jpg</image:loc>
+      <image:title>Samsung could allow One UI 9.5 users to record WhatsApp and Telegram voice calls</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/google-healths-new-blood-pressure-tracking-feature-is-reaching-fitbit-air-users</loc>
     <news:news>
       <news:publication>
@@ -240,6 +435,21 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Claude-Whiteboards-and-Sheets.jpg</image:loc>
       <image:title>Claude now has its own workplace tools, taking on Microsoft Office, Google Workspace</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/honor-said-to-be-testing-a-wide-screen-phone-with-an-8000mah-battery</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T07:00:02Z</news:publication_date>
+      <news:title>Honor said to be testing a wide-screen phone with an 8,000mAh battery</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/honor-wide-screen-phone-leak/gsmarena_00.jpg</image:loc>
+      <image:title>Honor said to be testing a wide-screen phone with an 8,000mAh battery</image:title>
     </image:image>
   </url>
   <url>
@@ -285,6 +495,21 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-1-scaled.jpg</image:loc>
       <image:title>Google rolls out Gemini 4 Carbon to AI Ultra subscribers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/samsung-reportedly-working-on-a-phone-with-an-expandable-display</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T06:00:02Z</news:publication_date>
+      <news:title>Samsung reportedly working on a phone with an expandable display</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/samsung-vertical-rolling-phone-new-leak/gsmarena_00.jpg</image:loc>
+      <image:title>Samsung reportedly working on a phone with an expandable display</image:title>
     </image:image>
   </url>
   <url>
@@ -4335,171 +4560,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Pomera-DM250-DSCF1434-1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Pomera&amp;#8217;s sleek distraction-free writing machine is just too small</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/what-hardware-does-your-pc-need-to-run-a-local-ai-model</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T13:45:00Z</news:publication_date>
-      <news:title>What hardware does your PC need to run a local AI model?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/what-hardware-does-your-pc-need-to-run-a-local-ai-model/l-intro-1793763392.jpg</image:loc>
-      <image:title>What hardware does your PC need to run a local AI model?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/one-ui-95-to-make-bixby-even-smarter-capable-of-handling-daily-tasks</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T13:43:02Z</news:publication_date>
-      <news:title>One UI 9.5 to make Bixby even smarter, capable of handling daily tasks</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/one-ui-95-smarter-bixby/gsmarena_000.jpg</image:loc>
-      <image:title>One UI 9.5 to make Bixby even smarter, capable of handling daily tasks</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-to-give-you-more-control-over-when-your-mac-passwords-lock</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T13:42:09Z</news:publication_date>
-      <news:title>Apple to Give You More Control Over When Your Mac Passwords Lock</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/passwords-app-macos-27-3@2x-scaled.jpg</image:loc>
-      <image:title>Apple to Give You More Control Over When Your Mac Passwords Lock</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/coinbase-receives-approval-to-become-a-chartered-trust-bank</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T13:40:54Z</news:publication_date>
-      <news:title>Coinbase receives approval to become a chartered trust bank</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/coinbase-receives-approval-to-become-a-chartered-trust-bank/l-intro-1794231576.jpg</image:loc>
-      <image:title>Coinbase receives approval to become a chartered trust bank</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-messages-prepares-for-quick-photo-and-video-editing-integration</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T13:18:05Z</news:publication_date>
-      <news:title>Google Messages prepares for quick photo and video editing integration</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/google-messages-logo-pixel-11-pro-close-scaled.jpg</image:loc>
-      <image:title>Google Messages prepares for quick photo and video editing integration</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/siri-is-getting-a-better-memory</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T13:15:41Z</news:publication_date>
-      <news:title>Siri Is Getting a Better Memory</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/03/ios-27-siri-animation.jpg</image:loc>
-      <image:title>Siri Is Getting a Better Memory</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/how-to-tell-if-your-phone-supports-esim</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T13:15:00Z</news:publication_date>
-      <news:title>How to tell if your phone supports eSIM</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/how-to-tell-if-your-phone-supports-esim/l-intro-1793730307.jpg</image:loc>
-      <image:title>How to tell if your phone supports eSIM</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/one-ui-95-may-bring-ai-agent-capabilities-to-bixby-on-your-galaxy-phone</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T13:10:11Z</news:publication_date>
-      <news:title>One UI 9.5 may bring AI agent capabilities to Bixby on your Galaxy phone</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/one-ui-9-frowning-plush-scaled.jpg</image:loc>
-      <image:title>One UI 9.5 may bring AI agent capabilities to Bixby on your Galaxy phone</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/nacon-revolution-5-unlimited-controller-review-more-customization-than-i-can-handle</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T13:00:00Z</news:publication_date>
-      <news:title>Nacon Revolution 5 Unlimited controller review: More customization than I can handle</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/nacons-revolution-5-unlimited-controller-review-more-customization-than-i-can-handle/l-intro-1793967751.jpg</image:loc>
-      <image:title>Nacon Revolution 5 Unlimited controller review: More customization than I can handle</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iphone-18e-could-feature-bigger-display-and-battery</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T12:45:29Z</news:publication_date>
-      <news:title>iPhone 18e Could Feature Bigger Display and Battery</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/03/Apple-iPhone-17e-feature.jpg</image:loc>
-      <image:title>iPhone 18e Could Feature Bigger Display and Battery</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/its-official-the-xiaomi-18-pro-and-18-pro-max-are-launching-globally-next-week</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T12:41:02Z</news:publication_date>
-      <news:title>It&apos;s official: the Xiaomi 18 Pro and 18 Pro Max are launching globally next week</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/xiaomi-18-pro-series-global-date-confirmed/gsmarena_000.jpg</image:loc>
-      <image:title>It&apos;s official: the Xiaomi 18 Pro and 18 Pro Max are launching globally next week</image:title>
     </image:image>
   </url>
 </urlset>
