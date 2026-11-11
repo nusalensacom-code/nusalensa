@@ -468,6 +468,106 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/google-says-gemini-app-rolling-out-on-apple-carplay-starting-today</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/Google-Gemini-Apple-CarPlay.jpg</image:loc>
+      <image:title>Google Says Gemini App Rolling Out on Apple CarPlay Starting Today</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/bytedance-is-reportedly-working-on-its-own-ai-agent</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/bytedance-is-reportedly-working-on-its-own-ai-agent/l-intro-1794426101.jpg</image:loc>
+      <image:title>ByteDance is reportedly working on its own AI agent</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-brings-the-standalone-gemini-app-and-gemini-live-to-apple-carplay</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/android-auto-gemini-ask-gemini-command-1.jpg</image:loc>
+      <image:title>Google brings the standalone Gemini app and Gemini Live to Apple CarPlay</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-home-update-fixes-nest-8216live-view8217-issues-improves-nest-hub-and-gemini-for-speakers</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2024/04/Voice-controls-from-Nest-Hub-Photo-frame-view.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Google Home update fixes Nest &amp;#8216;Live View&amp;#8217; issues, improves Nest Hub and Gemini for speakers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-voice-web-app-overhaul-introduces-new-look-grouped-chats-and-more</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/google-voice-icon-android.jpg</image:loc>
+      <image:title>Google Voice web app overhaul introduces new look, grouped chats, and more</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/how-many-spacex-starship-rocket-tests-have-failed</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/how-many-spacex-starship-rocket-tests-have-failed/l-intro-1794424186.jpg</image:loc>
+      <image:title>How many SpaceX Starship rocket tests have failed?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/nasas-secret-weapon-in-the-lunar-space-race-may-be-procurement-reform</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/moon-base-artists-concept-1152x648.webp</image:loc>
+      <image:title>NASA&apos;s secret weapon in the lunar space race may be ... procurement reform?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-wallet-rolling-out-digital-google-home-keys-with-supported-locks-on-android</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Wallet-Home-key.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Google Wallet rolling out digital Google Home keys with supported locks on Android</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/cash-app-founders-killer-gets-16-years-to-life-in-prison</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/cash-app-founders-killer-gets-16-years-to-life-in-prison/l-intro-1794423509.jpg</image:loc>
+      <image:title>Cash App founder&apos;s killer gets 16 years to life in prison</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/mid-week-android-app-deals-and-freebies-wind-peaks-box-head-9th-dawn-more</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Play-collage-fd7ec6.webp?w=1600</image:loc>
+      <image:title>Mid-week Android app deals and freebies: Wind Peaks, Box Head, 9th Dawn, more</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/retroid-pocket-duo-pre-orders-are-now-shipping-in-all-5-colors</loc>
     <lastmod>2026-11-11</lastmod>
     <changefreq>daily</changefreq>
@@ -475,6 +575,16 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Retroid-Pocket-Duo-2.jpg</image:loc>
       <image:title>Retroid Pocket Duo pre-orders are now shipping in all 5 colors</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-home-brings-back-sounds-for-gemini-and-im-both-elated-and-irritated-video</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-home-speaker-green.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Google Home brings back sounds for Gemini, and I’m both elated and irritated [Video]</image:title>
     </image:image>
   </url>
   <url>
@@ -518,6 +628,16 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/TSMC-Fab-18-1152x648.jpg</image:loc>
+      <image:title>Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/loot-boxes-influencers-and-addictive-features-face-an-eu-crackdown</loc>
     <lastmod>2026-11-11</lastmod>
     <changefreq>daily</changefreq>
@@ -535,6 +655,16 @@
     <image:image>
       <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/Henry-Cavill-Mustache-Protocol-Googlebook.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
       <image:title>You can now play Henry Cavill’s ‘Mustache Protocol’ game made on Googlebook [U]</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/trump-admin-loses-fight-to-spy-on-random-journalists-linkedin-dms</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2292869198-1024x648.jpg</image:loc>
+      <image:title>Trump admin loses fight to spy on random journalists’ LinkedIn DMs</image:title>
     </image:image>
   </url>
   <url>
