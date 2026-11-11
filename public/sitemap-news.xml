@@ -3,6 +3,126 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/deals-google-pixel-tag-pixel-watch-5-100-off-googlebook-from-680-lenovo-yoga-mini-460-off-more</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T16:43:11Z</news:publication_date>
+      <news:title>Deals: Google Pixel Tag, Pixel Watch 5 $100 off, Googlebook from $680, Lenovo Yoga Mini $460 off, more</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/9to5Google-Nov-11.webp?w=1600</image:loc>
+      <image:title>Deals: Google Pixel Tag, Pixel Watch 5 $100 off, Googlebook from $680, Lenovo Yoga Mini $460 off, more</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/google-home-bug-leaves-nest-camera-notifications-without-video-previews</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T16:38:30Z</news:publication_date>
+      <news:title>Google Home bug leaves Nest camera notifications without video previews</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-4.jpg</image:loc>
+      <image:title>Google Home bug leaves Nest camera notifications without video previews</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/openai-is-sunsetting-chatgpt-advanced-and-standard-voice-next-month</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T16:34:01Z</news:publication_date>
+      <news:title>OpenAI is sunsetting ChatGPT Advanced and Standard voice next month</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/Open-AI-ChatGPT-logo-on-phone-stock-photo-9.jpg</image:loc>
+      <image:title>OpenAI is sunsetting ChatGPT Advanced and Standard voice next month</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/baseus-bowie-mc2-earbuds-drop-below-50-in-amazon-deal</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T16:32:12Z</news:publication_date>
+      <news:title>Baseus Bowie MC2 earbuds drop below $50 in Amazon deal</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Baseus-Bowie-MC2-Featured.jpg</image:loc>
+      <image:title>Baseus Bowie MC2 earbuds drop below $50 in Amazon deal</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/amazon-drops-the-popular-tribit-stormbox-micro-3-to-just-52</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T16:13:47Z</news:publication_date>
+      <news:title>Amazon drops the popular Tribit StormBox Micro 3 to just $52</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Tribit-StormBox-Micro-3-Press-Image.jpg</image:loc>
+      <image:title>Amazon drops the popular Tribit StormBox Micro 3 to just $52</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/googles-tabletop-ai-experiment-lets-you-build-custom-collaboration-apps</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T16:00:00Z</news:publication_date>
+      <news:title>Google’s Tabletop AI experiment lets you build custom collaboration apps</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Google-Labs-Tabletop.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Google’s Tabletop AI experiment lets you build custom collaboration apps</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-best-early-black-friday-deals-you-can-already-shop</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T15:53:55Z</news:publication_date>
+      <news:title>The best early Black Friday deals you can already shop</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_EARLY_DEALS_Headers_CVirginia.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>The best early Black Friday deals you can already shop</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/oppo-a7-pro-is-coming-to-europe-heres-how-much-it-will-cost</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T15:51:03Z</news:publication_date>
+      <news:title>Oppo A7 Pro is coming to Europe, here&apos;s how much it will cost</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/oppo-a7-pro-european-pricing-leaks/gsmarena_000.jpg</image:loc>
+      <image:title>Oppo A7 Pro is coming to Europe, here&apos;s how much it will cost</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/motorola-ma2-wireless-android-auto-adapter-is-now-available-but-at-nearly-twice-the-price</loc>
     <news:news>
       <news:publication>
@@ -90,6 +210,21 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-fold-hands-on-5-scaled.jpg</image:loc>
       <image:title>Google reveals who can use Pixel’s Create My Widget, availability, and what it can access</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/trump-wanted-little-kei-trucks-for-america-toyota-makes-it-happen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T15:25:44Z</news:publication_date>
+      <news:title>Trump wanted little Kei trucks for America, Toyota makes it happen</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/Scion_Kei_Truck_2027-06-1152x648.jpg</image:loc>
+      <image:title>Trump wanted little Kei trucks for America, Toyota makes it happen</image:title>
     </image:image>
   </url>
   <url>
@@ -4365,141 +4500,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Blink-Mini-2K-Plus-Product-Image.jpg</image:loc>
       <image:title>Amazon slashes Blink Mini 2K+ price to $15.99 for 60% off</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/save-30-on-the-baseus-picogo-am71-magnetic-power-bank</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T16:50:56Z</news:publication_date>
-      <news:title>Save $30 on the Baseus Picogo AM71 magnetic power bank</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Baseus-Qi2.2-Power-Bank-Featured.jpg</image:loc>
-      <image:title>Save $30 on the Baseus Picogo AM71 magnetic power bank</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-gemini-rolling-out-memory-summary-with-everything-it-remembers-about-you</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T16:47:45Z</news:publication_date>
-      <news:title>Google Gemini rolling out ‘Memory summary’ with everything it remembers about you</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/09/Gemini-desktop-app-Windows.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Google Gemini rolling out ‘Memory summary’ with everything it remembers about you</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/why-ev-fast-charging-slows-down-after-80-percent</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T16:45:00Z</news:publication_date>
-      <news:title>Why EV fast charging slows down after 80 percent</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/why-ev-fast-charging-slows-down-after-80-percent/l-intro-1793649511.jpg</image:loc>
-      <image:title>Why EV fast charging slows down after 80 percent</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/deals-z-fold-8-300-off-free-galaxy-buds-on-google-fitbit-edge-from-126-lg-b6-oled-1000-off-more</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T16:42:57Z</news:publication_date>
-      <news:title>Deals: Z Fold 8 $300 off + FREE Galaxy Buds On, Google Fitbit Edge from $126, LG B6 OLED $1,000 off, more</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/9to5Google-Nov-9-3.webp?w=1600</image:loc>
-      <image:title>Deals: Z Fold 8 $300 off + FREE Galaxy Buds On, Google Fitbit Edge from $126, LG B6 OLED $1,000 off, more</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-announces-turkiye-expansion-plans-as-tim-cook-visits</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T16:32:39Z</news:publication_date>
-      <news:title>Apple Announces Türkiye Expansion Plans as Tim Cook Visits</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/Apple-Logo-and-Turkiye-Flag-Feature.jpg</image:loc>
-      <image:title>Apple Announces Türkiye Expansion Plans as Tim Cook Visits</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/singapore-saved-apple-3627-billion-in-taxes-this-year</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T16:27:30Z</news:publication_date>
-      <news:title>Singapore Saved Apple &amp;#36;2.7 Billion in Taxes This Year</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2024/04/singapore-campus.jpg</image:loc>
-      <image:title>Singapore Saved Apple &amp;#36;2.7 Billion in Taxes This Year</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/sonys-new-playstation-portal-handheld-includes-additional-internal-storage</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T16:23:31Z</news:publication_date>
-      <news:title>Sony’s new PlayStation Portal handheld includes ‘additional’ internal storage</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/playstationportal.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Sony’s new PlayStation Portal handheld includes ‘additional’ internal storage</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/nhtsa-investigates-if-waymo-robotaxis-are-still-running-school-bus-stop-signs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T16:16:46Z</news:publication_date>
-      <news:title>NHTSA investigates if Waymo robotaxis are still running school bus stop signs</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/nhtsa-investigates-if-waymo-robotaxis-are-still-running-school-bus-stop-signs/l-intro-1794240937.jpg</image:loc>
-      <image:title>NHTSA investigates if Waymo robotaxis are still running school bus stop signs</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-music039s-2026-artist-of-the-year-is-olivia-dean</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T16:07:00Z</news:publication_date>
-      <news:title>Apple Music&amp;#039;s 2026 Artist of the Year is Olivia Dean</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/Apple-Music-Artist-of-the-Year-Olivia-Dean-scaled.jpg</image:loc>
-      <image:title>Apple Music&amp;#039;s 2026 Artist of the Year is Olivia Dean</image:title>
     </image:image>
   </url>
 </urlset>
