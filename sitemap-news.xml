@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/hands-on-with-home-assistants-new-smart-home-multi-tool</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T22:00:00Z</news:publication_date>
+      <news:title>Hands on with Home Assistant’s new ‘smart home multi-tool’</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/aux2-hero.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Hands on with Home Assistant’s new ‘smart home multi-tool’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/united-wont-let-your-ai-agent-book-your-flight</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T21:54:21Z</news:publication_date>
+      <news:title>United won’t let your AI agent book your flight</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>United won’t let your AI agent book your flight</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-on-fatal-vehicle-crash-near-apple-park-039our-hearts-are-broken039</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T21:37:39Z</news:publication_date>
+      <news:title>Apple on Fatal Vehicle Crash Near Apple Park: &amp;#039;Our Hearts Are Broken&amp;#039;</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/07/Apple-Park-Visitor-Center.jpeg</image:loc>
+      <image:title>Apple on Fatal Vehicle Crash Near Apple Park: &amp;#039;Our Hearts Are Broken&amp;#039;</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/samsung-and-apple-are-both-working-on-bigger-wide-foldables-new-rumor-claims</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T21:33:02Z</news:publication_date>
+      <news:title>Samsung and Apple are both working on bigger wide foldables, new rumor claims</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/samsung-apple-developing-bigger-wide-foldables-rumor/gsmarena_000.jpg</image:loc>
+      <image:title>Samsung and Apple are both working on bigger wide foldables, new rumor claims</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/google-wallet-adds-digital-home-keys-to-open-your-front-door-smart-lock-with-a-tap</loc>
     <news:news>
       <news:publication>
@@ -4365,111 +4425,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2023/04/Google-Wallet-logo-on-smartphone-next-to-credit-cards-and-cash-Stock-photo-11.jpg</image:loc>
       <image:title>Google Wallet gets Alipay Plus support with Traveler QR</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/webex-gets-iphone-duo-support</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T22:31:20Z</news:publication_date>
-      <news:title>Webex Gets iPhone Duo Support</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/webex-app-iphone-duo.jpg</image:loc>
-      <image:title>Webex Gets iPhone Duo Support</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/whats-new-in-androids-november-2026-google-system-updates-u</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T22:08:00Z</news:publication_date>
-      <news:title>What’s new in Android’s November 2026 Google System Updates [U]</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2025/01/google-play-services-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>What’s new in Android’s November 2026 Google System Updates [U]</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T21:55:35Z</news:publication_date>
-      <news:title>DCU shake-up: James Gunn and Peter Safran out post-merger</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/09/lanterns3-1152x648.jpg</image:loc>
-      <image:title>DCU shake-up: James Gunn and Peter Safran out post-merger</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/meta039s-muse-ai-agent-comes-to-apple-watch</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T21:55:26Z</news:publication_date>
-      <news:title>Meta&amp;#039;s Muse AI Agent Comes to Apple Watch</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/muse-apple-watch-app.jpg</image:loc>
-      <image:title>Meta&amp;#039;s Muse AI Agent Comes to Apple Watch</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/anker-launches-eufy-security-cam-with-auto-tracking-light</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T21:47:39Z</news:publication_date>
-      <news:title>Anker Launches Eufy Security Cam With Auto-Tracking Light</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2025/09/eufycam.jpg</image:loc>
-      <image:title>Anker Launches Eufy Security Cam With Auto-Tracking Light</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/msis-refurbished-qd-oled-gaming-monitor-is-on-sale-for-under-300</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T21:43:41Z</news:publication_date>
-      <news:title>MSI’s refurbished QD-OLED gaming monitor is on sale for under $300</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/msi-mag-272qp-x24-product.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>MSI’s refurbished QD-OLED gaming monitor is on sale for under $300</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/xiaomi-18-pro-max-in-for-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T21:31:02Z</news:publication_date>
-      <news:title>Xiaomi 18 Pro Max in for review</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/xiaomi-18-pro-max-ifr/gsmarena_000.jpg</image:loc>
-      <image:title>Xiaomi 18 Pro Max in for review</image:title>
     </image:image>
   </url>
 </urlset>

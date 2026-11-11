@@ -2,6 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/hands-on-with-home-assistants-new-smart-home-multi-tool</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/aux2-hero.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Hands on with Home Assistant’s new ‘smart home multi-tool’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/united-wont-let-your-ai-agent-book-your-flight</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>United won’t let your AI agent book your flight</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-on-fatal-vehicle-crash-near-apple-park-039our-hearts-are-broken039</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/07/Apple-Park-Visitor-Center.jpeg</image:loc>
+      <image:title>Apple on Fatal Vehicle Crash Near Apple Park: &amp;#039;Our Hearts Are Broken&amp;#039;</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/samsung-and-apple-are-both-working-on-bigger-wide-foldables-new-rumor-claims</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/samsung-apple-developing-bigger-wide-foldables-rumor/gsmarena_000.jpg</image:loc>
+      <image:title>Samsung and Apple are both working on bigger wide foldables, new rumor claims</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/google-wallet-adds-digital-home-keys-to-open-your-front-door-smart-lock-with-a-tap</loc>
     <lastmod>2026-11-11</lastmod>
     <changefreq>daily</changefreq>
