@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/apple039s-holiday-gift-guide-highlights-iphone-duo-and-more</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T00:57:36Z</news:publication_date>
+      <news:title>Apple&amp;#039;s Holiday Gift Guide Highlights iPhone Duo and More</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/hero_holiday_2026_yellow_feature-1.jpg</image:loc>
+      <image:title>Apple&amp;#039;s Holiday Gift Guide Highlights iPhone Duo and More</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/three-workers-die-at-tata-iphone-parts-plant-in-india</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T00:46:21Z</news:publication_date>
+      <news:title>Three Workers Die at Tata iPhone Parts Plant in India</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2020/08/apple-india.jpg</image:loc>
+      <image:title>Three Workers Die at Tata iPhone Parts Plant in India</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/microsofts-dlss-competitor-is-out-for-the-xbox-ally-x-and-works-in-handheld-mode</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T00:34:24Z</news:publication_date>
+      <news:title>Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257996_ROG_Xbox_Ally_and_Xbox_Ally_X_AKrales_0073.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/icloud-mail-calendar-contacts-and-more-experiencing-outage</loc>
     <news:news>
       <news:publication>
@@ -30,6 +75,21 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/11/claris-harbor.jpg</image:loc>
       <image:title>Apple&amp;#039;s Claris Testing &amp;#039;Harbor&amp;#039; App for Local AI on Macs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/seagates-new-hybrid-drive-raises-some-old-questions</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T23:30:56Z</news:publication_date>
+      <news:title>Seagate&apos;s new hybrid drive raises some old questions</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2015/09/harddrive3-1000x648.jpg</image:loc>
+      <image:title>Seagate&apos;s new hybrid drive raises some old questions</image:title>
     </image:image>
   </url>
   <url>
@@ -4530,66 +4590,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/how-to-use-your-laptop-as-a-second-monitor/l-intro-1793914883.jpg</image:loc>
       <image:title>How to use your laptop as a second monitor</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/motorola-signature-27-is-official-honor-magic9-pro-max-at-hq-week-45-in-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T01:02:02Z</news:publication_date>
-      <news:title>Motorola Signature 27 is official, Honor Magic9 Pro Max at HQ, Week 45 in review</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/week-45-in-review/gsmarena_000.jpg</image:loc>
-      <image:title>Motorola Signature 27 is official, Honor Magic9 Pro Max at HQ, Week 45 in review</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/why-your-usb-device-isnt-showing-up-on-your-macbook-and-how-you-can-fix-it</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T01:00:00Z</news:publication_date>
-      <news:title>Why your USB device isn&apos;t showing up on your MacBook and how you can fix it</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/why-your-usb-device-isnt-showing-up-on-your-macbook-and-how-you-can-fix-it/l-intro-1793975296.jpg</image:loc>
-      <image:title>Why your USB device isn&apos;t showing up on your MacBook and how you can fix it</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/which-canon-cameras-are-compatible-with-its-free-3d-photo-software</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T00:45:00Z</news:publication_date>
-      <news:title>Which Canon Cameras Are Compatible With Its Free 3D Photo Software?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/which-canon-cameras-are-compatible-with-its-free-3d-photo-software/l-intro-1793981282.jpg</image:loc>
-      <image:title>Which Canon Cameras Are Compatible With Its Free 3D Photo Software?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-disadvantages-of-buying-tech-from-other-countries</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T00:30:00Z</news:publication_date>
-      <news:title>The disadvantages of buying tech from other countries</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/the-disadvantages-of-buying-tech-from-other-countries/l-intro-1793957706.jpg</image:loc>
-      <image:title>The disadvantages of buying tech from other countries</image:title>
     </image:image>
   </url>
 </urlset>
