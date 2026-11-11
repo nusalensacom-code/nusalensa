@@ -3,6 +3,111 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/magic10-series-might-mark-the-return-of-variable-aperture-camera-on-honor-smartphones</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T14:49:02Z</news:publication_date>
+      <news:title>Magic10 series might mark the return of variable aperture camera on Honor smartphones</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/honor-magic10-series-variable-aperture-camera/gsmarena_001.jpg</image:loc>
+      <image:title>Magic10 series might mark the return of variable aperture camera on Honor smartphones</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/europe-wants-to-ban-dark-patterns-in-apps-and-loot-boxes-for-minors</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T14:29:03Z</news:publication_date>
+      <news:title>Europe wants to ban &apos;dark patterns&apos; in apps and loot boxes for minors</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/europe-wants-to-ban-addictive-design-loot-boxes-and-dark-patterns-in-apps/l-intro-1794406701.jpg</image:loc>
+      <image:title>Europe wants to ban &apos;dark patterns&apos; in apps and loot boxes for minors</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/google-deepmind-just-mathematically-verified-key-parts-of-signal</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T14:08:57Z</news:publication_date>
+      <news:title>Google DeepMind just mathematically verified key parts of Signal</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/signal_icon-1024x648.jpg</image:loc>
+      <image:title>Google DeepMind just mathematically verified key parts of Signal</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/googles-official-fitbit-air-lineup-adds-dbrands-35-pulse-band</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T14:00:42Z</news:publication_date>
+      <news:title>Google’s official Fitbit Air lineup adds dbrand’s $35 Pulse Band</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/fitbit-air-dbrand-pulse-band-hero.jpg</image:loc>
+      <image:title>Google’s official Fitbit Air lineup adds dbrand’s $35 Pulse Band</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/dbrand8217s-new-fitbit-air-band-launches-as-the-first-official-third-party-strap</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T14:00:00Z</news:publication_date>
+      <news:title>Dbrand&amp;#8217;s new Fitbit Air band launches as the first official third-party strap</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/Dbrand-Pulse-Fitbit-Air-band-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1400</image:loc>
+      <image:title>Dbrand&amp;#8217;s new Fitbit Air band launches as the first official third-party strap</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/adobes-ai-experiments-let-you-walk-around-in-photos-and-interview-your-characters</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T14:00:00Z</news:publication_date>
+      <news:title>Adobe’s AI experiments let you walk around in photos and interview your characters</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Adobe-Project-Screen-Test.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Adobe’s AI experiments let you walk around in photos and interview your characters</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/sonys-latest-pulse-wireless-headset-packs-planar-magnetic-drivers-at-a-good-price</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T14:00:00Z</news:publication_date>
+      <news:title>Sony’s latest Pulse wireless headset packs planar magnetic drivers at a good price</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/pulseheadset.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Sony’s latest Pulse wireless headset packs planar magnetic drivers at a good price</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/rumored-apple-smart-glasses-mentioned-in-supplier039s-earnings-briefing</loc>
     <news:news>
       <news:publication>
@@ -93,6 +198,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/microsofts-automatic-super-resolution-is-now-officially-out-for-the-rog-xbox-ally-x</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T12:59:44Z</news:publication_date>
+      <news:title>Microsoft&apos;s Automatic Super Resolution is now officially out for the ROG Xbox Ally X</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/microsofts-automatic-super-resolution-is-now-officially-out-for-the-rog-xbox-ally-x/l-intro-1794401662.jpg</image:loc>
+      <image:title>Microsoft&apos;s Automatic Super Resolution is now officially out for the ROG Xbox Ally X</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/whatsapp-is-bringing-a-transparent-nav-bar-to-its-android-app</loc>
     <news:news>
       <news:publication>
@@ -105,6 +225,21 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/whatsapp-floating-nav-bar-android/gsmarena_000.jpg</image:loc>
       <image:title>WhatsApp is bringing a transparent nav bar to its Android app</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/a-grok-vibe-coding-agent-leaked-sensitive-spacexsi-data</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T12:35:10Z</news:publication_date>
+      <news:title>A Grok vibe-coding agent leaked sensitive SpaceXSI data</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/a-grok-vibe-coding-agent-leaked-sensitive-spacexsi-data/l-intro-1794400413.jpg</image:loc>
+      <image:title>A Grok vibe-coding agent leaked sensitive SpaceXSI data</image:title>
     </image:image>
   </url>
   <url>
@@ -150,6 +285,21 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Apple-Support-Community-forum.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Apple is killing its Support Community forum next week</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/2027-chevrolet-bolt-review-rip-to-the-goat-of-low-cost-electric-motoring</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T12:00:00Z</news:publication_date>
+      <news:title>2027 Chevrolet Bolt Review: RIP to the GOAT of low-cost electric motoring</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/2027-chevrolet-bolt-review-rip-to-the-goat-of-low-cost-electric-motoring/l-intro-1794352074.jpg</image:loc>
+      <image:title>2027 Chevrolet Bolt Review: RIP to the GOAT of low-cost electric motoring</image:title>
     </image:image>
   </url>
   <url>
@@ -240,6 +390,21 @@
     <image:image>
       <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/even-realities-g2-in-charging-case-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
       <image:title>Even Realities glasses are coming to a job site near you</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/apple-is-shutting-down-its-online-support-community-on-november-20</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T10:52:59Z</news:publication_date>
+      <news:title>Apple is shutting down its online Support Community on November 20</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/apple-is-shutting-down-its-online-support-community-on-november-20/l-intro-1794394269.jpg</image:loc>
+      <image:title>Apple is shutting down its online Support Community on November 20</image:title>
     </image:image>
   </url>
   <url>
@@ -345,6 +510,21 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/2026-flagship-smartphones-scaled.jpg</image:loc>
       <image:title>Next-gen processors are leaving Google&amp;#8217;s Tensor in the dust</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/lucid-ceo-says-the-company-didnt-know-where-its-own-cars-were</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T09:56:03Z</news:publication_date>
+      <news:title>Lucid CEO says the company didn&apos;t know where its own cars were</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/lucid-ceo-says-the-company-didnt-know-where-its-own-cars-were/l-intro-1794390872.jpg</image:loc>
+      <image:title>Lucid CEO says the company didn&apos;t know where its own cars were</image:title>
     </image:image>
   </url>
   <url>
@@ -468,6 +648,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/technology/samsung-gallery-now-syncs-with-google-to-back-up-your-photos</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T06:47:17Z</news:publication_date>
+      <news:title>Samsung Gallery now syncs with Google to back up your photos</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/samsung-gallery-now-syncs-with-google-to-back-up-your-photos/l-intro-1794379370.jpg</image:loc>
+      <image:title>Samsung Gallery now syncs with Google to back up your photos</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/survey-says-youtubes-new-android-app-redesign-is-a-massive-miss</loc>
     <news:news>
       <news:publication>
@@ -540,6 +735,21 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/11/Apple-Support-Community.jpg</image:loc>
       <image:title>&amp;#039;Apple Support Community&amp;#039; Permanently Closing on November 20</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/what-is-the-average-lifespan-of-recordable-blu-ray-discs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T01:00:00Z</news:publication_date>
+      <news:title>What is the average lifespan of recordable Blu-ray discs?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/what-is-the-average-lifespan-of-recordable-blu-ray-discs/l-intro-1793384545.jpg</image:loc>
+      <image:title>What is the average lifespan of recordable Blu-ray discs?</image:title>
     </image:image>
   </url>
   <url>
@@ -4440,126 +4650,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258010_Black_friday_cyber_monday_CVirginia_shopping2.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>How to shop like a pro during Black Friday and Cyber Monday</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/heres-your-first-look-at-huaweis-wide-screen-phone-from-sub-brand-osta</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T14:46:02Z</news:publication_date>
-      <news:title>Here&apos;s your first look at Huawei&apos;s wide-screen phone from sub-brand Osta</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/huawei-osta-s1-pro-front-design-leak/gsmarena_000.jpg</image:loc>
-      <image:title>Here&apos;s your first look at Huawei&apos;s wide-screen phone from sub-brand Osta</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/pixel-10a-drops-to-449-the-best-deal-you8217ll-find-after-google8217s-price-hike</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T14:35:00Z</news:publication_date>
-      <news:title>Pixel 10a drops to $449, the best deal you&amp;#8217;ll find after Google&amp;#8217;s price hike</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/04/Pixel-10a-Obsidian-11.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Pixel 10a drops to $449, the best deal you&amp;#8217;ll find after Google&amp;#8217;s price hike</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/leaker-envisions-a-shorter-iphone-with-a-new-ios-layout</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T14:34:16Z</news:publication_date>
-      <news:title>Leaker Envisions a Shorter iPhone With a New iOS Layout</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/iphone-duo-yellow-hand.jpeg</image:loc>
-      <image:title>Leaker Envisions a Shorter iPhone With a New iOS Layout</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/meta8217s-horizon-looks-to-become-meta-vr-and-include-3d-movies</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T14:31:27Z</news:publication_date>
-      <news:title>Meta&amp;#8217;s Horizon+ looks to become Meta VR+ and include 3D movies</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/meta-quest-3-with-amvr-bs1-headstrap-01.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Meta&amp;#8217;s Horizon+ looks to become Meta VR+ and include 3D movies</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/jonathan-kanter-is-using-ai-to-take-on-big-tech</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T14:30:00Z</news:publication_date>
-      <news:title>Jonathan Kanter is using AI to take on Big Tech</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS487_ANTITRUST_A.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Jonathan Kanter is using AI to take on Big Tech</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/sennheiser-momentum-5-gets-first-50-discount-since-launch</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T14:20:00Z</news:publication_date>
-      <news:title>Sennheiser Momentum 5 gets first $50 discount since launch</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Sennheiser-Momentum-5-Press-Image.jpg</image:loc>
-      <image:title>Sennheiser Momentum 5 gets first $50 discount since launch</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/android-auto-cutting-off-older-devices-now-requires-android-11-or-newer</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T14:20:00Z</news:publication_date>
-      <news:title>Android Auto cutting off older devices, now requires Android 11 or newer</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/07/android-auto-google-maps-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Android Auto cutting off older devices, now requires Android 11 or newer</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/pomera8217s-sleek-distraction-free-writing-machine-is-just-too-small</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T14:00:00Z</news:publication_date>
-      <news:title>Pomera&amp;#8217;s sleek distraction-free writing machine is just too small</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Pomera-DM250-DSCF1434-1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Pomera&amp;#8217;s sleek distraction-free writing machine is just too small</image:title>
     </image:image>
   </url>
 </urlset>

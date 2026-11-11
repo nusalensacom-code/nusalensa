@@ -2,6 +2,76 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/magic10-series-might-mark-the-return-of-variable-aperture-camera-on-honor-smartphones</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/honor-magic10-series-variable-aperture-camera/gsmarena_001.jpg</image:loc>
+      <image:title>Magic10 series might mark the return of variable aperture camera on Honor smartphones</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/europe-wants-to-ban-dark-patterns-in-apps-and-loot-boxes-for-minors</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/europe-wants-to-ban-addictive-design-loot-boxes-and-dark-patterns-in-apps/l-intro-1794406701.jpg</image:loc>
+      <image:title>Europe wants to ban &apos;dark patterns&apos; in apps and loot boxes for minors</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/google-deepmind-just-mathematically-verified-key-parts-of-signal</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/signal_icon-1024x648.jpg</image:loc>
+      <image:title>Google DeepMind just mathematically verified key parts of Signal</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/googles-official-fitbit-air-lineup-adds-dbrands-35-pulse-band</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/fitbit-air-dbrand-pulse-band-hero.jpg</image:loc>
+      <image:title>Google’s official Fitbit Air lineup adds dbrand’s $35 Pulse Band</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/dbrand8217s-new-fitbit-air-band-launches-as-the-first-official-third-party-strap</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/Dbrand-Pulse-Fitbit-Air-band-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1400</image:loc>
+      <image:title>Dbrand&amp;#8217;s new Fitbit Air band launches as the first official third-party strap</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/adobes-ai-experiments-let-you-walk-around-in-photos-and-interview-your-characters</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Adobe-Project-Screen-Test.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Adobe’s AI experiments let you walk around in photos and interview your characters</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/sonys-latest-pulse-wireless-headset-packs-planar-magnetic-drivers-at-a-good-price</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/pulseheadset.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Sony’s latest Pulse wireless headset packs planar magnetic drivers at a good price</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/rumored-apple-smart-glasses-mentioned-in-supplier039s-earnings-briefing</loc>
     <lastmod>2026-11-11</lastmod>
     <changefreq>daily</changefreq>
@@ -62,6 +132,16 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/microsofts-automatic-super-resolution-is-now-officially-out-for-the-rog-xbox-ally-x</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/microsofts-automatic-super-resolution-is-now-officially-out-for-the-rog-xbox-ally-x/l-intro-1794401662.jpg</image:loc>
+      <image:title>Microsoft&apos;s Automatic Super Resolution is now officially out for the ROG Xbox Ally X</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/whatsapp-is-bringing-a-transparent-nav-bar-to-its-android-app</loc>
     <lastmod>2026-11-11</lastmod>
     <changefreq>daily</changefreq>
@@ -69,6 +149,16 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/whatsapp-floating-nav-bar-android/gsmarena_000.jpg</image:loc>
       <image:title>WhatsApp is bringing a transparent nav bar to its Android app</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/a-grok-vibe-coding-agent-leaked-sensitive-spacexsi-data</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/a-grok-vibe-coding-agent-leaked-sensitive-spacexsi-data/l-intro-1794400413.jpg</image:loc>
+      <image:title>A Grok vibe-coding agent leaked sensitive SpaceXSI data</image:title>
     </image:image>
   </url>
   <url>
@@ -99,6 +189,16 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Apple-Support-Community-forum.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Apple is killing its Support Community forum next week</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/2027-chevrolet-bolt-review-rip-to-the-goat-of-low-cost-electric-motoring</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/2027-chevrolet-bolt-review-rip-to-the-goat-of-low-cost-electric-motoring/l-intro-1794352074.jpg</image:loc>
+      <image:title>2027 Chevrolet Bolt Review: RIP to the GOAT of low-cost electric motoring</image:title>
     </image:image>
   </url>
   <url>
@@ -159,6 +259,16 @@
     <image:image>
       <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/even-realities-g2-in-charging-case-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
       <image:title>Even Realities glasses are coming to a job site near you</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/apple-is-shutting-down-its-online-support-community-on-november-20</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/apple-is-shutting-down-its-online-support-community-on-november-20/l-intro-1794394269.jpg</image:loc>
+      <image:title>Apple is shutting down its online Support Community on November 20</image:title>
     </image:image>
   </url>
   <url>
@@ -229,6 +339,16 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/2026-flagship-smartphones-scaled.jpg</image:loc>
       <image:title>Next-gen processors are leaving Google&amp;#8217;s Tensor in the dust</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/lucid-ceo-says-the-company-didnt-know-where-its-own-cars-were</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/lucid-ceo-says-the-company-didnt-know-where-its-own-cars-were/l-intro-1794390872.jpg</image:loc>
+      <image:title>Lucid CEO says the company didn&apos;t know where its own cars were</image:title>
     </image:image>
   </url>
   <url>
@@ -312,6 +432,16 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/technology/samsung-gallery-now-syncs-with-google-to-back-up-your-photos</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/samsung-gallery-now-syncs-with-google-to-back-up-your-photos/l-intro-1794379370.jpg</image:loc>
+      <image:title>Samsung Gallery now syncs with Google to back up your photos</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/survey-says-youtubes-new-android-app-redesign-is-a-massive-miss</loc>
     <lastmod>2026-11-11</lastmod>
     <changefreq>daily</changefreq>
@@ -359,6 +489,16 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/11/Apple-Support-Community.jpg</image:loc>
       <image:title>&amp;#039;Apple Support Community&amp;#039; Permanently Closing on November 20</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/what-is-the-average-lifespan-of-recordable-blu-ray-discs</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/what-is-the-average-lifespan-of-recordable-blu-ray-discs/l-intro-1793384545.jpg</image:loc>
+      <image:title>What is the average lifespan of recordable Blu-ray discs?</image:title>
     </image:image>
   </url>
   <url>
