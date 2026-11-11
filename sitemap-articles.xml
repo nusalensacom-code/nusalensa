@@ -2,6 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/icloud-mail-calendar-contacts-and-more-experiencing-outage</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/07/General-iCloud-App-Feature.jpg</image:loc>
+      <image:title>iCloud Mail, Calendar, Contacts and More Experiencing Outage</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple039s-claris-testing-039harbor039-app-for-local-ai-on-macs</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/claris-harbor.jpg</image:loc>
+      <image:title>Apple&amp;#039;s Claris Testing &amp;#039;Harbor&amp;#039; App for Local AI on Macs</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/nintendo-will-soon-discontinue-google-and-apple-sign-ins</loc>
     <lastmod>2026-11-10</lastmod>
     <changefreq>daily</changefreq>

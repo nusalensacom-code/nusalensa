@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/icloud-mail-calendar-contacts-and-more-experiencing-outage</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T23:53:36Z</news:publication_date>
+      <news:title>iCloud Mail, Calendar, Contacts and More Experiencing Outage</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/07/General-iCloud-App-Feature.jpg</image:loc>
+      <image:title>iCloud Mail, Calendar, Contacts and More Experiencing Outage</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple039s-claris-testing-039harbor039-app-for-local-ai-on-macs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T23:34:51Z</news:publication_date>
+      <news:title>Apple&amp;#039;s Claris Testing &amp;#039;Harbor&amp;#039; App for Local AI on Macs</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/claris-harbor.jpg</image:loc>
+      <image:title>Apple&amp;#039;s Claris Testing &amp;#039;Harbor&amp;#039; App for Local AI on Macs</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/nintendo-will-soon-discontinue-google-and-apple-sign-ins</loc>
     <news:news>
       <news:publication>

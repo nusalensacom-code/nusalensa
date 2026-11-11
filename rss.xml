@@ -5,8 +5,26 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 10 Nov 2026 23:34:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 00:11:17 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>iCloud Mail, Calendar, Contacts and More Experiencing Outage</title>
+      <link>https://nusalensa.com/phones/icloud-mail-calendar-contacts-and-more-experiencing-outage</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/icloud-mail-calendar-contacts-and-more-experiencing-outage</guid>
+      <description>Some iCloud services are experiencing an outage, according to Apple&apos;s System Status page. &amp;zwnj;iCloud&amp;zwnj; Calendar, &amp;zwnj;iCloud&amp;zwnj; Contacts, &amp;zwnj;iCloud</description>
+      <category>Smartphones</category>
+      <pubDate>Tue, 10 Nov 2026 23:53:36 GMT</pubDate>
+      <enclosure url="https://images.macrumors.com/article-new/2026/07/General-iCloud-App-Feature.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Apple&amp;#039;s Claris Testing &amp;#039;Harbor&amp;#039; App for Local AI on Macs</title>
+      <link>https://nusalensa.com/phones/apple039s-claris-testing-039harbor039-app-for-local-ai-on-macs</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/apple039s-claris-testing-039harbor039-app-for-local-ai-on-macs</guid>
+      <description>Apple&apos;s Claris subsidiary is testing an app called Harbor , which turns Apple silicon Macs into a private AI server. Harbor works with a single Apple silicon Ma</description>
+      <category>Smartphones</category>
+      <pubDate>Tue, 10 Nov 2026 23:34:51 GMT</pubDate>
+      <enclosure url="https://images.macrumors.com/article-new/2026/11/claris-harbor.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Nintendo will soon discontinue Google and Apple sign-ins</title>
       <link>https://nusalensa.com/phones/nintendo-will-soon-discontinue-google-and-apple-sign-ins</link>
@@ -258,24 +276,6 @@
       <category>Smartphones</category>
       <pubDate>Tue, 10 Nov 2026 19:00:41 GMT</pubDate>
       <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/09/google-create-my-widget-play-store-listing-hero-image.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Google’s beefing up Calculator with Pixel Solver and Unit Conversion tools</title>
-      <link>https://nusalensa.com/phones/googles-beefing-up-calculator-with-pixel-solver-and-unit-conversion-tools</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/googles-beefing-up-calculator-with-pixel-solver-and-unit-conversion-tools</guid>
-      <description>How many rods to the hogshead does your car get?</description>
-      <category>Smartphones</category>
-      <pubDate>Tue, 10 Nov 2026 19:00:36 GMT</pubDate>
-      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/11/google_calculator_2.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop</title>
-      <link>https://nusalensa.com/phones/pixel-phones-getting-new-icon-styles-create-my-widget-and-more-in-november-pixel-drop</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/pixel-phones-getting-new-icon-styles-create-my-widget-and-more-in-november-pixel-drop</guid>
-      <description>Spruce up your home screen with expanded custom icons and AI-generated widgets.</description>
-      <category>Smartphones</category>
-      <pubDate>Tue, 10 Nov 2026 19:00:26 GMT</pubDate>
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/Pixel-11-series-6-1152x648.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
