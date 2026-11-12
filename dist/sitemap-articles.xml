@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/the-iqoo-16r-or-16s-is-headed-to-india</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/iqoo-16r-16s-india/gsmarena_000.jpg</image:loc>
+      <image:title>The iQOO 16R (or 16s) is headed to India</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/the-nintendo-switch-2-is-down-to-its-lowest-price-of-the-season-tonight-only</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>daily</changefreq>
