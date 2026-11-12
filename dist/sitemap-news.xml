@@ -3,6 +3,111 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/nvidia-ceo-jensen-huang-resigns-amid-spy-affair-scandals</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T13:53:16Z</news:publication_date>
+      <news:title>Nvidia CEO Jensen Huang resigns amid spy, affair scandals</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301620664.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Nvidia CEO Jensen Huang resigns amid spy, affair scandals</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/disney-just-launched-3d-movies-on-the-meta-quest-ahead-of-meta-vr-glasses8217-release</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T13:50:57Z</news:publication_date>
+      <news:title>Disney just launched 3D movies on the Meta Quest ahead of Meta VR Glasses&amp;#8217; release</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/monsters-inc-scare-floor-meta-quest-3d.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Disney just launched 3D movies on the Meta Quest ahead of Meta VR Glasses&amp;#8217; release</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/galaxy-s27-wallpapers-leak-giving-us-early-clues-on-expected-colors</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T13:25:26Z</news:publication_date>
+      <news:title>Galaxy S27 wallpapers leak, giving us early clues on expected colors</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/03/Samsung-Galaxy-S26-Ultra-home-screen.jpg</image:loc>
+      <image:title>Galaxy S27 wallpapers leak, giving us early clues on expected colors</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/not-just-s26-samsung-is-already-testing-one-ui-95-on-the-galaxy-s25</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T13:24:11Z</news:publication_date>
+      <news:title>Not just S26, Samsung is already testing One UI 9.5 on the Galaxy S25</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/05/samsung-galaxy-s25-ultra-joe-revisit-10-scaled.jpg</image:loc>
+      <image:title>Not just S26, Samsung is already testing One UI 9.5 on the Galaxy S25</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/tested-this-unofficial-amd-driver-let-me-play-tears-of-the-kingdom-on-an-exynos-phone</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T13:21:46Z</news:publication_date>
+      <news:title>Tested: This unofficial AMD driver let me play Tears of the Kingdom on an Exynos phone</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Zelda-on-Galaxy-S26-FE-scaled-e1794489467742-500w-260h.jpg</image:loc>
+      <image:title>Tested: This unofficial AMD driver let me play Tears of the Kingdom on an Exynos phone</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/a-seller-in-china-has-started-taking-blind-pre-orders-for-the-vanilla-xiaomi-18</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T13:02:02Z</news:publication_date>
+      <news:title>A seller in China has started taking blind pre-orders for the vanilla Xiaomi 18</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/xiaomi-18-blind-pre-orders-in-china/gsmarena_000.jpg</image:loc>
+      <image:title>A seller in China has started taking blind pre-orders for the vanilla Xiaomi 18</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/039ratchet-clank-ranger-rumble039-to-leave-app-store-this-month</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T12:52:07Z</news:publication_date>
+      <news:title>&amp;#039;Ratchet &amp; Clank: Ranger Rumble&amp;#039; to Leave App Store This Month</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/rachet-clank-ranger-rumble.jpeg</image:loc>
+      <image:title>&amp;#039;Ratchet &amp; Clank: Ranger Rumble&amp;#039; to Leave App Store This Month</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/apple039s-johny-srouji-eyed-to-replace-nvidia-ceo-jensen-huang</loc>
     <news:news>
       <news:publication>
@@ -3975,126 +4080,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/02/Samsung-Galaxy-S26-series-showing-backs.jpg</image:loc>
       <image:title>Galaxy S27 Ultra, Pro, and Plus dummy units leak, but the camera layout is raising red flags</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/oled-ipad-air-rumored-to-launch-in-two-sizes-in-early-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T13:42:52Z</news:publication_date>
-      <news:title>OLED iPad Air Rumored to Launch in Two Sizes in Early 2027</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2025/03/m3-ipad-air-blue.jpeg</image:loc>
-      <image:title>OLED iPad Air Rumored to Launch in Two Sizes in Early 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/hands-on-with-rings-new-ai-drone-camera-for-your-home</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T13:30:00Z</news:publication_date>
-      <news:title>Hands-on with Ring’s new AI drone camera for your home</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC01268.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Hands-on with Ring’s new AI drone camera for your home</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/amazon-turned-its-alexa-robot-into-a-ring-security-patrol-bot</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T13:30:00Z</news:publication_date>
-      <news:title>Amazon turned its Alexa robot into a Ring security patrol bot</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ringrover1_31dee3.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Amazon turned its Alexa robot into a Ring security patrol bot</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/what-does-floating-mean-on-your-anker-smart-chargers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T13:15:00Z</news:publication_date>
-      <news:title>What does &apos;Floating&apos; mean on your Anker smart chargers?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/what-does-floating-mean-on-your-anker-smart-chargers/l-intro-1793653150.jpg</image:loc>
-      <image:title>What does &apos;Floating&apos; mean on your Anker smart chargers?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/huawei-teases-new-matebook-fold-laptop-with-cover-screen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T13:13:02Z</news:publication_date>
-      <news:title>Huawei teases new MateBook Fold laptop with cover screen</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/huawei-matebook-fold-s-teasers/gsmarena_000.jpg</image:loc>
-      <image:title>Huawei teases new MateBook Fold laptop with cover screen</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/spacexs-first-attempt-to-catch-both-starship-stages-takes-place-november-13</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T13:03:18Z</news:publication_date>
-      <news:title>SpaceX&apos;s first attempt to catch both Starship stages takes place November 13</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/spacexs-first-attempt-to-catch-both-starship-stages-takes-place-november-13/l-intro-1794315716.jpg</image:loc>
-      <image:title>SpaceX&apos;s first attempt to catch both Starship stages takes place November 13</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/steelseries-rival-pro-review-rock-solid-connectivity-speed-and-a-nifty-battery-system</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T13:00:00Z</news:publication_date>
-      <news:title>SteelSeries Rival Pro review: Rock solid connectivity, speed and a nifty battery system</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/steelseries-rival-pro-review-rock-solid-connectivity-speed-and-a-nifty-battery-system/l-intro-1794250698.jpg</image:loc>
-      <image:title>SteelSeries Rival Pro review: Rock solid connectivity, speed and a nifty battery system</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-original-ipod-went-on-sale-25-years-ago-today</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T12:54:45Z</news:publication_date>
-      <news:title>The Original iPod Went on Sale 25 Years Ago Today</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/ipod.jpg</image:loc>
-      <image:title>The Original iPod Went on Sale 25 Years Ago Today</image:title>
     </image:image>
   </url>
 </urlset>
