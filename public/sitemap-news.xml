@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/reviews/meet-the-people-who-want-peptides-to-be-made-in-america</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T20:00:00Z</news:publication_date>
+      <news:title>Meet the people who want peptides to be made in America</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/SS-Jeremiah-3.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Meet the people who want peptides to be made in America</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/the-elder-scrolls039-most-obscure-adventure-gets-a-4k-pc-makeover</loc>
     <news:news>
       <news:publication>
@@ -3555,96 +3570,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK097_01.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Sony cancels live-service shooter Fairgames</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/what-happens-to-mathematics-when-ai-becomes-an-oracle</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T20:30:01Z</news:publication_date>
-      <news:title>What happens to mathematics when AI becomes an oracle?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/06/Mathematics-formula-1152x648.jpg</image:loc>
-      <image:title>What happens to mathematics when AI becomes an oracle?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-is-getting-its-galaxy-wearable-app-ready-for-its-smart-glasses-debut</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T20:16:22Z</news:publication_date>
-      <news:title>Samsung is getting its Galaxy Wearable app ready for its smart glasses debut</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-scaled.jpg</image:loc>
-      <image:title>Samsung is getting its Galaxy Wearable app ready for its smart glasses debut</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/i8217ve-waited-a-long-time-for-the-boox-picco-and-i8217m-not-disappointed</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T20:15:00Z</news:publication_date>
-      <news:title>I&amp;#8217;ve waited a long time for the Boox Picco, and I&amp;#8217;m not disappointed</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/Boox-Picco-13.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>I&amp;#8217;ve waited a long time for the Boox Picco, and I&amp;#8217;m not disappointed</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/no-the-pixel-tag-is-not-available-today</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T20:00:00Z</news:publication_date>
-      <news:title>No, the Pixel Tag is not available today</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-pixel-tag-7_5babc3.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>No, the Pixel Tag is not available today</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/android-17-qpr2-november-update-rolling-out-with-33-pixel-fixes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T20:00:00Z</news:publication_date>
-      <news:title>Android 17 QPR2 November update rolling out with 33 Pixel fixes</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/09/Pixel-9-Pro-and-11-Pro-family-cameras.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Android 17 QPR2 November update rolling out with 33 Pixel fixes</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google8217s-november-pixel-update-packs-dozens-of-bug-fixes-and-you-can-get-it-now</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T19:57:37Z</news:publication_date>
-      <news:title>Google&amp;#8217;s November Pixel update packs dozens of bug fixes, and you can get it now</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-vs-pixel-10-pro-hands-on-3-scaled.jpg</image:loc>
-      <image:title>Google&amp;#8217;s November Pixel update packs dozens of bug fixes, and you can get it now</image:title>
     </image:image>
   </url>
 </urlset>
