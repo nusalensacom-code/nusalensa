@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/googles-new-gemini-model-is-better-at-understanding-complicated-questions</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T21:55:32Z</news:publication_date>
+      <news:title>Google’s new Gemini model is better at understanding complicated questions</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Google’s new Gemini model is better at understanding complicated questions</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/its-a-mistake-reactions-from-tech-leaders-on-jensen-huangs-resignation</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T21:45:00Z</news:publication_date>
+      <news:title>‘It’s a mistake’: reactions from tech leaders on Jensen Huang’s resignation</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>‘It’s a mistake’: reactions from tech leaders on Jensen Huang’s resignation</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-oura-ring-4-is-almost-as-good-as-the-newer-model-but-150-cheaper</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T21:28:53Z</news:publication_date>
+      <news:title>The Oura Ring 4 is almost as good as the newer model, but $150 cheaper</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25665142/247314_Oura_Ring_4_AKrales_0105.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>The Oura Ring 4 is almost as good as the newer model, but $150 cheaper</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/here-are-the-25-original-xbox-games-you-can-now-play-on-pc</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T21:00:00Z</news:publication_date>
+      <news:title>Here are the 25 original Xbox games you can now play on PC</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/XBOX_PCBackCompat.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,93.955555555556</image:loc>
+      <image:title>Here are the 25 original Xbox games you can now play on PC</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/reviews/meet-the-people-who-want-peptides-to-be-made-in-america</loc>
     <news:news>
       <news:publication>
@@ -3435,81 +3495,6 @@
     <image:image>
       <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/1793382176191-1152x648.jpg</image:loc>
       <image:title>The US military seems to be getting nervous about the launch supply crunch</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T22:35:01Z</news:publication_date>
-      <news:title>Ring cameras go mobile as Amazon debuts AI-powered security drone and robot</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ring-Drone-1152x648.jpeg</image:loc>
-      <image:title>Ring cameras go mobile as Amazon debuts AI-powered security drone and robot</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-details-everything-new-in-android-17-qpr2</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T22:19:40Z</news:publication_date>
-      <news:title>Google details everything new in Android 17 QPR2</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-pixel-10-pro-fold-1-watermark-scaled.jpg</image:loc>
-      <image:title>Google details everything new in Android 17 QPR2</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-vr-disney-plus-app-on-meta-quest-now-has-3d-movies</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T22:00:00Z</news:publication_date>
-      <news:title>The VR Disney Plus app on Meta Quest now has 3D movies</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/05.-EN-US_Meta-3D.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>The VR Disney Plus app on Meta Quest now has 3D movies</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T21:55:26Z</news:publication_date>
-      <news:title>Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/danielle-thumann-severs-fcc-1152x648-1794344603.jpg</image:loc>
-      <image:title>Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/your-google-account-will-lose-its-ability-to-unlock-your-nintendo-account-next-year</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T21:49:50Z</news:publication_date>
-      <news:title>Your Google account will lose its ability to unlock your Nintendo account next year</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2022/09/Nintendo-logo-IFA-2022-close.jpg</image:loc>
-      <image:title>Your Google account will lose its ability to unlock your Nintendo account next year</image:title>
     </image:image>
   </url>
 </urlset>
