@@ -5,8 +5,62 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 12 Nov 2026 10:44:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 11:40:16 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nintendo is ending Google and Apple sign-ins early next year</title>
+      <link>https://nusalensa.com/technology/nintendo-is-ending-google-and-apple-sign-ins-early-next-year</link>
+      <guid isPermaLink="true">https://nusalensa.com/technology/nintendo-is-ending-google-and-apple-sign-ins-early-next-year</guid>
+      <description>You&apos;ll soon no longer be able to use Google and Apple log-ins to access Nintendo.</description>
+      <category>Technology</category>
+      <pubDate>Thu, 12 Nov 2026 11:19:46 GMT</pubDate>
+      <enclosure url="https://www.engadget.com/img/gallery/nintendo-is-ending-google-and-apple-sign-ins-early-next-year/l-intro-1794482262.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Ring confirms its camera drone won’t have manual controls after crashing on CBS News</title>
+      <link>https://nusalensa.com/technology/ring-confirms-its-camera-drone-wont-have-manual-controls-after-crashing-on-cbs-news</link>
+      <guid isPermaLink="true">https://nusalensa.com/technology/ring-confirms-its-camera-drone-wont-have-manual-controls-after-crashing-on-cbs-news</guid>
+      <description>When (or if) Ring&apos;s security camera drone flies into our homes in January, you won&apos;t get the option to pilot it yourself. The Ring Drone Cam relies entirely on </description>
+      <category>Technology</category>
+      <pubDate>Thu, 12 Nov 2026 11:12:32 GMT</pubDate>
+      <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC01040.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Android Auto’s next Gemini upgrade is leaving non-Pixel phones behind</title>
+      <link>https://nusalensa.com/phones/android-autos-next-gemini-upgrade-is-leaving-non-pixel-phones-behind</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/android-autos-next-gemini-upgrade-is-leaving-non-pixel-phones-behind</guid>
+      <description>Samsung and Motorola flagships aren&apos;t invited to this Gemini upgrade.</description>
+      <category>Smartphones</category>
+      <pubDate>Thu, 12 Nov 2026 11:11:39 GMT</pubDate>
+      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/06/android-auto-third-party-apps-1.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Missing Gboard’s Rambler on your Pixel 10? Here’s how to manually enable it</title>
+      <link>https://nusalensa.com/phones/missing-gboards-rambler-on-your-pixel-10-heres-how-to-manually-enable-it</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/missing-gboards-rambler-on-your-pixel-10-heres-how-to-manually-enable-it</guid>
+      <description>You might need to force a manual update for Android AI Core.</description>
+      <category>Smartphones</category>
+      <pubDate>Thu, 12 Nov 2026 11:07:22 GMT</pubDate>
+      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/09/google-pixel-11-pro-xl-rambler-demo-2-scaled.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Oppo A7 Pro officially lands in Europe</title>
+      <link>https://nusalensa.com/phones/oppo-a7-pro-officially-lands-in-europe</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/oppo-a7-pro-officially-lands-in-europe</guid>
+      <description>We recently saw a report for the Oppo A7 Pro’s European launch price and Oppo Belgium has now listed the device on its online store. Just as we reported, the А7</description>
+      <category>Smartphones</category>
+      <pubDate>Thu, 12 Nov 2026 11:03:03 GMT</pubDate>
+      <enclosure url="https://fdn.gsmarena.com/imgroot/news/26/11/oppo-a7-pro-lands-in-europe/gsmarena_000.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>The vivo X500 Pro Max is the most fun I&amp;#8217;ve had with video capture on a phone</title>
+      <link>https://nusalensa.com/phones/the-vivo-x500-pro-max-is-the-most-fun-i8217ve-had-with-video-capture-on-a-phone</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/the-vivo-x500-pro-max-is-the-most-fun-i8217ve-had-with-video-capture-on-a-phone</guid>
+      <description>Vivo&apos;s latest flagship is a fun time when it comes to video capture, even though some features are a miss.</description>
+      <category>Smartphones</category>
+      <pubDate>Thu, 12 Nov 2026 11:00:25 GMT</pubDate>
+      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/10/vivo-X500-Pro-Max-rear-cover-and-cameras.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>I stopped letting my old Amazon Fire tablets collect dust — here are 5 ways I use them</title>
       <link>https://nusalensa.com/tablets/i-stopped-letting-my-old-amazon-fire-tablets-collect-dust-here-are-5-ways-i-use-them</link>
@@ -222,60 +276,6 @@
       <category>Smartphones</category>
       <pubDate>Wed, 11 Nov 2026 21:01:05 GMT</pubDate>
       <enclosure url="https://images.macrumors.com/article-new/2026/09/General-Invites-App-Feature.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Home Assistant Connect AUX-2 gives your old speakers and TVs a second life for $69</title>
-      <link>https://nusalensa.com/phones/home-assistant-connect-aux-2-gives-your-old-speakers-and-tvs-a-second-life-for-69</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/home-assistant-connect-aux-2-gives-your-old-speakers-and-tvs-a-second-life-for-69</guid>
-      <description>That forgotten hi-fi system isn&apos;t ready for retirement.</description>
-      <category>Smartphones</category>
-      <pubDate>Wed, 11 Nov 2026 20:37:43 GMT</pubDate>
-      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/07/HomeAssistant-widget-with-temperature-readout-scaled.jpeg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>T-Mobile illegally imposed 50 GB cap on low-income home Internet plan, NY says</title>
-      <link>https://nusalensa.com/technology/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says</guid>
-      <description>Law requires 25Mbps home Internet. T-Mobile lowers speed to 600Kbps after 50GB cap.</description>
-      <category>Technology</category>
-      <pubDate>Wed, 11 Nov 2026 20:32:21 GMT</pubDate>
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2024/06/t-mobile-5g-1152x648-1794428350.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>The Lenovo Legion Tab Gen 5 would be my perfect Steam tablet if it didn’t cost $900</title>
-      <link>https://nusalensa.com/tablets/the-lenovo-legion-tab-gen-5-would-be-my-perfect-steam-tablet-if-it-didnt-cost-900</link>
-      <guid isPermaLink="true">https://nusalensa.com/tablets/the-lenovo-legion-tab-gen-5-would-be-my-perfect-steam-tablet-if-it-didnt-cost-900</guid>
-      <description>For every Android-powered slate I’ve used, only Nvidia’s Shield Tablet really stands out in my memory. Part of the company’s occasional ( and all-but-dead ) dip</description>
-      <category>Tablets</category>
-      <pubDate>Wed, 11 Nov 2026 20:30:00 GMT</pubDate>
-      <enclosure url="https://9to5google.com/wp-content/uploads/sites/4/2026/11/lenovo-legion-tab-gen-5-revview-13.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>YouTube TV channels are missing from Google TV live tab for some users (Updated)</title>
-      <link>https://nusalensa.com/phones/youtube-tv-channels-are-missing-from-google-tv-live-tab-for-some-users-updated</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/youtube-tv-channels-are-missing-from-google-tv-live-tab-for-some-users-updated</guid>
-      <description>This is not the first time the problem has cropped up.</description>
-      <category>Smartphones</category>
-      <pubDate>Wed, 11 Nov 2026 20:25:00 GMT</pubDate>
-      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2025/03/youtube-tv-app-logo-google-tv-2-scaled.jpeg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Anduril says its first satellite can see adversaries maneuver in orbital night</title>
-      <link>https://nusalensa.com/technology/anduril-says-its-first-satellite-can-see-adversaries-maneuver-in-orbital-night</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/anduril-says-its-first-satellite-can-see-adversaries-maneuver-in-orbital-night</guid>
-      <description>&quot;What&apos;s unique is it&apos;s got a huge dynamic range. We can see things in full dark.&quot;</description>
-      <category>Technology</category>
-      <pubDate>Wed, 11 Nov 2026 20:22:03 GMT</pubDate>
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/longwaveirsensor-1152x648.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Henry Cavill’s Mustache Protocol Googlebook game is now ready to play</title>
-      <link>https://nusalensa.com/phones/henry-cavills-mustache-protocol-googlebook-game-is-now-ready-to-play</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/henry-cavills-mustache-protocol-googlebook-game-is-now-ready-to-play</guid>
-      <description>It&apos;s time to stop those rogue CGI artists from erasing innocent mustaches.</description>
-      <category>Smartphones</category>
-      <pubDate>Wed, 11 Nov 2026 20:11:42 GMT</pubDate>
-      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/11/Henry-Cavills-Mustache-Protocol.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>

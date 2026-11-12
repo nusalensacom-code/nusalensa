@@ -3,6 +3,96 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/nintendo-is-ending-google-and-apple-sign-ins-early-next-year</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T11:19:46Z</news:publication_date>
+      <news:title>Nintendo is ending Google and Apple sign-ins early next year</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/nintendo-is-ending-google-and-apple-sign-ins-early-next-year/l-intro-1794482262.jpg</image:loc>
+      <image:title>Nintendo is ending Google and Apple sign-ins early next year</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/ring-confirms-its-camera-drone-wont-have-manual-controls-after-crashing-on-cbs-news</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T11:12:32Z</news:publication_date>
+      <news:title>Ring confirms its camera drone won’t have manual controls after crashing on CBS News</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC01040.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Ring confirms its camera drone won’t have manual controls after crashing on CBS News</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/android-autos-next-gemini-upgrade-is-leaving-non-pixel-phones-behind</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T11:11:39Z</news:publication_date>
+      <news:title>Android Auto’s next Gemini upgrade is leaving non-Pixel phones behind</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/06/android-auto-third-party-apps-1.jpg</image:loc>
+      <image:title>Android Auto’s next Gemini upgrade is leaving non-Pixel phones behind</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/missing-gboards-rambler-on-your-pixel-10-heres-how-to-manually-enable-it</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T11:07:22Z</news:publication_date>
+      <news:title>Missing Gboard’s Rambler on your Pixel 10? Here’s how to manually enable it</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/google-pixel-11-pro-xl-rambler-demo-2-scaled.jpg</image:loc>
+      <image:title>Missing Gboard’s Rambler on your Pixel 10? Here’s how to manually enable it</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/oppo-a7-pro-officially-lands-in-europe</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T11:03:03Z</news:publication_date>
+      <news:title>Oppo A7 Pro officially lands in Europe</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/oppo-a7-pro-lands-in-europe/gsmarena_000.jpg</image:loc>
+      <image:title>Oppo A7 Pro officially lands in Europe</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-vivo-x500-pro-max-is-the-most-fun-i8217ve-had-with-video-capture-on-a-phone</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T11:00:25Z</news:publication_date>
+      <news:title>The vivo X500 Pro Max is the most fun I&amp;#8217;ve had with video capture on a phone</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/vivo-X500-Pro-Max-rear-cover-and-cameras.jpg</image:loc>
+      <image:title>The vivo X500 Pro Max is the most fun I&amp;#8217;ve had with video capture on a phone</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/tablets/i-stopped-letting-my-old-amazon-fire-tablets-collect-dust-here-are-5-ways-i-use-them</loc>
     <news:news>
       <news:publication>
@@ -4065,111 +4155,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/garmin-users-can-now-share-their-cycling-location-through-waze-for-extra-safety/l-intro-1794247614.jpg</image:loc>
       <image:title>Garmin users can now share their cycling location through Waze for extra safety</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iphone-20-pro-ten-big-changes-that-could-redefine-apple039s-flagship</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T11:39:01Z</news:publication_date>
-      <news:title>iPhone 20 Pro: Ten Big Changes That Could Redefine Apple&amp;#039;s Flagship</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/01/Mostly-Screen-iPhone-Purple-Feature-2027.jpg</image:loc>
-      <image:title>iPhone 20 Pro: Ten Big Changes That Could Redefine Apple&amp;#039;s Flagship</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/your-galaxy-phone-could-soon-let-you-record-whatsapp-telegram-and-google-meet-calls</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T11:36:37Z</news:publication_date>
-      <news:title>Your Galaxy phone could soon let you record WhatsApp, Telegram, and Google Meet calls</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/one-ui-9-frowning-plush-scaled.jpg</image:loc>
-      <image:title>Your Galaxy phone could soon let you record WhatsApp, Telegram, and Google Meet calls</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/one-ui-95-may-introduce-multiple-new-input-options-to-bixby-widgets</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T11:21:39Z</news:publication_date>
-      <news:title>One UI 9.5 may introduce multiple new input options to Bixby widgets</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/bixby-voice-commands.jpg</image:loc>
-      <image:title>One UI 9.5 may introduce multiple new input options to Bixby widgets</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/vivo-x500-ultra-tipped-to-feature-two-sony-lytia-l910-camera-sensors-with-lofic-tech</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T11:06:02Z</news:publication_date>
-      <news:title>vivo X500 Ultra tipped to feature two Sony LYTIA L910 camera sensors with LOFIC tech</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/vivo-x500-ultra-global/gsmarena_000.jpg</image:loc>
-      <image:title>vivo X500 Ultra tipped to feature two Sony LYTIA L910 camera sensors with LOFIC tech</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/seagates-firecuda-forge-moves-your-data-between-a-hard-drive-and-ssd-for-better-performance</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T11:01:00Z</news:publication_date>
-      <news:title>Seagate’s FireCuda Forge moves your data between a hard drive and SSD for better performance</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/seagate1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Seagate’s FireCuda Forge moves your data between a hard drive and SSD for better performance</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/i-ditched-google-chrome-for-firefox-for-a-week-and-i-finally-see-the-appeal</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T11:00:17Z</news:publication_date>
-      <news:title>I ditched Google Chrome for Firefox for a week, and I finally see the appeal</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Windows-laptop-showing-Chrome-and-Firefox-side-by-side-scaled.jpg</image:loc>
-      <image:title>I ditched Google Chrome for Firefox for a week, and I finally see the appeal</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/real-motors-project-ares-is-a-cyberpunk-fantasy-made-real</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T11:00:00Z</news:publication_date>
-      <news:title>Real Motors’ Project Ares is a cyberpunk fantasy made real</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/2026-Real-Motors-Project-Ares-009.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Real Motors’ Project Ares is a cyberpunk fantasy made real</image:title>
     </image:image>
   </url>
 </urlset>
