@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/tablets/google8217s-new-tabletop-experiment-wants-to-fix-the-worst-part-of-making-plans-with-friends</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T08:52:25Z</news:publication_date>
+      <news:title>Google&amp;#8217;s new Tabletop experiment wants to fix the worst part of making plans with friends</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Google-Tabletop.jpg</image:loc>
+      <image:title>Google&amp;#8217;s new Tabletop experiment wants to fix the worst part of making plans with friends</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/samsungs-phone-app-in-one-ui-95-could-bring-a-more-convenient-bottom-search-bar</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T08:33:42Z</news:publication_date>
+      <news:title>Samsung’s Phone app in One UI 9.5 could bring a more convenient bottom search bar</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/08/Samsung-Galaxy-S23-Ultra-phone-dialer-app-scaled.jpg</image:loc>
+      <image:title>Samsung’s Phone app in One UI 9.5 could bring a more convenient bottom search bar</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/vivo-x500-series-and-watch-gt2s-india-launch-date-announced</loc>
     <news:news>
       <news:publication>
@@ -4170,66 +4200,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/doj-lawsuit-says-lyft-routinely-refuses-service-to-passengers-with-disabilities/l-intro-1794304647.jpg</image:loc>
       <image:title>DOJ lawsuit says Lyft routinely refuses service to passengers with disabilities</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-galaxy-s27-series-cameras-detailed-pro-to-get-a-lower-resolution-telephoto-than-previously-rumored</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T09:16:03Z</news:publication_date>
-      <news:title>Samsung Galaxy S27 series&apos; cameras detailed, Pro to get a lower resolution telephoto than previously rumored</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/samsung-galaxy-s27-series-camera-setup-detailed/gsmarena_001.jpg</image:loc>
-      <image:title>Samsung Galaxy S27 series&apos; cameras detailed, Pro to get a lower resolution telephoto than previously rumored</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/googles-2027-foldable-app-push-has-readers-hopeful-but-not-convinced</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T08:56:19Z</news:publication_date>
-      <news:title>Google’s 2027 foldable app push has readers hopeful, but not convinced</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/07/z-fold-8-hands-on-4.jpg</image:loc>
-      <image:title>Google’s 2027 foldable app push has readers hopeful, but not convinced</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-is-closing-the-door-on-third-party-fitbit-apps-and-clock-faces-this-month</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T08:54:31Z</news:publication_date>
-      <news:title>Google is closing the door on third-party Fitbit apps and clock faces this month</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2023/05/Fitbit-Versa-3-Oura-Ring-scaled.jpg</image:loc>
-      <image:title>Google is closing the door on third-party Fitbit apps and clock faces this month</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/galaxy-wearable-app-reveals-exclusive-hmg-edition-watch-faces-for-galaxy-watch-9-and-ultra-2</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T08:28:36Z</news:publication_date>
-      <news:title>Galaxy Wearable app reveals exclusive HMG Edition watch faces for Galaxy Watch 9 and Ultra 2</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/3.jpg</image:loc>
-      <image:title>Galaxy Wearable app reveals exclusive HMG Edition watch faces for Galaxy Watch 9 and Ultra 2</image:title>
     </image:image>
   </url>
 </urlset>

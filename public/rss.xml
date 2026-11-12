@@ -5,8 +5,26 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 12 Nov 2026 08:27:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 09:39:50 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google&amp;#8217;s new Tabletop experiment wants to fix the worst part of making plans with friends</title>
+      <link>https://nusalensa.com/tablets/google8217s-new-tabletop-experiment-wants-to-fix-the-worst-part-of-making-plans-with-friends</link>
+      <guid isPermaLink="true">https://nusalensa.com/tablets/google8217s-new-tabletop-experiment-wants-to-fix-the-worst-part-of-making-plans-with-friends</guid>
+      <description>Your group chat&apos;s biggest problem might finally have a solution.</description>
+      <category>Tablets</category>
+      <pubDate>Thu, 12 Nov 2026 08:52:25 GMT</pubDate>
+      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/11/Google-Tabletop.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Samsung’s Phone app in One UI 9.5 could bring a more convenient bottom search bar</title>
+      <link>https://nusalensa.com/phones/samsungs-phone-app-in-one-ui-95-could-bring-a-more-convenient-bottom-search-bar</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/samsungs-phone-app-in-one-ui-95-could-bring-a-more-convenient-bottom-search-bar</guid>
+      <description>It&apos;s a small touch, but the new search button location should make life a little easier if you have a big phone.</description>
+      <category>Smartphones</category>
+      <pubDate>Thu, 12 Nov 2026 08:33:42 GMT</pubDate>
+      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2025/08/Samsung-Galaxy-S23-Ultra-phone-dialer-app-scaled.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>vivo X500 series and Watch GT2&apos;s India launch date announced</title>
       <link>https://nusalensa.com/phones/vivo-x500-series-and-watch-gt2s-india-launch-date-announced</link>
@@ -258,24 +276,6 @@
       <category>Smartphones</category>
       <pubDate>Wed, 11 Nov 2026 19:54:55 GMT</pubDate>
       <enclosure url="https://www.engadget.com/img/gallery/google-brings-the-gemini-app-to-apple-carplay/l-intro-1794426857.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Google Says Gemini App Rolling Out on Apple CarPlay Starting Today</title>
-      <link>https://nusalensa.com/phones/google-says-gemini-app-rolling-out-on-apple-carplay-starting-today</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/google-says-gemini-app-rolling-out-on-apple-carplay-starting-today</guid>
-      <description>Google has announced that a dedicated Gemini app on Apple CarPlay is rolling out around the world in several languages starting today, allowing you to have conv</description>
-      <category>Smartphones</category>
-      <pubDate>Wed, 11 Nov 2026 19:50:20 GMT</pubDate>
-      <enclosure url="https://images.macrumors.com/article-new/2026/11/Google-Gemini-Apple-CarPlay.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>ByteDance is reportedly working on its own AI agent</title>
-      <link>https://nusalensa.com/technology/bytedance-is-reportedly-working-on-its-own-ai-agent</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/bytedance-is-reportedly-working-on-its-own-ai-agent</guid>
-      <description>The Chinese company wants to compete with Meta&apos;s Muse.</description>
-      <category>Technology</category>
-      <pubDate>Wed, 11 Nov 2026 19:42:19 GMT</pubDate>
-      <enclosure url="https://www.engadget.com/img/gallery/bytedance-is-reportedly-working-on-its-own-ai-agent/l-intro-1794426101.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
