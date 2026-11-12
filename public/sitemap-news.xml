@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/apple039s-johny-srouji-eyed-to-replace-nvidia-ceo-jensen-huang</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T12:29:50Z</news:publication_date>
+      <news:title>Apple&amp;#039;s Johny Srouji Eyed to Replace Nvidia CEO Jensen Huang</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/04/johny-srouji-apple.jpg</image:loc>
+      <image:title>Apple&amp;#039;s Johny Srouji Eyed to Replace Nvidia CEO Jensen Huang</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/review-apple039s-m6-imac-is-pricey-but-it039s-still-a-good-choice-for-a-clean-desk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T12:00:37Z</news:publication_date>
+      <news:title>Review: Apple&amp;#039;s M6 iMac is pricey, but it&amp;#039;s still a good choice for a clean desk</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/IMG_9812-1152x648.jpeg</image:loc>
+      <image:title>Review: Apple&amp;#039;s M6 iMac is pricey, but it&amp;#039;s still a good choice for a clean desk</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/you-can-get-the-redmagic-12-pro-a-day-early-here-is-how</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T12:00:02Z</news:publication_date>
+      <news:title>You can get the REDMAGIC 12 Pro a day early, here is how</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/redmagic-12-pro-early-bird-sponsored/gsmarena_000.jpg</image:loc>
+      <image:title>You can get the REDMAGIC 12 Pro a day early, here is how</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-iphone-duo8217s-rocky-launch-is-a-reminder-of-how-far-android-foldables-have-come</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T12:00:00Z</news:publication_date>
+      <news:title>The iPhone Duo&amp;#8217;s rocky launch is a reminder of how far Android foldables have come</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/galaxy-z-fold-8-iphone-duo-4.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>The iPhone Duo&amp;#8217;s rocky launch is a reminder of how far Android foldables have come</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/nintendo-is-ending-google-and-apple-sign-ins-early-next-year</loc>
     <news:news>
       <news:publication>
@@ -4035,126 +4095,6 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/10/ipod.jpg</image:loc>
       <image:title>The Original iPod Went on Sale 25 Years Ago Today</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T12:15:32Z</news:publication_date>
-      <news:title>Ukraine’s fiber-optic drones get squeezed by AI data center demand</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/Fiber-optic-drone-cable-1152x648.jpg</image:loc>
-      <image:title>Ukraine’s fiber-optic drones get squeezed by AI data center demand</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-maps-could-factor-parking-into-your-arrival-time</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T12:15:18Z</news:publication_date>
-      <news:title>Apple Maps Could Factor Parking Into Your Arrival Time</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/04/Apple-Maps-General.jpg</image:loc>
-      <image:title>Apple Maps Could Factor Parking Into Your Arrival Time</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/more-oppo-find-n7-specs-emerge</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T12:07:02Z</news:publication_date>
-      <news:title>More Oppo Find N7 specs emerge</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/more-oppo-find-n7-specs-emerge/gsmarena_000.jpg</image:loc>
-      <image:title>More Oppo Find N7 specs emerge</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/review-apples-m6-macbook-pro-is-good-but-its-missing-all-the-exciting-stuff</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T12:00:21Z</news:publication_date>
-      <news:title>Review: Apple&apos;s M6 MacBook Pro is good, but it&apos;s missing all the exciting stuff</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/IMG_9768-1152x648.jpeg</image:loc>
-      <image:title>Review: Apple&apos;s M6 MacBook Pro is good, but it&apos;s missing all the exciting stuff</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/waze-now-alerts-drivers-to-nearby-cyclists-using-garmin-livetrack</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T12:00:10Z</news:publication_date>
-      <news:title>Waze Now Alerts Drivers to Nearby Cyclists Using Garmin LiveTrack</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/waze-garmin-cycling-alerts-scaled.jpg</image:loc>
-      <image:title>Waze Now Alerts Drivers to Nearby Cyclists Using Garmin LiveTrack</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/waze8217s-new-garmin-powered-feature-could-make-roads-a-lot-safer-for-cyclists</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T12:00:01Z</news:publication_date>
-      <news:title>Waze&amp;#8217;s new Garmin-powered feature could make roads a lot safer for cyclists</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/02/android-auto-waze-1.jpg</image:loc>
-      <image:title>Waze&amp;#8217;s new Garmin-powered feature could make roads a lot safer for cyclists</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung8217s-paid-galaxy-ai-plan-has-a-giant-gemini-problem</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T12:00:00Z</news:publication_date>
-      <news:title>Samsung&amp;#8217;s paid Galaxy AI plan has a giant Gemini problem</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/03/galaxy-s26-series-ai-4.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Samsung&amp;#8217;s paid Galaxy AI plan has a giant Gemini problem</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/garmin-users-can-now-share-their-cycling-location-through-waze-for-extra-safety</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T12:00:00Z</news:publication_date>
-      <news:title>Garmin users can now share their cycling location through Waze for extra safety</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/garmin-users-can-now-share-their-cycling-location-through-waze-for-extra-safety/l-intro-1794247614.jpg</image:loc>
-      <image:title>Garmin users can now share their cycling location through Waze for extra safety</image:title>
     </image:image>
   </url>
 </urlset>
