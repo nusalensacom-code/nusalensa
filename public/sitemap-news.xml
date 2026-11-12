@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/the-nintendo-switch-2-is-down-to-its-lowest-price-of-the-season-tonight-only</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T00:17:47Z</news:publication_date>
+      <news:title>The Nintendo Switch 2 is down to its lowest price of the season tonight only</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/nintendo-switch-2-zelda-ocarina-of-time.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>The Nintendo Switch 2 is down to its lowest price of the season tonight only</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/ceo-jensen-huang039s-job-is-suddenly-on-the-line-at-nvidia</loc>
     <news:news>
       <news:publication>
@@ -4320,81 +4335,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2274329497.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>David Ellison says AI could be the ‘biggest creative unlock in modern history’</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-antigravity-adds-8216knowledge-work8217-interface-for-non-coding-work</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T00:08:37Z</news:publication_date>
-      <news:title>Google Antigravity adds &amp;#8216;Knowledge Work&amp;#8217; interface for non-coding work</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-antigravity-knowledge-work.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1440</image:loc>
-      <image:title>Google Antigravity adds &amp;#8216;Knowledge Work&amp;#8217; interface for non-coding work</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-safety-reason-tsa-might-ask-you-to-turn-on-your-phone</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T00:00:00Z</news:publication_date>
-      <news:title>The safety reason TSA might ask you to turn on your phone</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/the-safety-reason-tsa-might-ask-you-to-turn-on-your-phone/l-intro-1793805495.jpg</image:loc>
-      <image:title>The safety reason TSA might ask you to turn on your phone</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/what-could-china-get-from-jensen-huang</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T23:51:58Z</news:publication_date>
-      <news:title>What could China get from Jensen Huang?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>What could China get from Jensen Huang?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/heres-what-trump-said-he-knew-about-jensen-huang</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T23:47:46Z</news:publication_date>
-      <news:title>Here’s what Trump said he knew about Jensen Huang</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297774940.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Here’s what Trump said he knew about Jensen Huang</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/why-you-probably-shouldnt-buy-gadgets-with-micro-usb-ports</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T23:30:00Z</news:publication_date>
-      <news:title>Why you probably shouldn&apos;t buy gadgets with micro USB ports</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/why-you-probably-shouldnt-buy-gadgets-with-micro-usb-ports/l-intro-1793654155.jpg</image:loc>
-      <image:title>Why you probably shouldn&apos;t buy gadgets with micro USB ports</image:title>
     </image:image>
   </url>
 </urlset>
