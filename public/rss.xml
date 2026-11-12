@@ -5,8 +5,26 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 12 Nov 2026 05:01:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 06:04:07 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google Home gets more reliable Gemini commands, faster timers, and Nest camera fixes</title>
+      <link>https://nusalensa.com/phones/google-home-gets-more-reliable-gemini-commands-faster-timers-and-nest-camera-fixes</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/google-home-gets-more-reliable-gemini-commands-faster-timers-and-nest-camera-fixes</guid>
+      <description>Small fixes that could make a big difference at home.</description>
+      <category>Smartphones</category>
+      <pubDate>Thu, 12 Nov 2026 06:00:04 GMT</pubDate>
+      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/08/Google-Nest-Hub-vs-Home-Speaker-6-scaled.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Huawei&apos;s Osta sub-brand now has an official launch date</title>
+      <link>https://nusalensa.com/phones/huaweis-osta-sub-brand-now-has-an-official-launch-date</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/huaweis-osta-sub-brand-now-has-an-official-launch-date</guid>
+      <description>Huawei has recently been rumored to be working on introducing a new sub-brand called Xingmang in Chinese, and Osta in English. Now, the company has officially a</description>
+      <category>Smartphones</category>
+      <pubDate>Thu, 12 Nov 2026 05:45:02 GMT</pubDate>
+      <enclosure url="https://fdn.gsmarena.com/imgroot/news/26/11/huawei-osta-sub-brand-launch-date/gsmarena_000.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Apple Support Community Deserved a Proper Goodbye</title>
       <link>https://nusalensa.com/phones/apple-support-community-deserved-a-proper-goodbye</link>
@@ -258,24 +276,6 @@
       <category>Smartphones</category>
       <pubDate>Wed, 11 Nov 2026 19:28:57 GMT</pubDate>
       <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/05/google-voice-icon-android.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>How many SpaceX Starship rocket tests have failed?</title>
-      <link>https://nusalensa.com/technology/how-many-spacex-starship-rocket-tests-have-failed</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/how-many-spacex-starship-rocket-tests-have-failed</guid>
-      <description>Thanks to SpaceX&apos;s unique approach to testing, the answer isn&apos;t so clear-cut.</description>
-      <category>Technology</category>
-      <pubDate>Wed, 11 Nov 2026 19:27:00 GMT</pubDate>
-      <enclosure url="https://www.engadget.com/img/gallery/how-many-spacex-starship-rocket-tests-have-failed/l-intro-1794424186.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>NASA&apos;s secret weapon in the lunar space race may be ... procurement reform?</title>
-      <link>https://nusalensa.com/technology/nasas-secret-weapon-in-the-lunar-space-race-may-be-procurement-reform</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/nasas-secret-weapon-in-the-lunar-space-race-may-be-procurement-reform</guid>
-      <description>&quot;The pace that&apos;s occurring, and the nature of the procurements, is unprecedented.&quot;</description>
-      <category>Technology</category>
-      <pubDate>Wed, 11 Nov 2026 19:00:26 GMT</pubDate>
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/moon-base-artists-concept-1152x648.webp" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
