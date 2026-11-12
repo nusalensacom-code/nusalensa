@@ -3,6 +3,96 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/amazon-cuts-35-off-the-xiaomi-redmi-watch-6</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T15:50:12Z</news:publication_date>
+      <news:title>Amazon cuts $35 off the Xiaomi Redmi Watch 6</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Xiaomi-Redmi-Watch-6-Featured.jpg</image:loc>
+      <image:title>Amazon cuts $35 off the Xiaomi Redmi Watch 6</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/some-pixel-users-say-googles-november-update-broke-wireless-charging</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T15:37:31Z</news:publication_date>
+      <news:title>Some Pixel users say Google’s November update broke wireless charging</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/09/Pixelsnap-wireless-charging-Pixel-10.jpg</image:loc>
+      <image:title>Some Pixel users say Google’s November update broke wireless charging</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/a-power-bank-that-can-quickly-charge-three-gadgets-is-just-49</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T15:19:58Z</news:publication_date>
+      <news:title>A power bank that can quickly charge three gadgets is just $49</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ecoflow.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>A power bank that can quickly charge three gadgets is just $49</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/soundcore-q31i-headphones-are-25-off-at-a-record-low-price</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T15:10:32Z</news:publication_date>
+      <news:title>Soundcore Q31i headphones are $25 off at a record low price</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Soundcore-Q31i-Featured.jpg</image:loc>
+      <image:title>Soundcore Q31i headphones are $25 off at a record low price</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/youtube-server-error-400-on-android-is-now-fixed-google-confirms</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T15:05:27Z</news:publication_date>
+      <news:title>YouTube Server Error 400 on Android is now fixed, Google confirms</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/DSCF3408-scaled.jpeg</image:loc>
+      <image:title>YouTube Server Error 400 on Android is now fixed, Google confirms</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/8216hey-gemini8217-hotword-debuts-on-android-xr-glasses</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T15:00:00Z</news:publication_date>
+      <news:title>&amp;#8216;Hey Gemini&amp;#8217; hotword debuts on Android XR glasses</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/android-xr-intelligent-eyewear-warby-parker-51.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>&amp;#8216;Hey Gemini&amp;#8217; hotword debuts on Android XR glasses</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395</loc>
     <news:news>
       <news:publication>
@@ -135,6 +225,21 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Google-Intelligent-Eyewear-9.jpg</image:loc>
       <image:title>Samsung and Google’s new smart glasses support iPhones but leave most Android brands out</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/you-can-finally-pre-order-samsungs-smart-glasses-with-android-xr</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T14:00:35Z</news:publication_date>
+      <news:title>You can finally pre-order Samsung’s smart glasses with Android XR</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Google-Intelligent-Eyewear-23.jpg</image:loc>
+      <image:title>You can finally pre-order Samsung’s smart glasses with Android XR</image:title>
     </image:image>
   </url>
   <url>
@@ -3765,246 +3870,6 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/10/oled-macbook-pro-touch.jpg</image:loc>
       <image:title>Disable Touch on MacBook Pro PROLED XDR and When Using Sidecar</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/amazon-slashes-249-off-the-samsung-galaxy-watch-ultra</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T16:01:25Z</news:publication_date>
-      <news:title>Amazon slashes $249 off the Samsung Galaxy Watch Ultra</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/07/Samsung-Galaxy-Watch-Ultra-2025-Titanium-Blue-on-Wrist-showing-pilot-face.jpg</image:loc>
-      <image:title>Amazon slashes $249 off the Samsung Galaxy Watch Ultra</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/gemini-4-carbon-rolling-out-to-gemini-app-for-ai-ultra-argon-remains</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T16:00:00Z</news:publication_date>
-      <news:title>Gemini 4 Carbon rolling out to Gemini app for AI Ultra, Argon remains</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-4-Carbon-cover.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Gemini 4 Carbon rolling out to Gemini app for AI Ultra, Argon remains</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-releases-gemini-4-carbon-with-agent-swarm-feature</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T16:00:00Z</news:publication_date>
-      <news:title>Google releases Gemini 4 Carbon with agent ‘swarm’ feature</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Gemini-4-Carbon-Key-Art.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Google releases Gemini 4 Carbon with agent ‘swarm’ feature</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-verges-2026-holiday-gift-guide-for-moms</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T16:00:00Z</news:publication_date>
-      <news:title>The Verge’s 2026 holiday gift guide for moms</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_MOMS.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>The Verge’s 2026 holiday gift guide for moms</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apples-15-inch-m5-macbook-air-falls-to-its-lowest-price-since-june</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T15:54:46Z</news:publication_date>
-      <news:title>Apple’s 15-inch M5 MacBook Air falls to its lowest price since June</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Apple-Macbook-Air-M5-Chip-Press-Image.jpg</image:loc>
-      <image:title>Apple’s 15-inch M5 MacBook Air falls to its lowest price since June</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-and-adobe-partner-to-add-app-integration-in-google-drive-gemini</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T15:49:12Z</news:publication_date>
-      <news:title>Google and Adobe partner to add app integration in Google Drive, Gemini</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/01/Google-Drive-generic-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Google and Adobe partner to add app integration in Google Drive, Gemini</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/embers-latest-self-heating-14-ounce-mug-is-50-off</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T15:47:18Z</news:publication_date>
-      <news:title>Ember’s latest self-heating 14-ounce mug is $50 off</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/embermug3.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Ember’s latest self-heating 14-ounce mug is $50 off</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/why-does-your-phone-keep-switching-between-wi-fi-and-mobile-data</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T15:45:00Z</news:publication_date>
-      <news:title>Why does your phone keep switching between Wi-Fi and mobile data?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/why-does-your-phone-keep-switching-between-wi-fi-and-mobile-data/l-intro-1793641246.jpg</image:loc>
-      <image:title>Why does your phone keep switching between Wi-Fi and mobile data?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/waze-rolling-out-cyclist-alerts-based-on-real-time-locations-from-garmin-trackers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T15:45:00Z</news:publication_date>
-      <news:title>Waze rolling out cyclist alerts based on real-time locations from Garmin trackers</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/waze-garmin-cyclist-alert-1.png?w=1600</image:loc>
-      <image:title>Waze rolling out cyclist alerts based on real-time locations from Garmin trackers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-arcade-adding-these-four-games-in-december</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T15:42:16Z</news:publication_date>
-      <news:title>Apple Arcade Adding These Four Games in December</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2025/07/Apple-Arcade-Hero.jpg</image:loc>
-      <image:title>Apple Arcade Adding These Four Games in December</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-wallet-gains-support-for-overseas-qr-payments</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T15:31:02Z</news:publication_date>
-      <news:title>Google Wallet gains support for overseas QR payments</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/google-wallet-traveler-qr-alipay-plus/gsmarena_000.jpg</image:loc>
-      <image:title>Google Wallet gains support for overseas QR payments</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/jbl-live-680nc-2026-are-81-off-at-an-all-time-low</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T15:30:37Z</news:publication_date>
-      <news:title>JBL Live 680NC (2026) are $81 off at an all-time low</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/JBL-Live-680NC-Lifestyle-Featured.jpg</image:loc>
-      <image:title>JBL Live 680NC (2026) are $81 off at an all-time low</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/galaxy-s27-redesign-leak-shows-off-pro-vs-ultra-size-difference-with-just-a-bit-of-controversy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T15:20:00Z</news:publication_date>
-      <news:title>Galaxy S27 redesign leak shows off Pro vs Ultra size difference, with just a bit of controversy</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-s26-ultra-4.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Galaxy S27 redesign leak shows off Pro vs Ultra size difference, with just a bit of controversy</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/amazon-begins-early-black-friday-sale-featuring-sitewide-discounts-on-tech-and-decor</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T15:14:15Z</news:publication_date>
-      <news:title>Amazon Begins Early Black Friday Sale, Featuring Sitewide Discounts on Tech and Decor</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/fire-tablet-black-friday.jpeg</image:loc>
-      <image:title>Amazon Begins Early Black Friday Sale, Featuring Sitewide Discounts on Tech and Decor</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/amazon8217s-new-ring-cameras-are-mounted-to-roving-robots-including-250-drone-cam</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T15:05:00Z</news:publication_date>
-      <news:title>Amazon&amp;#8217;s new Ring cameras are mounted to roving robots, including $250 Drone Cam</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/ring-robotics.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Amazon&amp;#8217;s new Ring cameras are mounted to roving robots, including $250 Drone Cam</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/deepmind-reveals-gemini-robotics-25-and-open-safety-benchmark-asimov-jailbreak</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T15:00:39Z</news:publication_date>
-      <news:title>DeepMind reveals Gemini Robotics 2.5 and open safety benchmark &quot;ASIMOV-jailbreak&quot;</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-1152x648.jpg</image:loc>
-      <image:title>DeepMind reveals Gemini Robotics 2.5 and open safety benchmark &quot;ASIMOV-jailbreak&quot;</image:title>
     </image:image>
   </url>
 </urlset>
