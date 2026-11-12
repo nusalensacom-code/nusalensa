@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/tablets/i-stopped-letting-my-old-amazon-fire-tablets-collect-dust-here-are-5-ways-i-use-them</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T10:30:28Z</news:publication_date>
+      <news:title>I stopped letting my old Amazon Fire tablets collect dust — here are 5 ways I use them</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/amazon-fire-hd-8-pink-scaled.jpg</image:loc>
+      <image:title>I stopped letting my old Amazon Fire tablets collect dust — here are 5 ways I use them</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-galaxy-s27-ultra-camera-leak-has-me-worried-samsung-learned-nothing</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T10:00:16Z</news:publication_date>
+      <news:title>The Galaxy S27 Ultra camera leak has me worried Samsung learned nothing</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Samsung-Galaxy-S26-Ultras-camera-module-zoomed-in.jpg</image:loc>
+      <image:title>The Galaxy S27 Ultra camera leak has me worried Samsung learned nothing</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/whatsapps-view-once-text-messages-feature-is-now-available-to-beta-users-on-android</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T10:00:03Z</news:publication_date>
+      <news:title>WhatsApp&apos;s &apos;View Once&apos; text messages feature is now available to beta users on Android</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/whatsapp-view-once-text-message-android-beta-users/gsmarena_001.jpg</image:loc>
+      <image:title>WhatsApp&apos;s &apos;View Once&apos; text messages feature is now available to beta users on Android</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/tablets/google8217s-new-tabletop-experiment-wants-to-fix-the-worst-part-of-making-plans-with-friends</loc>
     <news:news>
       <news:publication>
@@ -4125,81 +4170,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/2026-Real-Motors-Project-Ares-009.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Real Motors’ Project Ares is a cyberpunk fantasy made real</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/i-used-the-pixel-11-pro-xl-and-galaxy-s26-ultra-for-a-week-this-is-the-one-i8217d-keep</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T10:30:02Z</news:publication_date>
-      <news:title>I used the Pixel 11 Pro XL and Galaxy S26 Ultra for a week. This is the one I&amp;#8217;d keep</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Samsung-Galaxy-S26-Ultra-and-Google-Pixel-11-Pro-XL-side-by-side-on-a-table.jpg</image:loc>
-      <image:title>I used the Pixel 11 Pro XL and Galaxy S26 Ultra for a week. This is the one I&amp;#8217;d keep</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/hunter-is-killing-google-home-and-alexa-voice-commands-and-automations-in-favor-of-matter</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T10:27:06Z</news:publication_date>
-      <news:title>Hunter is killing Google Home and Alexa voice commands and automations in favor of Matter</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/06/google-home-speaker-review-8-scaled.jpg</image:loc>
-      <image:title>Hunter is killing Google Home and Alexa voice commands and automations in favor of Matter</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/gta-6-is-now-available-for-preload-if-you-have-a-spare-212gb</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T10:01:45Z</news:publication_date>
-      <news:title>GTA 6 is now available for preload if you have a spare 212GB</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/gta-6-is-now-available-for-preload-if-you-have-a-spare-212gb/l-intro-1794304763.jpg</image:loc>
-      <image:title>GTA 6 is now available for preload if you have a spare 212GB</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/i-made-my-google-tv-faster-with-these-7-tweaks-and-you-can-too</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T10:00:32Z</news:publication_date>
-      <news:title>I made my Google TV faster with these 7 tweaks, and you can too</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/08/Google-TV-Home-interface-wide.jpg</image:loc>
-      <image:title>I made my Google TV faster with these 7 tweaks, and you can too</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/doj-lawsuit-says-lyft-routinely-refuses-service-to-passengers-with-disabilities</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T09:58:52Z</news:publication_date>
-      <news:title>DOJ lawsuit says Lyft routinely refuses service to passengers with disabilities</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/doj-lawsuit-says-lyft-routinely-refuses-service-to-passengers-with-disabilities/l-intro-1794304647.jpg</image:loc>
-      <image:title>DOJ lawsuit says Lyft routinely refuses service to passengers with disabilities</image:title>
     </image:image>
   </url>
 </urlset>

@@ -5,8 +5,35 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 12 Nov 2026 09:39:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 10:44:05 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I stopped letting my old Amazon Fire tablets collect dust — here are 5 ways I use them</title>
+      <link>https://nusalensa.com/tablets/i-stopped-letting-my-old-amazon-fire-tablets-collect-dust-here-are-5-ways-i-use-them</link>
+      <guid isPermaLink="true">https://nusalensa.com/tablets/i-stopped-letting-my-old-amazon-fire-tablets-collect-dust-here-are-5-ways-i-use-them</guid>
+      <description>There is still plenty of life left.</description>
+      <category>Tablets</category>
+      <pubDate>Thu, 12 Nov 2026 10:30:28 GMT</pubDate>
+      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/11/amazon-fire-hd-8-pink-scaled.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>The Galaxy S27 Ultra camera leak has me worried Samsung learned nothing</title>
+      <link>https://nusalensa.com/phones/the-galaxy-s27-ultra-camera-leak-has-me-worried-samsung-learned-nothing</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/the-galaxy-s27-ultra-camera-leak-has-me-worried-samsung-learned-nothing</guid>
+      <description>Samsung is still putting its best 200MP camera behind the wrong lens.</description>
+      <category>Smartphones</category>
+      <pubDate>Thu, 12 Nov 2026 10:00:16 GMT</pubDate>
+      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/10/Samsung-Galaxy-S26-Ultras-camera-module-zoomed-in.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>WhatsApp&apos;s &apos;View Once&apos; text messages feature is now available to beta users on Android</title>
+      <link>https://nusalensa.com/phones/whatsapps-view-once-text-messages-feature-is-now-available-to-beta-users-on-android</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/whatsapps-view-once-text-messages-feature-is-now-available-to-beta-users-on-android</guid>
+      <description>WhatsApp already lets its users send &quot;view once&quot; photos, videos, and voice messages that disappear after the recipient sees or hears them. The company has been </description>
+      <category>Smartphones</category>
+      <pubDate>Thu, 12 Nov 2026 10:00:03 GMT</pubDate>
+      <enclosure url="https://fdn.gsmarena.com/imgroot/news/26/11/whatsapp-view-once-text-message-android-beta-users/gsmarena_001.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Google&amp;#8217;s new Tabletop experiment wants to fix the worst part of making plans with friends</title>
       <link>https://nusalensa.com/tablets/google8217s-new-tabletop-experiment-wants-to-fix-the-worst-part-of-making-plans-with-friends</link>
@@ -249,33 +276,6 @@
       <category>Smartphones</category>
       <pubDate>Wed, 11 Nov 2026 20:11:42 GMT</pubDate>
       <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/11/Henry-Cavills-Mustache-Protocol.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>United is restricting AI agents from booking flights</title>
-      <link>https://nusalensa.com/technology/united-is-restricting-ai-agents-from-booking-flights</link>
-      <guid isPermaLink="true">https://nusalensa.com/technology/united-is-restricting-ai-agents-from-booking-flights</guid>
-      <description>The airline believes AI poses security risks and may violate DOT and FAA rules.</description>
-      <category>Technology</category>
-      <pubDate>Wed, 11 Nov 2026 20:09:44 GMT</pubDate>
-      <enclosure url="https://www.engadget.com/img/gallery/united-is-restricting-ai-agents-from-booking-flights/l-intro-1794427706.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Samsung takes a jab at iPhone Duo&apos;s sidebar</title>
-      <link>https://nusalensa.com/phones/samsung-takes-a-jab-at-iphone-duos-sidebar</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/samsung-takes-a-jab-at-iphone-duos-sidebar</guid>
-      <description>Samsung’s latest ad takes a literal punch at Apple’s iPhone Duo and more specifically, its sidebar. That’s the new adaptive navigation system implemented on the</description>
-      <category>Smartphones</category>
-      <pubDate>Wed, 11 Nov 2026 20:01:02 GMT</pubDate>
-      <enclosure url="https://fdn.gsmarena.com/imgroot/news/26/11/samsung-takes-punch-at-iphone-duo/gsmarena_00.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Google brings the Gemini app to Apple CarPlay</title>
-      <link>https://nusalensa.com/phones/google-brings-the-gemini-app-to-apple-carplay</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/google-brings-the-gemini-app-to-apple-carplay</guid>
-      <description>The chatbot was already available through the Google Maps app.</description>
-      <category>Smartphones</category>
-      <pubDate>Wed, 11 Nov 2026 19:54:55 GMT</pubDate>
-      <enclosure url="https://www.engadget.com/img/gallery/google-brings-the-gemini-app-to-apple-carplay/l-intro-1794426857.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
