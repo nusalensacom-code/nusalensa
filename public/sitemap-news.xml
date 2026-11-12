@@ -3,6 +3,111 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/the-jensen-huang-scandal-is-hardly-over</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T17:44:33Z</news:publication_date>
+      <news:title>The Jensen Huang scandal is hardly over</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_03.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>The Jensen Huang scandal is hardly over</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/four-excellent-garmin-watches-are-on-deep-discount-ahead-of-black-friday</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T17:35:00Z</news:publication_date>
+      <news:title>Four excellent Garmin watches are on deep discount ahead of Black Friday</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/garmin-venu-4-forerunner-70-renders.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Four excellent Garmin watches are on deep discount ahead of Black Friday</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/nothing8217s-screen-less-new-gadget-really-looks-like-yet-another-ai-recorder</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T17:30:00Z</news:publication_date>
+      <news:title>Nothing&amp;#8217;s screen-less new gadget really looks like yet another AI recorder</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/nothing-ai-recorder-teaser.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Nothing&amp;#8217;s screen-less new gadget really looks like yet another AI recorder</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/googles-november-update-is-breaking-pixel-cameras-but-theres-an-easy-fix</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T17:26:02Z</news:publication_date>
+      <news:title>Google’s November update is breaking Pixel cameras, but there’s an easy fix</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/08/Google-Pixel-10-Auto-Best-Take-photo-with-bad-posing.jpg</image:loc>
+      <image:title>Google’s November update is breaking Pixel cameras, but there’s an easy fix</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-amazing-disappearing-exoplanet</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T17:18:10Z</news:publication_date>
+      <news:title>The amazing disappearing exoplanet</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-1149x648.jpeg</image:loc>
+      <image:title>The amazing disappearing exoplanet</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/exclusive-googles-hidden-list-of-134-apps-that-support-gemini-task-automation</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T17:05:36Z</news:publication_date>
+      <news:title>Exclusive: Google’s hidden list of 134 apps that support Gemini task automation</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/The-Gemini-app-on-a-smartphone-screen-scaled.jpg</image:loc>
+      <image:title>Exclusive: Google’s hidden list of 134 apps that support Gemini task automation</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/garmin8217s-beginner-friendly-forerunner-70-hits-a-record-low-under-200</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T17:02:53Z</news:publication_date>
+      <news:title>Garmin&amp;#8217;s beginner-friendly Forerunner 70 hits a record low under $200</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Garmin-Forerunner-70-Featured.jpg</image:loc>
+      <image:title>Garmin&amp;#8217;s beginner-friendly Forerunner 70 hits a record low under $200</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/the-end-of-tesla-cybertruck-diehards-turn-on-elon-musk-after-he-pulls-the-plug</loc>
     <news:news>
       <news:publication>
@@ -123,6 +228,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/apple-adds-samsung-foldables-to-trade-in-program</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T16:43:45Z</news:publication_date>
+      <news:title>Apple Adds Samsung Foldables to Trade-In Program</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/09/Apple-Trade-Ins-Feature.jpg</image:loc>
+      <image:title>Apple Adds Samsung Foldables to Trade-In Program</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/pixel-watch-and-fitbit-air-will-be-able-to-control-android-xr-glasses-with-gestures</loc>
     <news:news>
       <news:publication>
@@ -150,6 +270,21 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Samsung-Galaxy-S26-FE-rear-cover-with-logo-resize.jpg</image:loc>
       <image:title>Samsung Contacts is working on taking the hassle out of tracking birthdays</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-sports-app-now-features-ufc</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T16:34:22Z</news:publication_date>
+      <news:title>Apple Sports App Now Features UFC</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/apple-sports-ufc-screenshots.jpg</image:loc>
+      <image:title>Apple Sports App Now Features UFC</image:title>
     </image:image>
   </url>
   <url>
@@ -195,6 +330,21 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2023/01/sennheiser-momentum-4-wireless-pads.jpg</image:loc>
       <image:title>Sennheiser Momentum 4 headphones are $100 off with 60-hour battery</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/trump-says-tim-cook-should-be-nvidia-ceo-as-jensen-huang-resigns</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T16:21:09Z</news:publication_date>
+      <news:title>Trump Says Tim Cook Should Be Nvidia CEO as Jensen Huang Resigns</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/04/Tim-Cook-and-Donald-Trump.jpg</image:loc>
+      <image:title>Trump Says Tim Cook Should Be Nvidia CEO as Jensen Huang Resigns</image:title>
     </image:image>
   </url>
   <url>
@@ -3600,201 +3750,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Business-Agent-Customer-Conversation.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>ChatGPT is getting verified AI ‘Business Agents’</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/next-ipad-air-likely-to-have-these-10-new-features</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T17:53:26Z</news:publication_date>
-      <news:title>Next iPad Air Likely to Have These 10 New Features</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/iPad-air-the-latest-rumors.jpg</image:loc>
-      <image:title>Next iPad Air Likely to Have These 10 New Features</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/ableton-live-13-announced-with-a-step-sequencer-new-drum-synth-and-more</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T17:43:49Z</news:publication_date>
-      <news:title>Ableton Live 13 announced with a step sequencer, new drum synth, and more</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/1-l13-stepseq-2.avif?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Ableton Live 13 announced with a step sequencer, new drum synth, and more</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/amazon-cuts-10-off-iniu8217s-45w-mini-portable-charger</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T17:37:15Z</news:publication_date>
-      <news:title>Amazon cuts $10 off INIU&amp;#8217;s 45W mini portable charger</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/INIU-10000mAh-45W-Power-Bank-Featured.jpg</image:loc>
-      <image:title>Amazon cuts $10 off INIU&amp;#8217;s 45W mini portable charger</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-indie-game-community-is-in-disarray-over-ai-and-big-walk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T17:32:47Z</news:publication_date>
-      <news:title>The indie game community is in disarray over AI and Big Walk</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/BigWalk_Screenshot_Jun26_01.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>The indie game community is in disarray over AI and Big Walk</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-fi-is-bringing-back-multiple-cell-network-support-for-better-coverage</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T17:32:39Z</news:publication_date>
-      <news:title>Google Fi is bringing back multiple cell network support for better coverage</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/google-fi-logo-larger.jpeg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Google Fi is bringing back multiple cell network support for better coverage</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-fi8217s-new-super-network-brings-automatic-5g-switching-pixel-deals-and-more</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T17:30:05Z</news:publication_date>
-      <news:title>Google Fi&amp;#8217;s new Super Network brings automatic 5G switching, Pixel deals, and more</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Google-Fi-Wireless-launch.jpg</image:loc>
-      <image:title>Google Fi&amp;#8217;s new Super Network brings automatic 5G switching, Pixel deals, and more</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-fi-brings-back-network-switching-with-secondary-partner-expands-w-beyond-pixel</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T17:30:00Z</news:publication_date>
-      <news:title>Google Fi brings back network switching with ‘secondary’ partner, expands W+ beyond Pixel</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Fi-Wireless-cover.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Google Fi brings back network switching with ‘secondary’ partner, expands W+ beyond Pixel</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/anthropic-has-its-own-ai-powered-office-suite-now</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T17:30:00Z</news:publication_date>
-      <news:title>Anthropic has its own AI-powered office suite now</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Anthropic has its own AI-powered office suite now</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-announces-swift-student-challenge-ahead-of-wwdc-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T17:28:19Z</news:publication_date>
-      <news:title>Apple Announces Swift Student Challenge Ahead of WWDC 2027</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/apple-swift-student-challenge-2027.jpeg</image:loc>
-      <image:title>Apple Announces Swift Student Challenge Ahead of WWDC 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/steam-deck-performance-gets-a-reality-check-with-valves-new-fps-data</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T17:26:44Z</news:publication_date>
-      <news:title>Steam Deck performance gets a reality check with Valve&apos;s new FPS data</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_8144-scaled-1152x648-1794329069.jpg</image:loc>
-      <image:title>Steam Deck performance gets a reality check with Valve&apos;s new FPS data</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/save-serious-money-with-redpockets-black-friday-plans-that-start-at-5-a-month</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T17:24:50Z</news:publication_date>
-      <news:title>Save serious money with RedPocket’s Black Friday plans that start at $5 a month</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/00947cc8ee4c3fe022e46888fd9a63f8_abt-us-mob.webp?w=1536</image:loc>
-      <image:title>Save serious money with RedPocket’s Black Friday plans that start at $5 a month</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/ipad-mini-2021-vs-2026-buyer039s-guide-is-it-worth-upgrading</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T17:11:48Z</news:publication_date>
-      <news:title>iPad Mini 2021 vs. 2026 Buyer&amp;#039;s Guide: Is It Worth Upgrading?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/iPad-mini-OLED-feature-4.jpg</image:loc>
-      <image:title>iPad Mini 2021 vs. 2026 Buyer&amp;#039;s Guide: Is It Worth Upgrading?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/new-apple-tv-sign-language-feature-announced</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T17:11:11Z</news:publication_date>
-      <news:title>New Apple TV Sign Language Feature Announced</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/Apple-TV-Sign-Language-Interpretation.jpg</image:loc>
-      <image:title>New Apple TV Sign Language Feature Announced</image:title>
     </image:image>
   </url>
 </urlset>
