@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/color-os-wins-over-more-oneplus-fans-than-expected-in-our-latest-poll</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T08:10:07Z</news:publication_date>
+      <news:title>Color OS wins over more OnePlus fans than expected in our latest poll</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/ColorOS-17-on-OnePlus-15-oneplus-folder.jpg</image:loc>
+      <image:title>Color OS wins over more OnePlus fans than expected in our latest poll</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/meta-brings-pixel-like-call-for-me-features-to-muse-for-20month</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T07:58:33Z</news:publication_date>
+      <news:title>Meta brings Pixel-like Call for Me features to Muse for $20/month</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/chatgpt-meta-muse-scaled.jpg</image:loc>
+      <image:title>Meta brings Pixel-like Call for Me features to Muse for $20/month</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/google-sheets-now-lets-others-explore-your-data-without-accessing-your-spreadsheet</loc>
     <news:news>
       <news:publication>
@@ -3510,36 +3540,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/03/Samsung-Display-Mobile-Slidable-1-scaled.jpg</image:loc>
       <image:title>Samsung’s slidable phone is still a rumor, but its dimensions might be starting to take shape</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-could-allow-one-ui-95-users-to-record-whatsapp-and-telegram-voice-calls</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T08:03:02Z</news:publication_date>
-      <news:title>Samsung could allow One UI 9.5 users to record WhatsApp and Telegram voice calls</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/samsung-one-ui-9-5-voip-voice-call-recording/gsmarena_001.jpg</image:loc>
-      <image:title>Samsung could allow One UI 9.5 users to record WhatsApp and Telegram voice calls</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-healths-new-blood-pressure-tracking-feature-is-reaching-fitbit-air-users</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T07:36:53Z</news:publication_date>
-      <news:title>Google Health’s new blood pressure tracking feature is reaching Fitbit Air users</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/fitbit-air-side-wrist-scaled-e1791815438152-500w-260h.jpg</image:loc>
-      <image:title>Google Health’s new blood pressure tracking feature is reaching Fitbit Air users</image:title>
     </image:image>
   </url>
 </urlset>

@@ -2,6 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/color-os-wins-over-more-oneplus-fans-than-expected-in-our-latest-poll</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/ColorOS-17-on-OnePlus-15-oneplus-folder.jpg</image:loc>
+      <image:title>Color OS wins over more OnePlus fans than expected in our latest poll</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/meta-brings-pixel-like-call-for-me-features-to-muse-for-20month</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/chatgpt-meta-muse-scaled.jpg</image:loc>
+      <image:title>Meta brings Pixel-like Call for Me features to Muse for $20/month</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/google-sheets-now-lets-others-explore-your-data-without-accessing-your-spreadsheet</loc>
     <lastmod>2026-11-13</lastmod>
     <changefreq>daily</changefreq>
