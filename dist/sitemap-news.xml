@@ -3,6 +3,51 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/google-messages-big-search-redesign-is-now-rolling-out-to-beta-testers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T09:20:32Z</news:publication_date>
+      <news:title>Google Messages’ big search redesign is now rolling out to beta testers</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/google-messages-2026-redesign-search-button-scaled.jpg</image:loc>
+      <image:title>Google Messages’ big search redesign is now rolling out to beta testers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/lenovo-googlebook-15-deal-at-best-buy-gemini-oled-and-your-android-apps-in-one-laptop</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T09:06:56Z</news:publication_date>
+      <news:title>Lenovo Googlebook 15 deal at Best Buy: Gemini, OLED, and your Android apps in one laptop</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Lenovo-Googlebook-15-featured.jpeg</image:loc>
+      <image:title>Lenovo Googlebook 15 deal at Best Buy: Gemini, OLED, and your Android apps in one laptop</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-pixel-journal-app-now-lets-you-record-and-add-audio-via-recorder</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T09:06:06Z</news:publication_date>
+      <news:title>The Pixel Journal app now lets you record and add audio via Recorder</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/09/Google-Pixel-10-Pro-XL-pixel-journal.jpg</image:loc>
+      <image:title>The Pixel Journal app now lets you record and add audio via Recorder</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/color-os-wins-over-more-oneplus-fans-than-expected-in-our-latest-poll</loc>
     <news:news>
       <news:publication>
@@ -3510,36 +3555,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/apple-ifixit-proled/gsmarena_000.jpg</image:loc>
       <image:title>iFixit teardown reveals the tech behind the MacBook PROLED&apos;s light up Apple logo</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsungs-galaxy-enhance-x-editing-app-is-getting-an-overhaul-in-one-ui-95</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T09:16:36Z</news:publication_date>
-      <news:title>Samsung’s Galaxy Enhance-X editing app is getting an overhaul in One UI 9.5</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2023/04/Galaxy-Enhance-X-app-listing-scaled.jpg</image:loc>
-      <image:title>Samsung’s Galaxy Enhance-X editing app is getting an overhaul in One UI 9.5</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsungs-slidable-phone-is-still-a-rumor-but-its-dimensions-might-be-starting-to-take-shape</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T08:42:16Z</news:publication_date>
-      <news:title>Samsung’s slidable phone is still a rumor, but its dimensions might be starting to take shape</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/03/Samsung-Display-Mobile-Slidable-1-scaled.jpg</image:loc>
-      <image:title>Samsung’s slidable phone is still a rumor, but its dimensions might be starting to take shape</image:title>
     </image:image>
   </url>
 </urlset>
