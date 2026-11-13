@@ -2,6 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/electron-livery-1152x648.jpeg</image:loc>
+      <image:title>Rocket Report: Starship set for historic test flight; a century of Electron</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/lets-talk-about-jensen-huangs-many-affairs</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Let’s talk about Jensen Huang’s many affairs!</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/major-microsoft-365-outage-continues</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/microsoft.jpeg</image:loc>
+      <image:title>Major Microsoft 365 Outage Continues</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/specializeds-tarmac-sl9-s-level-is-built-to-wreck-your-zone-2-ride</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/specialized_3170-1152x648.jpg</image:loc>
+      <image:title>Specialized’s Tarmac SL9 S-Level is built to wreck your Zone 2 ride</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/after-bp-monitoring-smartwatches-huawei-reveals-its-first-continuous-glucose-monitor</loc>
     <lastmod>2026-11-13</lastmod>
     <changefreq>daily</changefreq>

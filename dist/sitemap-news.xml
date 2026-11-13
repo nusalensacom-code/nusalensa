@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T12:00:40Z</news:publication_date>
+      <news:title>Rocket Report: Starship set for historic test flight; a century of Electron</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/electron-livery-1152x648.jpeg</image:loc>
+      <image:title>Rocket Report: Starship set for historic test flight; a century of Electron</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/lets-talk-about-jensen-huangs-many-affairs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T12:00:00Z</news:publication_date>
+      <news:title>Let’s talk about Jensen Huang’s many affairs!</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Let’s talk about Jensen Huang’s many affairs!</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/major-microsoft-365-outage-continues</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T11:55:16Z</news:publication_date>
+      <news:title>Major Microsoft 365 Outage Continues</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/microsoft.jpeg</image:loc>
+      <image:title>Major Microsoft 365 Outage Continues</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/specializeds-tarmac-sl9-s-level-is-built-to-wreck-your-zone-2-ride</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T11:50:38Z</news:publication_date>
+      <news:title>Specialized’s Tarmac SL9 S-Level is built to wreck your Zone 2 ride</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/specialized_3170-1152x648.jpg</image:loc>
+      <image:title>Specialized’s Tarmac SL9 S-Level is built to wreck your Zone 2 ride</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/after-bp-monitoring-smartwatches-huawei-reveals-its-first-continuous-glucose-monitor</loc>
     <news:news>
       <news:publication>
@@ -3405,126 +3465,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/a-grok-vibe-coding-agent-leaked-sensitive-spacexsi-data/l-intro-1794400413.jpg</image:loc>
       <image:title>A Grok vibe-coding agent leaked sensitive SpaceXSI data</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/android-auto-is-getting-a-gemini-upgrade-but-only-if-you-use-a-pixel</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T12:35:00Z</news:publication_date>
-      <news:title>Android Auto is getting a Gemini upgrade, but only if you use a Pixel</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/04/Ask-Gemini-on-Android-Auto.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Android Auto is getting a Gemini upgrade, but only if you use a Pixel</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/serve-robotics-wants-to-democratize-sidewalk-delivery-robots</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T12:30:00Z</news:publication_date>
-      <news:title>Serve Robotics wants to democratize sidewalk delivery robots</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2231498899.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Serve Robotics wants to democratize sidewalk delivery robots</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/apple-is-killing-its-support-community-forum-next-week</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T12:19:10Z</news:publication_date>
-      <news:title>Apple is killing its Support Community forum next week</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Apple-Support-Community-forum.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Apple is killing its Support Community forum next week</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/2027-chevrolet-bolt-review-rip-to-the-goat-of-low-cost-electric-motoring</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T12:00:00Z</news:publication_date>
-      <news:title>2027 Chevrolet Bolt Review: RIP to the GOAT of low-cost electric motoring</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/2027-chevrolet-bolt-review-rip-to-the-goat-of-low-cost-electric-motoring/l-intro-1794352074.jpg</image:loc>
-      <image:title>2027 Chevrolet Bolt Review: RIP to the GOAT of low-cost electric motoring</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/pixel-journal-update-brings-audio-recording-and-export-options</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T11:50:01Z</news:publication_date>
-      <news:title>Pixel Journal update brings audio recording and export options</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/09/Google-Pixel-10-Pro-XL-pixel-journal.jpg</image:loc>
-      <image:title>Pixel Journal update brings audio recording and export options</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-chip-supplier-tsmc-approves-361-billion-ai-investment</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T11:44:03Z</news:publication_date>
-      <news:title>Apple Chip Supplier TSMC Approves &amp;#36;1 Billion AI Investment</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2024/04/apple-silicon-feature-joeblue.jpg</image:loc>
-      <image:title>Apple Chip Supplier TSMC Approves &amp;#36;1 Billion AI Investment</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/grapheneos-for-pixel-11-is-almost-here-and-there8217s-encouraging-news-for-performance</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T11:39:47Z</news:publication_date>
-      <news:title>GrapheneOS for Pixel 11 is almost here, and there&amp;#8217;s encouraging news for performance</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/pixel-11-pro-three-months-later-hero-1-scaled.jpg</image:loc>
-      <image:title>GrapheneOS for Pixel 11 is almost here, and there&amp;#8217;s encouraging news for performance</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/oppo-a7-ultra-tipped-to-launch-next-month-with-a-12000mah-battery</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T11:39:02Z</news:publication_date>
-      <news:title>Oppo A7 Ultra tipped to launch next month with a 12,000mAh battery</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/oppo-a7-ultra-12000-mah-leak/gsmarena_00.jpg</image:loc>
-      <image:title>Oppo A7 Ultra tipped to launch next month with a 12,000mAh battery</image:title>
     </image:image>
   </url>
 </urlset>
