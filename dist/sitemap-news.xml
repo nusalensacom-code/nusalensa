@@ -3,6 +3,96 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/select-039apple-home-collection039-accessories-now-available-to-order</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T13:53:31Z</news:publication_date>
+      <news:title>Select &amp;#039;Apple Home Collection&amp;#039; Accessories Now Available to Order</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/apple-home-collection-feature2.jpg</image:loc>
+      <image:title>Select &amp;#039;Apple Home Collection&amp;#039; Accessories Now Available to Order</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-wallet-tests-floating-bar-redesign-with-home-button-and-new-animation</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T13:22:22Z</news:publication_date>
+      <news:title>Google Wallet tests floating bar redesign with Home button and new animation</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/google-wallet-card-redesign-hero-2026-2-scaled.jpg</image:loc>
+      <image:title>Google Wallet tests floating bar redesign with Home button and new animation</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/peanuts-native-brings-12-switch-games-to-android-without-an-emulator-layer</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T13:03:14Z</news:publication_date>
+      <news:title>Peanuts Native brings 12 Switch games to Android without an emulator layer</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/08/AYN-Thor-dual-screen-android-handheld.jpg</image:loc>
+      <image:title>Peanuts Native brings 12 Switch games to Android without an emulator layer</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/apple-should-have-made-the-macbook-logo-rgb</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T13:00:00Z</news:publication_date>
+      <news:title>Apple should have made the MacBook logo RGB</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268868_Apple_added_LEDs_to_its_logo_on_the_MacBook_Pro_and_now_I_want_RGB_CVirginia.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Apple should have made the MacBook logo RGB</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/gmails-material-3-expressive-settings-redesign-is-starting-to-reach-android-users</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T12:56:09Z</news:publication_date>
+      <news:title>Gmail’s Material 3 Expressive settings redesign is starting to reach Android users</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/09/gmail-android-app-no-meet-tab-hero-scaled.jpg</image:loc>
+      <image:title>Gmail’s Material 3 Expressive settings redesign is starting to reach Android users</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/microsoft8217s-massive-outlook-outage-continues</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T12:48:03Z</news:publication_date>
+      <news:title>Microsoft&amp;#8217;s massive Outlook outage continues</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_A.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Microsoft&amp;#8217;s massive Outlook outage continues</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron</loc>
     <news:news>
       <news:publication>
@@ -3330,141 +3420,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/pulseheadset.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Sony’s latest Pulse wireless headset packs planar magnetic drivers at a good price</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/rumored-apple-smart-glasses-mentioned-in-supplier039s-earnings-briefing</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T13:49:53Z</news:publication_date>
-      <news:title>Rumored Apple Smart Glasses Mentioned in Supplier&amp;#039;s Earnings Briefing</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2021/01/Apple-Glasses-Blue-Feature.jpg</image:loc>
-      <image:title>Rumored Apple Smart Glasses Mentioned in Supplier&amp;#039;s Earnings Briefing</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/honor-700-pro-may-have-just-run-geekbench-confirming-its-chipset</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T13:47:02Z</news:publication_date>
-      <news:title>Honor 700 Pro may have just run Geekbench confirming its chipset</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/honor-700-pro-geekbench/gsmarena_000.jpg</image:loc>
-      <image:title>Honor 700 Pro may have just run Geekbench confirming its chipset</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/airtag-2-4-pack-hits-record-low-366999-price-ahead-of-black-friday</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T13:42:29Z</news:publication_date>
-      <news:title>AirTag 2 4-Pack Hits Record Low &amp;#36;69.99 Price Ahead of Black Friday</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/airtag-2-new-black-friday.jpeg</image:loc>
-      <image:title>AirTag 2 4-Pack Hits Record Low &amp;#36;69.99 Price Ahead of Black Friday</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/streaming-is-still-trying-to-be-tiktok</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T13:30:00Z</news:publication_date>
-      <news:title>Streaming is still trying to be TikTok</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2271211363.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Streaming is still trying to be TikTok</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/not-everyone-is-loving-their-new-iphone-duo</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T13:00:00Z</news:publication_date>
-      <news:title>Not everyone is loving their new iPhone Duo</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0018.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Not everyone is loving their new iPhone Duo</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/i-asked-every-tv-manufacturer-17-questions-about-how-they-spy-on-you</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T13:00:00Z</news:publication_date>
-      <news:title>I asked every TV manufacturer 17 questions about how they spy on you</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268797_What_data_are_your_TVs_collecting_and_is_it_protected__CVirginia.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>I asked every TV manufacturer 17 questions about how they spy on you</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/microsofts-automatic-super-resolution-is-now-officially-out-for-the-rog-xbox-ally-x</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T12:59:44Z</news:publication_date>
-      <news:title>Microsoft&apos;s Automatic Super Resolution is now officially out for the ROG Xbox Ally X</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/microsofts-automatic-super-resolution-is-now-officially-out-for-the-rog-xbox-ally-x/l-intro-1794401662.jpg</image:loc>
-      <image:title>Microsoft&apos;s Automatic Super Resolution is now officially out for the ROG Xbox Ally X</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/whatsapp-is-bringing-a-transparent-nav-bar-to-its-android-app</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T12:41:02Z</news:publication_date>
-      <news:title>WhatsApp is bringing a transparent nav bar to its Android app</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/whatsapp-floating-nav-bar-android/gsmarena_000.jpg</image:loc>
-      <image:title>WhatsApp is bringing a transparent nav bar to its Android app</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/a-grok-vibe-coding-agent-leaked-sensitive-spacexsi-data</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T12:35:10Z</news:publication_date>
-      <news:title>A Grok vibe-coding agent leaked sensitive SpaceXSI data</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/a-grok-vibe-coding-agent-leaked-sensitive-spacexsi-data/l-intro-1794400413.jpg</image:loc>
-      <image:title>A Grok vibe-coding agent leaked sensitive SpaceXSI data</image:title>
     </image:image>
   </url>
 </urlset>
