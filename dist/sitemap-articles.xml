@@ -2,6 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/google-sheets-now-lets-others-explore-your-data-without-accessing-your-spreadsheet</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2022/02/Google-Sheets-next-to-calculator-stock-photo-1.jpg</image:loc>
+      <image:title>Google Sheets now lets others explore your data without accessing your spreadsheet</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-rolls-out-a-fix-for-missing-health-app-vitals-and-step-counts</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/fitbit-edge-review-google-health-app-scaled.jpg</image:loc>
+      <image:title>Google rolls out a fix for missing Health app vitals and step counts</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/outlook-teams-and-other-microsoft-365-services-are-still-down-as-company-details-issues</loc>
     <lastmod>2026-11-13</lastmod>
     <changefreq>daily</changefreq>

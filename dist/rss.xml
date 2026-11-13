@@ -5,8 +5,26 @@
     <link>https://nusalensa.com</link>
     <description>Independent global technology and smartphone information platform providing verified device specs, dual comparisons, and tech news.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 13 Nov 2026 06:01:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 07:11:12 GMT</lastBuildDate>
     <atom:link href="https://nusalensa.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google Sheets now lets others explore your data without accessing your spreadsheet</title>
+      <link>https://nusalensa.com/phones/google-sheets-now-lets-others-explore-your-data-without-accessing-your-spreadsheet</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/google-sheets-now-lets-others-explore-your-data-without-accessing-your-spreadsheet</guid>
+      <description>Let your data do the talking, without revealing everything else.</description>
+      <category>Smartphones</category>
+      <pubDate>Fri, 13 Nov 2026 06:26:40 GMT</pubDate>
+      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2022/02/Google-Sheets-next-to-calculator-stock-photo-1.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Google rolls out a fix for missing Health app vitals and step counts</title>
+      <link>https://nusalensa.com/phones/google-rolls-out-a-fix-for-missing-health-app-vitals-and-step-counts</link>
+      <guid isPermaLink="true">https://nusalensa.com/phones/google-rolls-out-a-fix-for-missing-health-app-vitals-and-step-counts</guid>
+      <description>Affected readings were never deleted.</description>
+      <category>Smartphones</category>
+      <pubDate>Fri, 13 Nov 2026 06:17:50 GMT</pubDate>
+      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/10/fitbit-edge-review-google-health-app-scaled.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Outlook, Teams, and other Microsoft 365 services are still down as company details issues</title>
       <link>https://nusalensa.com/phones/outlook-teams-and-other-microsoft-365-services-are-still-down-as-company-details-issues</link>
@@ -258,24 +276,6 @@
       <category>Smartphones</category>
       <pubDate>Thu, 12 Nov 2026 19:29:44 GMT</pubDate>
       <enclosure url="https://www.androidauthority.com/wp-content/uploads/2026/11/gentle-monster-head-shs.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash</title>
-      <link>https://nusalensa.com/phones/google-rolls-out-gemini-4-hydrogen-finally-replacing-38-flash</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/google-rolls-out-gemini-4-hydrogen-finally-replacing-38-flash</guid>
-      <description>Gemini 4 Hydrogen isn&apos;t getting a slow, security-conscious release like Carbon and Argon.</description>
-      <category>Smartphones</category>
-      <pubDate>Thu, 12 Nov 2026 19:23:03 GMT</pubDate>
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-6-1152x648.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Google brings Gemini 4 Hydrogen to Search with smarter answers and better visuals</title>
-      <link>https://nusalensa.com/phones/google-brings-gemini-4-hydrogen-to-search-with-smarter-answers-and-better-visuals</link>
-      <guid isPermaLink="true">https://nusalensa.com/phones/google-brings-gemini-4-hydrogen-to-search-with-smarter-answers-and-better-visuals</guid>
-      <description>Google Search is learning to read between the lines, and typos.</description>
-      <category>Smartphones</category>
-      <pubDate>Thu, 12 Nov 2026 19:15:44 GMT</pubDate>
-      <enclosure url="https://www.androidauthority.com/wp-content/uploads/2025/05/google-ai-mode-vs-google-search-hero-photo-4-scaled.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>

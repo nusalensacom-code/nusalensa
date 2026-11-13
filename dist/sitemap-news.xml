@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/google-sheets-now-lets-others-explore-your-data-without-accessing-your-spreadsheet</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T06:26:40Z</news:publication_date>
+      <news:title>Google Sheets now lets others explore your data without accessing your spreadsheet</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2022/02/Google-Sheets-next-to-calculator-stock-photo-1.jpg</image:loc>
+      <image:title>Google Sheets now lets others explore your data without accessing your spreadsheet</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-rolls-out-a-fix-for-missing-health-app-vitals-and-step-counts</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T06:17:50Z</news:publication_date>
+      <news:title>Google rolls out a fix for missing Health app vitals and step counts</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/fitbit-edge-review-google-health-app-scaled.jpg</image:loc>
+      <image:title>Google rolls out a fix for missing Health app vitals and step counts</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/outlook-teams-and-other-microsoft-365-services-are-still-down-as-company-details-issues</loc>
     <news:news>
       <news:publication>
@@ -3510,96 +3540,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/fitbit-air-side-wrist-scaled-e1791815438152-500w-260h.jpg</image:loc>
       <image:title>Google Health’s new blood pressure tracking feature is reaching Fitbit Air users</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/claude-now-has-its-own-workplace-tools-taking-on-microsoft-office-google-workspace</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T07:02:30Z</news:publication_date>
-      <news:title>Claude now has its own workplace tools, taking on Microsoft Office, Google Workspace</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Claude-Whiteboards-and-Sheets.jpg</image:loc>
-      <image:title>Claude now has its own workplace tools, taking on Microsoft Office, Google Workspace</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/honor-said-to-be-testing-a-wide-screen-phone-with-an-8000mah-battery</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T07:00:02Z</news:publication_date>
-      <news:title>Honor said to be testing a wide-screen phone with an 8,000mAh battery</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/honor-wide-screen-phone-leak/gsmarena_00.jpg</image:loc>
-      <image:title>Honor said to be testing a wide-screen phone with an 8,000mAh battery</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-photos-is-getting-a-big-save-upgrade-to-eliminate-unnecessary-duplicates</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T06:53:55Z</news:publication_date>
-      <news:title>Google Photos is getting a big save upgrade to eliminate unnecessary duplicates</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2023/04/Google-Photos-logo-on-smartphone-Stock-photo.jpg</image:loc>
-      <image:title>Google Photos is getting a big save upgrade to eliminate unnecessary duplicates</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/samsung-gallery-now-syncs-with-google-to-back-up-your-photos</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T06:47:17Z</news:publication_date>
-      <news:title>Samsung Gallery now syncs with Google to back up your photos</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/samsung-gallery-now-syncs-with-google-to-back-up-your-photos/l-intro-1794379370.jpg</image:loc>
-      <image:title>Samsung Gallery now syncs with Google to back up your photos</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/survey-says-youtubes-new-android-app-redesign-is-a-massive-miss</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T06:44:06Z</news:publication_date>
-      <news:title>Survey says YouTube’s new Android app redesign is a massive miss</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/screen-after-cancelling-youtube-premium-lite-scaled.jpg</image:loc>
-      <image:title>Survey says YouTube’s new Android app redesign is a massive miss</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-rolls-out-gemini-4-carbon-to-ai-ultra-subscribers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T06:11:13Z</news:publication_date>
-      <news:title>Google rolls out Gemini 4 Carbon to AI Ultra subscribers</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-1-scaled.jpg</image:loc>
-      <image:title>Google rolls out Gemini 4 Carbon to AI Ultra subscribers</image:title>
     </image:image>
   </url>
 </urlset>
