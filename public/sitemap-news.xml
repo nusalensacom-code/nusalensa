@@ -3,6 +3,81 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/after-bp-monitoring-smartwatches-huawei-reveals-its-first-continuous-glucose-monitor</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T11:22:39Z</news:publication_date>
+      <news:title>After BP monitoring smartwatches, HUAWEI reveals its first continuous glucose monitor</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Huawei-cgm.jpg</image:loc>
+      <image:title>After BP monitoring smartwatches, HUAWEI reveals its first continuous glucose monitor</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/5-ai-agents-you-can-actually-use-on-android-in-2026-and-who-should-use-them</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T11:00:33Z</news:publication_date>
+      <news:title>5 AI agents you can actually use on Android in 2026 (and who should use them)</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/06/gemini-and-claude-on-two-smartphones-next-to-each-other-scaled.jpg</image:loc>
+      <image:title>5 AI agents you can actually use on Android in 2026 (and who should use them)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/pixel-weather-now-lets-you-report-inaccurate-weather-conditions</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T10:56:40Z</news:publication_date>
+      <news:title>Pixel Weather now lets you report inaccurate weather conditions</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/04/google-pixel-weather-forecast-boxes-details.jpg</image:loc>
+      <image:title>Pixel Weather now lets you report inaccurate weather conditions</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/motorola-razr-plus-2024-starts-receiving-android-17-but-us-owners-still-have-to-wait</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T10:53:26Z</news:publication_date>
+      <news:title>Motorola Razr Plus 2024 starts receiving Android 17, but US owners still have to wait</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/07/Motorola-Razr-Plus-weather-app.jpg</image:loc>
+      <image:title>Motorola Razr Plus 2024 starts receiving Android 17, but US owners still have to wait</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/heres-a-demo-of-google-calculators-new-unit-conversion-feature-and-a-preview-of-pixel-solver</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T10:53:00Z</news:publication_date>
+      <news:title>Here’s a demo of Google Calculator’s new Unit Conversion feature and a preview of Pixel Solver</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/google_calculator_2.jpg</image:loc>
+      <image:title>Here’s a demo of Google Calculator’s new Unit Conversion feature and a preview of Pixel Solver</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/tablets/apple-launches-two-products-today</loc>
     <news:news>
       <news:publication>
@@ -3450,66 +3525,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/oppo-a7-ultra-12000-mah-leak/gsmarena_00.jpg</image:loc>
       <image:title>Oppo A7 Ultra tipped to launch next month with a 12,000mAh battery</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/how-to-see-and-delete-what-gemini-knows-about-you-and-why-you-should</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T11:11:45Z</news:publication_date>
-      <news:title>How to see and delete what Gemini knows about you, and why you should</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/The-Gemini-app-on-a-smartphone-screen-scaled.jpg</image:loc>
-      <image:title>How to see and delete what Gemini knows about you, and why you should</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/even-realities-glasses-are-coming-to-a-job-site-near-you</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T11:03:00Z</news:publication_date>
-      <news:title>Even Realities glasses are coming to a job site near you</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/even-realities-g2-in-charging-case-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Even Realities glasses are coming to a job site near you</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/apple-is-shutting-down-its-online-support-community-on-november-20</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T10:52:59Z</news:publication_date>
-      <news:title>Apple is shutting down its online Support Community on November 20</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/apple-is-shutting-down-its-online-support-community-on-november-20/l-intro-1794394269.jpg</image:loc>
-      <image:title>Apple is shutting down its online Support Community on November 20</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/harman-unveils-drops</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T10:41:02Z</news:publication_date>
-      <news:title>Harman unveils Drops</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/harman-introduces-drops-music-discovery-app/gsmarena_000.jpg</image:loc>
-      <image:title>Harman unveils Drops</image:title>
     </image:image>
   </url>
 </urlset>
