@@ -3,6 +3,21 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/outlook-teams-and-other-microsoft-365-services-are-still-down-as-company-details-issues</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T05:53:08Z</news:publication_date>
+      <news:title>Outlook, Teams, and other Microsoft 365 services are still down as company details issues</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2023/02/Outlook-logo-stock-photo-6.jpg</image:loc>
+      <image:title>Outlook, Teams, and other Microsoft 365 services are still down as company details issues</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/donald-trump-really-wants-tim-cook-to-run-nvidia</loc>
     <news:news>
       <news:publication>
@@ -3585,36 +3600,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-1-scaled.jpg</image:loc>
       <image:title>Google rolls out Gemini 4 Carbon to AI Ultra subscribers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-reportedly-working-on-a-phone-with-an-expandable-display</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T06:00:02Z</news:publication_date>
-      <news:title>Samsung reportedly working on a phone with an expandable display</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/samsung-vertical-rolling-phone-new-leak/gsmarena_00.jpg</image:loc>
-      <image:title>Samsung reportedly working on a phone with an expandable display</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-shares-more-details-on-its-smartest-new-pixel-watch-workout-trick</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T05:01:11Z</news:publication_date>
-      <news:title>Google shares more details on its smartest new Pixel Watch workout trick</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-8-scaled-e1786466755516-500w-260h.jpg</image:loc>
-      <image:title>Google shares more details on its smartest new Pixel Watch workout trick</image:title>
     </image:image>
   </url>
 </urlset>
