@@ -3,6 +3,81 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/tablets/apple-launches-two-products-today</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T10:37:25Z</news:publication_date>
+      <news:title>Apple Launches Two Products Today</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/apple-pro-tell-logo.jpg</image:loc>
+      <image:title>Apple Launches Two Products Today</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/i-finally-have-google-messages8217-new-pinned-chats-ui-here8217s-how-to-get-it-on-your-phone-now</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T10:30:12Z</news:publication_date>
+      <news:title>I finally have Google Messages&amp;#8217; new pinned chats UI. Here&amp;#8217;s how to get it on your phone now</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/google-messges-2026-redesign-hero-scaled.jpg</image:loc>
+      <image:title>I finally have Google Messages&amp;#8217; new pinned chats UI. Here&amp;#8217;s how to get it on your phone now</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/motorola-signature-27-could-have-a-downgraded-5500mah-battery-in-some-markets</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T10:19:14Z</news:publication_date>
+      <news:title>Motorola Signature 27 could have a downgraded 5,500mAh battery in some markets</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/motorola-signature-27-entire-back-view-scaled.jpg</image:loc>
+      <image:title>Motorola Signature 27 could have a downgraded 5,500mAh battery in some markets</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/6-reasons-i8217d-still-buy-the-galaxy-s26-ultra-instead-of-the-motorola-signature-27</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T10:00:36Z</news:publication_date>
+      <news:title>6 reasons I&amp;#8217;d still buy the Galaxy S26 Ultra instead of the Motorola Signature 27</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/samsung-galaxy-s26-ultra-pine-tree-scaled.jpg</image:loc>
+      <image:title>6 reasons I&amp;#8217;d still buy the Galaxy S26 Ultra instead of the Motorola Signature 27</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/pixels-november-update-is-breaking-aod-lock-screen-and-notifications-for-some-users</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T09:49:30Z</news:publication_date>
+      <news:title>Pixel’s November update is breaking AOD, lock screen, and notifications for some users</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/08/google-pixel-10-pro-and-pro-xl-installing-system-update.jpg</image:loc>
+      <image:title>Pixel’s November update is breaking AOD, lock screen, and notifications for some users</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/google-messages-big-search-redesign-is-now-rolling-out-to-beta-testers</loc>
     <news:news>
       <news:publication>
@@ -3435,126 +3510,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/harman-introduces-drops-music-discovery-app/gsmarena_000.jpg</image:loc>
       <image:title>Harman unveils Drops</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/your-wear-os-watch-can-now-run-metas-muse-ai-agent</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T10:34:58Z</news:publication_date>
-      <news:title>Your Wear OS watch can now run Meta’s Muse AI agent</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/meta-muse-ai-voice-conversations-hero-image.jpg</image:loc>
-      <image:title>Your Wear OS watch can now run Meta’s Muse AI agent</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-best-nova-launcher-alternative-isn8217t-on-the-play-store-here8217s-how-to-install-it</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T10:22:13Z</news:publication_date>
-      <news:title>The best Nova Launcher alternative isn&amp;#8217;t on the Play Store — here&amp;#8217;s how to install it</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/supernova-launcher-home-screen-2.jpg</image:loc>
-      <image:title>The best Nova Launcher alternative isn&amp;#8217;t on the Play Store — here&amp;#8217;s how to install it</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-brings-gemini-email-summaries-and-writing-tools-to-more-gmail-users</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T10:18:41Z</news:publication_date>
-      <news:title>Google brings Gemini email summaries and writing tools to more Gmail users</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/06/Gmail-AI-Inbox-7-scaled.jpg</image:loc>
-      <image:title>Google brings Gemini email summaries and writing tools to more Gmail users</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/cant-see-daily-vitals-on-your-fitbit-its-not-just-you-but-a-fix-might-not-come-soon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T10:09:50Z</news:publication_date>
-      <news:title>Can’t see daily vitals on your Fitbit? It’s not just you, but a fix might not come soon</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/google-health-splash-screen-scaled.jpg</image:loc>
-      <image:title>Can’t see daily vitals on your Fitbit? It’s not just you, but a fix might not come soon</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/make-apple-watch-listen-for-sounds-like-the-doorbell</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T10:03:54Z</news:publication_date>
-      <news:title>Make Apple Watch Listen for Sounds Like the Doorbell</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/watch-sound-recognition.jpg</image:loc>
-      <image:title>Make Apple Watch Listen for Sounds Like the Doorbell</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/next-gen-processors-are-leaving-google8217s-tensor-in-the-dust</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T10:00:08Z</news:publication_date>
-      <news:title>Next-gen processors are leaving Google&amp;#8217;s Tensor in the dust</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/2026-flagship-smartphones-scaled.jpg</image:loc>
-      <image:title>Next-gen processors are leaving Google&amp;#8217;s Tensor in the dust</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/lucid-ceo-says-the-company-didnt-know-where-its-own-cars-were</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T09:56:03Z</news:publication_date>
-      <news:title>Lucid CEO says the company didn&apos;t know where its own cars were</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/lucid-ceo-says-the-company-didnt-know-where-its-own-cars-were/l-intro-1794390872.jpg</image:loc>
-      <image:title>Lucid CEO says the company didn&apos;t know where its own cars were</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/ifixit-teardown-reveals-the-tech-behind-the-macbook-proleds-light-up-apple-logo</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T09:37:02Z</news:publication_date>
-      <news:title>iFixit teardown reveals the tech behind the MacBook PROLED&apos;s light up Apple logo</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/apple-ifixit-proled/gsmarena_000.jpg</image:loc>
-      <image:title>iFixit teardown reveals the tech behind the MacBook PROLED&apos;s light up Apple logo</image:title>
     </image:image>
   </url>
 </urlset>

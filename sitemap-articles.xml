@@ -2,6 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/tablets/apple-launches-two-products-today</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/apple-pro-tell-logo.jpg</image:loc>
+      <image:title>Apple Launches Two Products Today</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/i-finally-have-google-messages8217-new-pinned-chats-ui-here8217s-how-to-get-it-on-your-phone-now</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/google-messges-2026-redesign-hero-scaled.jpg</image:loc>
+      <image:title>I finally have Google Messages&amp;#8217; new pinned chats UI. Here&amp;#8217;s how to get it on your phone now</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/motorola-signature-27-could-have-a-downgraded-5500mah-battery-in-some-markets</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/motorola-signature-27-entire-back-view-scaled.jpg</image:loc>
+      <image:title>Motorola Signature 27 could have a downgraded 5,500mAh battery in some markets</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/6-reasons-i8217d-still-buy-the-galaxy-s26-ultra-instead-of-the-motorola-signature-27</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/samsung-galaxy-s26-ultra-pine-tree-scaled.jpg</image:loc>
+      <image:title>6 reasons I&amp;#8217;d still buy the Galaxy S26 Ultra instead of the Motorola Signature 27</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/pixels-november-update-is-breaking-aod-lock-screen-and-notifications-for-some-users</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/08/google-pixel-10-pro-and-pro-xl-installing-system-update.jpg</image:loc>
+      <image:title>Pixel’s November update is breaking AOD, lock screen, and notifications for some users</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/google-messages-big-search-redesign-is-now-rolling-out-to-beta-testers</loc>
     <lastmod>2026-11-13</lastmod>
     <changefreq>daily</changefreq>
