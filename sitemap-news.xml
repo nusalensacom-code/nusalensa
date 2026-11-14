@@ -3,6 +3,231 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/tablets/apple-black-friday-starts-early-save-on-apple-watch-macbook-air-and-more</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T15:25:16Z</news:publication_date>
+      <news:title>Apple Black Friday Starts Early: Save on Apple Watch, MacBook Air, and More</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/Black-Friday-Deals-26-3.jpg</image:loc>
+      <image:title>Apple Black Friday Starts Early: Save on Apple Watch, MacBook Air, and More</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-openai-board-member-who-fired-sam-altman-says-we-still-can8217t-trust-ai-ceos</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T15:00:00Z</news:publication_date>
+      <news:title>The OpenAI board member who fired Sam Altman says we still can&amp;#8217;t trust AI CEOs</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD-Helen-Toner.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>The OpenAI board member who fired Sam Altman says we still can&amp;#8217;t trust AI CEOs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/here-are-our-favorite-deals-from-reis-giant-holiday-sale</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T15:00:00Z</news:publication_date>
+      <news:title>Here are our favorite deals from REI’s giant Holiday Sale</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/fenix8Pro3.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Here are our favorite deals from REI’s giant Holiday Sale</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/tesla-is-inviting-some-people-to-buy-a-cybercab-for-personal-use-but-read-the-fine-print</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T14:18:36Z</news:publication_date>
+      <news:title>Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25670862/Robotaxi_89.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/top-stories-apple039s-new-software-approach-iphone-duo-optimized-apps-and-more</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T14:00:08Z</news:publication_date>
+      <news:title>Top Stories: Apple&amp;#039;s New Software Approach, iPhone Duo-Optimized Apps, and More</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/top-stories-2026-11-14.jpg</image:loc>
+      <image:title>Top Stories: Apple&amp;#039;s New Software Approach, iPhone Duo-Optimized Apps, and More</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/this-tiny-gamepad-with-dual-analog-thumbsticks-pushes-the-limits-of-portable-controllers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T14:00:00Z</news:publication_date>
+      <news:title>This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/crkd1_d836b8.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/a-gadget-to-make-your-dumb-house-smarter</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T13:00:00Z</news:publication_date>
+      <news:title>A gadget to make your dumb house smarter</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Installer-152.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>A gadget to make your dumb house smarter</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/james-webb-telescope-finds-ice-older-than-the-star-it-orbits</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T12:15:48Z</news:publication_date>
+      <news:title>James Webb telescope finds ice older than the star it orbits</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-1-989x648.jpeg</image:loc>
+      <image:title>James Webb telescope finds ice older than the star it orbits</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/winemakers-are-learning-that-conservation-can-be-good-for-business</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T12:05:51Z</news:publication_date>
+      <news:title>Winemakers are learning that conservation can be good for business</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/savineyard1-1152x640.jpg</image:loc>
+      <image:title>Winemakers are learning that conservation can be good for business</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/how-i-freed-up-36gb-on-my-android-phone-without-deleting-a-single-photo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T12:00:31Z</news:publication_date>
+      <news:title>How I freed up 36GB on my Android phone without deleting a single photo</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Samsung-phone-showing-storage-status-scaled.jpg</image:loc>
+      <image:title>How I freed up 36GB on my Android phone without deleting a single photo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/jensen-huang-and-the-decline-of-the-visionary-showman-founder-ceo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T12:00:00Z</news:publication_date>
+      <news:title>Jensen Huang and the decline of the visionary showman founder CEO</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2194622930.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Jensen Huang and the decline of the visionary showman founder CEO</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/how-to-tell-if-a-black-friday-deal-is-actually-worth-it</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T11:30:46Z</news:publication_date>
+      <news:title>How to tell if a Black Friday deal is actually worth it</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/11/black-friday-2025-android-phones-dont-buy-hero.jpg</image:loc>
+      <image:title>How to tell if a Black Friday deal is actually worth it</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/i-tested-meta-muse-and-chatgpt-dots-and-here8217s-the-one-i8217m-sticking-with</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T11:00:30Z</news:publication_date>
+      <news:title>I tested Meta Muse and ChatGPT Dots, and here&amp;#8217;s the one I&amp;#8217;m sticking with</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/chatgpt-meta-muse-scaled.jpg</image:loc>
+      <image:title>I tested Meta Muse and ChatGPT Dots, and here&amp;#8217;s the one I&amp;#8217;m sticking with</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/vela-maps-is-the-closest-thing-to-google-maps-without-google-here8217s-how-to-install-it</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T10:30:18Z</news:publication_date>
+      <news:title>Vela Maps is the closest thing to Google Maps without Google — here&amp;#8217;s how to install it</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/vela-maps-navigation-screen-2.jpg</image:loc>
+      <image:title>Vela Maps is the closest thing to Google Maps without Google — here&amp;#8217;s how to install it</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/5-apps-you-can-use-instead-of-google-messages</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T10:00:32Z</news:publication_date>
+      <news:title>5 apps you can use instead of Google Messages</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/google-messages-logo-pixel-11-pro-close-scaled.jpg</image:loc>
+      <image:title>5 apps you can use instead of Google Messages</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/pixel-11-pro8217s-hilight-feature-also-now-works-on-whatsapp-messages</loc>
     <news:news>
       <news:publication>
@@ -2235,636 +2460,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25343254/STK083_B_NVIDIA_D.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/some-pixel-users-say-googles-november-update-broke-wireless-charging</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T15:37:31Z</news:publication_date>
-      <news:title>Some Pixel users say Google’s November update broke wireless charging</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/09/Pixelsnap-wireless-charging-Pixel-10.jpg</image:loc>
-      <image:title>Some Pixel users say Google’s November update broke wireless charging</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/a-power-bank-that-can-quickly-charge-three-gadgets-is-just-49</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T15:19:58Z</news:publication_date>
-      <news:title>A power bank that can quickly charge three gadgets is just $49</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ecoflow.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>A power bank that can quickly charge three gadgets is just $49</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/soundcore-q31i-headphones-are-25-off-at-a-record-low-price</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T15:10:32Z</news:publication_date>
-      <news:title>Soundcore Q31i headphones are $25 off at a record low price</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Soundcore-Q31i-Featured.jpg</image:loc>
-      <image:title>Soundcore Q31i headphones are $25 off at a record low price</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/youtube-server-error-400-on-android-is-now-fixed-google-confirms</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T15:05:27Z</news:publication_date>
-      <news:title>YouTube Server Error 400 on Android is now fixed, Google confirms</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/DSCF3408-scaled.jpeg</image:loc>
-      <image:title>YouTube Server Error 400 on Android is now fixed, Google confirms</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/8216hey-gemini8217-hotword-debuts-on-android-xr-glasses</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T15:00:00Z</news:publication_date>
-      <news:title>&amp;#8216;Hey Gemini&amp;#8217; hotword debuts on Android XR glasses</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/android-xr-intelligent-eyewear-warby-parker-51.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>&amp;#8216;Hey Gemini&amp;#8217; hotword debuts on Android XR glasses</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T14:50:17Z</news:publication_date>
-      <news:title>Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/WP_ALDEN-Carousel_Lifestyle-copy-1152x648.jpg</image:loc>
-      <image:title>Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/save-299-on-apple8217s-1tb-m5-ipad-pro-11-inch-on-amazon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T14:26:42Z</news:publication_date>
-      <news:title>Save $299 on Apple&amp;#8217;s 1TB M5 iPad Pro 11-inch on Amazon</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Apple-iPad-Pro-11-M5-Featured.jpg</image:loc>
-      <image:title>Save $299 on Apple&amp;#8217;s 1TB M5 iPad Pro 11-inch on Amazon</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/here8217s-how-google8217s-android-xr-glasses-are-handling-the-camera-038-privacy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T14:15:00Z</news:publication_date>
-      <news:title>Here&amp;#8217;s how Google&amp;#8217;s Android XR glasses are handling the camera &amp;#038; privacy</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/android-xr-intelligent-eyewear-gentle-monster-19.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Here&amp;#8217;s how Google&amp;#8217;s Android XR glasses are handling the camera &amp;#038; privacy</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/legos-bricklink-marketplace-has-been-offline-for-a-week-following-unusual-activity</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T14:13:58Z</news:publication_date>
-      <news:title>Lego’s BrickLink marketplace has been offline for a week following ‘unusual activity’</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/bricklink1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Lego’s BrickLink marketplace has been offline for a week following ‘unusual activity’</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/i-reviewed-the-apple-homeview-ask-me-anything</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T14:10:00Z</news:publication_date>
-      <news:title>I reviewed the Apple HomeView, ask me anything</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268864_Smart_home_photos_HMCRAE102.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>I reviewed the Apple HomeView, ask me anything</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/googles-new-android-xr-glasses-work-with-ios-made-for-iphone-certified</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T14:05:00Z</news:publication_date>
-      <news:title>Google’s new Android XR glasses work with iOS, Made for iPhone certified</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/android-xr-intelligent-eyewear-warby-parker-34.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Google’s new Android XR glasses work with iOS, Made for iPhone certified</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/hands-on-google-and-samsungs-vision-for-android-xr-glasses-is-2020</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T14:01:00Z</news:publication_date>
-      <news:title>Hands-on: Google and Samsung’s vision for Android XR glasses is 20/20</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/android-xr-intelligent-eyewear-warby-parker-22.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Hands-on: Google and Samsung’s vision for Android XR glasses is 20/20</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/you-can-now-buy-nothing-headphones-and-earbuds-at-select-target-stores-in-the-us</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T14:00:52Z</news:publication_date>
-      <news:title>You can now buy Nothing headphones and earbuds at select Target stores in the US</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Nothing-Headphone-1-Pro-3-of-12.jpg</image:loc>
-      <image:title>You can now buy Nothing headphones and earbuds at select Target stores in the US</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-and-googles-new-smart-glasses-support-iphones-but-leave-most-android-brands-out</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T14:00:43Z</news:publication_date>
-      <news:title>Samsung and Google’s new smart glasses support iPhones but leave most Android brands out</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Google-Intelligent-Eyewear-9.jpg</image:loc>
-      <image:title>Samsung and Google’s new smart glasses support iPhones but leave most Android brands out</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/you-can-finally-pre-order-samsungs-smart-glasses-with-android-xr</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T14:00:35Z</news:publication_date>
-      <news:title>You can finally pre-order Samsung’s smart glasses with Android XR</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Google-Intelligent-Eyewear-23.jpg</image:loc>
-      <image:title>You can finally pre-order Samsung’s smart glasses with Android XR</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/hundreds-of-streaming-services-and-nothing-to-watch</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T14:00:19Z</news:publication_date>
-      <news:title>Hundreds of streaming services and nothing to watch</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2230766677-1024x648.jpg</image:loc>
-      <image:title>Hundreds of streaming services and nothing to watch</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-launches-intelligent-eyewear-glasses-395-pre-order-today-ships-dec-10</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T14:00:00Z</news:publication_date>
-      <news:title>Google launches Intelligent Eyewear glasses: $395+, pre-order today, ships Dec. 10</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/android-xr-intelligent-eyewear-warby-parker-9.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Google launches Intelligent Eyewear glasses: $395+, pre-order today, ships Dec. 10</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/apples-homeview-is-my-new-favorite-smart-display-but-not-my-daughters</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T14:00:00Z</news:publication_date>
-      <news:title>Apple’s HomeView is my new favorite smart display — but not my daughter’s</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268864_Smart_home_photos_HMCRAE74.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Apple’s HomeView is my new favorite smart display — but not my daughter’s</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/i-tried-googles-ai-glasses-and-metas-finally-got-real-competition</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T14:00:00Z</news:publication_date>
-      <news:title>I tried Google’s AI glasses and Meta’s finally got real competition</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/androidxr8.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>I tried Google’s AI glasses and Meta’s finally got real competition</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-pricey-new-apple-tv-4k-is-still-the-best-streamer-around</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T14:00:00Z</news:publication_date>
-      <news:title>The pricey new Apple TV 4K is still the best streamer around</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268864_Smart_home_photos_HMCRAE30.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>The pricey new Apple TV 4K is still the best streamer around</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/nvidia-ceo-jensen-huang-resigns-amid-spy-affair-scandals-1</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T13:53:16Z</news:publication_date>
-      <news:title>Nvidia CEO Jensen Huang resigns amid spy, affair scandals</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301620664.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Nvidia CEO Jensen Huang resigns amid spy, affair scandals</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/nvidia-ceo-jensen-huang-resigns-amid-spy-affair-scandals</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T13:53:16Z</news:publication_date>
-      <news:title>Nvidia CEO Jensen Huang resigns amid spy, affair scandals</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301620664.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Nvidia CEO Jensen Huang resigns amid spy, affair scandals</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/disney-just-launched-3d-movies-on-the-meta-quest-ahead-of-meta-vr-glasses8217-release</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T13:50:57Z</news:publication_date>
-      <news:title>Disney just launched 3D movies on the Meta Quest ahead of Meta VR Glasses&amp;#8217; release</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/monsters-inc-scare-floor-meta-quest-3d.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Disney just launched 3D movies on the Meta Quest ahead of Meta VR Glasses&amp;#8217; release</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/galaxy-s27-wallpapers-leak-giving-us-early-clues-on-expected-colors</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T13:25:26Z</news:publication_date>
-      <news:title>Galaxy S27 wallpapers leak, giving us early clues on expected colors</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/03/Samsung-Galaxy-S26-Ultra-home-screen.jpg</image:loc>
-      <image:title>Galaxy S27 wallpapers leak, giving us early clues on expected colors</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/not-just-s26-samsung-is-already-testing-one-ui-95-on-the-galaxy-s25</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T13:24:11Z</news:publication_date>
-      <news:title>Not just S26, Samsung is already testing One UI 9.5 on the Galaxy S25</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/05/samsung-galaxy-s25-ultra-joe-revisit-10-scaled.jpg</image:loc>
-      <image:title>Not just S26, Samsung is already testing One UI 9.5 on the Galaxy S25</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/tested-this-unofficial-amd-driver-let-me-play-tears-of-the-kingdom-on-an-exynos-phone</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T13:21:46Z</news:publication_date>
-      <news:title>Tested: This unofficial AMD driver let me play Tears of the Kingdom on an Exynos phone</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Zelda-on-Galaxy-S26-FE-scaled-e1794489467742-500w-260h.jpg</image:loc>
-      <image:title>Tested: This unofficial AMD driver let me play Tears of the Kingdom on an Exynos phone</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/a-seller-in-china-has-started-taking-blind-pre-orders-for-the-vanilla-xiaomi-18</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T13:02:02Z</news:publication_date>
-      <news:title>A seller in China has started taking blind pre-orders for the vanilla Xiaomi 18</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/xiaomi-18-blind-pre-orders-in-china/gsmarena_000.jpg</image:loc>
-      <image:title>A seller in China has started taking blind pre-orders for the vanilla Xiaomi 18</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/039ratchet-clank-ranger-rumble039-to-leave-app-store-this-month</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T12:52:07Z</news:publication_date>
-      <news:title>&amp;#039;Ratchet &amp; Clank: Ranger Rumble&amp;#039; to Leave App Store This Month</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/rachet-clank-ranger-rumble.jpeg</image:loc>
-      <image:title>&amp;#039;Ratchet &amp; Clank: Ranger Rumble&amp;#039; to Leave App Store This Month</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple039s-johny-srouji-eyed-to-replace-nvidia-ceo-jensen-huang</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T12:29:50Z</news:publication_date>
-      <news:title>Apple&amp;#039;s Johny Srouji Eyed to Replace Nvidia CEO Jensen Huang</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/04/johny-srouji-apple.jpg</image:loc>
-      <image:title>Apple&amp;#039;s Johny Srouji Eyed to Replace Nvidia CEO Jensen Huang</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/review-apple039s-m6-imac-is-pricey-but-it039s-still-a-good-choice-for-a-clean-desk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T12:00:37Z</news:publication_date>
-      <news:title>Review: Apple&amp;#039;s M6 iMac is pricey, but it&amp;#039;s still a good choice for a clean desk</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/IMG_9812-1152x648.jpeg</image:loc>
-      <image:title>Review: Apple&amp;#039;s M6 iMac is pricey, but it&amp;#039;s still a good choice for a clean desk</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/you-can-get-the-redmagic-12-pro-a-day-early-here-is-how</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T12:00:02Z</news:publication_date>
-      <news:title>You can get the REDMAGIC 12 Pro a day early, here is how</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/10/redmagic-12-pro-early-bird-sponsored/gsmarena_000.jpg</image:loc>
-      <image:title>You can get the REDMAGIC 12 Pro a day early, here is how</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-iphone-duo8217s-rocky-launch-is-a-reminder-of-how-far-android-foldables-have-come</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T12:00:00Z</news:publication_date>
-      <news:title>The iPhone Duo&amp;#8217;s rocky launch is a reminder of how far Android foldables have come</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/galaxy-z-fold-8-iphone-duo-4.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>The iPhone Duo&amp;#8217;s rocky launch is a reminder of how far Android foldables have come</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/nintendo-is-ending-google-and-apple-sign-ins-early-next-year</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T11:19:46Z</news:publication_date>
-      <news:title>Nintendo is ending Google and Apple sign-ins early next year</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/nintendo-is-ending-google-and-apple-sign-ins-early-next-year/l-intro-1794482262.jpg</image:loc>
-      <image:title>Nintendo is ending Google and Apple sign-ins early next year</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/ring-confirms-its-camera-drone-wont-have-manual-controls-after-crashing-on-cbs-news</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T11:12:32Z</news:publication_date>
-      <news:title>Ring confirms its camera drone won’t have manual controls after crashing on CBS News</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC01040.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Ring confirms its camera drone won’t have manual controls after crashing on CBS News</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/android-autos-next-gemini-upgrade-is-leaving-non-pixel-phones-behind</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T11:11:39Z</news:publication_date>
-      <news:title>Android Auto’s next Gemini upgrade is leaving non-Pixel phones behind</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/06/android-auto-third-party-apps-1.jpg</image:loc>
-      <image:title>Android Auto’s next Gemini upgrade is leaving non-Pixel phones behind</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/missing-gboards-rambler-on-your-pixel-10-heres-how-to-manually-enable-it</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T11:07:22Z</news:publication_date>
-      <news:title>Missing Gboard’s Rambler on your Pixel 10? Here’s how to manually enable it</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/google-pixel-11-pro-xl-rambler-demo-2-scaled.jpg</image:loc>
-      <image:title>Missing Gboard’s Rambler on your Pixel 10? Here’s how to manually enable it</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/oppo-a7-pro-officially-lands-in-europe</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T11:03:03Z</news:publication_date>
-      <news:title>Oppo A7 Pro officially lands in Europe</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/oppo-a7-pro-lands-in-europe/gsmarena_000.jpg</image:loc>
-      <image:title>Oppo A7 Pro officially lands in Europe</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-vivo-x500-pro-max-is-the-most-fun-i8217ve-had-with-video-capture-on-a-phone</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T11:00:25Z</news:publication_date>
-      <news:title>The vivo X500 Pro Max is the most fun I&amp;#8217;ve had with video capture on a phone</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/vivo-X500-Pro-Max-rear-cover-and-cameras.jpg</image:loc>
-      <image:title>The vivo X500 Pro Max is the most fun I&amp;#8217;ve had with video capture on a phone</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/i-stopped-letting-my-old-amazon-fire-tablets-collect-dust-here-are-5-ways-i-use-them</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T10:30:28Z</news:publication_date>
-      <news:title>I stopped letting my old Amazon Fire tablets collect dust — here are 5 ways I use them</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/amazon-fire-hd-8-pink-scaled.jpg</image:loc>
-      <image:title>I stopped letting my old Amazon Fire tablets collect dust — here are 5 ways I use them</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-galaxy-s27-ultra-camera-leak-has-me-worried-samsung-learned-nothing</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T10:00:16Z</news:publication_date>
-      <news:title>The Galaxy S27 Ultra camera leak has me worried Samsung learned nothing</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Samsung-Galaxy-S26-Ultras-camera-module-zoomed-in.jpg</image:loc>
-      <image:title>The Galaxy S27 Ultra camera leak has me worried Samsung learned nothing</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/whatsapps-view-once-text-messages-feature-is-now-available-to-beta-users-on-android</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T10:00:03Z</news:publication_date>
-      <news:title>WhatsApp&apos;s &apos;View Once&apos; text messages feature is now available to beta users on Android</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/whatsapp-view-once-text-message-android-beta-users/gsmarena_001.jpg</image:loc>
-      <image:title>WhatsApp&apos;s &apos;View Once&apos; text messages feature is now available to beta users on Android</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/google8217s-new-tabletop-experiment-wants-to-fix-the-worst-part-of-making-plans-with-friends</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T08:52:25Z</news:publication_date>
-      <news:title>Google&amp;#8217;s new Tabletop experiment wants to fix the worst part of making plans with friends</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Google-Tabletop.jpg</image:loc>
-      <image:title>Google&amp;#8217;s new Tabletop experiment wants to fix the worst part of making plans with friends</image:title>
     </image:image>
   </url>
 </urlset>
