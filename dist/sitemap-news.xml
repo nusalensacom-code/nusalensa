@@ -3,6 +3,171 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/pixel-11-pro8217s-hilight-feature-also-now-works-on-whatsapp-messages</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T01:15:00Z</news:publication_date>
+      <news:title>Pixel 11 Pro&amp;#8217;s HiLight feature also now works on WhatsApp messages</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-Pro-Hilight-Phone-Call.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Pixel 11 Pro&amp;#8217;s HiLight feature also now works on WhatsApp messages</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/starship-flight-15-powers-to-orbitsetting-up-a-possible-catch-on-saturday</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T00:49:13Z</news:publication_date>
+      <news:title>Starship flight 15 powers to orbit—setting up a possible catch on Saturday</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305018954-1024x648.jpg</image:loc>
+      <image:title>Starship flight 15 powers to orbit—setting up a possible catch on Saturday</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/amazon-has-a-plan-to-index-the-worlds-online-shopping-data</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T23:49:11Z</news:publication_date>
+      <news:title>Amazon has a plan to index the world’s online shopping data</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Amazon has a plan to index the world’s online shopping data</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/faa-lifts-nationwide-ground-stop-that-blocked-takeoffs-for-hours</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T23:47:27Z</news:publication_date>
+      <news:title>FAA lifts nationwide ground stop that blocked takeoffs for hours</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304493507.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>FAA lifts nationwide ground stop that blocked takeoffs for hours</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/tested-in-the-wild-best-survival-tech</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T23:20:29Z</news:publication_date>
+      <news:title>Tested in the wild: Best survival tech!</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/survival-tech-article-hero-1.jpg</image:loc>
+      <image:title>Tested in the wild: Best survival tech!</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/faa-orders-third-nationwide-ground-stop-in-its-history</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T23:17:38Z</news:publication_date>
+      <news:title>FAA orders third nationwide ground stop in its history</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2022/10/air-traffic-1000x648.jpg</image:loc>
+      <image:title>FAA orders third nationwide ground stop in its history</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/pixelated-125-google8217s-glasses-meta8217s-baggage</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T22:00:00Z</news:publication_date>
+      <news:title>Pixelated 125: Google&amp;#8217;s glasses, Meta&amp;#8217;s baggage</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2024/03/Pixelated-cover.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Pixelated 125: Google&amp;#8217;s glasses, Meta&amp;#8217;s baggage</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/millions-of-americans-are-not-taking-their-glp-1-drugs-as-prescribed</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T21:59:01Z</news:publication_date>
+      <news:title>Millions of Americans are not taking their GLP-1 drugs as prescribed</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2291507729-1152x648.jpg</image:loc>
+      <image:title>Millions of Americans are not taking their GLP-1 drugs as prescribed</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-ugreen-homeagent-is-a-8216local-first8217-way-to-make-your-smart-home-even-smarter</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T21:23:59Z</news:publication_date>
+      <news:title>The UGREEN HomeAgent is a &amp;#8216;local-first&amp;#8217; way to make your smart home even smarter</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/ugreen-homeagent-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>The UGREEN HomeAgent is a &amp;#8216;local-first&amp;#8217; way to make your smart home even smarter</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace-1</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T21:20:47Z</news:publication_date>
+      <news:title>FAA expands AI advice to manage air traffic congestion across entire US airspace</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg</image:loc>
+      <image:title>FAA expands AI advice to manage air traffic congestion across entire US airspace</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-pixel-bug-reveals-hidden-private-space-when-switching-between-light-and-dark-mode</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T21:17:51Z</news:publication_date>
+      <news:title>Google Pixel bug reveals hidden Private Space when switching between light and dark mode</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/02/android-15-pixel-private-space.jpg</image:loc>
+      <image:title>Google Pixel bug reveals hidden Private Space when switching between light and dark mode</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/chatgpt-wallet-lets-openais-dots-agents-make-purchases-for-you</loc>
     <news:news>
       <news:publication>
@@ -108,6 +273,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/fridays-android-game-and-app-deals-echoes-of-vatheria-raiders-of-the-north-sea-mega-man-more</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T18:53:06Z</news:publication_date>
+      <news:title>Friday’s Android game and app deals: Echoes of Vatheria, Raiders of the North Sea, MEGA MAN, more</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Play-collage-508a5e.webp?w=1600</image:loc>
+      <image:title>Friday’s Android game and app deals: Echoes of Vatheria, Raiders of the North Sea, MEGA MAN, more</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/you-can-adjust-the-position-of-the-trackball-on-keychrons-new-wireless-mouse</loc>
     <news:news>
       <news:publication>
@@ -123,6 +303,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/you-can-now-set-up-gemini8217s-google-wallet-integration-for-personal-finance-insights</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T17:51:44Z</news:publication_date>
+      <news:title>You can now set up Gemini&amp;#8217;s Google Wallet integration for ‘personal finance insights’</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-Google-Wallet-cover.png?w=1600</image:loc>
+      <image:title>You can now set up Gemini&amp;#8217;s Google Wallet integration for ‘personal finance insights’</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/jensen-huang-was-reckless-with-the-environment-too</loc>
     <news:news>
       <news:publication>
@@ -135,6 +330,21 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301295182.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Jensen Huang was reckless with the environment, too</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/openai-board-member-worries-an-ai-takeover-of-society-could-be-months-away-1</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T17:25:45Z</news:publication_date>
+      <news:title>OpenAI board member worries an AI &quot;takeover&quot; of society could be months away</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-destination-1152x648.jpg</image:loc>
+      <image:title>OpenAI board member worries an AI &quot;takeover&quot; of society could be months away</image:title>
     </image:image>
   </url>
   <url>
@@ -180,6 +390,21 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268864_Smart_home_photos_HMCRAE37.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>The new Apple TV has a YouTube problem</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-xiaomi-18-pro8217s-rear-displays-support-google-apps-spotify-and-custom-genai-apps</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T16:45:47Z</news:publication_date>
+      <news:title>The Xiaomi 18 Pro&amp;#8217;s rear displays support Google apps, Spotify, and custom GenAI apps</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/09/xiaomi-18-pro-2.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1400</image:loc>
+      <image:title>The Xiaomi 18 Pro&amp;#8217;s rear displays support Google apps, Spotify, and custom GenAI apps</image:title>
     </image:image>
   </url>
   <url>
@@ -2610,156 +2835,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/oppo-reno17-camera-setup/gsmarena_000.jpg</image:loc>
       <image:title>Oppo Reno17 will have four 50MP cameras</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-iqoo-16r-or-16s-is-headed-to-india</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T01:02:02Z</news:publication_date>
-      <news:title>The iQOO 16R (or 16s) is headed to India</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/iqoo-16r-16s-india/gsmarena_000.jpg</image:loc>
-      <image:title>The iQOO 16R (or 16s) is headed to India</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-nintendo-switch-2-is-down-to-its-lowest-price-of-the-season-tonight-only</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T00:17:47Z</news:publication_date>
-      <news:title>The Nintendo Switch 2 is down to its lowest price of the season tonight only</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/nintendo-switch-2-zelda-ocarina-of-time.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>The Nintendo Switch 2 is down to its lowest price of the season tonight only</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/ceo-jensen-huang039s-job-is-suddenly-on-the-line-at-nvidia</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T23:10:17Z</news:publication_date>
-      <news:title>CEO Jensen Huang&amp;#039;s job is suddenly on the line at Nvidia</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-1024x648.jpg</image:loc>
-      <image:title>CEO Jensen Huang&amp;#039;s job is suddenly on the line at Nvidia</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/oneplus-12-is-now-receiving-the-update-to-coloros-17-based-on-android-17</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T22:59:02Z</news:publication_date>
-      <news:title>OnePlus 12 is now receiving the update to ColorOS 17, based on Android 17</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/oneplus-12-coloros-17-rolling-out/gsmarena_000.jpg</image:loc>
-      <image:title>OnePlus 12 is now receiving the update to ColorOS 17, based on Android 17</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/new-york-is-forcing-t-mobile-to-stop-putting-data-caps-on-low-income-home-internet-plans</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T22:46:07Z</news:publication_date>
-      <news:title>New York is forcing T-Mobile to stop putting data caps on low-income home internet plans</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/new-york-is-forcing-t-mobile-to-stop-putting-data-caps-on-low-income-home-internet-plans/l-intro-1794437085.jpg</image:loc>
-      <image:title>New York is forcing T-Mobile to stop putting data caps on low-income home internet plans</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/nvidia-is-reportedly-preparing-to-fire-jensen-huang</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T22:44:36Z</news:publication_date>
-      <news:title>Nvidia is reportedly preparing to fire Jensen Huang</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824934/2192224191.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Nvidia is reportedly preparing to fire Jensen Huang</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/hands-on-with-home-assistants-new-smart-home-multi-tool</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T22:00:00Z</news:publication_date>
-      <news:title>Hands on with Home Assistant’s new ‘smart home multi-tool’</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/aux2-hero.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Hands on with Home Assistant’s new ‘smart home multi-tool’</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/united-wont-let-your-ai-agent-book-your-flight</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T21:54:21Z</news:publication_date>
-      <news:title>United won’t let your AI agent book your flight</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>United won’t let your AI agent book your flight</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-on-fatal-vehicle-crash-near-apple-park-039our-hearts-are-broken039</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T21:37:39Z</news:publication_date>
-      <news:title>Apple on Fatal Vehicle Crash Near Apple Park: &amp;#039;Our Hearts Are Broken&amp;#039;</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/07/Apple-Park-Visitor-Center.jpeg</image:loc>
-      <image:title>Apple on Fatal Vehicle Crash Near Apple Park: &amp;#039;Our Hearts Are Broken&amp;#039;</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-and-apple-are-both-working-on-bigger-wide-foldables-new-rumor-claims</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T21:33:02Z</news:publication_date>
-      <news:title>Samsung and Apple are both working on bigger wide foldables, new rumor claims</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/samsung-apple-developing-bigger-wide-foldables-rumor/gsmarena_000.jpg</image:loc>
-      <image:title>Samsung and Apple are both working on bigger wide foldables, new rumor claims</image:title>
     </image:image>
   </url>
 </urlset>
