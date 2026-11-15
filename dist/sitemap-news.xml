@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/google-pixel-rolls-out-new-8216family-hub8217-feature-with-useful-controls-gallery</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T23:00:00Z</news:publication_date>
+      <news:title>Google Pixel rolls out new &amp;#8216;Family Hub&amp;#8217; feature with useful controls [Gallery]</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/09/Pixel-11-Pro-camera-close-up.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Google Pixel rolls out new &amp;#8216;Family Hub&amp;#8217; feature with useful controls [Gallery]</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/watch-spacex-successfully-execute-the-first-chopstick-catch-of-starship</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T21:44:44Z</news:publication_date>
+      <news:title>Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/52822624215_2e5d62e50a_o.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/magic-the-gathering-is-getting-a-netflix-animated-series-for-real-this-time</loc>
     <news:news>
       <news:publication>
@@ -1500,291 +1530,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/gettyimages-2228842017.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Donald Trump really wants Tim Cook to run Nvidia</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/xbox-announces-wolfenstein-3</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T00:11:44Z</news:publication_date>
-      <news:title>Xbox announces Wolfenstein 3</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ss_c195852422ed8e92ffa4d68ea4bfd34291823c3e.1920x1080.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Xbox announces Wolfenstein 3</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/whoop-launched-a-social-network-where-every-user-has-a-verified-heartbeat</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T23:43:22Z</news:publication_date>
-      <news:title>Whoop launched a social network where every user has a ‘verified heartbeat’</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/whoop-humans-launch-screenshots-trio-2.jpeg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Whoop launched a social network where every user has a ‘verified heartbeat’</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/humble-bundle-redesign-removes-two-factor-verification-from-settings</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T23:30:52Z</news:publication_date>
-      <news:title>Humble Bundle redesign removes two-factor verification from settings</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-12-at-3.28.10-PM.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,88.092261904762</image:loc>
-      <image:title>Humble Bundle redesign removes two-factor verification from settings</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/xbox-owners-are-getting-more-customizations-for-backgrounds-and-the-guide-menu</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T23:00:00Z</news:publication_date>
-      <news:title>Xbox owners are getting more customizations for backgrounds and the Guide menu</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STK048_XBOX_3_B.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Xbox owners are getting more customizations for backgrounds and the Guide menu</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T22:59:51Z</news:publication_date>
-      <news:title>In reversal, American Cancer Society urges prostate cancer tests for all men</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/Prostate-Cancer.jpg</image:loc>
-      <image:title>In reversal, American Cancer Society urges prostate cancer tests for all men</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-fitbit-air-syncing-issues-leave-some-iphone-users-unable-to-access-health-data</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T22:58:31Z</news:publication_date>
-      <news:title>Google Fitbit Air syncing issues leave some iPhone users unable to access health data</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/Fitbit-Air-Health-Coach-scaled-e1778862993795-500w-260h.jpg</image:loc>
-      <image:title>Google Fitbit Air syncing issues leave some iPhone users unable to access health data</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/homeview-launch-kicks-off-as-first-orders-reach-customers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T22:50:59Z</news:publication_date>
-      <news:title>HomeView Launch Kicks Off as First Orders Reach Customers</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/homeview_home_screen_feature-1.jpg</image:loc>
-      <image:title>HomeView Launch Kicks Off as First Orders Reach Customers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-is-officially-entering-its-8216hey-gemini8217-era</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T22:41:39Z</news:publication_date>
-      <news:title>Google is officially entering its &amp;#8216;Hey Gemini&amp;#8217; era</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-logo-on-smartphone-stock-photo-2.jpg</image:loc>
-      <image:title>Google is officially entering its &amp;#8216;Hey Gemini&amp;#8217; era</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T22:28:47Z</news:publication_date>
-      <news:title>FAA expands AI advice to manage air traffic congestion across entire US airspace</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg</image:loc>
-      <image:title>FAA expands AI advice to manage air traffic congestion across entire US airspace</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/whoop-humans-turns-your-sleep-recovery-and-workouts-into-an-ai-free-social-feed</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T22:25:16Z</news:publication_date>
-      <news:title>WHOOP Humans turns your sleep, recovery, and workouts into an AI-free social feed</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2020/10/whoop-strap-3.0-review-whoop-logo.jpg</image:loc>
-      <image:title>WHOOP Humans turns your sleep, recovery, and workouts into an AI-free social feed</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/galaxy-smarttag-3-at-20-makes-a-compelling-case-to-skip-the-google-pixel-tag</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T22:05:00Z</news:publication_date>
-      <news:title>Galaxy SmartTag 3 at $20 makes a compelling case to skip the Google Pixel Tag</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-pixel-tag-samsung-galaxy-smarttag-3.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Galaxy SmartTag 3 at $20 makes a compelling case to skip the Google Pixel Tag</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/googles-new-gemini-model-is-better-at-understanding-complicated-questions</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T21:55:32Z</news:publication_date>
-      <news:title>Google’s new Gemini model is better at understanding complicated questions</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Google’s new Gemini model is better at understanding complicated questions</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-contacts-is-getting-ready-to-go-social-with-gaming-hub-integration-for-one-ui-95</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T21:53:27Z</news:publication_date>
-      <news:title>Samsung Contacts is getting ready to go social with Gaming Hub integration for One UI 9.5</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Samsung-Galaxy-S26-FE-face-down-outdoors-scaled.jpg</image:loc>
-      <image:title>Samsung Contacts is getting ready to go social with Gaming Hub integration for One UI 9.5</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/its-a-mistake-reactions-from-tech-leaders-on-jensen-huangs-resignation</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T21:45:00Z</news:publication_date>
-      <news:title>‘It’s a mistake’: reactions from tech leaders on Jensen Huang’s resignation</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>‘It’s a mistake’: reactions from tech leaders on Jensen Huang’s resignation</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-oura-ring-4-is-almost-as-good-as-the-newer-model-but-150-cheaper</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T21:28:53Z</news:publication_date>
-      <news:title>The Oura Ring 4 is almost as good as the newer model, but $150 cheaper</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25665142/247314_Oura_Ring_4_AKrales_0105.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>The Oura Ring 4 is almost as good as the newer model, but $150 cheaper</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/android-17-qpr3-beta-4-brings-back-missing-bluetooth-absolute-volume-setting</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T21:27:57Z</news:publication_date>
-      <news:title>Android 17 QPR3 Beta 4 brings back missing Bluetooth absolute volume setting</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-3-scaled.jpg</image:loc>
-      <image:title>Android 17 QPR3 Beta 4 brings back missing Bluetooth absolute volume setting</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-rolling-out-android-17-qpr3-beta-4-for-pixel</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T21:16:09Z</news:publication_date>
-      <news:title>Google rolling out Android 17 QPR3 Beta 4 for Pixel</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/09/Android-17-QPR1-yellow.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Google rolling out Android 17 QPR3 Beta 4 for Pixel</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/youtube-tv-video-unavailable-screen-is-interrupting-shows-and-sporting-events</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T21:01:07Z</news:publication_date>
-      <news:title>YouTube TV ‘Video unavailable’ screen is interrupting shows and sporting events</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/02/YouTube-TV-logo-on-smartphone-stock-photo-5.jpg</image:loc>
-      <image:title>YouTube TV ‘Video unavailable’ screen is interrupting shows and sporting events</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/here-are-the-25-original-xbox-games-you-can-now-play-on-pc</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T21:00:00Z</news:publication_date>
-      <news:title>Here are the 25 original Xbox games you can now play on PC</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/XBOX_PCBackCompat.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,93.955555555556</image:loc>
-      <image:title>Here are the 25 original Xbox games you can now play on PC</image:title>
     </image:image>
   </url>
 </urlset>
