@@ -3,6 +3,231 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/it-shouldnt-be-this-easy-to-pedal-25-mph-specializeds-turbo-vado-3-evo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T17:53:59Z</news:publication_date>
+      <news:title>It shouldn’t be this easy to pedal 25 mph: Specialized’s Turbo Vado 3 Evo</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/PXL_20261114_225616002-1152x648.jpg</image:loc>
+      <image:title>It shouldn’t be this easy to pedal 25 mph: Specialized’s Turbo Vado 3 Evo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/disneys-new-star-wars-animatronics-interact-with-guests-using-ai</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T17:50:57Z</news:publication_date>
+      <news:title>Disney’s new Star Wars animatronics interact with guests using AI</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/disney1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Disney’s new Star Wars animatronics interact with guests using AI</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/vulcan-failure-caused-by-inadequate-fuel-supply-to-engines-ula-says</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T16:58:32Z</news:publication_date>
+      <news:title>Vulcan failure caused by inadequate fuel supply to engines, ULA says</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790934-1152x648.jpg</image:loc>
+      <image:title>Vulcan failure caused by inadequate fuel supply to engines, ULA says</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/waymo-has-stopped-its-robotaxis-from-driving-on-the-freewayheres-why</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T16:24:34Z</news:publication_date>
+      <news:title>Waymo has stopped its robotaxis from driving on the freeway—here’s why</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305151172-1152x648.jpg</image:loc>
+      <image:title>Waymo has stopped its robotaxis from driving on the freeway—here’s why</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/8bitdos-new-gamepad-modernizes-the-nintendo-gamecubes-wavebird</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T16:00:00Z</news:publication_date>
+      <news:title>8BitDo’s new gamepad modernizes the Nintendo GameCube’s WaveBird</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/8bitdogc1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>8BitDo’s new gamepad modernizes the Nintendo GameCube’s WaveBird</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/shellys-new-smart-valve-shuts-off-your-homes-water-before-a-leak-becomes-a-flood</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T16:00:00Z</news:publication_date>
+      <news:title>Shelly’s new smart valve shuts off your home’s water before a leak becomes a flood</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/shelly1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Shelly’s new smart valve shuts off your home’s water before a leak becomes a flood</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/remember-the-frontier-ai-pause-chip-companies-dont-either</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T15:44:02Z</news:publication_date>
+      <news:title>Remember the frontier AI pause? Chip companies don’t either</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Vera-Rubin-NVL72.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Remember the frontier AI pause? Chip companies don’t either</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-verges-2026-holiday-gift-guide-for-travelers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T15:00:00Z</news:publication_date>
+      <news:title>The Verge’s 2026 holiday gift guide for travelers</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_TRAVEL.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>The Verge’s 2026 holiday gift guide for travelers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/instagrams-school-safety-push-was-also-a-way-to-get-more-teens-on-the-app</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T14:59:05Z</news:publication_date>
+      <news:title>Instagram’s ‘school safety’ push was also a way to get more teens on the app</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23904518/VRG_Illo_K_Radtke_STK070_Instagram_1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Instagram’s ‘school safety’ push was also a way to get more teens on the app</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/rivian-spinoff-also-pauses-e-bike-deliveries-over-battery-and-software-bugs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T14:56:43Z</news:publication_date>
+      <news:title>Rivian spinoff Also pauses e-bike deliveries over battery and software bugs</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_ALSO_TMB_09-1.webp?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Rivian spinoff Also pauses e-bike deliveries over battery and software bugs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/teslas-30000-cybercab-comes-with-a-299-monthly-catch</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T14:01:45Z</news:publication_date>
+      <news:title>Tesla’s $30,000 Cybercab comes with a $299 monthly catch</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/cybercab-1152x648.jpg</image:loc>
+      <image:title>Tesla’s $30,000 Cybercab comes with a $299 monthly catch</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/how-the-verge-is-picking-which-black-friday-deals-to-share</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T14:00:00Z</news:publication_date>
+      <news:title>How The Verge is picking which Black Friday deals to share</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258010_Black_friday_cyber_monday_CVirginia_PRICE2.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>How The Verge is picking which Black Friday deals to share</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/voyager-1-at-one-light-day-historian-revisits-golden-record039s-forgotten-details</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T12:15:44Z</news:publication_date>
+      <news:title>Voyager 1 at one light-day: Historian revisits Golden Record&amp;#039;s forgotten details</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/news-111826a-lg-1152x648.jpg</image:loc>
+      <image:title>Voyager 1 at one light-day: Historian revisits Golden Record&amp;#039;s forgotten details</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/grand-theft-auto-vi-the-ars-technica-review</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T11:00:27Z</news:publication_date>
+      <news:title>Grand Theft Auto VI: The Ars Technica review</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/Grand-Theft-Auto-VI_20261102162743-1152x648-1794953901.jpg</image:loc>
+      <image:title>Grand Theft Auto VI: The Ars Technica review</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/copilot-is-the-new-os-for-work-and-now-office-runs-inside-of-it</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T00:27:29Z</news:publication_date>
+      <news:title>Copilot is &quot;the new OS for work,&quot; and now Office runs inside of it</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/MS_Ignite_Perception.png</image:loc>
+      <image:title>Copilot is &quot;the new OS for work,&quot; and now Office runs inside of it</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/satya-nadella-says-hes-agi-pilled-now</loc>
     <news:news>
       <news:publication>
@@ -705,246 +930,6 @@
     <image:image>
       <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/bond1-1152x648-1794853599.jpg</image:loc>
       <image:title>Meet the new James Bond: Robert Pattinson</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-beta-lets-you-test-create-my-widget-on-pixel-10-and-11-now</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T17:39:58Z</news:publication_date>
-      <news:title>Google beta lets you test ‘Create My Widget’ on Pixel 10 and 11 now</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/Pixel-11-Create-My-Widget.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Google beta lets you test ‘Create My Widget’ on Pixel 10 and 11 now</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/deals-early-black-samsung-now-live-galaxy-fold-8-350-off-s26-ultra-450-off-tabs-from-200-more</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T16:51:38Z</news:publication_date>
-      <news:title>Deals: Early Black Samsung now live – Galaxy Fold 8 $350 off, S26 Ultra $450 off, Tabs from $200, more</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/9to5Google-Nov-16.webp?w=1600</image:loc>
-      <image:title>Deals: Early Black Samsung now live – Galaxy Fold 8 $350 off, S26 Ultra $450 off, Tabs from $200, more</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/sonys-playstation-5-accessories-are-cheaper-ahead-of-black-friday</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T16:48:01Z</news:publication_date>
-      <news:title>Sony’s PlayStation 5 accessories are cheaper ahead of Black Friday</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24374429/236487_Sony_DualSense_Edge_AKrales_0032.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Sony’s PlayStation 5 accessories are cheaper ahead of Black Friday</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung8217s-8216galaxy-studio8217-headphones-leak-with-touch-controls-two-colors</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T16:45:00Z</news:publication_date>
-      <news:title>Samsung&amp;#8217;s &amp;#8216;Galaxy Studio&amp;#8217; headphones leak with touch controls, two colors</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2025/03/samsung-galaxy-logo-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Samsung&amp;#8217;s &amp;#8216;Galaxy Studio&amp;#8217; headphones leak with touch controls, two colors</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung8217s-next-big-galaxy-update-keeps-leaking-here8217s-what-to-expect-in-one-ui-95</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T16:45:00Z</news:publication_date>
-      <news:title>Samsung&amp;#8217;s next big Galaxy update keeps leaking – here&amp;#8217;s what to expect in One UI 9.5</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Galaxy-Z-Fold-8-v-fold-shape.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Samsung&amp;#8217;s next big Galaxy update keeps leaking – here&amp;#8217;s what to expect in One UI 9.5</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/trump-says-it-certainly-isnt-a-bad-idea-for-jensen-huang-to-return-to-nvidia</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T16:39:36Z</news:publication_date>
-      <news:title>Trump says it ‘certainly isn’t a bad idea’ for Jensen Huang to return to Nvidia</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2250207971.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Trump says it ‘certainly isn’t a bad idea’ for Jensen Huang to return to Nvidia</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/us-now-comfortable-with-children-dying-of-measles-as-death-toll-hits-10</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T16:39:29Z</news:publication_date>
-      <news:title>US now &quot;comfortable&quot; with children dying of measles as death toll hits 10</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2233024483-1152x648.jpg</image:loc>
-      <image:title>US now &quot;comfortable&quot; with children dying of measles as death toll hits 10</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/the-verges-guide-to-the-best-gifts-under-100</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T16:00:14Z</news:publication_date>
-      <news:title>The Verge’s guide to the best gifts under $100</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_UNDER-100.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>The Verge’s guide to the best gifts under $100</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/why-njs-governor-thinks-republicans-are-trapped-in-an-x-bubble</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T16:00:00Z</news:publication_date>
-      <news:title>Why NJ’s governor thinks Republicans are trapped in an X bubble</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD_20261116_Sherrill.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Why NJ’s governor thinks Republicans are trapped in an X bubble</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/robert-pattinson-is-amazons-first-james-bond</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T15:19:34Z</news:publication_date>
-      <news:title>Robert Pattinson is Amazon’s first James Bond</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/bond.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Robert Pattinson is Amazon’s first James Bond</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/apple-tv-is-getting-video-podcasts-you-can-watch-for-free</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T14:45:56Z</news:publication_date>
-      <news:title>Apple TV is getting video podcasts you can watch for free</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STK069_APPLE_TV_C.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Apple TV is getting video podcasts you can watch for free</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/americas-air-traffic-control-system-couldnt-handle-a-single-bad-router</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T14:43:48Z</news:publication_date>
-      <news:title>America’s air traffic control system couldn’t handle a single bad router</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304497345.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>America’s air traffic control system couldn’t handle a single bad router</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T14:06:16Z</news:publication_date>
-      <news:title>Jensen Huang allies build a &quot;war room&quot; to get him back at Nvidia</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2024/06/huang_computex_2024-1152x648.jpg</image:loc>
-      <image:title>Jensen Huang allies build a &quot;war room&quot; to get him back at Nvidia</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/mercedes039-clever-new-driving-assist-handles-complex-traffic-like-a-champ</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T14:00:05Z</news:publication_date>
-      <news:title>Mercedes&amp;#039; clever new driving assist handles complex traffic like a champ</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/MB-ADAS-day-1-of-5-1152x648-1794831237.jpg</image:loc>
-      <image:title>Mercedes&amp;#039; clever new driving assist handles complex traffic like a champ</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/audible-is-trying-to-make-it-easier-to-find-audiobooks-youll-actually-like</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T14:00:00Z</news:publication_date>
-      <news:title>Audible is trying to make it easier to find audiobooks you’ll actually like</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Audible-audio-discovery-hero-.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Audible is trying to make it easier to find audiobooks you’ll actually like</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/delivery-drones-are-coming-for-some-with-ptsd-that039s-a-terrifying-prospect</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T12:00:57Z</news:publication_date>
-      <news:title>Delivery drones are coming. For some with PTSD, that&amp;#039;s a terrifying prospect.</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2298538124-1152x648.jpg</image:loc>
-      <image:title>Delivery drones are coming. For some with PTSD, that&amp;#039;s a terrifying prospect.</image:title>
     </image:image>
   </url>
 </urlset>
