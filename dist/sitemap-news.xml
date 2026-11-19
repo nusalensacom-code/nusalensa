@@ -3,6 +3,231 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T23:25:04Z</news:publication_date>
+      <news:title>Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2025/01/ted-cruz-1152x648-1738093202.jpg</image:loc>
+      <image:title>Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-nations-largest-school-districts-consider-ditching-google-search</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T23:18:35Z</news:publication_date>
+      <news:title>The nation’s largest school districts consider ditching Google Search</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK255_Google_Gemini_D.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>The nation’s largest school districts consider ditching Google Search</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T23:10:39Z</news:publication_date>
+      <news:title>Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/Kerch-Strait-Bridge-smoke-generators-1152x648.jpg</image:loc>
+      <image:title>Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/trump-abandons-his-fda-nominee-and-senate-scraps-vote-on-his-nsf-pick</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T22:08:57Z</news:publication_date>
+      <news:title>Trump abandons his FDA nominee, and Senate scraps vote on his NSF pick</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296270903-1024x648.jpg</image:loc>
+      <image:title>Trump abandons his FDA nominee, and Senate scraps vote on his NSF pick</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/democrats-skip-a-vote-on-adding-brendan-carrs-adviser-to-the-fcc</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T22:05:48Z</news:publication_date>
+      <news:title>Democrats skip a vote on adding Brendan Carr’s adviser to the FCC</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25840497/STKP211_BRENDAN_CARR_B.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Democrats skip a vote on adding Brendan Carr’s adviser to the FCC</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/netflix-ceo-admits-app-may-bury-stuff-you-want-to-watch-under-stuff-you-dont</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T21:29:24Z</news:publication_date>
+      <news:title>Netflix CEO admits app may bury stuff you want to watch under stuff you don’t</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2025/01/squid1-1152x648.jpg</image:loc>
+      <image:title>Netflix CEO admits app may bury stuff you want to watch under stuff you don’t</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/absolute-batman-can-save-dc-studios</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T21:20:00Z</news:publication_date>
+      <news:title>Absolute Batman can save DC Studios</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/PowHeader.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Absolute Batman can save DC Studios</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/windows-server-2028-trades-compatibility-for-out-of-the-box-security</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T20:41:12Z</news:publication_date>
+      <news:title>Windows Server 2028 trades compatibility for out-of-the-box security</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg</image:loc>
+      <image:title>Windows Server 2028 trades compatibility for out-of-the-box security</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/trumps-latest-land-grab-is-an-ai-hub-in-the-philippines</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T19:40:36Z</news:publication_date>
+      <news:title>Trump’s latest land grab is an AI hub in the Philippines</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305507602.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Trump’s latest land grab is an AI hub in the Philippines</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/best-buy-sells-blu-rays-online-and-in-store-again</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T19:31:17Z</news:publication_date>
+      <news:title>Best Buy sells Blu-rays online and in-store again</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/07/odyssey16-1152x648.jpg</image:loc>
+      <image:title>Best Buy sells Blu-rays online and in-store again</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/sonys-impressive-bravia-8-ii-oled-hits-a-new-low-price-ahead-of-black-friday</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T19:30:00Z</news:publication_date>
+      <news:title>Sony’s impressive Bravia 8 II OLED hits a new low price ahead of Black Friday</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258218_Sony_Bravia_8_II_TV_JHiggins_0015.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Sony’s impressive Bravia 8 II OLED hits a new low price ahead of Black Friday</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/nvidias-rise-visualized</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T19:30:00Z</news:publication_date>
+      <news:title>Nvidia’s rise, visualized</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24002526/acastro_STK083_01.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Nvidia’s rise, visualized</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/instagram-now-lets-you-edit-your-stories-after-you-post-them</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T19:29:10Z</news:publication_date>
+      <news:title>Instagram now lets you edit your stories after you post them</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/insta-story-edit.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Instagram now lets you edit your stories after you post them</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T19:19:33Z</news:publication_date>
+      <news:title>Muse privacy invasions are freaking out Meta staffers, internal chats show</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2299665210-1024x648.jpg</image:loc>
+      <image:title>Muse privacy invasions are freaking out Meta staffers, internal chats show</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-leaked-lenovo-legion-go-beam-could-be-the-affordable-handheld-we-need</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T19:11:50Z</news:publication_date>
+      <news:title>The leaked Lenovo Legion Go Beam could be the affordable handheld we need</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Exclusive-image-of-the-unannounced-Lenovo-Legion-Go-Beam-gaming-handheld-in-white-with-lime-green-accents.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=2.6,4.9777777777778,89.2,87.911111111111</image:loc>
+      <image:title>The leaked Lenovo Legion Go Beam could be the affordable handheld we need</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/it-shouldnt-be-this-easy-to-pedal-25-mph-specializeds-turbo-vado-3-evo</loc>
     <news:news>
       <news:publication>
@@ -600,336 +825,6 @@
     <image:image>
       <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2025/01/google-play-services-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
       <image:title>What’s new in Android’s November 2026 Google System Updates [U: Pixel virtual gamepad]</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/chrome-157-for-googlebook-rolling-out-with-27-new-features-improvements</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T23:46:42Z</news:publication_date>
-      <news:title>Chrome 157 for Googlebook rolling out with 27 new features, improvements</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/09/Googlebook-9to5Google-Site.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Chrome 157 for Googlebook rolling out with 27 new features, improvements</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/hacker-behind-2022-gta-vi-leaks-pleads-guilty</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T23:35:58Z</news:publication_date>
-      <news:title>Hacker behind 2022 GTA VI leaks pleads guilty</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_01_de9b57.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Hacker behind 2022 GTA VI leaks pleads guilty</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/new-gemini-setting-lets-you-keep-chat-history-but-turn-off-ai-training</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T23:22:08Z</news:publication_date>
-      <news:title>New Gemini setting lets you keep chat history, but turn off AI training</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-5.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>New Gemini setting lets you keep chat history, but turn off AI training</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/tech-leaders-are-convinced-that-jensen-huangs-exit-was-a-plot-against-him</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T23:17:34Z</news:publication_date>
-      <news:title>Tech leaders are convinced that Jensen Huang’s exit was a plot against him</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2299645290.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Tech leaders are convinced that Jensen Huang’s exit was a plot against him</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/secure-cloud-storage-is-the-cheaper-safer-alternative-to-keeping-files-physical</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T23:00:00Z</news:publication_date>
-      <news:title>Secure cloud storage is the cheaper, safer alternative to keeping files physical</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/pCloud-storage.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1400</image:loc>
-      <image:title>Secure cloud storage is the cheaper, safer alternative to keeping files physical</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T22:58:27Z</news:publication_date>
-      <news:title>Robo-soldier startup backed by Eric Trump misses payroll, may collapse</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/Foundation-Phantom-MK-1-mortar-demo-1152x648.jpg</image:loc>
-      <image:title>Robo-soldier startup backed by Eric Trump misses payroll, may collapse</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/united-airlines-system-outage-disrupts-departures-just-days-after-the-big-ground-stop</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T22:54:59Z</news:publication_date>
-      <news:title>United Airlines system outage disrupts departures just days after the big ground stop</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304760092.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>United Airlines system outage disrupts departures just days after the big ground stop</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/gemini-skills-add-file-support-and-sharing-ahead-of-gems-deprecation</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T22:11:48Z</news:publication_date>
-      <news:title>Gemini skills add file support and sharing ahead of Gems deprecation</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/04/Gemini-app-Mac-cover.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1560</image:loc>
-      <image:title>Gemini skills add file support and sharing ahead of Gems deprecation</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/three-small-failures-combined-to-take-down-microsoft-365</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T21:56:39Z</news:publication_date>
-      <news:title>Three small failures combined to take down Microsoft 365</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2025/10/network-outage.jpg</image:loc>
-      <image:title>Three small failures combined to take down Microsoft 365</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/in-get-huge-the-manosphere-is-here-to-make-friends-with-deadly-consequences</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T21:41:57Z</news:publication_date>
-      <news:title>In Get Huge, the manosphere is here to make friends — with deadly consequences</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/184084_bk_press_still_1.579.1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=10.051873779297,10.653583930772,89.948126220703,89.346416069228</image:loc>
-      <image:title>In Get Huge, the manosphere is here to make friends — with deadly consequences</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/mondays-android-app-deals-and-freebies-final-fantasy-games-dragon-quest-ash-of-gods-more</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T20:58:04Z</news:publication_date>
-      <news:title>Monday’s Android app deals and freebies: Final Fantasy games, Dragon Quest, Ash of Gods, more</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Play-collage-708754.webp?w=1600</image:loc>
-      <image:title>Monday’s Android app deals and freebies: Final Fantasy games, Dragon Quest, Ash of Gods, more</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/hyperscale-data-centers-use-2-of-us-electricity</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T20:52:10Z</news:publication_date>
-      <news:title>Hyperscale data centers use 2% of US electricity</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2263547912-1152x648.jpg</image:loc>
-      <image:title>Hyperscale data centers use 2% of US electricity</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/california-sues-openai-over-rogue-ai-hacking-incidents</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T20:46:01Z</news:publication_date>
-      <news:title>California sues OpenAI over rogue AI hacking incidents</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>California sues OpenAI over rogue AI hacking incidents</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/sam-altman-says-he-wants-everyone-to-have-a-lot-of-ram</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T20:41:28Z</news:publication_date>
-      <news:title>Sam Altman says he wants everyone ‘to have a lot of RAM’</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Sam Altman says he wants everyone ‘to have a lot of RAM’</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-286-percent-in-one-day</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T20:37:47Z</news:publication_date>
-      <news:title>Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2231573847-1024x648.jpg</image:loc>
-      <image:title>Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/some-of-our-favorite-playstation-games-are-steeply-discounted-for-black-friday</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T20:36:14Z</news:publication_date>
-      <news:title>Some of our favorite PlayStation games are steeply discounted for Black Friday</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/EA-Sports-FC-27.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Some of our favorite PlayStation games are steeply discounted for Black Friday</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/big-nuclear-isnt-worried-about-the-democrats-stopping-data-centers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T20:29:37Z</news:publication_date>
-      <news:title>Big Nuclear isn’t worried about the Democrats stopping data centers</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2227026671.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Big Nuclear isn’t worried about the Democrats stopping data centers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/comcast039s-fiber-powered-wi-fi-is-just-cable-at038t-says-in-false-advertising-case</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T20:27:58Z</news:publication_date>
-      <news:title>Comcast&amp;#039;s &quot;fiber-powered Wi-Fi&quot; is just cable, AT&amp;#038;T says in false advertising case</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2022/11/getty-comcast-van-1152x648.jpg</image:loc>
-      <image:title>Comcast&amp;#039;s &quot;fiber-powered Wi-Fi&quot; is just cable, AT&amp;#038;T says in false advertising case</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/supreme-court-keeps-injunction-against-dei-grant-defunding-in-place</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T19:54:21Z</news:publication_date>
-      <news:title>Supreme Court keeps injunction against DEI grant defunding in place</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2302915568-1024x648.jpg</image:loc>
-      <image:title>Supreme Court keeps injunction against DEI grant defunding in place</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/phone-by-google-246-rolls-out-gradient-icon-redesign-on-android-u</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T19:54:00Z</news:publication_date>
-      <news:title>Phone by Google 246 rolls out gradient icon redesign on Android [U]</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Messages-Phone-Contacts-icon-gradient-redesign.webp?w=1600</image:loc>
-      <image:title>Phone by Google 246 rolls out gradient icon redesign on Android [U]</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/when-will-humans-actually-fly-on-starship</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T19:46:08Z</news:publication_date>
-      <news:title>When will humans actually fly on Starship?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/spaceX-1152x648.jpeg</image:loc>
-      <image:title>When will humans actually fly on Starship?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/meet-the-new-james-bond-robert-pattinson</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T19:36:25Z</news:publication_date>
-      <news:title>Meet the new James Bond: Robert Pattinson</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/bond1-1152x648-1794853599.jpg</image:loc>
-      <image:title>Meet the new James Bond: Robert Pattinson</image:title>
     </image:image>
   </url>
 </urlset>
