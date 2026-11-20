@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/how-to-use-app-lock-in-one-ui-95-and-when-secure-folder-is-still-better</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T03:27:57Z</news:publication_date>
+      <news:title>How to use App Lock in One UI 9.5 (and when Secure Folder is still better)</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Samsung-phone-showing-Gallery-app-locked-scaled.jpg</image:loc>
+      <image:title>How to use App Lock in One UI 9.5 (and when Secure Folder is still better)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/samsung8217s-mobile-division-has-someone-new-in-charge-for-the-first-time-in-years</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T01:35:00Z</news:publication_date>
+      <news:title>Samsung&amp;#8217;s mobile division has someone new in charge for the first time in years</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/07/samsung-won-joon-choi-3.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Samsung&amp;#8217;s mobile division has someone new in charge for the first time in years</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/googles-3d-emoji-has-wild-android-spec-requirements-10gb-of-free-space-6gb-ram</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T23:30:09Z</news:publication_date>
+      <news:title>Google’s 3D emoji has wild Android spec requirements: 10GB of free space, 6GB RAM</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/08/android-17-emoji-pixel-11-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Google’s 3D emoji has wild Android spec requirements: 10GB of free space, 6GB RAM</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/gemini-could-soon-make-it-easy-to-find-chats-where-you-left-unfinished-draft-text</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T22:40:04Z</news:publication_date>
+      <news:title>Gemini could soon make it easy to find chats where you left unfinished draft text</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/09/pixel-phone-showing-gemini-temporary-incognito-chat-button.jpg</image:loc>
+      <image:title>Gemini could soon make it easy to find chats where you left unfinished draft text</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/apple-is-hiring-engineers-to-build-its-own-ai-agent</loc>
     <news:news>
       <news:publication>
@@ -18,6 +78,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/google-homepage-rolling-out-ai-focused-redesign-that-includes-your-gemini-chats-video</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T22:25:00Z</news:publication_date>
+      <news:title>Google homepage rolling out AI-focused redesign that includes your Gemini chats [Video]</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-search-gemini-homepage.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Google homepage rolling out AI-focused redesign that includes your Gemini chats [Video]</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/amazon-fights-the-delivery-protection-act-with-homepage-banner-in-app-pop-up</loc>
     <news:news>
       <news:publication>
@@ -30,6 +105,21 @@
     <image:image>
       <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1243765669-1024x648.jpg</image:loc>
       <image:title>Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/quit-worrying-about-storage-and-get-a-ugreen-nas-for-up-to-160-off-right-now</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T22:08:15Z</news:publication_date>
+      <news:title>Quit worrying about storage and get a UGREEN NAS for up to $160 off right now</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/ugreen-homeagent-nas-with-hdd.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Quit worrying about storage and get a UGREEN NAS for up to $160 off right now</image:title>
     </image:image>
   </url>
   <url>
@@ -63,6 +153,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/just-161-reclaims-all-that-space-gta-vi-stole-on-your-ps5-with-this-m2-ssd-deal</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T21:17:24Z</news:publication_date>
+      <news:title>Just $161 reclaims all that space GTA VI stole on your PS5 with this M2 SSD deal</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/gta-vi-acer-predator-ssd.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Just $161 reclaims all that space GTA VI stole on your PS5 with this M2 SSD deal</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/meta-now-sells-3d-movies-on-quest-vr-headsets</loc>
     <news:news>
       <news:publication>
@@ -75,6 +180,51 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24951506/236805_Quest_3_and_Ray_Ban_meta_glasses_BFarsace_0016.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Meta now sells 3D movies on Quest VR headsets</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-docs-adds-3-new-caption-and-cross-reference-features-to-simplify-complex-documents</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T20:43:43Z</news:publication_date>
+      <news:title>Google Docs adds 3 new caption and cross-reference features to simplify complex documents</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2022/02/Google-Docs-logo-on-smartphone-next-to-office-gear-stock-photo-2.jpg</image:loc>
+      <image:title>Google Docs adds 3 new caption and cross-reference features to simplify complex documents</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/give-your-eyes-and-wallet-the-break-they-need-with-these-tcl-nxtpaper-black-friday-deals</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T20:43:37Z</news:publication_date>
+      <news:title>Give your eyes (and wallet) the break they need with these TCL NXTPAPER Black Friday deals</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/tcl-nxtpapaper-phones-tablets-2026-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Give your eyes (and wallet) the break they need with these TCL NXTPAPER Black Friday deals</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/bose8217s-clip-on-ultra-open-earbuds-2nd-gen-are-50-off</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T20:39:27Z</news:publication_date>
+      <news:title>Bose&amp;#8217;s clip-on Ultra Open Earbuds (2nd Gen) are $50 off</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Bose-Ultra-Open-Earbuds-2nd-Gen_Olive-Green_06.jpg</image:loc>
+      <image:title>Bose&amp;#8217;s clip-on Ultra Open Earbuds (2nd Gen) are $50 off</image:title>
     </image:image>
   </url>
   <url>
@@ -93,6 +243,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/join-us-on-amazon-for-our-black-friday-livestream-and-see-live-demos-of-the-best-tech-deals</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T20:29:17Z</news:publication_date>
+      <news:title>Join us on Amazon for our Black Friday livestream and see live demos of the best tech deals</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Rayneo-4.jpg</image:loc>
+      <image:title>Join us on Amazon for our Black Friday livestream and see live demos of the best tech deals</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/metas-muse-charm-might-cost-300</loc>
     <news:news>
       <news:publication>
@@ -105,6 +270,21 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/lcimg-3879511d-dd3d-430c-8072-616e2dfb3484.jpeg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Meta’s Muse Charm might cost $300</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/todays-android-app-deals-and-freebies-final-fantasy-vii-skul-beastie-bay-dx-islanders-more</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T20:21:27Z</news:publication_date>
+      <news:title>Today’s Android app deals and freebies: FINAL FANTASY VII, Skul, Beastie Bay DX, ISLANDERS, more</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Play-collage-9692f2.webp?w=1600</image:loc>
+      <image:title>Today’s Android app deals and freebies: FINAL FANTASY VII, Skul, Beastie Bay DX, ISLANDERS, more</image:title>
     </image:image>
   </url>
   <url>
@@ -138,6 +318,36 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/google-brings-computer-use-to-mac-letting-gemini-handle-chores-without-hijacking-your-screen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T20:04:59Z</news:publication_date>
+      <news:title>Google brings computer use to Mac, letting Gemini handle chores without hijacking your screen</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/03/Apple-MacBook-Neo-next-to-14-inch-Apple-MacBook-Pro-M3-Pro.jpg</image:loc>
+      <image:title>Google brings computer use to Mac, letting Gemini handle chores without hijacking your screen</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/new-motorola-razr-flex-renders-offer-best-look-yet-at-wide-body-foldable</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T19:56:03Z</news:publication_date>
+      <news:title>New Motorola Razr Flex renders offer best look yet at wide-body foldable</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2022/06/motorola-moss-logo.jpg</image:loc>
+      <image:title>New Motorola Razr Flex renders offer best look yet at wide-body foldable</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains</loc>
     <news:news>
       <news:publication>
@@ -150,6 +360,21 @@
     <image:image>
       <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2025/11/NG2-Launch-Rollout-3-1152x648.jpg</image:loc>
       <image:title>Google turns to Blue Origin for a rocket, but its long-term problem remains</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/honor-just-supercharged-its-smartwatch-lineup-with-a-new-pro-model</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T19:41:23Z</news:publication_date>
+      <news:title>Honor just supercharged its smartwatch lineup with a new Pro model</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/honor-watch-6-pro-all-colors-render.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Honor just supercharged its smartwatch lineup with a new Pro model</image:title>
     </image:image>
   </url>
   <url>
@@ -1110,36 +1335,6 @@
     <image:image>
       <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/Grand-Theft-Auto-VI_20261102162743-1152x648-1794953901.jpg</image:loc>
       <image:title>Grand Theft Auto VI: The Ars Technica review</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/copilot-is-the-new-os-for-work-and-now-office-runs-inside-of-it</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T00:27:29Z</news:publication_date>
-      <news:title>Copilot is &quot;the new OS for work,&quot; and now Office runs inside of it</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/MS_Ignite_Perception.png</image:loc>
-      <image:title>Copilot is &quot;the new OS for work,&quot; and now Office runs inside of it</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/satya-nadella-says-hes-agi-pilled-now</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T23:41:18Z</news:publication_date>
-      <news:title>Satya Nadella says he’s AGI-pilled now</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-17-at-3.00.15-PM.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Satya Nadella says he’s AGI-pilled now</image:title>
     </image:image>
   </url>
 </urlset>
