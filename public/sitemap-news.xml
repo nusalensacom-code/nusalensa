@@ -3,6 +3,141 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/amazon-is-complaining-about-nyc-council-on-shipping-labels-too</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T21:59:31Z</news:publication_date>
+      <news:title>Amazon is complaining about NYC Council on shipping labels, too</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/PXL_20261121_204528314.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Amazon is complaining about NYC Council on shipping labels, too</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/samsung-testing-apples-dynamic-island-style-live-notifications-in-one-ui-95</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T21:33:02Z</news:publication_date>
+      <news:title>Samsung testing Apple&apos;s Dynamic Island-style Live Notifications in One UI 9.5</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/samsung-redesigned-live-notifications-one-ui-9-5/gsmarena_002.jpg</image:loc>
+      <image:title>Samsung testing Apple&apos;s Dynamic Island-style Live Notifications in One UI 9.5</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/gemini-app-rolls-out-very-slick-camera-redesign-on-android</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T20:52:52Z</news:publication_date>
+      <news:title>Gemini app rolls out very slick camera redesign on Android</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-4.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Gemini app rolls out very slick camera redesign on Android</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-un-fails-to-agree-on-rules-regulating-killer-robots</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T20:03:37Z</news:publication_date>
+      <news:title>The UN fails to agree on rules regulating ‘killer robots’</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13611631/503831564.jpg.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>The UN fails to agree on rules regulating ‘killer robots’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/deal-the-samsung-galaxy-s26-fe-finally-drops-to-the-right-price-during-amazons-black-friday-sale</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T19:07:02Z</news:publication_date>
+      <news:title>Deal: the Samsung Galaxy S26 FE finally drops to the right price during Amazon&apos;s Black Friday sale</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/black-friday-amazon-us/gsmarena_0030.jpg</image:loc>
+      <image:title>Deal: the Samsung Galaxy S26 FE finally drops to the right price during Amazon&apos;s Black Friday sale</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-fbi-and-usda-were-reportedly-hacked</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T17:42:27Z</news:publication_date>
+      <news:title>The FBI and USDA were reportedly hacked</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318430/akrales_220309_4977_0038.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>The FBI and USDA were reportedly hacked</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-store-in-uk-permanently-closing-today</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T17:16:10Z</news:publication_date>
+      <news:title>Apple Store in UK Permanently Closing Today</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/Apple-Festival-Place-scaled.jpeg</image:loc>
+      <image:title>Apple Store in UK Permanently Closing Today</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/amazon-takes-36120-off-46mm-gps-apple-watch-series-12-with-new-record-low-price-update-gone</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T17:10:00Z</news:publication_date>
+      <news:title>Amazon Takes &amp;#36;120 Off 46mm GPS Apple Watch Series 12 With New Record Low Price [Update: Gone]</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/apple-watch-series-12-red.jpeg</image:loc>
+      <image:title>Amazon Takes &amp;#36;120 Off 46mm GPS Apple Watch Series 12 With New Record Low Price [Update: Gone]</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/siri-ai-settlement-here039s-how-much-apple-will-pay-you</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T17:08:49Z</news:publication_date>
+      <news:title>Siri AI Settlement: Here&amp;#039;s How Much Apple Will Pay You</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/Siri-AI-Icon.jpeg</image:loc>
+      <image:title>Siri AI Settlement: Here&amp;#039;s How Much Apple Will Pay You</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/galaxy-z-fold-8-features-what-you-can-do-on-a-foldable</loc>
     <news:news>
       <news:publication>
@@ -90,6 +225,36 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268539_Soundcore_Liberty_5_Pro_JHiggins_0001.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Our go-to earbuds for taking calls have fallen to their lowest price to date</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/iphone-air-2-shows-off-its-dual-camera-design-in-another-dummy-unit-leak</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T14:04:03Z</news:publication_date>
+      <news:title>iPhone Air 2 shows off its dual-camera design in another dummy unit leak</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/iphone-air-2-new-dummy-unit/gsmarena_000.jpg</image:loc>
+      <image:title>iPhone Air 2 shows off its dual-camera design in another dummy unit leak</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/top-stories-iphone-duo-face-unlock-homeview-tidbits-and-more</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T14:00:10Z</news:publication_date>
+      <news:title>Top Stories: iPhone Duo Face Unlock, HomeView Tidbits, and More</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/top-stories-2026-11-21.jpg</image:loc>
+      <image:title>Top Stories: iPhone Duo Face Unlock, HomeView Tidbits, and More</image:title>
     </image:image>
   </url>
   <url>
@@ -228,6 +393,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/deal-the-samsung-galaxy-z-fold8-ultra-is-up-to-555-off-for-amazon-uks-black-friday-sale</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T11:01:02Z</news:publication_date>
+      <news:title>Deal: the Samsung Galaxy Z Fold8 Ultra is up to £555 off for Amazon UK&apos;s Black Friday sale</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/black-friday-amazon-uk/gsmarena_003.jpg</image:loc>
+      <image:title>Deal: the Samsung Galaxy Z Fold8 Ultra is up to £555 off for Amazon UK&apos;s Black Friday sale</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/sylvox-black-friday-sale-best-outdoor-tvs-for-covered-patios-full-sun-pools-and-gaming</loc>
     <news:news>
       <news:publication>
@@ -240,6 +420,36 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/sylvox-featured.jpg</image:loc>
       <image:title>Sylvox Black Friday sale: Best outdoor TVs for covered patios, full-sun pools, and gaming</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/honor-reportedly-has-a-13500-mah-phone-coming-and-the-power3-isnt-far-behind</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T08:02:02Z</news:publication_date>
+      <news:title>Honor reportedly has a 13,500 mAh phone coming, and the Power3 isn&apos;t far behind</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/honor-13500-mah-battery-phone-rumor/gsmarena_000.jpg</image:loc>
+      <image:title>Honor reportedly has a 13,500 mAh phone coming, and the Power3 isn&apos;t far behind</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/deal-the-oppo-find-x10-and-find-x10-pro-max-now-have-an-even-bigger-discount-for-black-friday</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T05:41:02Z</news:publication_date>
+      <news:title>Deal: the Oppo Find X10 and Find X10 Pro Max now have an even bigger discount for Black Friday</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/black-friday-amazon-de/gsmarena_002.jpg</image:loc>
+      <image:title>Deal: the Oppo Find X10 and Find X10 Pro Max now have an even bigger discount for Black Friday</image:title>
     </image:image>
   </url>
   <url>
@@ -768,6 +978,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/tablets/apple-black-friday-deals-available-now-airpods-apple-watches-macbooks-and-more-1</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T17:34:12Z</news:publication_date>
+      <news:title>Apple Black Friday Deals Available Now: AirPods, Apple Watches, MacBooks, and More</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/Black-Friday-Deals-26-4.jpg</image:loc>
+      <image:title>Apple Black Friday Deals Available Now: AirPods, Apple Watches, MacBooks, and More</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/tablets/apple-black-friday-deals-available-now-airpods-apple-watches-macbooks-and-more</loc>
     <news:news>
       <news:publication>
@@ -1185,351 +1410,6 @@
     <image:image>
       <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1243765669-1024x648.jpg</image:loc>
       <image:title>Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/quit-worrying-about-storage-and-get-a-ugreen-nas-for-up-to-160-off-right-now</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T22:08:15Z</news:publication_date>
-      <news:title>Quit worrying about storage and get a UGREEN NAS for up to $160 off right now</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/ugreen-homeagent-nas-with-hdd.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Quit worrying about storage and get a UGREEN NAS for up to $160 off right now</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/a-brief-history-of-nvidias-recent-stock-fluctuations</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T21:59:35Z</news:publication_date>
-      <news:title>A brief history of Nvidia’s recent stock fluctuations</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305716823.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>A brief history of Nvidia’s recent stock fluctuations</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T21:19:12Z</news:publication_date>
-      <news:title>MAHA PAC spent more on steak, luxury club than candidates, report shows</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-870760928-1152x648.jpg</image:loc>
-      <image:title>MAHA PAC spent more on steak, luxury club than candidates, report shows</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/just-161-reclaims-all-that-space-gta-vi-stole-on-your-ps5-with-this-m2-ssd-deal</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T21:17:24Z</news:publication_date>
-      <news:title>Just $161 reclaims all that space GTA VI stole on your PS5 with this M2 SSD deal</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/gta-vi-acer-predator-ssd.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Just $161 reclaims all that space GTA VI stole on your PS5 with this M2 SSD deal</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/meta-now-sells-3d-movies-on-quest-vr-headsets</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T21:12:06Z</news:publication_date>
-      <news:title>Meta now sells 3D movies on Quest VR headsets</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24951506/236805_Quest_3_and_Ray_Ban_meta_glasses_BFarsace_0016.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Meta now sells 3D movies on Quest VR headsets</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-docs-adds-3-new-caption-and-cross-reference-features-to-simplify-complex-documents</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T20:43:43Z</news:publication_date>
-      <news:title>Google Docs adds 3 new caption and cross-reference features to simplify complex documents</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2022/02/Google-Docs-logo-on-smartphone-next-to-office-gear-stock-photo-2.jpg</image:loc>
-      <image:title>Google Docs adds 3 new caption and cross-reference features to simplify complex documents</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/give-your-eyes-and-wallet-the-break-they-need-with-these-tcl-nxtpaper-black-friday-deals</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T20:43:37Z</news:publication_date>
-      <news:title>Give your eyes (and wallet) the break they need with these TCL NXTPAPER Black Friday deals</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/tcl-nxtpapaper-phones-tablets-2026-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Give your eyes (and wallet) the break they need with these TCL NXTPAPER Black Friday deals</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/bose8217s-clip-on-ultra-open-earbuds-2nd-gen-are-50-off</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T20:39:27Z</news:publication_date>
-      <news:title>Bose&amp;#8217;s clip-on Ultra Open Earbuds (2nd Gen) are $50 off</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Bose-Ultra-Open-Earbuds-2nd-Gen_Olive-Green_06.jpg</image:loc>
-      <image:title>Bose&amp;#8217;s clip-on Ultra Open Earbuds (2nd Gen) are $50 off</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/man-hired-by-russia-spied-on-silicon-valley-tech-and-defense-company-feds-say</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T20:29:46Z</news:publication_date>
-      <news:title>Man hired by Russia spied on Silicon Valley tech and defense company, feds say</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2023/05/getty-digital-gavel-1152x648.jpg</image:loc>
-      <image:title>Man hired by Russia spied on Silicon Valley tech and defense company, feds say</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/join-us-on-amazon-for-our-black-friday-livestream-and-see-live-demos-of-the-best-tech-deals</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T20:29:17Z</news:publication_date>
-      <news:title>Join us on Amazon for our Black Friday livestream and see live demos of the best tech deals</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Rayneo-4.jpg</image:loc>
-      <image:title>Join us on Amazon for our Black Friday livestream and see live demos of the best tech deals</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/metas-muse-charm-might-cost-300</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T20:22:17Z</news:publication_date>
-      <news:title>Meta’s Muse Charm might cost $300</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/lcimg-3879511d-dd3d-430c-8072-616e2dfb3484.jpeg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Meta’s Muse Charm might cost $300</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/todays-android-app-deals-and-freebies-final-fantasy-vii-skul-beastie-bay-dx-islanders-more</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T20:21:27Z</news:publication_date>
-      <news:title>Today’s Android app deals and freebies: FINAL FANTASY VII, Skul, Beastie Bay DX, ISLANDERS, more</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Play-collage-9692f2.webp?w=1600</image:loc>
-      <image:title>Today’s Android app deals and freebies: FINAL FANTASY VII, Skul, Beastie Bay DX, ISLANDERS, more</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T20:19:28Z</news:publication_date>
-      <news:title>Traumatized teens sue school, cops after Doritos bag triggers AI gun alert</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-458680569-1152x648-1795115965.jpg</image:loc>
-      <image:title>Traumatized teens sue school, cops after Doritos bag triggers AI gun alert</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/google-is-putting-ai-chats-right-on-the-homepage</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T20:05:06Z</news:publication_date>
-      <news:title>Google is putting AI chats right on the homepage</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK093_GOOGLE_D.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Google is putting AI chats right on the homepage</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-brings-computer-use-to-mac-letting-gemini-handle-chores-without-hijacking-your-screen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T20:04:59Z</news:publication_date>
-      <news:title>Google brings computer use to Mac, letting Gemini handle chores without hijacking your screen</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/03/Apple-MacBook-Neo-next-to-14-inch-Apple-MacBook-Pro-M3-Pro.jpg</image:loc>
-      <image:title>Google brings computer use to Mac, letting Gemini handle chores without hijacking your screen</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/new-motorola-razr-flex-renders-offer-best-look-yet-at-wide-body-foldable</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T19:56:03Z</news:publication_date>
-      <news:title>New Motorola Razr Flex renders offer best look yet at wide-body foldable</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2022/06/motorola-moss-logo.jpg</image:loc>
-      <image:title>New Motorola Razr Flex renders offer best look yet at wide-body foldable</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T19:52:54Z</news:publication_date>
-      <news:title>Google turns to Blue Origin for a rocket, but its long-term problem remains</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2025/11/NG2-Launch-Rollout-3-1152x648.jpg</image:loc>
-      <image:title>Google turns to Blue Origin for a rocket, but its long-term problem remains</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/honor-just-supercharged-its-smartwatch-lineup-with-a-new-pro-model</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T19:41:23Z</news:publication_date>
-      <news:title>Honor just supercharged its smartwatch lineup with a new Pro model</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/honor-watch-6-pro-all-colors-render.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Honor just supercharged its smartwatch lineup with a new Pro model</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/fcc-greenlights-rule-allowing-prisons-to-jam-cellphone-signals</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T19:40:28Z</news:publication_date>
-      <news:title>FCC greenlights rule allowing prisons to jam cellphone signals</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STKS513_FCC_B.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>FCC greenlights rule allowing prisons to jam cellphone signals</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/sonys-wh-1000xm5-are-cheaper-than-ever-for-black-friday</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T19:35:52Z</news:publication_date>
-      <news:title>Sony’s WH-1000XM5 are cheaper than ever for Black Friday</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/DSCF7932.webp?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Sony’s WH-1000XM5 are cheaper than ever for Black Friday</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/you-can-now-buy-a-steam-machine-without-getting-on-a-waitlist</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T19:33:22Z</news:publication_date>
-      <news:title>You can now buy a Steam Machine without getting on a waitlist</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268581_Steam_Machine_AKrales_0372.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>You can now buy a Steam Machine without getting on a waitlist</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/youre-rightllms-will-get-climate-info-wrong-if-you-ask</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T18:44:39Z</news:publication_date>
-      <news:title>&quot;You’re right&quot;—LLMs will get climate info wrong if you ask</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-465648135-1024x648.jpg</image:loc>
-      <image:title>&quot;You’re right&quot;—LLMs will get climate info wrong if you ask</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/google-will-launch-android-app-verification-requirement-globally-in-january-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T18:00:33Z</news:publication_date>
-      <news:title>Google will launch Android app verification requirement globally in January 2027</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-1152x648.jpg</image:loc>
-      <image:title>Google will launch Android app verification requirement globally in January 2027</image:title>
     </image:image>
   </url>
 </urlset>
