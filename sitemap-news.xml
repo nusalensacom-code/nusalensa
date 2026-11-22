@@ -3,6 +3,156 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/samsung-vs-lg-oled-tvs-whats-the-difference-between-them</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T01:00:00Z</news:publication_date>
+      <news:title>Samsung vs. LG OLED TVs: What&apos;s the difference between them?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/samsung-vs-lg-oled-tvs-whats-the-difference-between-them/l-intro-1794240636.jpg</image:loc>
+      <image:title>Samsung vs. LG OLED TVs: What&apos;s the difference between them?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/attention-pixel-9-and-10-owners-is-it-actually-worth-upgrading-to-the-pixel-11</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T01:00:00Z</news:publication_date>
+      <news:title>Attention Pixel 9 and 10 owners: is it actually worth upgrading to the Pixel 11?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/attention-pixel-9-and-10-owners-is-it-actually-worth-upgrading-to-the-pixel-11/l-intro-1794595499.jpg</image:loc>
+      <image:title>Attention Pixel 9 and 10 owners: is it actually worth upgrading to the Pixel 11?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/this-is-what-can-happen-if-too-many-devices-are-sharing-your-home-network</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T00:45:00Z</news:publication_date>
+      <news:title>This is what can happen if too many devices are sharing your home network</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/this-is-what-can-happen-if-too-many-devices-are-sharing-your-home-network/l-intro-1794517083.jpg</image:loc>
+      <image:title>This is what can happen if too many devices are sharing your home network</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/your-pcs-usb-port-can-charge-your-phone-even-when-its-turned-off-heres-how</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T00:30:00Z</news:publication_date>
+      <news:title>Your PC&apos;s USB port can charge your phone, even when it&apos;s turned off — Here&apos;s how</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/your-pcs-usb-port-can-charge-your-phone-even-when-its-turned-off-heres-how/l-intro-1794604560.jpg</image:loc>
+      <image:title>Your PC&apos;s USB port can charge your phone, even when it&apos;s turned off — Here&apos;s how</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/10-things-you-should-never-do-on-your-android-phone</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T00:15:00Z</news:publication_date>
+      <news:title>10 things you should never do on your Android phone</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/10-things-you-should-never-do-on-your-android-phone/l-intro-1793984732.jpg</image:loc>
+      <image:title>10 things you should never do on your Android phone</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/motorola-moto-tag-3-listed-on-amazon</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T00:03:02Z</news:publication_date>
+      <news:title>Motorola Moto Tag 3 listed on Amazon</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/motorola-tag-3-amazon-listing/gsmarena_001.jpg</image:loc>
+      <image:title>Motorola Moto Tag 3 listed on Amazon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/this-is-the-best-type-of-wireless-earbuds-for-audio-output</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T00:00:00Z</news:publication_date>
+      <news:title>This is the best type of wireless earbuds for audio output</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/this-is-the-best-type-of-wireless-earbuds-for-audio-output/l-intro-1794431151.jpg</image:loc>
+      <image:title>This is the best type of wireless earbuds for audio output</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/how-to-calibrate-your-3d-printer-and-why-you-should</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T23:45:00Z</news:publication_date>
+      <news:title>How to calibrate your 3D printer (and why you should)</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/how-to-calibrate-your-3d-printer-and-why-you-should/l-intro-1794242993.jpg</image:loc>
+      <image:title>How to calibrate your 3D printer (and why you should)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/building-your-own-mini-pc-is-harder-than-you-would-think</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T23:30:00Z</news:publication_date>
+      <news:title>Building your own mini PC is harder than you would think</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/building-your-own-mini-pc-is-harder-than-you-would-think/l-intro-1794933308.jpg</image:loc>
+      <image:title>Building your own mini PC is harder than you would think</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/review-godzilla-minus-zero-joins-the-list-of-truly-stellar-sequels</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T22:12:41Z</news:publication_date>
+      <news:title>Review: Godzilla Minus Zero joins the list of truly stellar sequels</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/godzillaTOP-1152x648.jpg</image:loc>
+      <image:title>Review: Godzilla Minus Zero joins the list of truly stellar sequels</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/amazon-is-complaining-about-nyc-council-on-shipping-labels-too</loc>
     <news:news>
       <news:publication>
@@ -450,6 +600,21 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/black-friday-amazon-de/gsmarena_002.jpg</image:loc>
       <image:title>Deal: the Oppo Find X10 and Find X10 Pro Max now have an even bigger discount for Black Friday</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/hmd-could-bring-nokias-pureview-branding-back-with-a-new-phone</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T03:32:02Z</news:publication_date>
+      <news:title>HMD could bring Nokia&apos;s PureView branding back with a new phone</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/hmd-pureview-phone-leak/gsmarena_00.jpg</image:loc>
+      <image:title>HMD could bring Nokia&apos;s PureView branding back with a new phone</image:title>
     </image:image>
   </url>
   <url>
@@ -1290,126 +1455,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Samsung-phone-showing-Gallery-app-locked-scaled.jpg</image:loc>
       <image:title>How to use App Lock in One UI 9.5 (and when Secure Folder is still better)</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung8217s-mobile-division-has-someone-new-in-charge-for-the-first-time-in-years</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T01:35:00Z</news:publication_date>
-      <news:title>Samsung&amp;#8217;s mobile division has someone new in charge for the first time in years</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/07/samsung-won-joon-choi-3.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Samsung&amp;#8217;s mobile division has someone new in charge for the first time in years</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/googles-3d-emoji-has-wild-android-spec-requirements-10gb-of-free-space-6gb-ram</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T23:30:09Z</news:publication_date>
-      <news:title>Google’s 3D emoji has wild Android spec requirements: 10GB of free space, 6GB RAM</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/08/android-17-emoji-pixel-11-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Google’s 3D emoji has wild Android spec requirements: 10GB of free space, 6GB RAM</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/black-friday-deal-apple-tv-streaming-service-for-36699month</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T23:12:05Z</news:publication_date>
-      <news:title>Black Friday Deal: Apple TV Streaming Service for &amp;#36;6.99/Month</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/04/New-Apple-TV-Logo.jpeg</image:loc>
-      <image:title>Black Friday Deal: Apple TV Streaming Service for &amp;#36;6.99/Month</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/macbook-pro-black-friday-deals-are-here-get-up-to-36250-off-m6-and-proled-xdr</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T22:45:00Z</news:publication_date>
-      <news:title>MacBook Pro Black Friday Deals Are Here: Get Up to &amp;#36;250 Off M6 and PROLED XDR</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/macbook-pros-black-friday.jpeg</image:loc>
-      <image:title>MacBook Pro Black Friday Deals Are Here: Get Up to &amp;#36;250 Off M6 and PROLED XDR</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/gemini-could-soon-make-it-easy-to-find-chats-where-you-left-unfinished-draft-text</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T22:40:04Z</news:publication_date>
-      <news:title>Gemini could soon make it easy to find chats where you left unfinished draft text</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/09/pixel-phone-showing-gemini-temporary-incognito-chat-button.jpg</image:loc>
-      <image:title>Gemini could soon make it easy to find chats where you left unfinished draft text</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/apple-is-hiring-engineers-to-build-its-own-ai-agent</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T22:31:41Z</news:publication_date>
-      <news:title>Apple is hiring engineers to build its own AI agent</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04239.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Apple is hiring engineers to build its own AI agent</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-homepage-rolling-out-ai-focused-redesign-that-includes-your-gemini-chats-video</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T22:25:00Z</news:publication_date>
-      <news:title>Google homepage rolling out AI-focused redesign that includes your Gemini chats [Video]</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-search-gemini-homepage.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Google homepage rolling out AI-focused redesign that includes your Gemini chats [Video]</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/amazon-fights-the-delivery-protection-act-with-homepage-banner-in-app-pop-up</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T22:16:37Z</news:publication_date>
-      <news:title>Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1243765669-1024x648.jpg</image:loc>
-      <image:title>Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up</image:title>
     </image:image>
   </url>
 </urlset>
