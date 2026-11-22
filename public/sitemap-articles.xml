@@ -2,6 +2,96 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/the-pros-and-cons-of-sharing-your-location</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/the-pros-and-cons-of-sharing-your-location/l-intro-1794603681.jpg</image:loc>
+      <image:title>The pros and cons of sharing your location</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/we-havent-seen-the-last-of-the-major-tech-outages</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>We haven’t seen the last of the major tech outages</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/can-you-safely-use-a-140w-charger-on-an-iphone</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/can-you-safely-use-a-140w-charger-on-an-iphone/l-intro-1794496692.jpg</image:loc>
+      <image:title>Can you safely use a 140w charger on an iPhone?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/this-free-app-connects-your-android-phone-to-your-windows-pc-wirelessly</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/this-free-app-connects-your-android-phone-to-your-windows-pc-wirelessly/l-intro-1794633420.jpg</image:loc>
+      <image:title>This free app connects your Android phone to your Windows PC wirelessly</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/pixel-weather-rolls-out-report-current-weather-to-improve-local-forecasts</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Pixel-11-Pro-Weather-App.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Pixel Weather rolls out ‘Report current weather’ to ‘improve local forecasts’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/deal-amazons-black-friday-deal-discounts-the-pixel-11-pro-and-pixel-11-pro-xl-by-31</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/black-friday-amazon-us/gsmarena_002.jpg</image:loc>
+      <image:title>Deal: Amazon&apos;s Black Friday deal discounts the Pixel 11 Pro and Pixel 11 Pro XL by 31%</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/iphone-duo-could-get-more-lock-screen-widgets-leak-suggests</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/iphone-duo-cyber-monday.jpeg</image:loc>
+      <image:title>iPhone Duo Could Get More Lock Screen Widgets, Leak Suggests</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/gurman-siri-layoffs-spared-newer-ai-systems-but-problems-persist</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/Siri-AI-Icon.jpeg</image:loc>
+      <image:title>Gurman: Siri Layoffs Spared Newer AI Systems, But Problems Persist</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-rumored-vivo-i2606-is-powered-by-the-snapdragon-8s-gen-4</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/iqoo-16r-16s-geekbench-leak/gsmarena_001.jpg</image:loc>
+      <image:title>The rumored vivo I2606 is powered by the Snapdragon 8s Gen 4</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/delta-flights-in-and-out-of-atlanta-delayed-due-to-system-outage</loc>
     <lastmod>2026-11-22</lastmod>
     <changefreq>daily</changefreq>
@@ -49,6 +139,46 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/11/airpods-pro-3-blue-snow.jpeg</image:loc>
       <image:title>AirPods Pro 3 Drop to &amp;#36;169.99 in Amazon Black Friday Sale</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/m6-macbook-pro-drops-to-361799-in-new-black-friday-sale-36200-off</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/m6-macbook-pro-blue-snow.jpeg</image:loc>
+      <image:title>M6 MacBook Pro Drops to &amp;#36;1,799 in New Black Friday Sale (&amp;#36;200 Off)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-reportedly-plans-to-release-these-products-in-february-or-march</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/MacBook-Neo-2-on-Yellow-Feature.jpg</image:loc>
+      <image:title>Apple Reportedly Plans to Release These Products in February or March</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-watch-se-3-lineup-sees-record-low-prices-starting-at-just-36179</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/apple-watch-se-3-blue-snow.jpeg</image:loc>
+      <image:title>Apple Watch SE 3 Lineup Sees Record Low Prices Starting at Just &amp;#36;179</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/ulefone-armor-35-pro-with-a-12-km-laser-rangefinder-and-11000-mah-battery-goes-on-sale-next-month-for-430</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/ulefone-armor-35-pro-price-sale-date/gsmarena_001.jpg</image:loc>
+      <image:title>Ulefone Armor 35 Pro with a 1.2 km laser rangefinder and 11,000 mAh battery goes on sale next month for $430</image:title>
     </image:image>
   </url>
   <url>
@@ -122,6 +252,16 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/vivo-s70-prov90-pro-leaks-with-live-photo-and-basic-specs-sheet</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/vivo-s70-pro-v90-pro-leak/gsmarena_001.jpg</image:loc>
+      <image:title>vivo S70 Pro/V90 Pro leaks with live photo and basic specs sheet</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff</loc>
     <lastmod>2026-11-22</lastmod>
     <changefreq>daily</changefreq>
@@ -149,6 +289,16 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/adding-a-sidebar-to-pixel-phone-with-panels-1.jpg</image:loc>
       <image:title>How I got Samsung’s best multitasking feature on my Pixel for free</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/weekly-poll-the-xiaomi-18-pro-and-18-pro-max-are-global-now-have-you-changed-your-mind-about-them</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/weekly-poll-xiaomi-18-pro-xiaomi-18-pro-max/gsmarena_000.jpg</image:loc>
+      <image:title>Weekly poll: the Xiaomi 18 Pro and 18 Pro Max are global now, have you changed your mind about them?</image:title>
     </image:image>
   </url>
   <url>

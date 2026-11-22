@@ -3,6 +3,141 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/the-pros-and-cons-of-sharing-your-location</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T23:00:00Z</news:publication_date>
+      <news:title>The pros and cons of sharing your location</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/the-pros-and-cons-of-sharing-your-location/l-intro-1794603681.jpg</image:loc>
+      <image:title>The pros and cons of sharing your location</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/we-havent-seen-the-last-of-the-major-tech-outages</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T22:48:02Z</news:publication_date>
+      <news:title>We haven’t seen the last of the major tech outages</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>We haven’t seen the last of the major tech outages</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/can-you-safely-use-a-140w-charger-on-an-iphone</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T22:30:00Z</news:publication_date>
+      <news:title>Can you safely use a 140w charger on an iPhone?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/can-you-safely-use-a-140w-charger-on-an-iphone/l-intro-1794496692.jpg</image:loc>
+      <image:title>Can you safely use a 140w charger on an iPhone?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/this-free-app-connects-your-android-phone-to-your-windows-pc-wirelessly</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T22:15:00Z</news:publication_date>
+      <news:title>This free app connects your Android phone to your Windows PC wirelessly</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.engadget.com/img/gallery/this-free-app-connects-your-android-phone-to-your-windows-pc-wirelessly/l-intro-1794633420.jpg</image:loc>
+      <image:title>This free app connects your Android phone to your Windows PC wirelessly</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/pixel-weather-rolls-out-report-current-weather-to-improve-local-forecasts</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T21:12:41Z</news:publication_date>
+      <news:title>Pixel Weather rolls out ‘Report current weather’ to ‘improve local forecasts’</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Pixel-11-Pro-Weather-App.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Pixel Weather rolls out ‘Report current weather’ to ‘improve local forecasts’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/deal-amazons-black-friday-deal-discounts-the-pixel-11-pro-and-pixel-11-pro-xl-by-31</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T20:51:02Z</news:publication_date>
+      <news:title>Deal: Amazon&apos;s Black Friday deal discounts the Pixel 11 Pro and Pixel 11 Pro XL by 31%</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/black-friday-amazon-us/gsmarena_002.jpg</image:loc>
+      <image:title>Deal: Amazon&apos;s Black Friday deal discounts the Pixel 11 Pro and Pixel 11 Pro XL by 31%</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/iphone-duo-could-get-more-lock-screen-widgets-leak-suggests</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T20:38:16Z</news:publication_date>
+      <news:title>iPhone Duo Could Get More Lock Screen Widgets, Leak Suggests</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/iphone-duo-cyber-monday.jpeg</image:loc>
+      <image:title>iPhone Duo Could Get More Lock Screen Widgets, Leak Suggests</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/gurman-siri-layoffs-spared-newer-ai-systems-but-problems-persist</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T20:29:51Z</news:publication_date>
+      <news:title>Gurman: Siri Layoffs Spared Newer AI Systems, But Problems Persist</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/Siri-AI-Icon.jpeg</image:loc>
+      <image:title>Gurman: Siri Layoffs Spared Newer AI Systems, But Problems Persist</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-rumored-vivo-i2606-is-powered-by-the-snapdragon-8s-gen-4</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T18:11:03Z</news:publication_date>
+      <news:title>The rumored vivo I2606 is powered by the Snapdragon 8s Gen 4</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/iqoo-16r-16s-geekbench-leak/gsmarena_001.jpg</image:loc>
+      <image:title>The rumored vivo I2606 is powered by the Snapdragon 8s Gen 4</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/delta-flights-in-and-out-of-atlanta-delayed-due-to-system-outage</loc>
     <news:news>
       <news:publication>
@@ -75,6 +210,66 @@
     <image:image>
       <image:loc>https://images.macrumors.com/article-new/2026/11/airpods-pro-3-blue-snow.jpeg</image:loc>
       <image:title>AirPods Pro 3 Drop to &amp;#36;169.99 in Amazon Black Friday Sale</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/m6-macbook-pro-drops-to-361799-in-new-black-friday-sale-36200-off</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T15:39:40Z</news:publication_date>
+      <news:title>M6 MacBook Pro Drops to &amp;#36;1,799 in New Black Friday Sale (&amp;#36;200 Off)</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/m6-macbook-pro-blue-snow.jpeg</image:loc>
+      <image:title>M6 MacBook Pro Drops to &amp;#36;1,799 in New Black Friday Sale (&amp;#36;200 Off)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-reportedly-plans-to-release-these-products-in-february-or-march</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T15:32:53Z</news:publication_date>
+      <news:title>Apple Reportedly Plans to Release These Products in February or March</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/10/MacBook-Neo-2-on-Yellow-Feature.jpg</image:loc>
+      <image:title>Apple Reportedly Plans to Release These Products in February or March</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/apple-watch-se-3-lineup-sees-record-low-prices-starting-at-just-36179</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T15:24:42Z</news:publication_date>
+      <news:title>Apple Watch SE 3 Lineup Sees Record Low Prices Starting at Just &amp;#36;179</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.macrumors.com/article-new/2026/11/apple-watch-se-3-blue-snow.jpeg</image:loc>
+      <image:title>Apple Watch SE 3 Lineup Sees Record Low Prices Starting at Just &amp;#36;179</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/ulefone-armor-35-pro-with-a-12-km-laser-rangefinder-and-11000-mah-battery-goes-on-sale-next-month-for-430</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T15:21:03Z</news:publication_date>
+      <news:title>Ulefone Armor 35 Pro with a 1.2 km laser rangefinder and 11,000 mAh battery goes on sale next month for $430</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/ulefone-armor-35-pro-price-sale-date/gsmarena_001.jpg</image:loc>
+      <image:title>Ulefone Armor 35 Pro with a 1.2 km laser rangefinder and 11,000 mAh battery goes on sale next month for $430</image:title>
     </image:image>
   </url>
   <url>
@@ -183,6 +378,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/vivo-s70-prov90-pro-leaks-with-live-photo-and-basic-specs-sheet</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T12:49:02Z</news:publication_date>
+      <news:title>vivo S70 Pro/V90 Pro leaks with live photo and basic specs sheet</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/vivo-s70-pro-v90-pro-leak/gsmarena_001.jpg</image:loc>
+      <image:title>vivo S70 Pro/V90 Pro leaks with live photo and basic specs sheet</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff</loc>
     <news:news>
       <news:publication>
@@ -225,6 +435,21 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/adding-a-sidebar-to-pixel-phone-with-panels-1.jpg</image:loc>
       <image:title>How I got Samsung’s best multitasking feature on my Pixel for free</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/weekly-poll-the-xiaomi-18-pro-and-18-pro-max-are-global-now-have-you-changed-your-mind-about-them</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T10:17:02Z</news:publication_date>
+      <news:title>Weekly poll: the Xiaomi 18 Pro and 18 Pro Max are global now, have you changed your mind about them?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/weekly-poll-xiaomi-18-pro-xiaomi-18-pro-max/gsmarena_000.jpg</image:loc>
+      <image:title>Weekly poll: the Xiaomi 18 Pro and 18 Pro Max are global now, have you changed your mind about them?</image:title>
     </image:image>
   </url>
   <url>
@@ -900,471 +1125,6 @@
     <image:image>
       <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-s26-ultra-privacy-display-20.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
       <image:title>Samsung might copy the iPhone&amp;#8217;s Dynamic Island soon, but it actually looks good [Video]</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/trump-fcc-declares-california-isn039t-allowed-to-enforce-phone-service-rules</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T22:28:24Z</news:publication_date>
-      <news:title>Trump FCC declares California isn&amp;#039;t allowed to enforce phone service rules</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2023/07/getty-att-logo-1152x648.jpg</image:loc>
-      <image:title>Trump FCC declares California isn&amp;#039;t allowed to enforce phone service rules</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/spacex039s-starshield-troubles-in-ukraine-could-threaten-its-broader-military-business</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T22:16:51Z</news:publication_date>
-      <news:title>SpaceX&amp;#039;s Starshield troubles in Ukraine could threaten its broader military business</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2292512757-1024x648.jpg</image:loc>
-      <image:title>SpaceX&amp;#039;s Starshield troubles in Ukraine could threaten its broader military business</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/titan-2-elite-keyboard-phone-is-getting-a-fresh-color-and-fans-already-have-guesses</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T21:59:26Z</news:publication_date>
-      <news:title>Titan 2 Elite keyboard phone is getting a fresh color, and fans already have guesses</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/06/Unihertz-Titan-2-Elite-against-woods-scaled.jpg</image:loc>
-      <image:title>Titan 2 Elite keyboard phone is getting a fresh color, and fans already have guesses</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/google-rolls-out-new-search-homepage-with-ai-chat-history-and-no-search-button</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T21:58:29Z</news:publication_date>
-      <news:title>Google rolls out new search homepage with AI chat history and no search button</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/06/google-sign-logo-1152x648.jpg</image:loc>
-      <image:title>Google rolls out new search homepage with AI chat history and no search button</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T21:47:10Z</news:publication_date>
-      <news:title>Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/Meta-El-Paso-data-center-1152x648.jpg</image:loc>
-      <image:title>Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/siri-recap-hands-on-private-but-not-very-useful</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T21:45:43Z</news:publication_date>
-      <news:title>Siri Recap Hands-On: Private, But Not Very Useful</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/09/apple-watch-series-12-siri-recap.jpg</image:loc>
-      <image:title>Siri Recap Hands-On: Private, But Not Very Useful</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/pixelated-126-schrodinger8217s-doordash-notification</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T21:30:00Z</news:publication_date>
-      <news:title>Pixelated 126: Schrödinger&amp;#8217;s DoorDash notification</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2024/03/Pixelated-cover.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Pixelated 126: Schrödinger&amp;#8217;s DoorDash notification</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-health-513-update-makes-tracking-workouts-and-meals-easier</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T21:28:12Z</news:publication_date>
-      <news:title>Google Health 5.13 update makes tracking workouts and meals easier</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/Google-Health-Logo-on-phone-screen.jpg</image:loc>
-      <image:title>Google Health 5.13 update makes tracking workouts and meals easier</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/openais-chatgpt-app-redesign-adds-a-dedicated-dots-tab</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T21:17:04Z</news:publication_date>
-      <news:title>OpenAI’s ChatGPT app redesign adds a dedicated Dots tab</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/05/Open-AI-ChatGPT-logo-on-phone-stock-photo-8.jpg</image:loc>
-      <image:title>OpenAI’s ChatGPT app redesign adds a dedicated Dots tab</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/researcher-plants-2m-canaries-into-the-ai-supply-chain-a-privacy-disaster-surfaced</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T20:59:08Z</news:publication_date>
-      <news:title>Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-privacy-leakage-1152x648.jpg</image:loc>
-      <image:title>Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/nintendo-switch-2-ready-smart-glasses-from-viture-are-at-their-lowest-price-ever-up-to-160-off</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T20:57:27Z</news:publication_date>
-      <news:title>Nintendo Switch 2-ready smart glasses from Viture are at their lowest price ever (up to $160 off)</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/viture-beast.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Nintendo Switch 2-ready smart glasses from Viture are at their lowest price ever (up to $160 off)</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/youtube-is-reportedly-preparing-to-settle-social-media-addiction-claims-for-3-billion</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T20:43:52Z</news:publication_date>
-      <news:title>YouTube is reportedly preparing to settle social media addiction claims for $3 billion</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKS526_SOCIAL_MEDIA_TRIAL_CVIRGINIA_D.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>YouTube is reportedly preparing to settle social media addiction claims for $3 billion</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T20:41:17Z</news:publication_date>
-      <news:title>Astronomers watched a star spiral to its death inside a giant companion</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-2.png</image:loc>
-      <image:title>Astronomers watched a star spiral to its death inside a giant companion</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/survey-finds-pixel-11-pro-owners-are-mostly-happy-with-their-purchase</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T20:39:41Z</news:publication_date>
-      <news:title>Survey finds Pixel 11 Pro owners are mostly happy with their purchase</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/pixel-11-pro-three-months-later-hero-3-scaled.jpg</image:loc>
-      <image:title>Survey finds Pixel 11 Pro owners are mostly happy with their purchase</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/best-buy-brings-back-4k-blu-ray-discs-with-an-expanding-collection-in-store-availability-u</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T20:39:35Z</news:publication_date>
-      <news:title>Best Buy brings back 4K Blu-ray discs with an expanding collection, in-store availability [U]</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2020/03/Best-Buy-Store-Front.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Best Buy brings back 4K Blu-ray discs with an expanding collection, in-store availability [U]</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T20:26:33Z</news:publication_date>
-      <news:title>NASA’s new Moon plan is taking shape, but some big questions remain</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/flight15_catch-1152x648.jpg</image:loc>
-      <image:title>NASA’s new Moon plan is taking shape, but some big questions remain</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/gemini-can-now-be-your-go-to-source-for-making-gifs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T20:10:28Z</news:publication_date>
-      <news:title>Gemini can now be your go-to source for making GIFs</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/gemini-logo-november-2025-2-1000w-562h.jpg</image:loc>
-      <image:title>Gemini can now be your go-to source for making GIFs</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T19:52:59Z</news:publication_date>
-      <news:title>Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/01/prison-barbed-wire-1152x648-1767732268.jpg</image:loc>
-      <image:title>Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-will-shut-down-the-nest-app-in-january-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T19:52:17Z</news:publication_date>
-      <news:title>Google will shut down the Nest app in January 2027</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2021/08/Google-Nest-Cam-Review-2021-Hero-scaled.jpg</image:loc>
-      <image:title>Google will shut down the Nest app in January 2027</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-health-update-fixes-my-biggest-fitbit-air-complaint-with-8216in-progress8217-workout-card</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T19:40:00Z</news:publication_date>
-      <news:title>Google Health update fixes my biggest Fitbit Air complaint with &amp;#8216;in-progress&amp;#8217; workout card</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Fitbit-Air-Steph-Curry-.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Google Health update fixes my biggest Fitbit Air complaint with &amp;#8216;in-progress&amp;#8217; workout card</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/rockstar-says-gta-vi-made-379-billion-in-its-first-day</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T19:35:06Z</news:publication_date>
-      <news:title>Rockstar says GTA VI made $3.79 billion in its first day</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_2_D.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Rockstar says GTA VI made $3.79 billion in its first day</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/save-on-headphones-this-black-friday-with-major-deals-on-beats-sony-soundcore-and-more</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T19:26:48Z</news:publication_date>
-      <news:title>Save on Headphones This Black Friday With Major Deals on Beats, Sony, Soundcore, and More</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/headphones-black-friday.jpeg</image:loc>
-      <image:title>Save on Headphones This Black Friday With Major Deals on Beats, Sony, Soundcore, and More</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/army-delays-detonating-catastrophically-hazardous-lead-azide-amid-fear-anger</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T19:21:50Z</news:publication_date>
-      <news:title>Army delays detonating &quot;catastrophically hazardous&quot; lead azide amid fear, anger</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305973751-1024x648.jpg</image:loc>
-      <image:title>Army delays detonating &quot;catastrophically hazardous&quot; lead azide amid fear, anger</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/mangmi-reveals-android-powered-air-x-pro-gaming-handheld-but-key-specs-remain-a-mystery</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T19:19:51Z</news:publication_date>
-      <news:title>Mangmi reveals Android-powered Air X Pro gaming handheld, but key specs remain a mystery</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/mangmi-air-x-pro.jpg</image:loc>
-      <image:title>Mangmi reveals Android-powered Air X Pro gaming handheld, but key specs remain a mystery</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/eufys-omni-c28-is-53-percent-off-ahead-of-black-friday</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T19:15:00Z</news:publication_date>
-      <news:title>Eufy’s Omni C28 is 53 percent off ahead of Black Friday</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/8A0A6240.jpeg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Eufy’s Omni C28 is 53 percent off ahead of Black Friday</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/is-the-galaxy-s26-ultra-still-a-good-buy-at-the-end-of-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T19:12:42Z</news:publication_date>
-      <news:title>Is the Galaxy S26 Ultra still a good buy at the end of 2026?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/03/galaxy-s26-ultra-review-11.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Is the Galaxy S26 Ultra still a good buy at the end of 2026?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/macrumors-giveaway-win-a-512gb-oled-ipad-mini-and-a-year-of-astropad-workbench</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T19:04:23Z</news:publication_date>
-      <news:title>MacRumors Giveaway: Win a 512GB OLED iPad Mini and a Year of Astropad Workbench</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/astropad-workbench.jpg</image:loc>
-      <image:title>MacRumors Giveaway: Win a 512GB OLED iPad Mini and a Year of Astropad Workbench</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/google-health-513-rolling-out-improved-food-search-more-swimming-controls</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T19:00:55Z</news:publication_date>
-      <news:title>Google Health 5.13 rolling out: Improved food search, more swimming controls</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/05/google-health-logo-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Google Health 5.13 rolling out: Improved food search, more swimming controls</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/trump-threatens-tremendous-tax-for-moving-ai-data-centers-outside-the-us</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T18:50:19Z</news:publication_date>
-      <news:title>Trump threatens ‘tremendous tax’ for moving AI data centers outside the US</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Trump threatens ‘tremendous tax’ for moving AI data centers outside the US</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/fridays-android-app-deals-and-freebies-low-story-tempest-railways-super-onion-boy-2-more</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T18:46:14Z</news:publication_date>
-      <news:title>Friday’s Android app deals and freebies: Low Story, Tempest, Railways, Super Onion Boy 2, more</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Play-collage-38d905.webp?w=1600</image:loc>
-      <image:title>Friday’s Android app deals and freebies: Low Story, Tempest, Railways, Super Onion Boy 2, more</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/multiplying-your-switch-2s-storage-costs-less-than-usual-right-now</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T18:15:00Z</news:publication_date>
-      <news:title>Multiplying your Switch 2’s storage costs less than usual right now</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Samsung-P9-MicroSD-Express-Card.webp?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Multiplying your Switch 2’s storage costs less than usual right now</image:title>
     </image:image>
   </url>
 </urlset>
