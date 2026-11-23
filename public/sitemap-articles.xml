@@ -2,6 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/jensen-huang-is-back-as-nvidias-ceo</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_05.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Jensen Huang is back as Nvidia’s CEO</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/blade-runner-2099-is-an-inventive-twist-on-a-cyberpunk-classic</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/BLDR_S1_UT_241030_ENOCLA_00065_R21_3000.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Blade Runner 2099 is an inventive twist on a cyberpunk classic</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/youtube-is-cooking-up-7-new-app-icons-and-the-retro-designs-are-a-treat</loc>
     <lastmod>2026-11-23</lastmod>
     <changefreq>daily</changefreq>

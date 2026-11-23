@@ -3,6 +3,36 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/jensen-huang-is-back-as-nvidias-ceo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T14:04:24Z</news:publication_date>
+      <news:title>Jensen Huang is back as Nvidia’s CEO</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_05.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Jensen Huang is back as Nvidia’s CEO</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/blade-runner-2099-is-an-inventive-twist-on-a-cyberpunk-classic</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T14:00:00Z</news:publication_date>
+      <news:title>Blade Runner 2099 is an inventive twist on a cyberpunk classic</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/BLDR_S1_UT_241030_ENOCLA_00065_R21_3000.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Blade Runner 2099 is an inventive twist on a cyberpunk classic</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/youtube-is-cooking-up-7-new-app-icons-and-the-retro-designs-are-a-treat</loc>
     <news:news>
       <news:publication>
@@ -1035,231 +1065,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268539_Soundcore_Liberty_5_Pro_JHiggins_0001.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Our go-to earbuds for taking calls have fallen to their lowest price to date</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iphone-air-2-shows-off-its-dual-camera-design-in-another-dummy-unit-leak</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T14:04:03Z</news:publication_date>
-      <news:title>iPhone Air 2 shows off its dual-camera design in another dummy unit leak</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/iphone-air-2-new-dummy-unit/gsmarena_000.jpg</image:loc>
-      <image:title>iPhone Air 2 shows off its dual-camera design in another dummy unit leak</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/top-stories-iphone-duo-face-unlock-homeview-tidbits-and-more</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T14:00:10Z</news:publication_date>
-      <news:title>Top Stories: iPhone Duo Face Unlock, HomeView Tidbits, and More</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/top-stories-2026-11-21.jpg</image:loc>
-      <image:title>Top Stories: iPhone Duo Face Unlock, HomeView Tidbits, and More</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/chesscoms-next-move-is-a-new-hub-for-classic-games-from-mahjong-to-sudoku</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T14:00:00Z</news:publication_date>
-      <news:title>Chess.com’s next move is a new hub for classic games, from mahjong to sudoku</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Chess.com’s next move is a new hub for classic games, from mahjong to sudoku</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/anker8217s-13-in-1-dock-with-a-pop-out-travel-hub-is-50-off</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T13:39:52Z</news:publication_date>
-      <news:title>Anker&amp;#8217;s 13-in-1 dock with a pop-out travel hub is $50 off</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/09/Anker-Nano-Laptop-Docking-Station-Press-Image.jpg</image:loc>
-      <image:title>Anker&amp;#8217;s 13-in-1 dock with a pop-out travel hub is $50 off</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/save-142-on-the-tcl-nxtpaper-11-plus-this-black-friday</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T13:07:21Z</news:publication_date>
-      <news:title>Save $142 on the TCL NXTPAPER 11 Plus this Black Friday</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/06/TCL-Nxtpaper-11-Plus-review-image-9.jpg</image:loc>
-      <image:title>Save $142 on the TCL NXTPAPER 11 Plus this Black Friday</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-game-of-the-year-is-finally-here</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T13:00:00Z</news:publication_date>
-      <news:title>The game of the year is finally here</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Installer-153.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>The game of the year is finally here</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-xiaomi-18-pro-proves-two-screens-arent-better-than-one</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T13:00:00Z</news:publication_date>
-      <news:title>The Xiaomi 18 Pro proves two screens aren’t better than one</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/xiaomi-18-pro-max-11.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>The Xiaomi 18 Pro proves two screens aren’t better than one</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/sonos-beam-gen-2-soundbar-drops-to-a-record-low-339</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T12:38:15Z</news:publication_date>
-      <news:title>Sonos Beam (Gen 2) soundbar drops to a record-low $339</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/03/Sonos-Beam-Gen-2-Promo-Image.jpg</image:loc>
-      <image:title>Sonos Beam (Gen 2) soundbar drops to a record-low $339</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/race-realism-isnt-realisticand-it-isnt-good-science</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T12:01:13Z</news:publication_date>
-      <news:title>“Race realism” isn’t realistic—and it isn’t good science</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2201567552-1152x648.jpg</image:loc>
-      <image:title>“Race realism” isn’t realistic—and it isn’t good science</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/harbinger-is-building-the-unsexy-evs-that-keep-the-economy-moving</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T12:00:00Z</news:publication_date>
-      <news:title>Harbinger is building the unsexy EVs that keep the economy moving</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gang-shot-7.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Harbinger is building the unsexy EVs that keep the economy moving</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/heads-up-galaxy-watch-7-is-40-off-for-black-friday</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T11:57:20Z</news:publication_date>
-      <news:title>Heads up! Galaxy Watch 7 is 40% off for Black Friday</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/07/Samsung-Galaxy-Watch-7-simple-ultra-face-on-wrist.jpg</image:loc>
-      <image:title>Heads up! Galaxy Watch 7 is 40% off for Black Friday</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/deal-the-samsung-galaxy-z-fold8-ultra-is-up-to-555-off-for-amazon-uks-black-friday-sale</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T11:01:02Z</news:publication_date>
-      <news:title>Deal: the Samsung Galaxy Z Fold8 Ultra is up to £555 off for Amazon UK&apos;s Black Friday sale</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/black-friday-amazon-uk/gsmarena_003.jpg</image:loc>
-      <image:title>Deal: the Samsung Galaxy Z Fold8 Ultra is up to £555 off for Amazon UK&apos;s Black Friday sale</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/sylvox-black-friday-sale-best-outdoor-tvs-for-covered-patios-full-sun-pools-and-gaming</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T09:37:40Z</news:publication_date>
-      <news:title>Sylvox Black Friday sale: Best outdoor TVs for covered patios, full-sun pools, and gaming</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/sylvox-featured.jpg</image:loc>
-      <image:title>Sylvox Black Friday sale: Best outdoor TVs for covered patios, full-sun pools, and gaming</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/honor-reportedly-has-a-13500-mah-phone-coming-and-the-power3-isnt-far-behind</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T08:02:02Z</news:publication_date>
-      <news:title>Honor reportedly has a 13,500 mAh phone coming, and the Power3 isn&apos;t far behind</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/honor-13500-mah-battery-phone-rumor/gsmarena_000.jpg</image:loc>
-      <image:title>Honor reportedly has a 13,500 mAh phone coming, and the Power3 isn&apos;t far behind</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/deal-the-oppo-find-x10-and-find-x10-pro-max-now-have-an-even-bigger-discount-for-black-friday</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T05:41:02Z</news:publication_date>
-      <news:title>Deal: the Oppo Find X10 and Find X10 Pro Max now have an even bigger discount for Black Friday</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/black-friday-amazon-de/gsmarena_002.jpg</image:loc>
-      <image:title>Deal: the Oppo Find X10 and Find X10 Pro Max now have an even bigger discount for Black Friday</image:title>
     </image:image>
   </url>
 </urlset>
