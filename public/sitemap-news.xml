@@ -3,6 +3,231 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/tablets/gta-vi-pc-recompilation-project-shut-down-by-take-two</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T21:39:14Z</news:publication_date>
+      <news:title>GTA VI PC recompilation project shut down by Take-Two</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_2_A.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>GTA VI PC recompilation project shut down by Take-Two</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/what039s-going-on-with-the-riemann-hypothesis</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T20:34:53Z</news:publication_date>
+      <news:title>What&amp;#039;s going on with the Riemann hypothesis?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-220180413-1152x648.jpeg</image:loc>
+      <image:title>What&amp;#039;s going on with the Riemann hypothesis?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/tiktok-was-down</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T20:27:27Z</news:publication_date>
+      <news:title>TikTok was down</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25406817/STK051_TIKTOK_CVirginia_B.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>TikTok was down</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/jensen-huang-reportedly-tells-nvidia-staff-it8217s-not-true-trump-got-him-rehired</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T20:02:03Z</news:publication_date>
+      <news:title>Jensen Huang reportedly tells Nvidia staff it&amp;#8217;s ‘not true’ Trump got him rehired</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2300373989.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Jensen Huang reportedly tells Nvidia staff it&amp;#8217;s ‘not true’ Trump got him rehired</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/back-to-back-measles-deaths-is-our-new-reality-us-tally-now-at-14</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T20:00:18Z</news:publication_date>
+      <news:title>Back-to-back measles deaths is our new reality; US tally now at 14</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2152300024-1152x648.jpg</image:loc>
+      <image:title>Back-to-back measles deaths is our new reality; US tally now at 14</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-clock-is-running-out-for-americas-most-contentious-spying-law</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T20:00:00Z</news:publication_date>
+      <news:title>The clock is running out for America’s most contentious spying law</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK471_Government_Surveillance_CVirginia_E.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>The clock is running out for America’s most contentious spying law</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/amazon-is-knocking-almost-50-off-six-months-of-apple-tv</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T19:00:00Z</news:publication_date>
+      <news:title>Amazon is knocking almost $50 off six months of Apple TV</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Severance_Photo_021019.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Amazon is knocking almost $50 off six months of Apple TV</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/amazon-drone-crashes-on-garage-after-delivering-shampoo-draws-faa-probe</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T18:47:57Z</news:publication_date>
+      <news:title>Amazon drone crashes on garage after delivering shampoo, draws FAA probe</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/prime-air-mk30-drone-package-loading-1152x648.jpg</image:loc>
+      <image:title>Amazon drone crashes on garage after delivering shampoo, draws FAA probe</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/now-firefox-can-select-which-sites-use-its-vpn-and-clear-your-browsing-history-with-one-click</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T18:44:57Z</news:publication_date>
+      <news:title>Now Firefox can select which sites use its VPN, and clear your browsing history with one click</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/firefox-vpn-rules.webp?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Now Firefox can select which sites use its VPN, and clear your browsing history with one click</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/amazon-discovers-falcon-9-and-ariane-6-can-deliver-when-nobody-else-can</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T18:30:36Z</news:publication_date>
+      <news:title>Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/HSH9kiAbUAAzHdZ-1152x648.jpg</image:loc>
+      <image:title>Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/how-brewers-can-protect-beers-from-smoke-tainted-hops</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T18:18:37Z</news:publication_date>
+      <news:title>How brewers can protect beers from smoke-tainted hops</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/hops3-1152x648-1795358176.jpg</image:loc>
+      <image:title>How brewers can protect beers from smoke-tainted hops</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/david-fincher-is-being-dragged-for-suspected-use-of-ai-in-his-latest-film</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T18:15:00Z</news:publication_date>
+      <news:title>David Fincher is being dragged for suspected use of AI in his latest film</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/UFP25_R4_Rec709_2p4gamma_6188x3240_20260828.0363314_R2.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=20.001873779297,0,79.998126220703,100</image:loc>
+      <image:title>David Fincher is being dragged for suspected use of AI in his latest film</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/kalshi-makes-difficult-decision-to-halt-utah-trading-after-losing-court-fights</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T18:03:58Z</news:publication_date>
+      <news:title>Kalshi makes “difficult decision” to halt Utah trading after losing court fights</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1010796264-1152x648.jpg</image:loc>
+      <image:title>Kalshi makes “difficult decision” to halt Utah trading after losing court fights</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/tidal-announces-ban-on-ai-generated-music-27-million-tracks-will-be-deleted</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T17:34:34Z</news:publication_date>
+      <news:title>Tidal announces ban on AI-generated music; 27 million tracks will be deleted</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1083228790-1152x648.jpg</image:loc>
+      <image:title>Tidal announces ban on AI-generated music; 27 million tracks will be deleted</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/porsche-718-boxster-prototype-drive-this-electric-roadster-is-real</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T16:58:20Z</news:publication_date>
+      <news:title>Porsche 718 Boxster prototype drive: This electric roadster is real</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/PORSCHE_983_PROTOTYPE_PECLA_006_DSC06879-1152x648.jpg</image:loc>
+      <image:title>Porsche 718 Boxster prototype drive: This electric roadster is real</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/ukraines-sea-drones-blow-up-russian-warship-in-benghazi-operation</loc>
     <news:news>
       <news:publication>
@@ -690,351 +915,6 @@
     <image:image>
       <image:loc>https://www.engadget.com/img/gallery/can-you-safely-use-a-140w-charger-on-an-iphone/l-intro-1794496692.jpg</image:loc>
       <image:title>Can you safely use a 140w charger on an iPhone?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/this-free-app-connects-your-android-phone-to-your-windows-pc-wirelessly</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T22:15:00Z</news:publication_date>
-      <news:title>This free app connects your Android phone to your Windows PC wirelessly</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/this-free-app-connects-your-android-phone-to-your-windows-pc-wirelessly/l-intro-1794633420.jpg</image:loc>
-      <image:title>This free app connects your Android phone to your Windows PC wirelessly</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/pixel-weather-rolls-out-report-current-weather-to-improve-local-forecasts</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T21:12:41Z</news:publication_date>
-      <news:title>Pixel Weather rolls out ‘Report current weather’ to ‘improve local forecasts’</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Pixel-11-Pro-Weather-App.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Pixel Weather rolls out ‘Report current weather’ to ‘improve local forecasts’</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/deal-amazons-black-friday-deal-discounts-the-pixel-11-pro-and-pixel-11-pro-xl-by-31</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T20:51:02Z</news:publication_date>
-      <news:title>Deal: Amazon&apos;s Black Friday deal discounts the Pixel 11 Pro and Pixel 11 Pro XL by 31%</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/black-friday-amazon-us/gsmarena_002.jpg</image:loc>
-      <image:title>Deal: Amazon&apos;s Black Friday deal discounts the Pixel 11 Pro and Pixel 11 Pro XL by 31%</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/iphone-duo-could-get-more-lock-screen-widgets-leak-suggests</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T20:38:16Z</news:publication_date>
-      <news:title>iPhone Duo Could Get More Lock Screen Widgets, Leak Suggests</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/iphone-duo-cyber-monday.jpeg</image:loc>
-      <image:title>iPhone Duo Could Get More Lock Screen Widgets, Leak Suggests</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/gurman-siri-layoffs-spared-newer-ai-systems-but-problems-persist</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T20:29:51Z</news:publication_date>
-      <news:title>Gurman: Siri Layoffs Spared Newer AI Systems, But Problems Persist</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/Siri-AI-Icon.jpeg</image:loc>
-      <image:title>Gurman: Siri Layoffs Spared Newer AI Systems, But Problems Persist</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-rumored-vivo-i2606-is-powered-by-the-snapdragon-8s-gen-4</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T18:11:03Z</news:publication_date>
-      <news:title>The rumored vivo I2606 is powered by the Snapdragon 8s Gen 4</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/iqoo-16r-16s-geekbench-leak/gsmarena_001.jpg</image:loc>
-      <image:title>The rumored vivo I2606 is powered by the Snapdragon 8s Gen 4</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/delta-flights-in-and-out-of-atlanta-delayed-due-to-system-outage</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T17:46:44Z</news:publication_date>
-      <news:title>Delta flights in and out of Atlanta delayed due to system outage</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-2223798482.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Delta flights in and out of Atlanta delayed due to system outage</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/binding-of-isaac-developer-removes-ai-music-from-repentance-plus</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T17:25:20Z</news:publication_date>
-      <news:title>Binding of Isaac developer removes AI music from Repentance Plus</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Binding of Isaac developer removes AI music from Repentance Plus</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/some-of-our-favorite-switch-2-games-are-cheaper-through-black-friday</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T17:00:00Z</news:publication_date>
-      <news:title>Some of our favorite Switch 2 games are cheaper through Black Friday</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/NS2_DonkeyKongBananza_SCRN_25.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Some of our favorite Switch 2 games are cheaper through Black Friday</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/sheherazaads-khudgarzi-is-gorgeous-genre-chaotic-south-asian-folk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T16:33:29Z</news:publication_date>
-      <news:title>Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/a3127600889_10.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/airpods-pro-3-drop-to-3616999-in-amazon-black-friday-sale</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T15:40:00Z</news:publication_date>
-      <news:title>AirPods Pro 3 Drop to &amp;#36;169.99 in Amazon Black Friday Sale</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/airpods-pro-3-blue-snow.jpeg</image:loc>
-      <image:title>AirPods Pro 3 Drop to &amp;#36;169.99 in Amazon Black Friday Sale</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/m6-macbook-pro-drops-to-361799-in-new-black-friday-sale-36200-off</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T15:39:40Z</news:publication_date>
-      <news:title>M6 MacBook Pro Drops to &amp;#36;1,799 in New Black Friday Sale (&amp;#36;200 Off)</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/m6-macbook-pro-blue-snow.jpeg</image:loc>
-      <image:title>M6 MacBook Pro Drops to &amp;#36;1,799 in New Black Friday Sale (&amp;#36;200 Off)</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-reportedly-plans-to-release-these-products-in-february-or-march</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T15:32:53Z</news:publication_date>
-      <news:title>Apple Reportedly Plans to Release These Products in February or March</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/10/MacBook-Neo-2-on-Yellow-Feature.jpg</image:loc>
-      <image:title>Apple Reportedly Plans to Release These Products in February or March</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-watch-se-3-lineup-sees-record-low-prices-starting-at-just-36179</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T15:24:42Z</news:publication_date>
-      <news:title>Apple Watch SE 3 Lineup Sees Record Low Prices Starting at Just &amp;#36;179</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/apple-watch-se-3-blue-snow.jpeg</image:loc>
-      <image:title>Apple Watch SE 3 Lineup Sees Record Low Prices Starting at Just &amp;#36;179</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/ulefone-armor-35-pro-with-a-12-km-laser-rangefinder-and-11000-mah-battery-goes-on-sale-next-month-for-430</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T15:21:03Z</news:publication_date>
-      <news:title>Ulefone Armor 35 Pro with a 1.2 km laser rangefinder and 11,000 mAh battery goes on sale next month for $430</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/ulefone-armor-35-pro-price-sale-date/gsmarena_001.jpg</image:loc>
-      <image:title>Ulefone Armor 35 Pro with a 1.2 km laser rangefinder and 11,000 mAh battery goes on sale next month for $430</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/protesters-storm-meta-offices-in-india</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T15:15:07Z</news:publication_date>
-      <news:title>Protesters storm Meta offices in India</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_3_Meta.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Protesters storm Meta offices in India</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-galaxy-watch-ultra-2-vs-watch-9-when-is-it-right-to-spend-more</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T14:26:51Z</news:publication_date>
-      <news:title>Samsung Galaxy Watch Ultra 2 vs Watch 9: When is it right to spend more?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/07/Galaxy-Watch-9-and-Watch-Ultra-2-v1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Samsung Galaxy Watch Ultra 2 vs Watch 9: When is it right to spend more?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/the-google-home-app-is-better-than-nest-alone-ever-was-mostly</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T14:00:00Z</news:publication_date>
-      <news:title>The Google Home app is better than Nest alone ever was, mostly</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/05/google-home-app-android-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>The Google Home app is better than Nest alone ever was, mostly</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-show-is-starting-soon-please-turn-on-your-headphones</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T14:00:00Z</news:publication_date>
-      <news:title>‘The show is starting soon. Please turn on your headphones.’</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/love-me-off-broadway-auracast-1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>‘The show is starting soon. Please turn on your headphones.’</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/nintendos-switch-2-console-is-50-off-for-black-friday</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T14:00:00Z</news:publication_date>
-      <news:title>Nintendo’s Switch 2 console is $50 off for Black Friday</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0093_fe9169.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Nintendo’s Switch 2 console is $50 off for Black Friday</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/tcl-tab-a1-plus-nxtpaper-hits-a-record-low-for-black-friday</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T13:25:47Z</news:publication_date>
-      <news:title>TCL TAB A1 Plus NXTPAPER hits a record low for Black Friday</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/TCL-Tab-A1-Plus-NXTPAPER-Featured.jpg</image:loc>
-      <image:title>TCL TAB A1 Plus NXTPAPER hits a record low for Black Friday</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/how-tamagotchis-got-us-hooked-on-digital-pets</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T13:15:27Z</news:publication_date>
-      <news:title>How Tamagotchis got us hooked on digital pets</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRH_Tamagotchi_Site.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>How Tamagotchis got us hooked on digital pets</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/vivo-s70-prov90-pro-leaks-with-live-photo-and-basic-specs-sheet</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T12:49:02Z</news:publication_date>
-      <news:title>vivo S70 Pro/V90 Pro leaks with live photo and basic specs sheet</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/vivo-s70-pro-v90-pro-leak/gsmarena_001.jpg</image:loc>
-      <image:title>vivo S70 Pro/V90 Pro leaks with live photo and basic specs sheet</image:title>
     </image:image>
   </url>
 </urlset>
