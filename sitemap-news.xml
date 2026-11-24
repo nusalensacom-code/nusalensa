@@ -3,6 +3,231 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/tablets/whats-new-in-androids-november-2026-google-system-updates-u-1</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T00:04:00Z</news:publication_date>
+      <news:title>What’s new in Android’s November 2026 Google System Updates [U]</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2025/01/google-play-services-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>What’s new in Android’s November 2026 Google System Updates [U]</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/google-alternative-kagi-launches-an-email-service</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T00:02:52Z</news:publication_date>
+      <news:title>Google alternative Kagi launches an email service</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/mail-inbox-overview.RlzZ8Gtt.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Google alternative Kagi launches an email service</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-hacker-behind-early-gta-vi-leaks-has-been-sentenced-and-released</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T23:25:01Z</news:publication_date>
+      <news:title>The hacker behind early GTA VI leaks has been sentenced — and released</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Jason_and_Lucia_03.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>The hacker behind early GTA VI leaks has been sentenced — and released</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/ladybird-the-first-new-browser-engine-in-years-is-now-available-to-test</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T22:38:09Z</news:publication_date>
+      <news:title>Ladybird, the first new browser engine in years, is now available to test</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ladybird-screenshot.webp?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Ladybird, the first new browser engine in years, is now available to test</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/trump-engineered-a-risky-comeback-for-jensen-huang</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T22:25:12Z</news:publication_date>
+      <news:title>Trump engineered a risky comeback for Jensen Huang</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297774940.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Trump engineered a risky comeback for Jensen Huang</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/welcome-to-elite-impunity-jensen-huang</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T22:09:26Z</news:publication_date>
+      <news:title>Welcome to elite impunity, Jensen Huang</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_06.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Welcome to elite impunity, Jensen Huang</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T21:58:34Z</news:publication_date>
+      <news:title>Trump halts Iowa detonation, says new governor to blame if it blows accidentally</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2306107359-1024x648.jpg</image:loc>
+      <image:title>Trump halts Iowa detonation, says new governor to blame if it blows accidentally</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/the-apple-watch-series-12-is-cheaper-than-ever-ahead-of-black-friday</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T21:36:48Z</news:publication_date>
+      <news:title>The Apple Watch Series 12 is cheaper than ever ahead of Black Friday</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268738_Apple_Watch_Series_12_AKrales_0280.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>The Apple Watch Series 12 is cheaper than ever ahead of Black Friday</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T21:30:44Z</news:publication_date>
+      <news:title>States sue SpaceX to stop Grok from generating child sex images, revenge porn</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2284791219-1024x648.jpg</image:loc>
+      <image:title>States sue SpaceX to stop Grok from generating child sex images, revenge porn</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/russia-will-launch-a-routine-iss-supply-mission-tomorrowapparently-it039s-a-big-secret</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T20:34:51Z</news:publication_date>
+      <news:title>Russia will launch a routine ISS supply mission tomorrow—apparently, it&amp;#039;s a big secret</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2023/02/52674646862_dbe4378754_k-1152x648.jpg</image:loc>
+      <image:title>Russia will launch a routine ISS supply mission tomorrow—apparently, it&amp;#039;s a big secret</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/surveillance-pricing-uses-our-personal-data-to-make-us-pay-more</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T20:11:43Z</news:publication_date>
+      <news:title>Surveillance pricing uses our personal data to make us pay more</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1527415822-1152x648.jpg</image:loc>
+      <image:title>Surveillance pricing uses our personal data to make us pay more</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/amazon-fights-delivery-protection-act-by-putting-stickers-on-its-packages</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T19:38:13Z</news:publication_date>
+      <news:title>Amazon fights Delivery Protection Act by putting stickers on its packages</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/something-about-this-just-feels-off-to-me-v0-d584x10nr83i1-1152x648-1795460892.jpg</image:loc>
+      <image:title>Amazon fights Delivery Protection Act by putting stickers on its packages</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/reports-russia-may-launch-nuclear-weapon-into-orbit-as-soon-as-next-month</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T19:28:30Z</news:publication_date>
+      <news:title>Reports: Russia may launch nuclear weapon into orbit as soon as next month</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-525166886-1152x648.jpg</image:loc>
+      <image:title>Reports: Russia may launch nuclear weapon into orbit as soon as next month</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/marvel-crams-every-superhero-ever-into-avengers-doomsday-final-trailer</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T15:55:12Z</news:publication_date>
+      <news:title>Marvel crams every superhero ever into Avengers: Doomsday final trailer</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/doomsday1-1152x648.jpg</image:loc>
+      <image:title>Marvel crams every superhero ever into Avengers: Doomsday final trailer</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/jensen-huang-reinstated-as-nvidia-ceo-board-chair</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T15:46:18Z</news:publication_date>
+      <news:title>Jensen Huang reinstated as Nvidia CEO, board chair</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2301328096-1024x648.jpg</image:loc>
+      <image:title>Jensen Huang reinstated as Nvidia CEO, board chair</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/jensen-huang-is-back-as-nvidias-ceo</loc>
     <news:news>
       <news:publication>
@@ -690,381 +915,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/vivo-y21s-y11s-y05s-leak/gsmarena_001.jpg</image:loc>
       <image:title>vivo Y21s 5G, Y11s 5G, Y05s 4G specs and images leak</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/samsung-vs-lg-oled-tvs-whats-the-difference-between-them</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T01:00:00Z</news:publication_date>
-      <news:title>Samsung vs. LG OLED TVs: What&apos;s the difference between them?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/samsung-vs-lg-oled-tvs-whats-the-difference-between-them/l-intro-1794240636.jpg</image:loc>
-      <image:title>Samsung vs. LG OLED TVs: What&apos;s the difference between them?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/attention-pixel-9-and-10-owners-is-it-actually-worth-upgrading-to-the-pixel-11</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T01:00:00Z</news:publication_date>
-      <news:title>Attention Pixel 9 and 10 owners: is it actually worth upgrading to the Pixel 11?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/attention-pixel-9-and-10-owners-is-it-actually-worth-upgrading-to-the-pixel-11/l-intro-1794595499.jpg</image:loc>
-      <image:title>Attention Pixel 9 and 10 owners: is it actually worth upgrading to the Pixel 11?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/this-is-what-can-happen-if-too-many-devices-are-sharing-your-home-network</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T00:45:00Z</news:publication_date>
-      <news:title>This is what can happen if too many devices are sharing your home network</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/this-is-what-can-happen-if-too-many-devices-are-sharing-your-home-network/l-intro-1794517083.jpg</image:loc>
-      <image:title>This is what can happen if too many devices are sharing your home network</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/your-pcs-usb-port-can-charge-your-phone-even-when-its-turned-off-heres-how</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T00:30:00Z</news:publication_date>
-      <news:title>Your PC&apos;s USB port can charge your phone, even when it&apos;s turned off — Here&apos;s how</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/your-pcs-usb-port-can-charge-your-phone-even-when-its-turned-off-heres-how/l-intro-1794604560.jpg</image:loc>
-      <image:title>Your PC&apos;s USB port can charge your phone, even when it&apos;s turned off — Here&apos;s how</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/10-things-you-should-never-do-on-your-android-phone</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T00:15:00Z</news:publication_date>
-      <news:title>10 things you should never do on your Android phone</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/10-things-you-should-never-do-on-your-android-phone/l-intro-1793984732.jpg</image:loc>
-      <image:title>10 things you should never do on your Android phone</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/motorola-moto-tag-3-listed-on-amazon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T00:03:02Z</news:publication_date>
-      <news:title>Motorola Moto Tag 3 listed on Amazon</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/motorola-tag-3-amazon-listing/gsmarena_001.jpg</image:loc>
-      <image:title>Motorola Moto Tag 3 listed on Amazon</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/this-is-the-best-type-of-wireless-earbuds-for-audio-output</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T00:00:00Z</news:publication_date>
-      <news:title>This is the best type of wireless earbuds for audio output</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/this-is-the-best-type-of-wireless-earbuds-for-audio-output/l-intro-1794431151.jpg</image:loc>
-      <image:title>This is the best type of wireless earbuds for audio output</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/how-to-calibrate-your-3d-printer-and-why-you-should</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T23:45:00Z</news:publication_date>
-      <news:title>How to calibrate your 3D printer (and why you should)</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/how-to-calibrate-your-3d-printer-and-why-you-should/l-intro-1794242993.jpg</image:loc>
-      <image:title>How to calibrate your 3D printer (and why you should)</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/building-your-own-mini-pc-is-harder-than-you-would-think</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T23:30:00Z</news:publication_date>
-      <news:title>Building your own mini PC is harder than you would think</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/building-your-own-mini-pc-is-harder-than-you-would-think/l-intro-1794933308.jpg</image:loc>
-      <image:title>Building your own mini PC is harder than you would think</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/reviews/review-godzilla-minus-zero-joins-the-list-of-truly-stellar-sequels</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T22:12:41Z</news:publication_date>
-      <news:title>Review: Godzilla Minus Zero joins the list of truly stellar sequels</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/godzillaTOP-1152x648.jpg</image:loc>
-      <image:title>Review: Godzilla Minus Zero joins the list of truly stellar sequels</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/amazon-is-complaining-about-nyc-council-on-shipping-labels-too</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T21:59:31Z</news:publication_date>
-      <news:title>Amazon is complaining about NYC Council on shipping labels, too</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/PXL_20261121_204528314.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Amazon is complaining about NYC Council on shipping labels, too</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung-testing-apples-dynamic-island-style-live-notifications-in-one-ui-95</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T21:33:02Z</news:publication_date>
-      <news:title>Samsung testing Apple&apos;s Dynamic Island-style Live Notifications in One UI 9.5</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/samsung-redesigned-live-notifications-one-ui-9-5/gsmarena_002.jpg</image:loc>
-      <image:title>Samsung testing Apple&apos;s Dynamic Island-style Live Notifications in One UI 9.5</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/gemini-app-rolls-out-very-slick-camera-redesign-on-android</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T20:52:52Z</news:publication_date>
-      <news:title>Gemini app rolls out very slick camera redesign on Android</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-4.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Gemini app rolls out very slick camera redesign on Android</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-un-fails-to-agree-on-rules-regulating-killer-robots</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T20:03:37Z</news:publication_date>
-      <news:title>The UN fails to agree on rules regulating ‘killer robots’</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13611631/503831564.jpg.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>The UN fails to agree on rules regulating ‘killer robots’</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/deal-the-samsung-galaxy-s26-fe-finally-drops-to-the-right-price-during-amazons-black-friday-sale</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T19:07:02Z</news:publication_date>
-      <news:title>Deal: the Samsung Galaxy S26 FE finally drops to the right price during Amazon&apos;s Black Friday sale</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/black-friday-amazon-us/gsmarena_0030.jpg</image:loc>
-      <image:title>Deal: the Samsung Galaxy S26 FE finally drops to the right price during Amazon&apos;s Black Friday sale</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-fbi-and-usda-were-reportedly-hacked</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T17:42:27Z</news:publication_date>
-      <news:title>The FBI and USDA were reportedly hacked</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318430/akrales_220309_4977_0038.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>The FBI and USDA were reportedly hacked</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/apple-store-in-uk-permanently-closing-today</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T17:16:10Z</news:publication_date>
-      <news:title>Apple Store in UK Permanently Closing Today</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/Apple-Festival-Place-scaled.jpeg</image:loc>
-      <image:title>Apple Store in UK Permanently Closing Today</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/amazon-takes-36120-off-46mm-gps-apple-watch-series-12-with-new-record-low-price-update-gone</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T17:10:00Z</news:publication_date>
-      <news:title>Amazon Takes &amp;#36;120 Off 46mm GPS Apple Watch Series 12 With New Record Low Price [Update: Gone]</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/apple-watch-series-12-red.jpeg</image:loc>
-      <image:title>Amazon Takes &amp;#36;120 Off 46mm GPS Apple Watch Series 12 With New Record Low Price [Update: Gone]</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/siri-ai-settlement-here039s-how-much-apple-will-pay-you</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T17:08:49Z</news:publication_date>
-      <news:title>Siri AI Settlement: Here&amp;#039;s How Much Apple Will Pay You</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/Siri-AI-Icon.jpeg</image:loc>
-      <image:title>Siri AI Settlement: Here&amp;#039;s How Much Apple Will Pay You</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/galaxy-z-fold-8-features-what-you-can-do-on-a-foldable</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T17:00:00Z</news:publication_date>
-      <news:title>Galaxy Z Fold 8 features: What you can do on a foldable</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Galaxy-Z-Fold-8-lavender-2.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>Galaxy Z Fold 8 features: What you can do on a foldable</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/rip-apple-support-community</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T16:48:03Z</news:publication_date>
-      <news:title>RIP, Apple Support Community</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.macrumors.com/article-new/2026/11/Apple-Support-Community.jpg</image:loc>
-      <image:title>RIP, Apple Support Community</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/amazons-first-digital-photo-frame-is-up-to-50-percent-off-for-black-friday</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T16:00:00Z</news:publication_date>
-      <news:title>Amazon’s first digital photo frame is up to 50 percent off for Black Friday</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268832_Amazon_Alexa_Frame_JTuohy_0011.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Amazon’s first digital photo frame is up to 50 percent off for Black Friday</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/john-roberts-the-voice-of-linda-belcher-is-just-happy-to-finish-a-thing</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T16:00:00Z</news:publication_date>
-      <news:title>John Roberts, the voice of Linda Belcher, is just happy to finish a thing</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/John_Roberts_1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>John Roberts, the voice of Linda Belcher, is just happy to finish a thing</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/can-anthropic-afford-to-put-safety-first</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T15:00:00Z</news:publication_date>
-      <news:title>Can Anthropic afford to put safety first?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_1121_Site.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Can Anthropic afford to put safety first?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/our-go-to-earbuds-for-taking-calls-have-fallen-to-their-lowest-price-to-date</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T14:55:28Z</news:publication_date>
-      <news:title>Our go-to earbuds for taking calls have fallen to their lowest price to date</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268539_Soundcore_Liberty_5_Pro_JHiggins_0001.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Our go-to earbuds for taking calls have fallen to their lowest price to date</image:title>
     </image:image>
   </url>
 </urlset>
