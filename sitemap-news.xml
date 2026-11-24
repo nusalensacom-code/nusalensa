@@ -3,6 +3,141 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/technology/ukraines-sea-drones-blow-up-russian-warship-in-benghazi-operation</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T12:00:57Z</news:publication_date>
+      <news:title>Ukraine’s sea drones blow up Russian warship in Benghazi operation</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/merkury-fire_benghazi-libya_20261122_054739_ssc4_rgb_flat_50cm_1920px_logo_geo-1152x648.jpg</image:loc>
+      <image:title>Ukraine’s sea drones blow up Russian warship in Benghazi operation</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/nvidia-proves-its-too-big-to-fail</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T12:00:00Z</news:publication_date>
+      <news:title>Nvidia proves it’s too big to fail</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/53552985083_02d1bfc49e_o.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1510</image:loc>
+      <image:title>Nvidia proves it’s too big to fail</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/ugreen8217s-200w-nexode-charger-drops-to-5999-for-prime-members</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T11:53:41Z</news:publication_date>
+      <news:title>UGREEN&amp;#8217;s 200W Nexode charger drops to $59.99 for Prime members</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/06/UGREEN-Nexode-100W-GaN-USB-C-Charger-Press-Image.jpg</image:loc>
+      <image:title>UGREEN&amp;#8217;s 200W Nexode charger drops to $59.99 for Prime members</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/android-canary-2611-hides-an-iphone-style-scroll-to-top-shortcut-and-we-got-it-working</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T11:50:40Z</news:publication_date>
+      <news:title>Android Canary 2611 hides an iPhone-style scroll-to-top shortcut, and we got it working</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/09/iPhone-16-Pro-Max-Pixel-9-Pro-XL-Display.jpg</image:loc>
+      <image:title>Android Canary 2611 hides an iPhone-style scroll-to-top shortcut, and we got it working</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/soundcore-liberty-5-pro-earbuds-drop-to-a-record-low-12999</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T11:30:19Z</news:publication_date>
+      <news:title>Soundcore Liberty 5 Pro earbuds drop to a record low $129.99</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/10/Soundcore-Liberty-5-Pro-SoundGuys-scaled.jpg</image:loc>
+      <image:title>Soundcore Liberty 5 Pro earbuds drop to a record low $129.99</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/huawei-mate-x8-launched-with-foldable-hardware-that-embarrasses-samsung-google</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T11:20:46Z</news:publication_date>
+      <news:title>HUAWEI Mate X8 launched with foldable hardware that embarrasses Samsung, Google</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/HUAWEI-Mate-X8-purple-variant.jpeg</image:loc>
+      <image:title>HUAWEI Mate X8 launched with foldable hardware that embarrasses Samsung, Google</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/whatsapp-is-testing-new-redesigned-emoji-gif-and-sticker-pickers-for-android</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T11:04:42Z</news:publication_date>
+      <news:title>WhatsApp is testing new redesigned emoji, GIF, and sticker pickers for Android</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2020/02/WhatsApp-by-Facebook-stock-photo-3.jpg</image:loc>
+      <image:title>WhatsApp is testing new redesigned emoji, GIF, and sticker pickers for Android</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/expensive-vs-cheap-phone-camera-can-you-really-tell-the-difference</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T11:00:55Z</news:publication_date>
+      <news:title>Expensive vs cheap phone camera: Can you really tell the difference?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Affordable-vs-expensive-camera-phones-1-scaled.jpg</image:loc>
+      <image:title>Expensive vs cheap phone camera: Can you really tell the difference?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/jbl-live-680nc-headphones-drop-to-a-new-low-at-51-off</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T10:50:10Z</news:publication_date>
+      <news:title>JBL Live 680NC headphones drop to a new low at 51% off</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/JBL-Live-680NC-Lifestyle-Featured.jpg</image:loc>
+      <image:title>JBL Live 680NC headphones drop to a new low at 51% off</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/tablets/whats-new-in-androids-november-2026-google-system-updates-u-1</loc>
     <news:news>
       <news:publication>
@@ -48,6 +183,36 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/tablets/google-translate-gets-a-new-gradient-icon-after-11-years</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T23:24:52Z</news:publication_date>
+      <news:title>Google Translate gets a new gradient icon after 11 years</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2024/07/Google-Translate-Material-You-cover.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Google Translate gets a new gradient icon after 11 years</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/hands-on-baseus8217-new-picogo-pro-usb-c-charger-is-clever-cute-and-on-sale</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T23:05:00Z</news:publication_date>
+      <news:title>Hands-on: Baseus&amp;#8217; new PicoGo Pro USB-C charger is clever, cute, and on sale</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/baseus-picogo-pro-9.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Hands-on: Baseus&amp;#8217; new PicoGo Pro USB-C charger is clever, cute, and on sale</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/phones/ladybird-the-first-new-browser-engine-in-years-is-now-available-to-test</loc>
     <news:news>
       <news:publication>
@@ -75,6 +240,21 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297774940.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Trump engineered a risky comeback for Jensen Huang</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/claude-rolling-out-updated-android-app-with-material-3-expressive-redesign</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T22:15:00Z</news:publication_date>
+      <news:title>Claude rolling out updated Android app with Material 3 Expressive redesign</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/claude-android-m3-3.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Claude rolling out updated Android app with Material 3 Expressive redesign</image:title>
     </image:image>
   </url>
   <url>
@@ -135,6 +315,51 @@
     <image:image>
       <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2284791219-1024x648.jpg</image:loc>
       <image:title>States sue SpaceX to stop Grok from generating child sex images, revenge porn</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/youtube8217s-iconic-ios-app-icon-may-soon-return-with-new-customizable-icons-gallery</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T21:25:00Z</news:publication_date>
+      <news:title>YouTube&amp;#8217;s iconic iOS app icon may soon return with new customizable icons [Gallery]</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/youtube-new-icons-aa-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>YouTube&amp;#8217;s iconic iOS app icon may soon return with new customizable icons [Gallery]</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/gemini-4-carbon-is-now-available-in-google-antigravity-for-ai-pro</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T21:16:33Z</news:publication_date>
+      <news:title>Gemini 4 Carbon is now available in Google Antigravity for AI Pro</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/05/Google-Antigravity.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Gemini 4 Carbon is now available in Google Antigravity for AI Pro</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/which-2026-samsung-galaxy-tab-should-you-buy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T21:00:00Z</news:publication_date>
+      <news:title>Which 2026 Samsung Galaxy Tab should you buy?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2025/09/galaxy-tab-s11-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Which 2026 Samsung Galaxy Tab should you buy?</image:title>
     </image:image>
   </url>
   <url>
@@ -810,111 +1035,6 @@
     <image:image>
       <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/vivo-s70-pro-v90-pro-leak/gsmarena_001.jpg</image:loc>
       <image:title>vivo S70 Pro/V90 Pro leaks with live photo and basic specs sheet</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T12:07:41Z</news:publication_date>
-      <news:title>GLP-1 drugs could have a surprisingly large environmental payoff</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2025/04/agriculture-1152x648.jpg</image:loc>
-      <image:title>GLP-1 drugs could have a surprisingly large environmental payoff</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/samsung8217s-2026-hw-q800h-soundbar-and-subwoofer-are-400-off</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T11:54:10Z</news:publication_date>
-      <news:title>Samsung&amp;#8217;s 2026 HW-Q800H soundbar and subwoofer are $400 off</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/Samsung-Q-Series-Soundbar-HW-Q800H-White-Featured.jpg</image:loc>
-      <image:title>Samsung&amp;#8217;s 2026 HW-Q800H soundbar and subwoofer are $400 off</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/how-i-got-samsungs-best-multitasking-feature-on-my-pixel-for-free</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T10:30:21Z</news:publication_date>
-      <news:title>How I got Samsung’s best multitasking feature on my Pixel for free</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/adding-a-sidebar-to-pixel-phone-with-panels-1.jpg</image:loc>
-      <image:title>How I got Samsung’s best multitasking feature on my Pixel for free</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/weekly-poll-the-xiaomi-18-pro-and-18-pro-max-are-global-now-have-you-changed-your-mind-about-them</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T10:17:02Z</news:publication_date>
-      <news:title>Weekly poll: the Xiaomi 18 Pro and 18 Pro Max are global now, have you changed your mind about them?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/weekly-poll-xiaomi-18-pro-xiaomi-18-pro-max/gsmarena_000.jpg</image:loc>
-      <image:title>Weekly poll: the Xiaomi 18 Pro and 18 Pro Max are global now, have you changed your mind about them?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/amazon-uk-black-friday-week-best-tablet-deals-uk-edition</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T07:39:02Z</news:publication_date>
-      <news:title>Amazon UK Black Friday Week: best tablet deals UK edition</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/black-friday-amazon-uk/gsmarena_000.jpg</image:loc>
-      <image:title>Amazon UK Black Friday Week: best tablet deals UK edition</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/weekly-poll-results-people-keep-entry-level-phones-for-3-years-higher-end-models-for-longer</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T05:06:02Z</news:publication_date>
-      <news:title>Weekly poll results: people keep entry-level phones for 3 years, higher-end models for longer</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/weekly-poll-results-phone-upgrades/gsmarena_000.jpg</image:loc>
-      <image:title>Weekly poll results: people keep entry-level phones for 3 years, higher-end models for longer</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/vivo-y21s-5g-y11s-5g-y05s-4g-specs-and-images-leak</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T02:33:02Z</news:publication_date>
-      <news:title>vivo Y21s 5G, Y11s 5G, Y05s 4G specs and images leak</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/vivo-y21s-y11s-y05s-leak/gsmarena_001.jpg</image:loc>
-      <image:title>vivo Y21s 5G, Y11s 5G, Y05s 4G specs and images leak</image:title>
     </image:image>
   </url>
 </urlset>
