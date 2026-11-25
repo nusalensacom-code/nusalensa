@@ -3,6 +3,141 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/t-mobile-announces-black-friday-2026-deals-free-pixel-11-pro-galaxy-s26-plus-and-more</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T04:46:44Z</news:publication_date>
+      <news:title>T-Mobile announces Black Friday 2026 deals: Free Pixel 11 Pro, Galaxy S26 Plus, and more</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/06/Stock-photo-of-the-T-Mobile-logo-scaled-e1759329153159-500w-260h.jpg</image:loc>
+      <image:title>T-Mobile announces Black Friday 2026 deals: Free Pixel 11 Pro, Galaxy S26 Plus, and more</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/us-financial-crimes-bureau-discloses-cybersecurity-incident</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T01:00:00Z</news:publication_date>
+      <news:title>US financial crimes bureau discloses ‘cybersecurity incident’</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_B.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>US financial crimes bureau discloses ‘cybersecurity incident’</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/the-verges-2026-gift-guide-for-dads</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T23:59:29Z</news:publication_date>
+      <news:title>The Verge’s 2026 gift guide for dads</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_CVirginia_DADS.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>The Verge’s 2026 gift guide for dads</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/motorola-signature-27-delivery-dates-slip-ahead-of-launch-as-it-expands-to-more-regions</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T23:54:33Z</news:publication_date>
+      <news:title>Motorola Signature 27 delivery dates slip ahead of launch as it expands to more regions</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/motorola-signature-27-hands-on.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Motorola Signature 27 delivery dates slip ahead of launch as it expands to more regions</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/why-the-us-army-is-about-to-blow-up-nearly-10000-pounds-of-unstable-explosives-in-iowa</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T23:25:46Z</news:publication_date>
+      <news:title>Why the US Army is about to blow up nearly 10,000 pounds of unstable explosives in Iowa</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305973751.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Why the US Army is about to blow up nearly 10,000 pounds of unstable explosives in Iowa</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/half-of-nasa039s-aging-mars-fleet-knocked-offline-by-technical-issues</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T22:50:11Z</news:publication_date>
+      <news:title>Half of NASA&amp;#039;s aging Mars fleet knocked offline by technical issues</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/PIA26752-1152x648-1795552223.jpg</image:loc>
+      <image:title>Half of NASA&amp;#039;s aging Mars fleet knocked offline by technical issues</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/microsoft039s-historic-cloud-outage-exposed-an-engineering-fog-of-war</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T22:36:28Z</news:publication_date>
+      <news:title>Microsoft&amp;#039;s historic cloud outage exposed an engineering “fog of war”</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/Microsoft_CDOC_featured-1152x648.jpg</image:loc>
+      <image:title>Microsoft&amp;#039;s historic cloud outage exposed an engineering “fog of war”</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/reviews/huawei-found-guilty-of-stealing-trade-secrets</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T22:23:27Z</news:publication_date>
+      <news:title>Huawei found guilty of stealing trade secrets</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302952808.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Huawei found guilty of stealing trade secrets</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-messages-replacing-old-gemini-with-new-tasks-chat-and-its-very-proactive</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T22:11:31Z</news:publication_date>
+      <news:title>Google Messages replacing old Gemini with new ‘tasks’ chat, and it’s very proactive</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/03/gemini-logo.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Google Messages replacing old Gemini with new ‘tasks’ chat, and it’s very proactive</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/tablets/gta-vi-pc-recompilation-project-shut-down-by-take-two</loc>
     <news:news>
       <news:publication>
@@ -15,6 +150,21 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_2_A.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>GTA VI PC recompilation project shut down by Take-Two</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/new-gemini-setting-lets-you-keep-chat-history-but-turn-off-ai-training-u</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T21:11:00Z</news:publication_date>
+      <news:title>New Gemini setting lets you keep chat history, but turn off AI training [U]</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-5.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>New Gemini setting lets you keep chat history, but turn off AI training [U]</image:title>
     </image:image>
   </url>
   <url>
@@ -93,6 +243,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/todays-android-app-deals-and-freebies-grand-theft-auto-san-andreas-50-off-dead-cells-prune-more</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T19:41:26Z</news:publication_date>
+      <news:title>Today’s Android app deals and freebies: Grand Theft Auto San Andreas 50% off, Dead Cells, Prune, more</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Play-collage-59d8c3.webp?w=1600</image:loc>
+      <image:title>Today’s Android app deals and freebies: Grand Theft Auto San Andreas 50% off, Dead Cells, Prune, more</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/amazon-is-knocking-almost-50-off-six-months-of-apple-tv</loc>
     <news:news>
       <news:publication>
@@ -138,6 +303,36 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/reviews/hands-on-sony8217s-walkman-revival-usb-c-headphones-are-back-in-stock-and-worth-a-look</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T18:41:11Z</news:publication_date>
+      <news:title>Hands-on: Sony&amp;#8217;s Walkman-revival USB-C headphones are back in stock and worth a look</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/sony-mdr-3r-4.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Hands-on: Sony&amp;#8217;s Walkman-revival USB-C headphones are back in stock and worth a look</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-maps-might-change-its-colors-again-but-it8217s-optional-this-time-gallery</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T18:40:00Z</news:publication_date>
+      <news:title>Google Maps might change its colors again, but it&amp;#8217;s optional this time [Gallery]</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/10/Pixel-11-Pro-Google-Maps.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Google Maps might change its colors again, but it&amp;#8217;s optional this time [Gallery]</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/amazon-discovers-falcon-9-and-ariane-6-can-deliver-when-nobody-else-can</loc>
     <news:news>
       <news:publication>
@@ -150,6 +345,21 @@
     <image:image>
       <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/HSH9kiAbUAAzHdZ-1152x648.jpg</image:loc>
       <image:title>Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/kagi-the-paid-google-search-alternative-now-has-a-gmail-rival-too</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T18:30:00Z</news:publication_date>
+      <news:title>Kagi, the paid Google Search alternative, now has a Gmail rival too</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/kagi-mail-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Kagi, the paid Google Search alternative, now has a Gmail rival too</image:title>
     </image:image>
   </url>
   <url>
@@ -210,6 +420,21 @@
     <image:image>
       <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1083228790-1152x648.jpg</image:loc>
       <image:title>Tidal announces ban on AI-generated music; 27 million tracks will be deleted</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/this-199-amazon-tv-is-an-easy-choice-for-your-guest-bedroom</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T17:26:59Z</news:publication_date>
+      <news:title>This $199 Amazon TV is an easy choice for your guest bedroom</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/amazon-ember-tv-4-series-official-lifestyle-01.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>This $199 Amazon TV is an easy choice for your guest bedroom</image:title>
     </image:image>
   </url>
   <url>
@@ -705,216 +930,6 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/BLDR_S1_UT_241030_ENOCLA_00065_R21_3000.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>Blade Runner 2099 is an inventive twist on a cyberpunk classic</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/youtube-is-cooking-up-7-new-app-icons-and-the-retro-designs-are-a-treat</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T03:48:49Z</news:publication_date>
-      <news:title>YouTube is cooking up 7 new app icons, and the retro designs are a treat</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.androidauthority.com/wp-content/uploads/2024/02/YouTube-TV-logo-on-smartphone-stock-photo-3.jpg</image:loc>
-      <image:title>YouTube is cooking up 7 new app icons, and the retro designs are a treat</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/kodaks-next-collectible-is-a-tiny-digital-photo-frame-that-doubles-as-a-tracker</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T03:00:00Z</news:publication_date>
-      <news:title>Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/kodak1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/heres-how-much-starlink-cost-in-2020-vs-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T01:30:00Z</news:publication_date>
-      <news:title>Here&apos;s how much Starlink cost in 2020 vs. 2026</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/heres-how-much-starlink-cost-in-2020-vs-2026/l-intro-1794842346.jpg</image:loc>
-      <image:title>Here&apos;s how much Starlink cost in 2020 vs. 2026</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/xiaomi-18-pro-series-goes-global-anniversary-iphone-details-surface-week-47-in-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T01:02:02Z</news:publication_date>
-      <news:title>Xiaomi 18 Pro series goes global, anniversary iPhone details surface, Week 47 in review</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://fdn.gsmarena.com/imgroot/news/26/11/week-47-in-review/gsmarena_000.jpg</image:loc>
-      <image:title>Xiaomi 18 Pro series goes global, anniversary iPhone details surface, Week 47 in review</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/how-to-clear-your-cache-on-google-tv</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T01:00:00Z</news:publication_date>
-      <news:title>How to clear your cache on Google TV</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/how-to-clear-your-cache-on-google-tv/l-intro-1794808574.jpg</image:loc>
-      <image:title>How to clear your cache on Google TV</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/this-free-swiss-army-knife-for-macos-can-replace-your-utility-apps</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T00:45:00Z</news:publication_date>
-      <news:title>This free &apos;Swiss Army Knife&apos; for macOS can replace your utility apps</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/this-free-swiss-army-knife-for-macos-can-replace-your-utility-apps/l-intro-1794595062.jpg</image:loc>
-      <image:title>This free &apos;Swiss Army Knife&apos; for macOS can replace your utility apps</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/should-you-go-with-a-headphone-dacamp-combo-or-a-stack</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T00:30:00Z</news:publication_date>
-      <news:title>Should you go with a headphone DAC/amp combo or a stack?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/should-you-go-with-a-headphone-dacamp-combo-or-a-stack/l-intro-1794285377.jpg</image:loc>
-      <image:title>Should you go with a headphone DAC/amp combo or a stack?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/8-windows-apps-you-should-probably-remove-from-your-pc</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T00:15:00Z</news:publication_date>
-      <news:title>8 Windows apps you should probably remove from your PC</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/8-windows-apps-you-should-probably-remove-from-your-pc/l-intro-1794237490.jpg</image:loc>
-      <image:title>8 Windows apps you should probably remove from your PC</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/public-vs-private-ip-addresses-whats-the-difference</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T00:00:00Z</news:publication_date>
-      <news:title>Public vs. private IP addresses: what&apos;s the difference?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/public-vs-private-ip-addresses-whats-the-difference/l-intro-1794236251.jpg</image:loc>
-      <image:title>Public vs. private IP addresses: what&apos;s the difference?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/what-is-the-best-way-to-secure-your-playstation-5-for-a-flight</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T23:45:00Z</news:publication_date>
-      <news:title>What is the best way to secure your PlayStation 5 for a flight?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/what-is-the-best-way-to-secure-your-playstation-5-for-a-flight/l-intro-1794602643.jpg</image:loc>
-      <image:title>What is the best way to secure your PlayStation 5 for a flight?</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/how-to-use-ai-glasses-as-a-teleprompter</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T23:30:00Z</news:publication_date>
-      <news:title>How to use AI glasses as a teleprompter</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/how-to-use-ai-glasses-as-a-teleprompter/l-intro-1794839468.jpg</image:loc>
-      <image:title>How to use AI glasses as a teleprompter</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/the-pros-and-cons-of-sharing-your-location</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T23:00:00Z</news:publication_date>
-      <news:title>The pros and cons of sharing your location</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/the-pros-and-cons-of-sharing-your-location/l-intro-1794603681.jpg</image:loc>
-      <image:title>The pros and cons of sharing your location</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/we-havent-seen-the-last-of-the-major-tech-outages</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T22:48:02Z</news:publication_date>
-      <news:title>We haven’t seen the last of the major tech outages</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>We haven’t seen the last of the major tech outages</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/phones/can-you-safely-use-a-140w-charger-on-an-iphone</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T22:30:00Z</news:publication_date>
-      <news:title>Can you safely use a 140w charger on an iPhone?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://www.engadget.com/img/gallery/can-you-safely-use-a-140w-charger-on-an-iphone/l-intro-1794496692.jpg</image:loc>
-      <image:title>Can you safely use a 140w charger on an iPhone?</image:title>
     </image:image>
   </url>
 </urlset>
