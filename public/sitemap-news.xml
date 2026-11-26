@@ -3,6 +3,81 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://nusalensa.com/phones/1password-confirms-hackers-stole-customer-data-but-not-their-passwords</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T05:05:13Z</news:publication_date>
+      <news:title>1Password confirms hackers stole customer data, but not their passwords</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2021/09/1Password-iOS-FaceID-darkmode-scaled.jpg</image:loc>
+      <image:title>1Password confirms hackers stole customer data, but not their passwords</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/now-googles-familiar-faces-ai-feature-works-on-walmarts-35-smart-home-camera-too</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T00:04:34Z</news:publication_date>
+      <news:title>Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23451196/acastro_220510_STK123_0002.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/technology/amazon-loses-its-latest-attempt-to-get-out-of-handling-more-recall-notices</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T23:56:44Z</news:publication_date>
+      <news:title>Amazon loses its latest attempt to get out of handling more recall notices</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23935558/acastro_STK103__01.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
+      <image:title>Amazon loses its latest attempt to get out of handling more recall notices</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google8217s-pixelsnap-ring-stand-gets-first-sale-that-includes-new-pixel-11-colors</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T23:35:00Z</news:publication_date>
+      <news:title>Google&amp;#8217;s Pixelsnap Ring Stand gets first sale that includes new Pixel 11 colors</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixelsnap-ring-stand-canyon-2.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Google&amp;#8217;s Pixelsnap Ring Stand gets first sale that includes new Pixel 11 colors</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/google-home-is-sorting-out-issues-with-speakers-cameras-lights-and-more</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T22:52:07Z</news:publication_date>
+      <news:title>Google Home is sorting out issues with speakers, cameras, lights, and more</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/10/google-nest-cam-indoor-home-speaker-berry.jpg</image:loc>
+      <image:title>Google Home is sorting out issues with speakers, cameras, lights, and more</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/european-spacecraft-finds-chaotic-scene-after-asteroid-deflection-experiment</loc>
     <news:news>
       <news:publication>
@@ -18,6 +93,21 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/reviews/motorola-signature-27-hands-on-pure-elegance-on-display</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T22:12:17Z</news:publication_date>
+      <news:title>Motorola Signature 27 hands-on: Pure elegance on display</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-signature-27-back-green-hands-on.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Motorola Signature 27 hands-on: Pure elegance on display</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/googles-patent-for-custom-ai-video-feeds-paints-a-bleak-picture-of-entertainments-future</loc>
     <news:news>
       <news:publication>
@@ -30,6 +120,36 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&amp;#038;strip=all&amp;#038;crop=2.859375,3.7218027238494,93.788122558594,91.658221639303</image:loc>
       <image:title>Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/big-google-home-update-adds-these-new-nest-cam-app-and-gemini-features</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T21:50:00Z</news:publication_date>
+      <news:title>Big Google Home update adds these new Nest Cam, app, and Gemini features</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/07/google-home-speaker-nest-hub-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Big Google Home update adds these new Nest Cam, app, and Gemini features</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/whatsapp-preps-travel-esim-discovery-installation-and-management-tools</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T21:37:14Z</news:publication_date>
+      <news:title>WhatsApp preps travel eSIM discovery, installation, and management tools</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2023/05/Holding-smartphone-with-WhatsApp-logo-on-the-screen-Stock-photo.jpg</image:loc>
+      <image:title>WhatsApp preps travel eSIM discovery, installation, and management tools</image:title>
     </image:image>
   </url>
   <url>
@@ -63,6 +183,51 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/reviews/9to5googles-best-of-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T20:29:37Z</news:publication_date>
+      <news:title>9to5Google’s Best of 2026</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/9to5google-best-of-2026-feature-composite.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>9to5Google’s Best of 2026</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/gemini-for-home-gets-faster-responses-smoother-chats-and-fixes-for-follow-up-and-music-bugs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T20:15:58Z</news:publication_date>
+      <news:title>Gemini for Home gets faster responses, smoother chats, and fixes for follow-up and music bugs</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/06/google-home-speaker-review-12-scaled.jpg</image:loc>
+      <image:title>Gemini for Home gets faster responses, smoother chats, and fixes for follow-up and music bugs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/upgrade-your-workouts-with-70-off-beats-powerbeats-pro-2</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T19:48:10Z</news:publication_date>
+      <news:title>Upgrade your workouts with $70 off Beats Powerbeats Pro 2</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://www.androidauthority.com/wp-content/uploads/2025/03/Beats-PowerBeats-Pro-2-case-open-in-hand.jpg</image:loc>
+      <image:title>Upgrade your workouts with $70 off Beats Powerbeats Pro 2</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/epa-reports-zero-airborne-lead-following-controlled-army-detonation-in-iowa</loc>
     <news:news>
       <news:publication>
@@ -75,6 +240,21 @@
     <image:image>
       <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2306835116.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
       <image:title>EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/8216old8217-galaxy-phones-are-a-better-deal-here8217s-what-you-should-buy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T19:15:00Z</news:publication_date>
+      <news:title>&amp;#8216;Old&amp;#8217; Galaxy phones are a better deal; here&amp;#8217;s what you should buy</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2025/02/Galaxy-S23-and-S25-Ultra-cameras.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>&amp;#8216;Old&amp;#8217; Galaxy phones are a better deal; here&amp;#8217;s what you should buy</image:title>
     </image:image>
   </url>
   <url>
@@ -93,6 +273,36 @@
     </image:image>
   </url>
   <url>
+    <loc>https://nusalensa.com/phones/8216enough-phone8217-is-stuffing-a-bigger-battery-more-ram-038-storage-into-its-small-android-phone-at-no-extra-cost</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T19:10:00Z</news:publication_date>
+      <news:title>&amp;#8216;Enough Phone&amp;#8217; is stuffing a bigger battery, more RAM &amp;#038; storage into its small Android phone at no extra cost</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/enough-phone-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>&amp;#8216;Enough Phone&amp;#8217; is stuffing a bigger battery, more RAM &amp;#038; storage into its small Android phone at no extra cost</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/phones/hello-weather-is-the-best-apple-weather-app-on-android</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T18:44:03Z</news:publication_date>
+      <news:title>Hello Weather is the best Apple Weather app on Android</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/Hello-Weather-cover.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
+      <image:title>Hello Weather is the best Apple Weather app on Android</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://nusalensa.com/technology/backblaze-explains-why-it039s-sharing-customer-information-with-advertisers</loc>
     <news:news>
       <news:publication>
@@ -105,6 +315,21 @@
     <image:image>
       <image:loc>https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1219679299-1152x648.jpg</image:loc>
       <image:title>Backblaze explains why it&amp;#039;s sharing customer information with advertisers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nusalensa.com/tablets/mid-week-android-app-deals-and-freebies-stardew-valley-the-past-within-almost-out-of-mana-more</loc>
+    <news:news>
+      <news:publication>
+        <news:name>NusaLensa</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T18:34:08Z</news:publication_date>
+      <news:title>Mid-week Android app deals and freebies: Stardew Valley, The Past Within, Almost Out of Mana, more</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Play-collage-7925fc.webp?w=1600</image:loc>
+      <image:title>Mid-week Android app deals and freebies: Stardew Valley, The Past Within, Almost Out of Mana, more</image:title>
     </image:image>
   </url>
   <url>
@@ -1035,36 +1260,6 @@
     <image:image>
       <image:loc>https://www.androidauthority.com/wp-content/uploads/2026/11/JBL-Live-680NC-Lifestyle-Featured.jpg</image:loc>
       <image:title>JBL Live 680NC headphones drop to a new low at 51% off</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/tablets/whats-new-in-androids-november-2026-google-system-updates-u-1</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T00:04:00Z</news:publication_date>
-      <news:title>What’s new in Android’s November 2026 Google System Updates [U]</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://9to5google.com/wp-content/uploads/sites/4/2025/01/google-play-services-1.jpg?quality=82&amp;#038;strip=all&amp;#038;w=1600</image:loc>
-      <image:title>What’s new in Android’s November 2026 Google System Updates [U]</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://nusalensa.com/technology/google-alternative-kagi-launches-an-email-service</loc>
-    <news:news>
-      <news:publication>
-        <news:name>NusaLensa</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T00:02:52Z</news:publication_date>
-      <news:title>Google alternative Kagi launches an email service</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/mail-inbox-overview.RlzZ8Gtt.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100</image:loc>
-      <image:title>Google alternative Kagi launches an email service</image:title>
     </image:image>
   </url>
 </urlset>
